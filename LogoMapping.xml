@@ -3647,10 +3647,6 @@
 			<File>Potsdam TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="PotsdamTV" />
-			<File>PotsdamTV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="PowerTürk TV">
 				<Provider>Unitymedia</Provider>
 			</Item>
