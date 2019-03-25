@@ -1004,8 +1004,6 @@
 				<Provider>Terrestrial Freiburg</Provider>
 			</Item>
 			<Item Name="Dasding" />
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<File>Dasding.png</File>
 		</Channel>
 		<Channel>
@@ -2189,7 +2187,6 @@
 				<Provider>Unitymedia</Provider>
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
-			</Item>
 			<File>Kabel Eins HD.png</File>
 		</Channel>
 		<Channel>
@@ -2579,7 +2576,7 @@
 			</Item>
 			<Item Name="Heiss und Sexy TV">
 				<Provider>Astra 19.2E</Provider>
-			</Item
+			</Item>
 			<Item Name="Media Broadcast Satellite" />>
 			<Item Name="Mobile Sex">
 				<Provider>Astra 19.2E</Provider>
@@ -2850,7 +2847,6 @@
 			<Item Name="NatGeo HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia</Provider>
-			</Item>
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
 			<Item Name="National Geographic HD" />
@@ -2860,7 +2856,6 @@
 			<Item Name="Nat Geo Wild HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia</Provider>
-			</Item>
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
 			<Item Name="NatGeo Wild HD (VF)">
@@ -8035,7 +8030,7 @@
 			<Item Name="Arabic">
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
-			<Item Name="Bass Breaks & Beats">
+			<Item Name="Bass Breaks &amp; Beats">
 				<Provider>Unitymedia</Provider>
 			</Item>
 			<Item Name="Blues">
