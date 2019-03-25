@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="e1b59f6c-8f1b-4efc-ab1c-5f09b3516a00" width="801.83" height="448.43" data-name="Layer 1" version="1.1" viewBox="0 0 801.83 448.43" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata15">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g829" transform="translate(-400.17,-227.28)" fill="#fff">
+  <path id="path2" d="m691.16 227.29h101.21v448.41h-101.2z"/>
+  <path id="path4" d="m860.91 308h-51.91v-80.71h205v80.71h-51.88v367.7h-101.21z"/>
+  <path id="path6" d="m1030.7 227.29h171.34v80.71h-70.12v98.65h51v80.72h-51v107.63h70.12v80.7h-171.33z"/>
+  <polygon id="polygon8" points="668.01 227.28 559.72 227.29 534.09 385.99 508.45 227.29 400.17 227.29 466.82 446.74 400.17 675.71 508.46 675.71 534.09 517.01 559.73 675.71 668.01 675.71 601.36 446.73"/>
+ </g>
+</svg>

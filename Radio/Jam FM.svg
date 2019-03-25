@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg81" width="184.15" height="61.154" version="1.1" viewBox="0 0 184.15 61.154" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata85">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>jamfm_logo_desktop</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+<!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+ <title id="title2">jamfm_logo_desktop</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="linearGradient-1" x1="1.6153" x2="40.947" y1="20.477" y2="18.039" gradientTransform="scale(.63573 1.573)" gradientUnits="userSpaceOnUse">
+   <stop id="stop6" stop-color="#FFED00" offset="0"/>
+   <stop id="stop8" stop-color="#fc0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g58" transform="translate(95.089 -.18147)" fill-rule="evenodd">
+  <polygon id="polygon54" points="4.3915 34.878 14.009 35.096 6.8595 61.336 27.982 22.792 18.655 24.171 24.026 12.485 14.517 14.626 19.054 2.7583 9.3274 5.6618 0.036293 25.841 10.38 25.405" fill="#434342"/>
+  <polygon id="polygon56" points="4.3915 34.878 11.795 33.825 6.8595 61.336 24.752 20.07 15.57 22.212 19.961 9.7992 10.634 12.703 14.191 0.18147 4.7544 3.8834 0.036293 25.841 7.4039 24.099" fill="url(#linearGradient-1)"/>
+ </g>
+ <g id="g1103" transform="translate(-5.6293 -9.1815)" fill="#fff" fill-rule="evenodd">
+  <g id="g64" transform="translate(124.31 34.768)">
+   <polygon id="polygon60" points="25.115 7.2587 14.445 7.2587 13.138 13.574 23.01 13.574 21.449 20.796 11.505 20.796 8.9645 33.208 0.10888 33.208 7.1135 0.072587 26.639 0.072587"/>
+   <path id="path62" d="m36.33 33.208v-23.772h-0.18147c-1.0162 6.3151-1.6695 10.162-1.9598 11.614l-2.5768 12.158h-7.8757l7.0046-33.136h11.759v23.518h0.18147l10.852-23.518h11.941l-7.0772 33.136h-7.9483l2.6494-12.449c0.76216-3.4479 1.5606-6.7506 2.4317-9.8718l0.32664-1.4517h-0.18147l-10.924 23.772z"/>
+  </g>
+  <g id="g72" transform="translate(5.6293 34.768)">
+   <path id="path66" d="m38.87 27.002h-10.162l-2.8309 6.2062h-9.2185l16.876-33.136h11.396l2.7946 33.136h-8.6378zm-6.932-7.0772h6.6417l-0.39923-9.6178-0.03629-1.9598c0-1.1251 0.03629-2.105 0.07259-2.9761-0.36293 1.3066-0.83475 2.5405-1.3792 3.7745z"/>
+   <path id="path68" d="m62.425 33.208v-23.772h-0.18147c-1.0162 6.3151-1.6695 10.162-1.9598 11.614l-2.5768 12.158h-7.8757l7.0046-33.136h11.759v23.518h0.18147l10.852-23.518h11.941l-7.0772 33.136h-7.9483l2.6494-12.449c0.76216-3.4479 1.5606-6.7506 2.4317-9.8718l0.32664-1.4517h-0.18147l-10.924 23.772z"/>
+   <path id="path70" d="m13.864 0.072587-4.3552 20.324c-0.43552 2.0687-1.0888 3.5205-1.8873 4.4278-0.83475 0.90734-2.0687 1.3429-3.6656 1.3429-0.72587 0-1.5606-0.07259-2.468-0.25406l-1.488 6.932c1.6332 0.43552 3.2301 0.65328 4.827 0.65328 2.722 0 4.9359-0.39923 6.6417-1.1614 1.7058-0.79846 3.0849-2.0324 4.1375-3.7382 1.0525-1.7058 1.9236-4.0649 2.5768-7.0772l4.6093-21.449z"/>
+  </g>
+ </g>
+</svg>

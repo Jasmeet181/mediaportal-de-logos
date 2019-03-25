@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg22" width="392.65pt" height="61.042pt" version="1.1" viewBox="0 0 392.65 61.042" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata id="metadata28">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs26">
+  <linearGradient id="linearGradient839">
+   <stop id="stop835" stop-color="#3b3b3b" offset="0"/>
+   <stop id="stop837" stop-color="#c6c6c6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient841" x1="20.03" x2="412.68" y1="50.521" y2="50.521" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient839"/>
+ </defs>
+ <g id="#a6a6a6ff" transform="translate(-20.03,-20)" fill="url(#linearGradient841)">
+  <path id="path9" d="m284.18 20h73.155l16.68 59.66 17.81-59.66h20.86l-20.45 61.02h-36.44l-15.11-46.285h-17.075v46.285h-20.32v-46.285h-19.11z"/>
+  <path id="path11" d="m26.98 31.07h30.99c5.4019 0 11.33 1.61 15.19 5.75 4.37 4.9 3.4 12.4 0.61 17.84-2.21 4.57-6.75 7.44-11.5 8.78 4.95 4.49 5.88 11.36 7.04 17.58h-17.9c-0.76-3.05-0.81-6.77-3.39-8.95-2.59-1.68-5.769-2.02-8.8-2.02l-1.63 10.97h-17.56l6.95-49.95m15.88 11.73-2.06 15.52c5.0372 0 10.562 0.38726 14.29-2.17 3.89-2.63 4.5-9.82-0.13-12.02-3.81-1.63-7.9368-1.33-12.1-1.33z"/>
+  <path id="path13" d="m87.97 31.07h17.39l-6.58 49.95h-17.89z"/>
+  <path id="path15" d="m117.39 31.07h45.04l-1.71 12.925h-27.48l-1.29 9.93h25.71l-1.62 12.575h-25.77l-1.35 10.295h25.32l-0.48 4.2475h-43.19z"/>
+  <path id="path17" d="m172.64 41.67c3.8-6.47 11.25-9.72 18.4-10.78 8.59-1 17.37-0.49 25.75 1.74l-3.07 13.47c-6.62-2.65-14.05-4.42-21.08-2.32-2.69 0.77-5.34 3.23-4.73 6.27 0.24 2.68 3.14 3.7 5.25 4.62 6.4 2.62 14.05 3.98 18.55 9.72 3.67 4.72 2.71 11.207 1.42 16.607h-17.85c0.71637-1.1464 1.07-3.9823 0.58-4.8975-1.4-2.83-4.68-4-7.39-5.23-6.38-2.47-13.73-4.78-17.43-11.02-2.81-5.76-1.48-12.79 1.6-18.18z"/>
+  <path id="path19" d="m267.01 31.07 11.66 49.615h-57.73l25.23-49.615zm-24.07 39.44h15.99l-4.56-23.13z"/>
+ </g>
+</svg>

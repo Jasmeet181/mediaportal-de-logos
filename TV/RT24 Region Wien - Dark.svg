@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg8721" width="800" height="241.72" version="1.1" viewBox="0 0 211.67 63.955" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs8715">
+  <linearGradient id="linearGradient2700" x2="1" gradientTransform="matrix(7.3078 -8.7091 -8.7091 -7.3078 147.8 389.02)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2696" stop-color="#f8e31f" offset="0"/>
+   <stop id="stop2698" stop-color="#f25723" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata8718">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(20.404 -85.328)">
+  <g id="g2684" transform="matrix(10.996 0 0 -10.996 -1533.2 4347.2)">
+   <g id="g2686">
+    <g id="g2692">
+     <g id="g2694">
+      <path id="path2702" d="m146.07 387.57v-5.816h10.752v5.816z" fill="url(#linearGradient2700)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="g2704" transform="matrix(10.996 0 0 -10.996 160.72 143.16)">
+   <path id="path2706" transform="matrix(.024061 0 0 -.024061 -14.615 13.019)" d="m654.64 368.15-40.107 0.29101-97.543 98.168 0.20703 36.117 89.648-1.248 0.58203 39.607h47.877l-0.87109-38.568 26.598 0.20899-0.29101-40.646-25.893 0.082zm-46.623 61.207v33.084l-31.338-0.58203z" fill="#fff"/>
+  </g>
+  <g id="g2716" transform="matrix(10.996 0 0 -10.996 92.832 101.48)">
+   <path id="path2718" d="m0 0 0.448-0.91 0.363 0.17c0.53428 0.26155 1.0109 0.29811 1.316-7e-3 0.39292-0.45308-0.63228-1.1315-0.918-1.372l-1.159-0.84-0.035995-0.889h3.521l7e-3 0.989-1.487 7e-3c0.42674 0.18992 0.75085 0.56285 1.053 0.91 0.29788 0.37685 0.38193 0.78904 0.356 1.096-0.023854 0.276-0.12525 0.52472-0.292 0.718-0.34058 0.38818-0.80805 0.52438-1.287 0.555-0.51037 0.023185-1.0579-0.10539-1.487-0.263z" fill="#fff"/>
+  </g>
+  <g id="g9376">
+   <g id="g2712" transform="matrix(10.996 0 0 -10.996 56.779 149.19)">
+    <path id="path2714" d="m0-0.0037929 7e-3 4.7408-1.835-7e-3v1.0772h5.163l-7e-3 -1.0772-1.834 7e-3v-4.7408z" fill="#231f20"/>
+   </g>
+   <g id="g2720" transform="matrix(10.996 0 0 -10.996 -4.7784 97.12)">
+    <path id="path2722" d="m0 0h1.198c0.43318 0 0.60501-0.28594 0.60501-0.749-0.00216-0.46816-0.20895-0.817-0.60501-0.817l-1.212 2e-3zm-1.421 1.0723v-5.811h1.464l7e-3 2.0957 0.748 0.013 1.607-2.1087h1.835l-1.942 2.4507c0.69718 0.31938 1.167 0.69366 1.167 1.587-0.027069 1.0769-0.37843 1.7733-1.444 1.7733z" fill="#231f20"/>
+   </g>
+  </g>
+ </g>
+</svg>

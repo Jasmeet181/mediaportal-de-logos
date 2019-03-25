@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg32" width="799.99" height="112.28" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata38">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>logo_domradio</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <link id="dark-mode" href="" rel="stylesheet" type="text/css"/>
+ <style id="dark-mode-custom-style" type="text/css"/>
+ <title id="title2">logo_domradio</title>
+ <g id="g30" transform="scale(3.9999)">
+  <polygon id="polygon4" class="a" points="32.341 0 0 0 16.17 28.07" fill="#c5143e"/>
+  <rect id="rect6" class="a" x="34.383" width="165.62" height="28.07" fill="#c5143e"/>
+  <g id="g23" fill="#fff">
+   <polygon id="polygon8" class="b" points="74.947 6.067 74.947 21.935 77.845 21.935 77.845 12.531 83.149 21.908 88.432 12.531 88.432 21.935 91.352 21.935 91.352 6.067 88.463 6.067 83.149 16.046 77.815 6.067"/>
+   <path id="path16" class="b" d="m46.618 6.07h-6.118v15.868h5.991c4.81 0 7.686-3.05 7.686-7.9-2e-3 -4.898-2.836-7.968-7.559-7.968zm-0.018 13.055h-3.182v-10.243h3.2c2.962 0 4.508 2.3 4.508 5.089 0 2.835-1.546 5.154-4.526 5.154z" fill="#fff"/>
+   <polygon id="polygon11" class="b" points="183.34 6.07 183.34 21.938 193.89 21.938 193.89 19.188 186.28 19.188 186.28 15.282 193.31 15.282 193.31 12.554 186.28 12.554 186.28 8.819 193.89 8.819 193.89 6.07"/>
+   <path id="path20" class="b" d="m64.294 5.791a8.184 8.184 0 0 0-8.246 8.266 8.028 8.028 0 0 0 8.2 8.139 8.2 8.2 0 1 0 0.044-16.4zm0 13.527a5.145 5.145 0 0 1-5.2-5.3 5.2 5.2 0 1 1 10.392 0 5.133 5.133 0 0 1-5.192 5.3z" fill="#fff"/>
+   <path id="path14" class="b" d="m114.17 6.07-6.141 15.868h3.114l1.309-3.607h5.625l1.31 3.607h3.113l-6.076-15.868zm-0.859 9.619 1.976-5.432 1.953 5.432z"/>
+   <rect id="rect16" class="b" x="140.36" y="6.07" width="2.941" height="15.868"/>
+   <path id="path18" class="b" d="m163.27 19.165a1.488 1.488 0 1 0 0 2.976 1.488 1.488 0 0 0 0-2.976z"/>
+   <path id="path21" class="b" d="m106.26 11.03c0-2.577-1.7-4.96-5.325-4.96h-5.9v15.868h2.919v-5.948h1.954l3.542 5.948h3.479l-3.993-6.291a4.672 4.672 0 0 0 3.324-4.617zm-5.647 2.318h-2.663v-4.548h2.985a2.167 2.167 0 0 1 2.319 2.253c0 1.158-0.731 2.296-2.642 2.296z"/>
+  </g>
+  <use id="use829" transform="translate(126.37)" width="100%" height="100%" xlink:href="#path16"/>
+  <use id="use26" transform="translate(-42.682)" width="100%" height="100%" xlink:href="#use829"/>
+  <use id="use28" transform="translate(89.654)" width="100%" height="100%" xlink:href="#path20"/>
+ </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="600" height="281.41" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="#FFF">
+  <g transform="matrix(.50007 0 0 .50007 -90.112 -39.714)">
+   <path d="m1103.3 190.59v349.25h89.406c162.24 0 187.31-82.537 187.31-175.84 0-84.266-26.292-173.41-187.31-173.41-26.827 1e-5 -89.406 0-89.406 0zm89.406 75.156s17.46 1e-5 24.937 0c57.177 0 72.969 54.112 72.969 100.84 0 49.63-16.525 101.66-68.688 101.66h-29.219v-202.5z" fill-rule="evenodd"/>
+   <path d="m804.81 190.59v349.25h88.219v-146.22h103.78v146.22h88.219v-349.25h-88.219v125.69h-103.78v-125.69h-88.219z"/>
+  </g>
+  <path d="m140.72 0c-77.668 0-140.72 63.052-140.72 140.72 0 77.667 63.052 140.69 140.72 140.69 77.667 0 140.69-63.021 140.69-140.69 0-77.668-63.02-140.72-140.69-140.72zm55.78 55.531v140.59l-94.875 33.094v-104.56l-47.156 16.5v-34.625l142.03-51z" fill-rule="evenodd"/>
+ </g>
+</svg>

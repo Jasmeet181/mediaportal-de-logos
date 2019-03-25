@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" width="1504.6" height="377.88" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3771" x1="1445" x2="1445" y1="562" y2="366" gradientTransform="translate(0,-300)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3767" offset="0"/>
+   <stop id="stop3769" stop-color="#dbdbdb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3781" x1="1385" x2="1385" y1="318" y2="225" gradientTransform="translate(-40)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3777" stop-color="#c9c9c9" offset="0"/>
+   <stop id="stop3779" stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <filter id="filter3789" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3791" stdDeviation="1.4425"/>
+  </filter>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-7.4446 -4.8735)">
+  <path id="rect2970" d="m1086 65h426v284h-568l142-284z" fill="url(#linearGradient3771)"/>
+  <path id="rect2975" d="m1108 100v218h43v-92h80v92h44v-218h-44v82h-80v-82h-43zm193 0v218h82c46.536 0 84-37.464 84-84v-50c0-46.536-37.464-84-84-84h-82zm44 41h26c29.916 0 54 24.084 54 54v28c0 29.916-24.084 54-54 54h-26v-136z" fill="url(#linearGradient3781)" stroke="#000" stroke-width="4"/>
+  <path id="path2982" d="m140.74 38.66-126.98 256.42c-14.883 30.044-2.5779 66.47 27.466 81.353 30.053 14.883 66.48 2.5779 81.362-27.466 0 0 36.934-81.823 72.44-153.51 35.315 71.645 72.038 153.38 72.038 153.38 14.825 30.082 51.232 42.445 81.305 27.619 30.082-14.825 42.445-51.232 27.619-81.305l-126.38-256.39c-10.216-20.719-31.299-33.858-54.405-33.877-23.105-0.015333-44.218 13.072-54.472 33.772" fill="#dc181d"/>
+  <path id="path2984" d="m983.36 11.194c-30.044-14.883-66.47-2.5875-81.353 27.466 0 0-36.944 81.823-72.45 153.52-35.305-71.645-72.038-153.39-72.038-153.39-10.752-21.821-32.861-34.251-55.679-33.81-0.12497 0-0.24917-0.015333-0.36417-0.015333h-330.08c-33.273 0-60.25 26.977-60.25 60.25 0 33.273 26.977 60.25 60.25 60.25h92.412v196.09c0 33.532 27.188 60.72 60.72 60.72 33.532 0 60.72-27.188 60.72-60.72v-196.09h79.609l110.11 223.41c10.206 20.729 31.299 33.858 54.405 33.877 23.105 0.0153 44.218-13.072 54.472-33.772l126.98-256.41c14.883-30.053 2.5875-66.47-27.466-81.363" fill="#fff"/>
+  <path id="path3783" d="m1110 102v218h43v-92h80v92h44v-218h-44v82h-80v-82h-43zm193 0v218h82c46.536 0 84-37.464 84-84v-50c0-46.536-37.464-84-84-84h-82zm44 41h26c29.916 0 54 24.084 54 54v28c0 29.916-24.084 54-54 54h-26v-136z" fill="none" filter="url(#filter3789)" stroke="#000" stroke-width="5"/>
+ </g>
+</svg>
