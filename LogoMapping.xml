@@ -5,7 +5,7 @@
 		<Channel>
 			<Item Name="1-2-3.tv HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Terrestrial München</Provider>">
+				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia</Provider>
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
@@ -13,7 +13,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="1-2-3.tv">
-				<Provider>Astra 19.2E</Provider>">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia</Provider>
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
@@ -34,7 +34,7 @@
 			<Item Name="13th Street (VF)">
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
-			<Item Name="13th Street">">
+			<Item Name="13th Street">
 				<Provider>Unitymedia</Provider>
 				<Provider>Vodafone Kabel</Provider>
 			</Item>
@@ -4607,6 +4607,15 @@
 			<Item Name="ServusTV HD Deutschland">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<File>ServusTV Deutschland HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ServusTV Deutschland">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>ServusTV Deutschland.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ServusTV HD Oesterreich">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -4620,9 +4629,6 @@
 		<Channel>
 			<Item Name="Servus TV">
 				<Provider>Unitymedia</Provider>
-			</Item>
-			<Item Name="ServusTV Deutschland">
-				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="ServusTV Oesterreich">
 				<Provider>Astra 19.2E</Provider>
