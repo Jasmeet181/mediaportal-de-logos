@@ -6,47 +6,47 @@
 			<Item Name="1-2-3.tv HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>1-2-3.tv HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="1-2-3.tv">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>1-2-3.tv.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="13th Street HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>13th Street HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="13th Street (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="13th Street (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="13th Street">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>13th Street.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="24 Horas" />
 			<Item Name="24H (spa)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="24Horas">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Canal 24 Horas">
 				<Provider>Astra 19.2E</Provider>
@@ -67,16 +67,16 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>3sat HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="3sat">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>3sat.png</File>
 		</Channel>
@@ -127,16 +127,16 @@
 		</Channel>
 		<Channel>
 			<Item Name="A&amp;E HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>A and E HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="A&amp;E">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>A and E.png</File>
 		</Channel>
@@ -180,14 +180,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Al Arabiya">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Al Arabiya.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Al Jazeera Balkans/Al Jazeera Channel" />
 			<Item Name="AlJaz Balkan/AlJaz (bos/ara)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Al Jazeera Balkans Al Jazeera Channel.png</File>
 		</Channel>
@@ -196,7 +196,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Al Jazeera">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Al Jazeera Channel.png</File>
 		</Channel>
@@ -211,10 +211,10 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Al Jazeera Int (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Al Jazeera International">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Al Jazeera English.png</File>
 		</Channel>
@@ -257,38 +257,38 @@
 		</Channel>
 		<Channel>
 			<Item Name="Animal Planet HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Animal Planet HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Animal Planet">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Animal Planet.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Anixe HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Anixe HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Anixe SD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Anixe" />
 			<File>Anixe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ANT1 Europe (gre)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ANT1" />
 			<Item Name="Antenna TV (Ant 1)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ANT1.png</File>
 		</Channel>
@@ -309,7 +309,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="ARD alpha HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ARD-alpha HD (Internet)">
 				<Provider>Terrestrial Freiburg</Provider>
@@ -325,14 +325,14 @@
 			</Item>
 			<Item Name="ARD-alpha">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ARD-alpha.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Arirang/Fashion TV (eng/spa)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Arirang/Fashion TV" />
 			<File>Arirang Fashion TV.png</File>
@@ -356,23 +356,23 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Arte HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Arte">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Arte.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Astro TV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="AstroTV">
 				<Provider>Astra 19.2E</Provider>
@@ -382,13 +382,13 @@
 		<Channel>
 			<Item Name="ATP" />
 			<Item Name="Tennis ATP">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ATP.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ATV Avrupa">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ATV Avrupa.png</File>
 		</Channel>
@@ -434,33 +434,33 @@
 		<Channel>
 			<Item Name="Auto Motor und Sport HD" />
 			<Item Name="Auto Motor und Sport TV HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Auto Motor und Sport HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Auto Motor und Sport" />
 			<Item Name="Auto Motor und Sport Channel">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Auto Motor und Sport.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="AXN HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>AXN HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="AXN (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="AXN Deutschland">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="AXN">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>AXN.png</File>
 		</Channel>
@@ -486,7 +486,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="BabyTV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>BabyTV.png</File>
 		</Channel>
@@ -496,7 +496,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Baden TV Süd HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Baden TV Süd" />
 			<File>Baden TV Sud.png</File>
@@ -509,7 +509,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Balkanika Music Television">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Balkanika Music Television.png</File>
 		</Channel>
@@ -522,19 +522,19 @@
 		</Channel>
 		<Channel>
 			<Item Name="BBC Entertainment (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="BBC Entertainment Europe">
 				<Provider>SalzburgAG</Provider>
 			</Item>
 			<Item Name="BBC Entertainment">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>BBC Entertainment.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BBC HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="BBC World News Europe HD">
 				<Provider>Astra 19.2E</Provider>
@@ -544,7 +544,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="BBC World News (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="BBC World News" />
 			<Item Name="BBC-World">
@@ -560,14 +560,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Beate-Uhse.TV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Beate-Uhse.TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bein Gurme (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Bein Gurme" />
 			<File>Bein Gurme.png</File>
@@ -582,7 +582,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Bein Movies (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Bein Movies Turk" />
 			<File>Bein Movies Turk.png</File>
@@ -595,16 +595,16 @@
 			<Item Name="Bibel TV HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bibel TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bibel TV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bibel TV.png</File>
 		</Channel>
@@ -618,7 +618,7 @@
 			</Item>
 			<Item Name="Bloomberg Television" />
 			<Item Name="Bloomberg">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Bloomberg Television.png</File>
 		</Channel>
@@ -628,22 +628,22 @@
 		</Channel>
 		<Channel>
 			<Item Name="Blue Movie 1">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Blue Movie 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Blue Movie 2">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Blue Movie 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Blue Movie 3">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Blue Movie 3.png</File>
 		</Channel>
@@ -654,8 +654,8 @@
 		<Channel>
 			<Item Name="Blue Movie">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Blue Movie.png</File>
 		</Channel>
@@ -666,39 +666,39 @@
 		<Channel>
 			<Item Name="BN Televizija" />
 			<Item Name="BN TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>BN Televizija.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bon Gusto HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Bon Gusto HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bon Gusto">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="BonGusto">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Bon Gusto.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Boomerang HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Boomerang HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Boomerang (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Boomerang">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Boomerang.png</File>
 		</Channel>
@@ -711,25 +711,25 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="BR Nord HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>BR Fernsehen Nord HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BR Fernsehen Nord">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="BR Nord">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>BR Fernsehen Nord.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BR Fernsehen Süd HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="BR Fernsehen Sued HD">
 				<Provider>Terrestrial Wien</Provider>
@@ -739,8 +739,8 @@
 		<Channel>
 			<Item Name="BR Fernsehen Süd">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>BR Fernsehen Sud.png</File>
 		</Channel>
@@ -765,10 +765,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="BVN (dut)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="BVN">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>BVN.png</File>
 		</Channel>
@@ -779,7 +779,7 @@
 		<Channel>
 			<Item Name="BW Family.tv" />
 			<Item Name="BW Family">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>BW Family.tv.png</File>
 		</Channel>
@@ -791,24 +791,24 @@
 		</Channel>
 		<Channel>
 			<Item Name="Extremadura Sat">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Canal Extremadura Sat.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cartoon Network HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Cartoon Network HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cartoon Network (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Cartoon Network">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Cartoon Network.png</File>
 		</Channel>
@@ -828,16 +828,16 @@
 		<Channel>
 			<Item Name="CGTN">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Channel One Russia Worldwide (rus)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Channel One Russia">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Channel One Russia.png</File>
 		</Channel>
@@ -850,8 +850,8 @@
 		<Channel>
 			<Item Name="Channel21">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Channel21.png</File>
 		</Channel>
@@ -878,13 +878,13 @@
 		<Channel>
 			<Item Name="CMC TV" />
 			<Item Name="CMC">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CMC TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CNBC Europe (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="CNBC Europe">
 				<Provider>Astra 19.2E</Provider>
@@ -900,16 +900,16 @@
 		</Channel>
 		<Channel>
 			<Item Name="CNN HD (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="CNN International HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CNN International HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CNN (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="CNN Int.">
 				<Provider>Astra 19.2E</Provider>
@@ -917,16 +917,16 @@
 			<Item Name="CNN International" />
 			<Item Name="CNN">
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CNN Türk (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="CNN Türk">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CNN Turk.png</File>
 		</Channel>
@@ -966,7 +966,7 @@
 			<Item Name="Comedy Central">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Comedy Central.png</File>
 		</Channel>
@@ -986,16 +986,16 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Das Erste HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Das Erste">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Das Erste.png</File>
 		</Channel>
@@ -1026,8 +1026,8 @@
 			</Item>
 			<Item Name="Deluxe Music HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deluxe Music HD.png</File>
 		</Channel>
@@ -1035,8 +1035,8 @@
 			<Item Name="Deluxe Music">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deluxe Music.png</File>
 		</Channel>
@@ -1047,7 +1047,7 @@
 		<Channel>
 			<Item Name="Deutsche Eishockey Liga" />
 			<Item Name="Live Eishockey">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deutsche Eishockey Liga.png</File>
 		</Channel>
@@ -1068,47 +1068,47 @@
 		<Channel>
 			<Item Name="Deutsches Musik Fernsehen">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deutsches Musik Fernsehen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Die Neue Zeit TV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Die Neue Zeit TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Channel HD" />
 			<Item Name="Discovery HD (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Discovery HD (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Discovery HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Discovery Channel HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Channel (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Discovery Channel">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Discovery Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney Ch. HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Disney Channel HD Austria">
 				<Provider>Astra 19.2E</Provider>
@@ -1116,7 +1116,7 @@
 			<Item Name="Disney Channel HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Disney Channel HD.png</File>
 		</Channel>
@@ -1124,23 +1124,23 @@
 			<Item Name="Disney Channel">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Disney SD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Disney Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney Cinemagic HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 		<Channel>
 			<Item Name="Disney Cinemagic">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Disney Cinemagic.png</File>
 		</Channel>
@@ -1152,40 +1152,40 @@
 		</Channel>
 		<Channel>
 			<Item Name="Disney Junior (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Disney Junior (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Disney Junior">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Disney Junior.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney XD HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Disney XD HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney XD (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Disney XD (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Disney XD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Disney XD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="DM Sat">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>DM Sat.png</File>
 		</Channel>
@@ -1205,18 +1205,18 @@
 			<Item Name="DMAX HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>DMAX HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="DMAX">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>DMAX.png</File>
 		</Channel>
@@ -1273,7 +1273,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Duna TV (hun)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Duna" />
 			<File>Duna.png</File>
@@ -1284,14 +1284,14 @@
 			</Item>
 			<Item Name="E! HD" />
 			<Item Name="E!Entertainment HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>E HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="E! Entertainment">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="E!" />
 			<File>E.png</File>
@@ -1332,14 +1332,14 @@
 		<Channel>
 			<Item Name="EOTV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>EOTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ERT World">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ERT World.png</File>
 		</Channel>
@@ -1349,25 +1349,25 @@
 		</Channel>
 		<Channel>
 			<Item Name="Euro D (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Euro D">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Euro D.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Euro Star (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Euro Star">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Euro Star.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Euronews (D)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Euronews French SD">
 				<Provider>Astra 19.2E</Provider>
@@ -1376,7 +1376,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Euronews">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Euronews.png</File>
 		</Channel>
@@ -1387,8 +1387,8 @@
 			<Item Name="Eurosport 1 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 1 HD.png</File>
 		</Channel>
@@ -1398,8 +1398,8 @@
 			</Item>
 			<Item Name="Eurosport 1">
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 1.png</File>
 		</Channel>
@@ -1412,14 +1412,14 @@
 		<Channel>
 			<Item Name="Eurosport 2 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 2 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Eurosport 2">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Eurosport2 ger">
 				<Provider>Astra 19.2E</Provider>
@@ -1428,43 +1428,43 @@
 		</Channel>
 		<Channel>
 			<Item Name="Eurosport360 HD 1 (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Eurosport360 HD 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Eurosport 360 HD1" />
 			<Item Name="Eurosport360HD 1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 360 HD1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Eurosport360 HD 2 (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Eurosport360 HD 2">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Eurosport 360 HD2" />
 			<Item Name="Eurosport360HD 2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 360 HD2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Eurosport360 HD 3 (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Eurosport360 HD 3">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Eurosport 360 HD3" />
 			<Item Name="Eurosport360HD 3">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 360 HD3.png</File>
 		</Channel>
@@ -1524,7 +1524,7 @@
 		<Channel>
 			<Item Name="Extreme Sports Channel" />
 			<Item Name="Extreme Sports">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Extreme Sports Channel.png</File>
 		</Channel>
@@ -1545,7 +1545,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Fashion TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Fashion TV.png</File>
 		</Channel>
@@ -1572,7 +1572,7 @@
 		<Channel>
 			<Item Name="Fix und Foxi" />
 			<Item Name="Fix&amp;Foxi">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Fix und Foxi.png</File>
 		</Channel>
@@ -1603,37 +1603,37 @@
 		</Channel>
 		<Channel>
 			<Item Name="Fox HD (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Fox HD (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Fox HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Fox HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fox Serie (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Fox Serie">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Fox">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Fox.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France 2 (fre)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="France 2">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 2.png</File>
 		</Channel>
@@ -1647,52 +1647,52 @@
 		<Channel>
 			<Item Name="France 24 (in English)">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="France 24 - English" />
 			<File>France 24 - English.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France 24 (en francais)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="France 24 (en Français)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="France24 (fre)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="France 24 - Francais" />
 			<File>France 24 - Francais.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France 3 (fre)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="France 3">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France 4">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France 5">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 5.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Franken Fernsehen HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Franken Fernsehen">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Franken Fernsehen.png</File>
 		</Channel>
@@ -1742,7 +1742,7 @@
 		<Channel>
 			<Item Name="Geo Television HD" />
 			<Item Name="Geo TV HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Geo Television HD.png</File>
 		</Channel>
@@ -1753,7 +1753,7 @@
 		<Channel>
 			<Item Name="Ginx eSports TV" />
 			<Item Name="Ginx TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Ginx eSports TV.png</File>
 		</Channel>
@@ -1767,13 +1767,13 @@
 			</Item>
 			<Item Name="God TV" />
 			<Item Name="God.TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>God TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Goldstar TV">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>GoldStar TV.png</File>
 		</Channel>
@@ -1796,8 +1796,8 @@
 		</Channel>
 		<Channel>
 			<Item Name="Gute Laune TV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Gute Laune TV.png</File>
 		</Channel>
@@ -1808,13 +1808,13 @@
 		<Channel>
 			<Item Name="Haber Turk" />
 			<Item Name="Habertürk">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Haber Turk.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Halk TV (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Halk TV Euro" />
 			<File>Halk TV Euro.png</File>
@@ -1845,7 +1845,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Hayat TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Hayat" />
 			<File>Hayat.png</File>
@@ -1863,8 +1863,8 @@
 		</Channel>
 		<Channel>
 			<Item Name="Health TV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Health.TV">
 				<Provider>Astra 19.2E</Provider>
@@ -1874,8 +1874,8 @@
 		<Channel>
 			<Item Name="Heimatkanal">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Heimatkanal.png</File>
 		</Channel>
@@ -1891,15 +1891,15 @@
 		<Channel>
 			<Item Name="History HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>History HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="History">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>History.png</File>
 		</Channel>
@@ -1919,7 +1919,7 @@
 			</Item>
 			<Item Name="Hope Channel">
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Hope Channel.png</File>
 		</Channel>
@@ -1927,8 +1927,8 @@
 			<Item Name="HR-Fernsehen HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="HR Fernsehen HD" />
 			<File>HR Fernsehen HD.png</File>
@@ -1936,8 +1936,8 @@
 		<Channel>
 			<Item Name="HR-Fernsehen">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="HR Fernsehen" />
 			<File>HR Fernsehen.png</File>
@@ -1945,10 +1945,10 @@
 		<Channel>
 			<Item Name="HRT 1" />
 			<Item Name="HRT TV 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="HRT1 (hrv)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HRT 1.png</File>
 		</Channel>
@@ -1959,15 +1959,15 @@
 		<Channel>
 			<Item Name="HSE24 Extra HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>HSE24 Extra HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HSE24 Extra">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HSE24 Extra.png</File>
 		</Channel>
@@ -1975,23 +1975,23 @@
 			<Item Name="HSE24 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HSE24 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HSE24 Trend">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>HSE24 Trend.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HSE24">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HSE24.png</File>
 		</Channel>
@@ -2060,10 +2060,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="ITVN (pol)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ITVN">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ITVN.png</File>
 		</Channel>
@@ -2082,7 +2082,7 @@
 		<Channel>
 			<Item Name="JSTV 1" />
 			<Item Name="JSTV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>JSTV 1.png</File>
 		</Channel>
@@ -2093,15 +2093,15 @@
 		<Channel>
 			<Item Name="Jukebox">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Jukebox.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Junior">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Junior.png</File>
 		</Channel>
@@ -2110,26 +2110,26 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Juwelo TV HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Juwelo HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Juwelo TV">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="JuweloTV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Juwelo">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Juwelo.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="K-TV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>K-TV.png</File>
 		</Channel>
@@ -2142,18 +2142,18 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kabel Eins Classics HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="KabelEinsClassics HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Kabel Eins Classics HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kabel Eins Classics">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kabel Eins Classics.png</File>
 		</Channel>
@@ -2168,8 +2168,8 @@
 			<Item Name="Kabel Eins Doku">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kabel Eins Doku.png</File>
 		</Channel>
@@ -2184,8 +2184,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kabel Eins HD.png</File>
 		</Channel>
@@ -2196,8 +2196,8 @@
 			<Item Name="Kabel Eins">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kabel Eins.png</File>
 		</Channel>
@@ -2211,11 +2211,11 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kanal 7 (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Kanal 7 Avrupa" />
 			<Item Name="Kanal 7">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Kanal 7 Avrupa.png</File>
 		</Channel>
@@ -2237,14 +2237,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kazakh TV / 1+1 International (kaz/ukr)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Kazakh TV/1+1 International" />
 			<File>Kazakh TV 1 Plus 1 International.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kazakh TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Kazakh TV.png</File>
 		</Channel>
@@ -2264,8 +2264,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>KiKa HD.png</File>
 		</Channel>
@@ -2273,18 +2273,18 @@
 			<Item Name="KiKa">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>KiKa.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kino Welt TV HD" />
 			<Item Name="Kinowelt TV HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="KinoweltTV HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kino Welt TV HD.png</File>
 		</Channel>
@@ -2292,10 +2292,10 @@
 			<Item Name="Kino Welt TV" />
 			<Item Name="Kinowelt TV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="KinoweltTV">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kino Welt TV.png</File>
 		</Channel>
@@ -2309,7 +2309,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Klan Kosova">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Klan Kosova.png</File>
 		</Channel>
@@ -2319,7 +2319,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kohavision TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Kohavision" />
 			<File>Kohavision.png</File>
@@ -2425,7 +2425,7 @@
 		<Channel>
 			<Item Name="LRT Lituanica/Ginx eSports TV" />
 			<Item Name="LRT Lituanica/Ginx TV (lit/engl)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>LRT Lituanica Ginx eSports TV.png</File>
 		</Channel>
@@ -2442,14 +2442,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Lust Pur HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Lust Pur HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Lust Pur">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Lust Pur.png</File>
 		</Channel>
@@ -2481,7 +2481,7 @@
 		<Channel>
 			<Item Name="MBC 1" />
 			<Item Name="MBC Maghreb al Arabia">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MBC 1.png</File>
 		</Channel>
@@ -2512,7 +2512,7 @@
 		<Channel>
 			<Item Name="MDR S-Anhalt">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="MDR Sachsen-Anhalt" />
 			<File>MDR Sachsen-Anhalt.png</File>
@@ -2520,14 +2520,14 @@
 		<Channel>
 			<Item Name="MDR Sachsen HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Sachsen HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Sachsen">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MDR Sachsen.png</File>
 		</Channel>
@@ -2537,14 +2537,14 @@
 			</Item>
 			<Item Name="MDR Thüringen HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MDR Thuringen HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Thüringen">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MDR Thuringen.png</File>
 		</Channel>
@@ -2592,7 +2592,7 @@
 		<Channel>
 			<Item Name="Mediaset Italia" />
 			<Item Name="Mediaset">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Mediaset Italia.png</File>
 		</Channel>
@@ -2641,7 +2641,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Melodie TV">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Melodie TV.png</File>
 		</Channel>
@@ -2674,14 +2674,14 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Motorvision">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV Brand New">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MTV Brand New.png</File>
 		</Channel>
@@ -2697,8 +2697,8 @@
 			</Item>
 			<Item Name="MTV HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MTV HD.png</File>
 		</Channel>
@@ -2710,7 +2710,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="MTV Live HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MTV Live HD.png</File>
 		</Channel>
@@ -2733,7 +2733,7 @@
 		</Channel>
 			<Item Name="MTV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MTV.png</File>
 		</Channel>
@@ -2744,15 +2744,20 @@
 		<Channel>
 			<Item Name="München.tv HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Munchen.tv HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="München.tv" />
+			<Item Name="München.tv">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<File>Munchen.tv.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="München 2">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="München2" />
 			<File>Munchen2.png</File>
 		</Channel>
@@ -2773,10 +2778,10 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NTV HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>N-TV HD.png</File>
 		</Channel>
@@ -2787,10 +2792,10 @@
 			<Item Name="N-TV">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NTV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>N-TV.png</File>
 		</Channel>
@@ -2807,8 +2812,8 @@
 		<Channel>
 			<Item Name="N24 Doku">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>N24 Doku.png</File>
 		</Channel>
@@ -2818,10 +2823,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kinomir (rus)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Nasch Kinomir">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Nash Kinomir" />
 			<File>Nash Kinomir.png</File>
@@ -2829,7 +2834,7 @@
 		<Channel>
 			<Item Name="Nat Geo People HD" />
 			<Item Name="NatGeo People HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Nat Geo People HD.png</File>
 		</Channel>
@@ -2839,15 +2844,15 @@
 		</Channel>
 		<Channel>
 			<Item Name="NatGeo HD (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NatGeo HD (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NatGeo HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="National Geographic HD" />
 			<File>National Geographic HD.png</File>
@@ -2855,46 +2860,46 @@
 		<Channel>
 			<Item Name="Nat Geo Wild HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NatGeo Wild HD (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NatGeo Wild HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="National Geographic Wild HD" />
 			<File>National Geographic Wild HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NatGeo Wild">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="National Geographic Wild" />
 			<File>National Geographic Wild.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NatGeo (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NatGeo">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="National Geographic (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="National Geographic">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>National Geographic.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR FS HH HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NDR Hamburg HD" />
 			<File>NDR Hamburg HD.png</File>
@@ -2902,7 +2907,7 @@
 		<Channel>
 			<Item Name="NDR FS HH">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NDR Hamburg" />
 			<File>NDR Hamburg.png</File>
@@ -2921,8 +2926,8 @@
 		<Channel>
 			<Item Name="NDR FS MV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NDR Mecklenburg-Vorpommern" />
 			<File>NDR Mecklenburg-Vorpommern.png</File>
@@ -2933,14 +2938,14 @@
 				<Provider>Terrestrial München</Provider>
 			</Item>
 			<Item Name="NDR Niedersachsen HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NDR Niedersachsen HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR FS NDS">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NDR Niedersachsen" />
 			<File>NDR Niedersachsen.png</File>
@@ -2955,7 +2960,7 @@
 		<Channel>
 			<Item Name="NDR FS SH">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NDR Schleswig-Holstein" />
 			<File>NDR Schleswig-Holstein.png</File>
@@ -2975,7 +2980,7 @@
 		<Channel>
 			<Item Name="NHK World HD" />
 			<Item Name="NHK World-Japan">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NHK World-JPN">
 				<Provider>Astra 19.2E</Provider>
@@ -3001,7 +3006,7 @@
 		<Channel>
 			<Item Name="Nick Jr HD" />
 			<Item Name="Nick Jr. HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Nick Jr HD.png</File>
 		</Channel>
@@ -3010,7 +3015,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Nick Jr.">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Nick Jr">
 				<Provider>Astra 19.2E</Provider>
@@ -3033,7 +3038,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Nick/MTV+ HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Nickelodeon HD MTV+ HD" />
 			<File>Nickelodeon HD MTV Plus HD.png</File>
@@ -3041,7 +3046,7 @@
 		<Channel>
 			<Item Name="Nick HD">
 				<Provider>Terrestrial München</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Nickelodeon HD">
 				<Provider>Astra 19.2E</Provider>
@@ -3051,14 +3056,14 @@
 		<Channel>
 			<Item Name="Nick/MTV+">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Nickelodeon/MTV+" />
 			<File>Nickelodeon MTV Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nick">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Nickelodeon">
 				<Provider>Terrestrial Wien</Provider>
@@ -3070,7 +3075,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Nicktoons">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Nicktoons.png</File>
 		</Channel>
@@ -3086,8 +3091,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Nitro HD.png</File>
 		</Channel>
@@ -3098,8 +3103,8 @@
 			</Item>
 			<Item Name="Nitro">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Nitro.png</File>
 		</Channel>
@@ -3126,7 +3131,7 @@
 		<Channel>
 			<Item Name="NTV Mir">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NTV Mir.png</File>
 		</Channel>
@@ -3150,7 +3155,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Ocko">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Ocko.png</File>
 		</Channel>
@@ -3270,16 +3275,16 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>One HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="One">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>One.png</File>
 		</Channel>
@@ -3490,17 +3495,17 @@
 		</Channel>
 		<Channel>
 			<Item Name="Eishockey AUT">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Osterreichischer Eishockeyverband" />
 			<File>Österreichischer Eishockeyverband.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OstWest (rus)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="OstWest">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>OstWest.png</File>
 		</Channel>
@@ -3538,10 +3543,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Penthouse HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Penthouse">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Penthouse HD.png</File>
 		</Channel>
@@ -3554,7 +3559,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="PCNE/NTD TV (chi)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Phoenix CNE/NTD" />
 			<File>Phoenix CNE NTD.png</File>
@@ -3564,8 +3569,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Phoenix HD.png</File>
 		</Channel>
@@ -3573,27 +3578,27 @@
 			<Item Name="Phoenix">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Phoenix.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pink Extra">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Pink Extra.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pink Film">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Pink Film.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pink Folk 1" />
 			<Item Name="Pink Folk">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Pink Folk 1.png</File>
 		</Channel>
@@ -3603,13 +3608,13 @@
 		</Channel>
 		<Channel>
 			<Item Name="Pink Music">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Pink Music.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pink Plus">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Pink Plus.png</File>
 		</Channel>
@@ -3623,16 +3628,16 @@
 		</Channel>
 		<Channel>
 			<Item Name="Planet HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Planet HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Planet">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Planet.png</File>
 		</Channel>
@@ -3648,20 +3653,20 @@
 		</Channel>
 		<Channel>
 			<Item Name="PowerTürk TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>PowerTurk TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pro TV International/TVR International" />
 			<Item Name="Pro TV/TVR (rum)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Pro TV International TVR International.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pro TV International">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Pro TV International.png</File>
 		</Channel>
@@ -3673,14 +3678,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Fun HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben Fun HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ProSieben Fun">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ProSieben Fun.png</File>
 		</Channel>
@@ -3696,8 +3701,8 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben HD.png</File>
 		</Channel>
@@ -3722,8 +3727,8 @@
 				<Provider>Terrestrial München</Provider>
 			</Item>
 			<Item Name="ProSieben Maxx HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben Maxx HD.png</File>
 		</Channel>
@@ -3732,8 +3737,8 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="ProSieben Maxx">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ProSiebenMaxx">
 				<Provider>Terrestrial Wien</Provider>
@@ -3749,8 +3754,8 @@
 		<Channel>
 			<Item Name="ProSieben">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben.png</File>
 		</Channel>
@@ -3799,7 +3804,7 @@
 		<Channel>
 			<Item Name="Quadratauge" />
 			<Item Name="Videothek">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Quadratauge.png</File>
 		</Channel>
@@ -3807,22 +3812,22 @@
 			<Item Name="QVC HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>QVC HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="QVC Style HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>QVC Style HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="QVC Style">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>QVC Style.png</File>
 		</Channel>
@@ -3838,8 +3843,8 @@
 			</Item>
 			<Item Name="QVC">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>QVC.png</File>
 		</Channel>
@@ -3847,15 +3852,15 @@
 			<Item Name="QVC2 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>QVC2 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="QVC2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>QVC2.png</File>
 		</Channel>
@@ -3883,7 +3888,7 @@
 		<Channel>
 			<Item Name="Radio Bremen TV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Bremen TV.png</File>
 		</Channel>
@@ -3897,45 +3902,45 @@
 		</Channel>
 		<Channel>
 			<Item Name="Rai 1 (ita)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Rai 1" />
 			<Item Name="Rai Uno">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Rai 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai 2 (ita)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Rai 2" />
 			<Item Name="Rai Due">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Rai 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai 3 (ita)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Rai 3" />
 			<Item Name="Rai Tre">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Rai 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai News 24">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Rai News24" />
 			<File>Rai News24.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai Storia">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Rai Storia.png</File>
 		</Channel>
@@ -3949,16 +3954,16 @@
 			</Item>
 			<Item Name="RBB Berlin HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RBB Berlin HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RBB Berlin">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RBB Berlin.png</File>
 		</Channel>
@@ -3971,7 +3976,7 @@
 		<Channel>
 			<Item Name="RBB Brandenburg">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RBB Brandenburg.png</File>
 		</Channel>
@@ -3993,14 +3998,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="RCK TV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RCK TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Record Internacional">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Record TV" />
 			<Item Name="TV Record SD">
@@ -4098,7 +4103,7 @@
 		<Channel>
 			<Item Name="Ric">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Ric.png</File>
 		</Channel>
@@ -4140,19 +4145,19 @@
 		</Channel>
 		<Channel>
 			<Item Name="Romance TV HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Romance TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Romance TV (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Romance TV">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Romance TV.png</File>
 		</Channel>
@@ -4201,12 +4206,12 @@
 		</Channel>
 		<Channel>
 			<Item Name="RT (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="RT" />
 			<Item Name="Russia Today">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RT.png</File>
 		</Channel>
@@ -4220,7 +4225,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="RTK1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTK1.png</File>
 		</Channel>
@@ -4230,14 +4235,14 @@
 			</Item>
 			<Item Name="RTL II">
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="RTL2 Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="RTL2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTL 2 DE.png</File>
 		</Channel>
@@ -4248,14 +4253,14 @@
 			<Item Name="RTL II HD">
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="RTLII HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="RTL II HD" />
 			<Item Name="RTL2 HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTL 2 HD DE.png</File>
 		</Channel>
@@ -4265,14 +4270,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="RTL Crime HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL Crime HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Crime">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTL Crime.png</File>
 		</Channel>
@@ -4291,8 +4296,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL HD.png</File>
 		</Channel>
@@ -4306,15 +4311,15 @@
 		</Channel>
 		<Channel>
 			<Item Name="RTL Living HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL Living HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Living">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL Living.png</File>
 		</Channel>
@@ -4325,18 +4330,24 @@
 			<File>RTL Lounge.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL HB NDS">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTL HH SH">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="RTL Nord" />
 			<File>RTL Nord.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Passion HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTL Passion HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Passion">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTL Passion.png</File>
 		</Channel>
@@ -4347,6 +4358,9 @@
 			<File>RTL UHD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL Regional NRW">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="RTL West" />
 			<File>RTL West.png</File>
 		</Channel>
@@ -4360,27 +4374,18 @@
 			<Item Name="RTL CH">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="RTL HB NDS">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL HH SH">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL Regional NRW">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="RTL Television">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="RTL">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTLplus HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTLplus HD.png</File>
 		</Channel>
@@ -4391,33 +4396,33 @@
 			<Item Name="RTLplus">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTLplus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTP Internacional (por)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="RTP Internacional" />
 			<Item Name="RTPi">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTP Internacional.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTR Planeta">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="RTR-Planeta (rus)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTR Planeta.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTS Sat">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="RTRS" />
 			<File>RTRS.png</File>
@@ -4453,7 +4458,7 @@
 		<Channel>
 			<Item Name="RTV21 HD" />
 			<Item Name="RTS Sat">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>RTV21 HD.png</File>
 		</Channel>
@@ -4487,15 +4492,15 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sat.1 Emotions HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sat.1 Emotions HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sat.1 Emotions">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sat.1 Emotions.png</File>
 		</Channel>
@@ -4517,8 +4522,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sat.1 Gold HD.png</File>
 		</Channel>
@@ -4526,8 +4531,8 @@
 			<Item Name="Sat.1 Gold">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sat.1 Gold.png</File>
 		</Channel>
@@ -4546,7 +4551,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Sat.1 HD.png</File>
 		</Channel>
@@ -4582,7 +4587,7 @@
 			</Item>
 			<Item Name="Sat.1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Sat.1.png</File>
 		</Channel>
@@ -4621,20 +4626,20 @@
 			</Item>
 			<Item Name="ServusTV HD">
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ServusTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Servus TV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="ServusTV Oesterreich">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="ServusTV">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ServusTV.png</File>
 		</Channel>
@@ -4657,10 +4662,10 @@
 		</Channel>
 		<Channel>>
 			<Item Name="Show Turk (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Show Turk">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="ShowTurk" />
 			<File>ShowTurk.png</File>
@@ -4675,10 +4680,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Silverline Movie Channel">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Silverline">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Silverline.png</File>
 		</Channel>
@@ -4699,8 +4704,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sixx HD.png</File>
 		</Channel>
@@ -4712,8 +4717,8 @@
 			<Item Name="Sixx">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sixx.png</File>
 		</Channel>
@@ -4724,15 +4729,15 @@
 		<Channel>
 			<Item Name="Sky 1 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky 1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky 1">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky 1.png</File>
 		</Channel>
@@ -4746,47 +4751,47 @@
 		<Channel>
 			<Item Name="Sky Atlantic HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Atlantic HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Atlantic">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Atlantic.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Action HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Action HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Action">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Action.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Comedy">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Comedy.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Emotion">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Emotion.png</File>
 		</Channel>
@@ -4799,39 +4804,39 @@
 		<Channel>
 			<Item Name="Sky Cinema Family">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Family.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Hits HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Hits HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Hits">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Nostalgie">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Nostalgie.png</File>
 		</Channel>
@@ -4844,10 +4849,10 @@
 		<Channel>
 			<Item Name="Sky Cinema +1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Sky Cinema+1">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Plus 1.png</File>
 		</Channel>
@@ -4860,26 +4865,26 @@
 		<Channel>
 			<Item Name="Sky Cinema +24">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Sky Cinema+24">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Plus 24.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Krimi">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Krimi.png</File>
 		</Channel>
@@ -4897,109 +4902,109 @@
 		<Channel>
 			<Item Name="Sky Select 1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 3">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 4">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 5">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 5.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 6">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 6.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 7">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 8">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 8.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select 9">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select 9.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select Event A">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select Event A.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select Event B">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select Event B.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Select">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Select.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 1 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 1.png</File>
 		</Channel>
@@ -5022,23 +5027,23 @@
 		<Channel>
 			<Item Name="Sky Sport 2 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 3 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 3 HD.png</File>
 		</Channel>
@@ -5049,8 +5054,8 @@
 		<Channel>
 			<Item Name="Sky Sport 4 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 4 HD.png</File>
 		</Channel>
@@ -5061,8 +5066,8 @@
 		<Channel>
 			<Item Name="Sky Sport 5 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 5 HD.png</File>
 		</Channel>
@@ -5119,23 +5124,23 @@
 		<Channel>
 			<Item Name="Sky Sport Austria">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport Bundesliga 1 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport Bundesliga 1">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 1.png</File>
 		</Channel>
@@ -5150,8 +5155,8 @@
 		<Channel>
 			<Item Name="Sky Sport Bundesliga 2 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 2 HD.png</File>
 		</Channel>
@@ -5162,8 +5167,8 @@
 		<Channel>
 			<Item Name="Sky Sport Bundesliga 3 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 3 HD.png</File>
 		</Channel>
@@ -5174,8 +5179,8 @@
 		<Channel>
 			<Item Name="Sky Sport Bundesliga 4 HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 4 HD.png</File>
 		</Channel>
@@ -5233,10 +5238,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Pitlane">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Sky Racer">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Sky Sport F1" />
 			<File>Sky Sport F1.png</File>
@@ -5244,16 +5249,16 @@
 		<Channel>
 			<Item Name="Sky Sport News HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport News HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport News">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport News.png</File>
 		</Channel>
@@ -5265,23 +5270,23 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sonlife (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Sonlife Broadcasting Network">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Sonlife">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sonnenklar TV HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Sonnenklar.TV HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sonnenklar.TV HD.png</File>
 		</Channel>
@@ -5290,20 +5295,20 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Sonnenklar.TV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sonnenklar.TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sony Channel HD">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sony Channel HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sony Channel">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Sony Channel.png</File>
 		</Channel>
@@ -5350,8 +5355,8 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="SparhandyTV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Sparhandy" />
 			<File>Sparhandy.png</File>
@@ -5364,23 +5369,23 @@
 		</Channel>
 		<Channel>
 			<Item Name="Spiegel Geschichte">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Spiegel Geschichte.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Spiegel TV Wissen HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Spiegel TV Wissen HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Spiegel TV Wissen">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Spiegel TV Wissen.png</File>
 		</Channel>
@@ -5389,8 +5394,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sport1 HD.png</File>
 		</Channel>
@@ -5400,37 +5405,37 @@
 			</Item>
 			<Item Name="Sport1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sport1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sport1+ HD">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sport1Plus HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sport1+">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sport1Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sportdigital HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sportdigital HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sportdigital">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sportdigital.png</File>
 		</Channel>
@@ -5448,16 +5453,16 @@
 			</Item>
 			<Item Name="SR Fernsehen HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SR Fernsehen HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SR Fernsehen">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SR Fernsehen.png</File>
 		</Channel>
@@ -5467,7 +5472,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="SF1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="SRF 1">
 				<Provider>Terrestrial Wien</Provider>
@@ -5495,7 +5500,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="SF2">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="SRF Zwei" />
 			<File>SRF Zwei.png</File>
@@ -5524,12 +5529,12 @@
 		</Channel>
 		<Channel>
 			<Item Name="Classica HD">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Classica">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Stingray Classica" />
 			<File>Stingray Classica.png</File>
@@ -5566,8 +5571,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Super RTL HD.png</File>
 		</Channel>
@@ -5581,8 +5586,8 @@
 			<Item Name="Super RTL">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Super RTL.png</File>
 		</Channel>
@@ -5631,7 +5636,7 @@
 			<Item Name="SWR BW HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>SWR BW HD.png</File>
 		</Channel>
@@ -5639,7 +5644,7 @@
 			<Item Name="SWR BW" />
 			<Item Name="SWR Fernsehen BW">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>SWR BW.png</File>
 		</Channel>
@@ -5658,15 +5663,15 @@
 			<Item Name="SWR RP HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SWR RP HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR Fernsehen RP">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="SWR RP" />
 			<File>SWR RP.png</File>
@@ -5678,21 +5683,21 @@
 		<Channel>
 			<Item Name="Syfy HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Syfy HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Syfy (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Syfy (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Syfy">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Syfy.png</File>
 		</Channel>
@@ -5705,16 +5710,16 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Tagesschau24 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tagesschau24">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Tagesschau24.png</File>
 		</Channel>
@@ -5740,16 +5745,16 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Tele 5 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tele 5">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Tele 5.png</File>
 		</Channel>
@@ -5774,7 +5779,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TeleBasel">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TeleBasel.png</File>
 		</Channel>
@@ -5784,20 +5789,20 @@
 		</Channel>
 		<Channel>
 			<Item Name="TeleBom/TeleDom (rus)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TeleBom/TeleDom" />
 			<File>TeleBom TeleDom.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TeleBom">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TeleBom.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tele Dom">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TeleDom" />
 			<File>TeleDom.png</File>
@@ -5826,7 +5831,7 @@
 		<Channel>
 			<Item Name="Television Tunisienne 1/Orient News" />
 			<Item Name="Tunisie 1/Orient TV (ara)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Television Tunisienne 1 Orient News.png</File>
 		</Channel>
@@ -5840,7 +5845,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TF 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TF1" />
 			<File>TF1.png</File>
@@ -5876,8 +5881,8 @@
 		<Channel>
 			<Item Name="TLC HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TLC HD.png</File>
 		</Channel>
@@ -5885,8 +5890,8 @@
 			<Item Name="TLC">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TLC.png</File>
 		</Channel>
@@ -5907,67 +5912,67 @@
 		<Channel>
 			<Item Name="TNT Comedy HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Comedy HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TNT Comedy">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Comedy.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TNT Film HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Film HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TNT Film (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TNT Film">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Film.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TNT Serie HD (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TNT Serie HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Serie HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TNT Serie (eng)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TNT Serie (S)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TNT Serie (VF)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TNT Serie">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Serie.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Toggo Plus">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Toggo Plus.png</File>
 		</Channel>
@@ -5977,7 +5982,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Travel Channel Deutschland">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Travel Channel" />
 			<File>Travel Channel.png</File>
@@ -6033,7 +6038,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="TRT Türk">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TRT Turk.png</File>
 		</Channel>
@@ -6119,20 +6124,20 @@
 		</Channel>
 		<Channel>
 			<Item Name="TV 5 Monde (fre)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TV5Monde Europe">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TV5Monde Europe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV 8">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TV8 Int (tur)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TV8 Int" />
 			<File>TV8 Int.png</File>
@@ -6146,20 +6151,20 @@
 		</Channel>
 		<Channel>
 			<Item Name="TV Crne Gore Sat">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TVCG Sat" />
 			<File>TVCG Sat.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TVE (spa)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TVE Internacional Europa">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="TVE Internacional">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TVE Internacional.png</File>
 		</Channel>
@@ -6177,7 +6182,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TVN 24">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TVN24" />
 			<File>TVN24.png</File>
@@ -6192,10 +6197,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="TV Polonia">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TVP Polonia (pol)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TVP Polonia" />
 			<File>TVP Polonia.png</File>
@@ -6208,7 +6213,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TV Silesia">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="TVS" />
 			<File>TVS.png</File>
@@ -6226,10 +6231,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Infokanal">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Schnupperkanal">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Unitymedia" />
 			<File>Unitymedia.png</File>
@@ -6237,15 +6242,15 @@
 		<Channel>
 			<Item Name="Universal TV HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Universal TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Universal TV">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Universal TV.png</File>
 		</Channel>
@@ -6256,7 +6261,7 @@
 		<Channel>
 			<Item Name="VH1 Classic">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>VH1 Classic.png</File>
 		</Channel>
@@ -6279,7 +6284,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Vodafone Info Channel">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Vodafone" />
 			<File>Vodafone.png</File>
@@ -6301,8 +6306,8 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Vox HD.png</File>
 		</Channel>
@@ -6315,8 +6320,8 @@
 			</Item>
 			<Item Name="Vox">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Vox.png</File>
 		</Channel>
@@ -6429,8 +6434,8 @@
 			<Item Name="WDR HD Köln">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>WDR HD Koln.png</File>
 		</Channel>
@@ -6459,8 +6464,8 @@
 		<Channel>
 			<Item Name="WDR Köln">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>WDR Koln.png</File>
 		</Channel>
@@ -6488,11 +6493,11 @@
 		</Channel>
 		<Channel>
 			<Item Name="Welt der Wunder TV">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Welt Der Wunder">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Welt Der Wunder.png</File>
 		</Channel>
@@ -6500,8 +6505,8 @@
 			<Item Name="Welt HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Welt HD.png</File>
 		</Channel>
@@ -6509,8 +6514,8 @@
 			<Item Name="Welt">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Welt.png</File>
 		</Channel>
@@ -6520,7 +6525,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Deutsches Wetter Fernsehen">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Wetter.com" />
 			<File>Wetter.com.png</File>
@@ -6551,14 +6556,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="20|15 WWE PPV">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WWE" />
 			<File>WWE.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Xite">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Xite.png</File>
 		</Channel>
@@ -6574,16 +6579,16 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ZDF HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ZDF">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ZDF.png</File>
 		</Channel>
@@ -6592,8 +6597,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ZDFinfo HD.png</File>
 		</Channel>
@@ -6601,8 +6606,8 @@
 			<Item Name="ZDFinfo">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ZDFinfo.png</File>
 		</Channel>
@@ -6614,8 +6619,8 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ZDFneo HD">
 				<Provider>Terrestrial Wien</Provider>
@@ -6625,8 +6630,8 @@
 		<Channel>
 			<Item Name="ZDF_neo">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ZDFneo" />
 			<File>ZDFneo.png</File>
@@ -6642,8 +6647,8 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Zee.One">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Zee One.png</File>
 		</Channel>
@@ -6651,108 +6656,122 @@
 <!-- ******************************************************************** -->
 	<Radio>
 		<Channel>
+			<Item Name="106.4 Top FM" />
+			<Item Name="106">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>106.4 Top FM.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="80s80s">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>80s80s.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="AFK M94.5" />
+			<Item Name="M94">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>AFK M94.5.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="AFK Max">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>AFK Max.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="AlternativeFM">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>AlternativeFM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Antenne Bayern">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Antenne Bayern.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Antenne Brandenburg">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Antenne Brandenburg.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Antenne Saar">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="AntenneSaar">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Antenne Saar.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="B5 Aktuell">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>B5 Aktuell.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="B5 Plus">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>B5 Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Baden.FM">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Baden.FM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bayern 1 Niederbayern/Oberpfalz">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Bayern 1 Ober- und Mittelfranken">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Bayern 1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bayern 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bayern 2 Nord">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Bayern 2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bayern 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bayern 3">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bayern 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bayern Plus">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bayern Plus.png</File>
 		</Channel>
@@ -6761,16 +6780,16 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="BBC World Service (Arab.)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>BBC Arabic.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BBC World Service (E)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="BBC World Service">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="BBCW Service">
 				<Provider>Astra 19.2E</Provider>
@@ -6792,54 +6811,54 @@
 		<Channel>
 			<Item Name="BR Heimat">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>BR Heimat.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BR-Klassik">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>BR-Klassik.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bremen Eins">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bremen Eins.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bremen Next">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bremen Next.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bremen Vier">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bremen Vier.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bremen Zwei">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bremen Zwei.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Charivari 98.6" />
 			<Item Name="Radio Charivari Nürnberg">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Charivari 98.6.png</File>
 		</Channel>
@@ -6858,10 +6877,10 @@
 		<Channel>
 			<Item Name="Cosmo">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WDRCosmo">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Cosmo.png</File>
 		</Channel>
@@ -6879,8 +6898,8 @@
 		<Channel>
 			<Item Name="Dasding">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Dasding.png</File>
 		</Channel>
@@ -6900,10 +6919,10 @@
 			<Item Name="Deutschlandfunk Kultur" />
 			<Item Name="Dlf Kultur">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="DKultur">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Deutschlandfunk Kultur.png</File>
 		</Channel>
@@ -6911,8 +6930,8 @@
 			<Item Name="Deutschlandfunk Nova" />
 			<Item Name="Dlf Nova">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deutschlandfunk Nova.png</File>
 		</Channel>
@@ -6920,20 +6939,20 @@
 			<Item Name="Deutschlandfunk" />
 			<Item Name="Dlf">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deutschlandfunk.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Die Neue 107.7">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Die Neue 107.7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Die neue Welle">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Die neue Welle.png</File>
 		</Channel>
@@ -6946,30 +6965,30 @@
 		</Channel>
 		<Channel>
 			<Item Name="Domradio">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Domradio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Donau 3 FM">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Donau 3 FM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="EgoFM">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>EgoFM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ERF">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ERF Plus">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ERF Plus.png</File>
 		</Channel>
@@ -6988,7 +7007,7 @@
 		<Channel>
 			<Item Name="FM4">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Radio FM4">
 				<Provider>Terrestrial Wien</Provider>
@@ -7035,8 +7054,8 @@
 		<Channel>
 			<Item Name="Fritz">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Fritz.png</File>
 		</Channel>
@@ -7060,13 +7079,13 @@
 		</Channel>
 		<Channel>>
 			<Item Name="Hit Radio N1">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Hit Radio N1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Antenne 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Hitradio Antenne 1" />
 			<File>Hitradio Antenne 1.png</File>
@@ -7076,7 +7095,7 @@
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
 			<Item Name="OE 3">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="OE3">
 				<Provider>Astra 19.2E</Provider>
@@ -7086,16 +7105,16 @@
 		<Channel>
 			<Item Name="HR-Info">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HR-Info.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HR1">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HR1.png</File>
 		</Channel>
@@ -7103,46 +7122,46 @@
 			<Item Name="HR2-Kultur" />
 			<Item Name="HR2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HR2-Kultur.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HR3">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HR3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HR4">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HR4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HRT HR1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>HRT HR1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Inforadio">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Inforadio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Jam FM">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Jam FM.png</File>
 		</Channel>
@@ -7155,29 +7174,29 @@
 		<Channel>
 			<Item Name="JazzTime Nuremberg" />
 			<Item Name="JazzTime Nürnberg">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>JazzTime Nuremberg.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="JSTV Radio Japan">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>JSTV Radio Japan.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KiRaKa">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>KiRaKa.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Klassik Radio">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Klassik Radio.png</File>
 		</Channel>
@@ -7190,8 +7209,8 @@
 		<Channel>
 			<Item Name="Kulturradio">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kulturradio.png</File>
 		</Channel>
@@ -7203,43 +7222,50 @@
 			<File>Life Channel Radio.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Lora München" />
+			<Item Name="Lora">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>Lora Munchen.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="MDR Aktuell">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Aktuell.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Jump">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Jump.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Klassik">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Klassik.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Kultur">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Kultur.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR S-Anhalt MD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="MDR S-Anhalt">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="MDR Sachsen-Anhalt" />
 			<File>MDR Sachsen-Anhalt.png</File>
@@ -7247,43 +7273,43 @@
 		<Channel>
 			<Item Name="MDR Sachsen DD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="MDR Sachsen">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MDR Sachsen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Sputnik">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Sputnik.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Thüringen EF">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="MDR Thüringen">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>MDR Thuringen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mega Radio">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Mega Radio Bavaria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Metropol FM">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Radyo Metropol">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Metropol FM.png</File>
 		</Channel>
@@ -7303,18 +7329,18 @@
 		<Channel>
 			<Item Name="N-Joy">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>N-Joy.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR 1 Nieders. HAN">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NDR 1 Nieders.">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NDR 1 Niedersachsen" />
 			<File>NDR 1 Niedersachsen.png</File>
@@ -7322,10 +7348,10 @@
 		<Channel>
 			<Item Name="NDR 1 Radio MV SN">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NDR 1 Radio MV">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NDR 1 Radio MV.png</File>
 		</Channel>
@@ -7333,20 +7359,20 @@
 			<Item Name="NDR 1 Welle Nord" />
 			<Item Name="NDR1 Welle Nord KI">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NDR1WelleNord">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NDR 1 Welle Nord.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR 2 NDS">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NDR 2">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NDR 2.png</File>
 		</Channel>
@@ -7355,23 +7381,23 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="NDR 90">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>NDR 90,3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR Blue">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>NDR Blue.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR Info Spez.">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NDR Info Spezial" />
 			<File>NDR Info Spezial.png</File>
@@ -7379,26 +7405,26 @@
 		<Channel>
 			<Item Name="NDR Info NDS">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NDR Info">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NDR Info.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR Kultur">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>NDR Kultur.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDR Plus">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>NDR Plus.png</File>
 		</Channel>
@@ -7410,21 +7436,21 @@
 		</Channel>
 		<Channel>
 			<Item Name="NL-Radio 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NPO Radio 1" />
 			<File>NPO Radio 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NL-Radio 5">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NPO Radio 5" />
 			<File>NPO Radio 5.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Energy">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="NRJ">
 				<Provider>Astra 19.2E</Provider>
@@ -7433,7 +7459,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="OE 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="OE1 DD">
 				<Provider>Astra 19.2E</Provider>
@@ -7455,22 +7481,22 @@
 		</Channel>
 		<Channel>
 			<Item Name="Pink Radio">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Pink Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Planet Radio">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Planet Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Puls">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Puls.png</File>
 		</Channel>
@@ -7490,7 +7516,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio 21">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio 21.png</File>
 		</Channel>
@@ -7521,23 +7547,29 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio 8">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio 8.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Arabella">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>Radio Arabella.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RadioB2 Schlager">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Radio B2">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio B2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Bob!">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Bob.png</File>
 		</Channel>
@@ -7547,6 +7579,13 @@
 			</Item>
 			<Item Name="Radio Burgenland" />
 			<File>Radio Burgenland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio 95.5 Charivari Munchen" />
+			<Item Name="Radio Charivari München">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>Radio 95.5 Charivari Munchen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Clasica" />
@@ -7563,7 +7602,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio Dukagjini">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Dukagjini.png</File>
 		</Channel>
@@ -7571,15 +7610,15 @@
 			<Item Name="Radio Eins" />
 			<Item Name="RadioEins">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio Eins.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Exterior de España" />
 			<Item Name="Radio Exterior">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="RNE Radio Exterior de España">
 				<Provider>Astra 19.2E</Provider>
@@ -7588,9 +7627,16 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio F">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio F.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Feierwerk">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<Item Name="Radio Feierwerk" />
+			<File>Radio Feierwerk.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ffn">
@@ -7620,7 +7666,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio Galaxy">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio Galaxy.png</File>
 		</Channel>
@@ -7631,9 +7677,16 @@
 			<File>Radio Gloria.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Gong 96.3" />
+			<Item Name="Radio Gong 96">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>Radio Gong 96.3.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio Gong 97.1" />
 			<Item Name="Radio Gong Nürnberg">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio Gong 97.1.png</File>
 		</Channel>
@@ -7647,8 +7700,8 @@
 		<Channel>
 			<Item Name="Radio Horeb">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio Horeb.png</File>
 		</Channel>
@@ -7721,15 +7774,15 @@
 		<Channel>
 			<Item Name="Radio Paloma">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio Paloma.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Regenbogen">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Regenbogen.png</File>
 		</Channel>
@@ -7739,7 +7792,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio Z">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio Z.png</File>
 		</Channel>
@@ -7752,7 +7805,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Das neue Radio Seefunk">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Radio Seefunk" />
 			<File>Radio Seefunk.png</File>
@@ -7760,21 +7813,21 @@
 		<Channel>
 			<Item Name="Radio SRF 1" />
 			<Item Name="SRG-DRS 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio SRF 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio SRF 2 Kultur" />
 			<Item Name="SRG-DRS 2">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio SRF 2 Kultur.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio SRF 3" />
 			<Item Name="SRG-DRS 3">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio SRF 3.png</File>
 		</Channel>
@@ -7800,21 +7853,21 @@
 		<Channel>
 			<Item Name="Radio Swiss Classic" />
 			<Item Name="Swiss Classic">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Swiss Classic.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Swiss Jazz" />
 			<Item Name="Swiss Jazz">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Swiss Jazz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Swiss Pop" />
 			<Item Name="Swiss Pop">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Swiss Pop.png</File>
 		</Channel>
@@ -7827,7 +7880,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio Ton">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Ton.png</File>
 		</Channel>
@@ -7837,7 +7890,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="OE 2V">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="OE2 V">
 				<Provider>Astra 19.2E</Provider>
@@ -7854,7 +7907,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio ZET">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio ZET.png</File>
 		</Channel>
@@ -7874,17 +7927,17 @@
 		</Channel>
 		<Channel>
 			<Item Name="Rai Radio 1">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Rai Radio 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RadioBerlin 88">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="RBB 88.8">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RBB 88.8.png</File>
 		</Channel>
@@ -7916,13 +7969,13 @@
 		<Channel>
 			<Item Name="Rock Antenne">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Rock Antenne.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rockland Radio">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Rockland Radio.png</File>
 		</Channel>
@@ -7935,8 +7988,8 @@
 		<Channel>
 			<Item Name="RTL Radio">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL Radio.png</File>
 		</Channel>
@@ -7948,7 +8001,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio 21 Kosovo">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="RTV21" />
 			<File>RTV21.png</File>
@@ -7972,253 +8025,253 @@
 		</Channel>
 		<Channel>
 			<Item Name="Slow Türk">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Slow Turk.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SR 1 Europawelle">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SR 1 Europawelle.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SR 2 KulturRadio">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SR 2 KulturRadio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SR 3 Saarlandwelle">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SR 3 Saarlandwelle.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Star FM Maximum Rock! (Nürnberg)">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Star FM" />
 			<File>Star FM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="2000er">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="60er &amp; 70er Hits">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="80er &amp; 90er Hits">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="80er">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="90er">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="All Day Party">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Arabisch">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Arabic">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Bass Breaks &amp; Beats">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Blues">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Bollywood Hits">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Chansons">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Chillout">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Classic Calm">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Classic Rock">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Cocktail Lounge">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Cool Jazz">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Country">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Dance Party">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Dancefloor Fillers">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Drive">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Easy Listening Charts">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Groove (Disco &amp; Funk)">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Headbangers">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Heavy Metal">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Hip Hop">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Hits Aktuell">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Hot Country">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Independent Classics">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Jazz Classics">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Kinderhits">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Kinder">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Klassik">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Klassik Radio Movie">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Klassik Sinfonie">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Kuschelsongs">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Latin">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="New Age">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Pop Rock Soul">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="R 'n' B &amp; Soul Classics">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="R'n'B &amp; Soul Classic">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Reggae">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Revival - 60er &amp; 70er">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Rewind - 80er &amp; 90er">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Rock Anthems">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Rock Hymnen">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Rock 'n' Roll">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Rock'n'Roll Oldies">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Russkaja Musyka">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Saisonale Musik">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Schlager">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Sommer Hits">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Stingray Music" />
 			<Item Name="Stingray Special">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Summer Feelings">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Symphonie">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="The Alternative">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Total Hits Deutschland">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Total Hits Frankreich">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Total Hits Italien">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Total Hits Polen">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Total Hits Russland">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Turk Muzigi">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Türk Müzigi">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Urban">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Volksmusik">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="World Music">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Stingray Music.png</File>
 		</Channel>
@@ -8230,31 +8283,31 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio Sunshine Live">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Sunshine Live">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sunshine Live.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR Aktuell">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SWR Aktuell.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR1 BW">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="SWR1 RP">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="SWR1" />
 			<File>SWR1.png</File>
@@ -8262,29 +8315,29 @@
 		<Channel>
 			<Item Name="SWR2">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SWR2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR3">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>SWR3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR4 BW">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="SWR4 RP">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="SWR4" />
 			<File>SWR4.png</File>
@@ -8310,8 +8363,8 @@
 		</Channel>
 		<Channel>
 			<Item Name="UnserDing">
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>UnserDing.png</File>
 		</Channel>
@@ -8324,8 +8377,8 @@
 		<Channel>
 			<Item Name="1Live Diggi">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WDR 1Live Diggi" />
 			<File>WDR 1Live Diggi.png</File>
@@ -8333,26 +8386,26 @@
 		<Channel>
 			<Item Name="1Live">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WDR 1Live" />
 			<File>WDR 1Live.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR 2 Ostwestfalen-Lippe">
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WDR 2 Rhein und Ruhr">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="WDR 2 Rheinland">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WDR 2 Ruhrgebiet">
-				<Provider>Unitymedia</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="WDR 2" />
 			<File>WDR 2.png</File>
@@ -8360,39 +8413,39 @@
 		<Channel>
 			<Item Name="WDR 3">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>WDR 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR 4">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>WDR 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR 5">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>WDR 5.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR Event">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>WDR Event.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="You FM">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia</Provider>
-				<Provider>Vodafone Kabel</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>You FM.png</File>
 		</Channel>
