@@ -1307,6 +1307,13 @@
 			<File>EFF 3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="EHF Champions League" />
+			<Item Name="Live Handball CL">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<File>EHF Champions League.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Elbe-Elster Fernsehen" />
 			<File>Elbe-Elster Fernsehen.png</File>
 		</Channel>
@@ -1776,6 +1783,13 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>GoldStar TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Golf" />
+			<Item Name="Live Golf">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<File>Golf.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Gotv neu">
@@ -2766,7 +2780,9 @@
 			<File>Munde TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MV1" />
+			<Item Name="MV1">
+				<Provider>Vodafone Kabel Rostock</Provider>
+			</Item>
 			<File>MV1.png</File>
 		</Channel>
 		<Channel>
@@ -4140,6 +4156,9 @@
 			<File>Rocket Beans TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Rok TV">
+				<Provider>Vodafone Kabel Rostock</Provider>
+			</Item>
 			<Item Name="Rok-TV" />
 			<File>Rok-TV.png</File>
 		</Channel>
@@ -4690,6 +4709,7 @@
 		<Channel>
 			<Item Name="Sixx Austria">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC Tirol</Provider>
 			</Item>
 			<File>Sixx Austria.png</File>
 		</Channel>
@@ -6108,7 +6128,9 @@
 			<File>TV Westsachsen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV.Rostock" />
+			<Item Name="TV.Rostock">
+				<Provider>Vodafone Kabel Rostock</Provider>
+			</Item>
 			<File>TV.Rostock.png</File>
 		</Channel>
 		<Channel>
@@ -6223,7 +6245,7 @@
 			<File>Uckermark TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="UHD1 by ASTRA / HD+">
+			<Item Name="UHD1 by Astra / HD+">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="UHD1" />
@@ -6555,7 +6577,7 @@
 			<File>WT1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="20|15 WWE PPV">
+			<Item Name="Wrestling PPV">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WWE" />
