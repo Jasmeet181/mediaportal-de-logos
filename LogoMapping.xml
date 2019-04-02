@@ -1740,6 +1740,13 @@
 			<File>Genius Exklusiv.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Genius Family" />
+			<Item Name="Genius TV Family">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Genius Family.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Genius Plus TV" />
 			<Item Name="Genius Plus">
 				<Provider>Astra 19.2E</Provider>
@@ -3561,10 +3568,11 @@
 			<Item Name="Penthouse HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="Penthouse Passion" />
 			<Item Name="Penthouse">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
-			<File>Penthouse HD.png</File>
+			<File>Penthouse Passion.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Peretz International" />
@@ -5918,16 +5926,6 @@
 		<Channel>
 			<Item Name="Tlnovelas" />
 			<File>Tlnovelas.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closing 31/03/19 -->
-			<Item Name="TM3" />
-			<File>TM3.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closing 31/03/19 -->
-			<Item Name="TM3+" />
-			<File>TM3Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TNT Comedy HD">
