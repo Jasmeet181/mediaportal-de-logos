@@ -126,6 +126,7 @@
 			<File>8Sport.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closing 29/06/19 -->
 			<Item Name="A&amp;E HD">
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -133,6 +134,7 @@
 			<File>A and E HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closing 29/06/19 -->
 			<Item Name="A&amp;E">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -975,6 +977,16 @@
 			<File>Coswiger Infokanal K3.png</File>
 		</Channel>
 		<Channel>
+		<!-- Launches 29/06/19 -->
+			<Item Name="Crime and Investigation HD" />
+			<File>Crime and Investigation HD.png</File>
+		</Channel>
+		<Channel>
+		<!-- Launches 29/06/19 -->
+			<Item Name="Crime and Investigation" />
+			<File>Crime and Investigation.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Cubavision Internacional">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -998,6 +1010,10 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Das Erste.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Das Frankfurter Fernsehen" />
+			<File>Das Frankfurter Fernsehen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dasding (Internet)">
@@ -1062,7 +1078,8 @@
 			<File>Deutsche Welle.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Deutsches Musik Fernsehen HD" />
+			<Item Name="Deutsches Musik Fernsehen HD">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
 			<File>Deutsches Musik Fernsehen HD.png</File>
 		</Channel>
 		<Channel>
@@ -1732,6 +1749,10 @@
 		<Channel>
 			<Item Name="FS1" />
 			<File>FS1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FRM-TV" />
+			<File>FRM-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Genius Exklusiv">
@@ -2759,8 +2780,12 @@
 			<File>MTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Muhlviertel TV" />
+			<Item Name="Mühlviertel TV" />
 			<File>Muhlviertel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Muldental TV" />
+			<File>Muldental TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="München.tv HD">
@@ -3204,6 +3229,10 @@
 			<File>Oe24.TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Offener Kanal Dessau" />
+			<File>Offener Kanal Dessau.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Offener Kanal Flensburg" />
 			<File>Offener Kanal Flensburg.png</File>
 		</Channel>
@@ -3214,6 +3243,14 @@
 		<Channel>
 			<Item Name="Offener Kanal Merseburg-Querfurt" />
 			<File>Offener Kanal Merseburg-Querfurt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Offener Kanal Salzwedel" />
+			<File>Offener Kanal Salzwedel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Offener Kanal Wernigerode" />
+			<File>Offener Kanal Wernigerode.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OFTV" />
@@ -4785,6 +4822,16 @@
 			<File>Sky Atlantic HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Atlantic Thrones HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Atlantic Thrones HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Atlantic Thrones" />
+			<File>Sky Atlantic Thrones.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Atlantic">
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -5554,6 +5601,10 @@
 			</Item>
 			<Item Name="StarParadies" />
 			<File>StarParadies.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stendaler Fernsehen Offener Kanal" />
+			<File>Stendaler Fernsehen Offener Kanal.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Classica HD">
@@ -6569,6 +6620,13 @@
 		<Channel>
 			<Item Name="WNTV" />
 			<File>WNTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Live Golf WGC">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="World Golf Championships" />
+			<File>World Golf Championships.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WT1" />
