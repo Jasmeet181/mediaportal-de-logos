@@ -1743,16 +1743,16 @@
 			<File>Friesischer Rundfunk.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="FRM-TV" />
+			<File>FRM-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="FS1 HD" />
 			<File>FS1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="FS1" />
 			<File>FS1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="FRM-TV" />
-			<File>FRM-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Genius Exklusiv">
