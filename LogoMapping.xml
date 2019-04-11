@@ -6290,6 +6290,10 @@
 			<File>TVS.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="UATV" />
+			<File>UATV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Uckermark TV" />
 			<File>Uckermark TV.png</File>
 		</Channel>
