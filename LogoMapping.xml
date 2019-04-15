@@ -383,6 +383,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="ATP" />
+			<Item Name="Live Tennis ATP">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
 			<Item Name="Tennis ATP">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -1062,6 +1065,12 @@
 		</Channel>
 		<Channel>
 			<Item Name="Deutsche Eishockey Liga" />
+			<Item Name="Eishockey AUT">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Eishockey">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
 			<Item Name="Live Eishockey">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -1352,6 +1361,10 @@
 				<Provider>UPC Tirol</Provider>
 			</Item>
 			<File>Enjoy The Alps TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EOTV HD" />
+			<File>EOTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="EOTV">
@@ -1926,8 +1939,9 @@
 			<File>Herzo.TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 06/06/19 -->
-			<Item Name="HGTV" />
+			<Item Name="HGTV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>HGTV.png</File>
 		</Channel>
 		<Channel>
