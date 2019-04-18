@@ -4430,6 +4430,13 @@
 			<File>RTL Passion.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL Bayern">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTL TV Bayern" />
+			<File>RTL TV Bayern.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RTL UHD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -4444,9 +4451,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="RTL Austria">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL Bayern">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="RTL CH">
