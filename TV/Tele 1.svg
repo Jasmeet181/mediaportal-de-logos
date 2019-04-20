@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg id="Ebene_1" enable-background="new 0 0 1604.6 748.1" version="1.1" viewBox="0 0 1604.6 748.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<g id="g88-9" transform="translate(-29.7,-32.9)" fill="url(#path23-0_1_)">
-		<radialGradient id="path23-0_1_" cx="-377.66" cy="-348.9" r="3943.7" gradientTransform="matrix(1 0 0 -1 -29.7 782.9)" gradientUnits="userSpaceOnUse">
+<svg id="e" enable-background="new 0 0 1604.6 748.1" version="1.1" viewBox="0 0 1604.6 748.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<g id="f" transform="translate(-29.7,-32.9)" fill="url(#a)">
+		<radialGradient id="a" cx="-377.66" cy="-348.9" r="3943.7" gradientTransform="matrix(1 0 0 -1 -29.7 782.9)" gradientUnits="userSpaceOnUse">
 		<stop stop-color="#1D8EF9" offset=".1797"/>
 		<stop stop-color="#1A8BF5" offset=".2455"/>
 		<stop stop-color="#1082E7" offset=".3174"/>
@@ -13,12 +11,12 @@
 		<stop stop-color="#1DB6F9" offset=".7779"/>
 		<stop stop-color="#1DBBF9" offset=".894"/>
 	</radialGradient>
-	<path id="path23-0" d="m212.9 705.5c-15 0-27.7-4.5-33.7-12.7-6-7.5-7.5-15.7-7.5-43.4v-184.7h68.8v-57.6h-68.8v-121.2h-91.2v121.2h-50.8v57.6h50.9v184.8c0 32.9 0.7 47.9 3.7 62.1 5.2 26.9 18.7 44.1 43.4 53.9 12.7 5.2 19.4 6 53.1 6h65.1v-67.5l-7.5 0.7-25.5 0.8z"/>
-	<path id="path44-1" d="m436.6 397.3c-105.5 0-177.3 77.8-177.3 192.2 0 112.2 76.3 191.5 184.8 191.5 83 0 149.6-45.6 171.3-118.9h-94.2c-16.5 30.7-42.6 46.4-78.5 46.4-51.6 0-83-34.4-89.8-98h266.3c-2.3-133.1-71.1-213.2-182.6-213.2zm-81.5 153.4c7.5-53.1 38.1-83 84.5-83 48.6 0 78.5 29.9 85.3 83h-169.8z"/>
-	<path id="rect65-9" d="M672.2,272.4h91.3v498.9h-91.3V272.4z"/>
-	<path id="path86-1" d="m999.8 708.5c-51.6 0-83-34.4-89.8-98h266.3c-2.2-133.1-71.1-213.2-182.5-213.2-105.5 0-177.3 77.8-177.3 192.2 0 112.2 76.3 191.5 184.8 191.5 83 0 149.6-45.6 171.3-118.9h-94.2c-16.5 30.7-42.7 46.4-78.6 46.4zm-3-240.8c48.6 0 78.5 29.9 85.3 83h-169.8c7.5-53.1 38.2-83 84.5-83z"/>
+	<path id="g" d="m212.9 705.5c-15 0-27.7-4.5-33.7-12.7-6-7.5-7.5-15.7-7.5-43.4v-184.7h68.8v-57.6h-68.8v-121.2h-91.2v121.2h-50.8v57.6h50.9v184.8c0 32.9 0.7 47.9 3.7 62.1 5.2 26.9 18.7 44.1 43.4 53.9 12.7 5.2 19.4 6 53.1 6h65.1v-67.5l-7.5 0.7-25.5 0.8z"/>
+	<path id="h" d="m436.6 397.3c-105.5 0-177.3 77.8-177.3 192.2 0 112.2 76.3 191.5 184.8 191.5 83 0 149.6-45.6 171.3-118.9h-94.2c-16.5 30.7-42.6 46.4-78.5 46.4-51.6 0-83-34.4-89.8-98h266.3c-2.3-133.1-71.1-213.2-182.6-213.2zm-81.5 153.4c7.5-53.1 38.1-83 84.5-83 48.6 0 78.5 29.9 85.3 83h-169.8z"/>
+	<path id="i" d="M672.2,272.4h91.3v498.9h-91.3V272.4z"/>
+	<path id="j" d="m999.8 708.5c-51.6 0-83-34.4-89.8-98h266.3c-2.2-133.1-71.1-213.2-182.5-213.2-105.5 0-177.3 77.8-177.3 192.2 0 112.2 76.3 191.5 184.8 191.5 83 0 149.6-45.6 171.3-118.9h-94.2c-16.5 30.7-42.7 46.4-78.6 46.4zm-3-240.8c48.6 0 78.5 29.9 85.3 83h-169.8c7.5-53.1 38.2-83 84.5-83z"/>
 </g>
-<radialGradient id="circle109_1_" cx="1261.7" cy="-74.864" r="1041.7" gradientTransform="matrix(1 -.0035792 -.0035792 -1 -28.285 722.19)" gradientUnits="userSpaceOnUse">
+<radialGradient id="d" cx="1261.7" cy="-74.864" r="1041.7" gradientTransform="matrix(1 -.0035792 -.0035792 -1 -28.285 722.19)" gradientUnits="userSpaceOnUse">
 	<stop stop-color="#1D8EF9" offset=".1797"/>
 	<stop stop-color="#1A8BF5" offset=".2455"/>
 	<stop stop-color="#1082E7" offset=".3174"/>
@@ -29,20 +27,20 @@
 	<stop stop-color="#1DB6F9" offset=".7779"/>
 	<stop stop-color="#1DBBF9" offset=".894"/>
 </radialGradient>
-<path id="circle109" d="m1604.6 247.6c0 136.7-110.9 247.6-247.6 247.6s-247.6-110.9-247.6-247.6 110.9-247.6 247.6-247.6 247.6 110.9 247.6 247.6z" fill="url(#circle109_1_)"/>
-<radialGradient id="path120_1_" cx="1412.9" cy="513.07" r="154.64" gradientTransform="matrix(1 0 0 -1 -29.7 717.1)" gradientUnits="userSpaceOnUse">
+<path id="k" d="m1604.6 247.6c0 136.7-110.9 247.6-247.6 247.6s-247.6-110.9-247.6-247.6 110.9-247.6 247.6-247.6 247.6 110.9 247.6 247.6z" fill="url(#d)"/>
+<radialGradient id="b" cx="1412.9" cy="513.07" r="154.64" gradientTransform="matrix(1 0 0 -1 -29.7 717.1)" gradientUnits="userSpaceOnUse">
 	<stop stop-color="#E2EBF9" offset="0"/>
 	<stop stop-color="#DDE7F6" offset=".3309"/>
 	<stop stop-color="#CDDBEE" offset=".7435"/>
 	<stop stop-color="#C0D1E7" offset="1"/>
 </radialGradient>
-<path id="path120" d="m1401.6 97.4c-14.4-14.2-37.8-14.2-52.2 0.1l-66.6 66.6c-14.4 14.4-14.4 37.9 0 52.3s37.9 14.4 52.3 0l6.1-6.1v160.7c0 20.3 16.6 37 37 37s37-16.7 37-37v-245c0-11.5-5.3-21.8-13.6-28.6z" fill="url(#path120_1_)"/>
-<radialGradient id="circle133_1_" cx="772.3" cy="168.08" r="1645.5" gradientTransform="matrix(.8746 -.4848 -.3248 -.586 111.16 1105.3)" gradientUnits="userSpaceOnUse">
+<path id="l" d="m1401.6 97.4c-14.4-14.2-37.8-14.2-52.2 0.1l-66.6 66.6c-14.4 14.4-14.4 37.9 0 52.3s37.9 14.4 52.3 0l6.1-6.1v160.7c0 20.3 16.6 37 37 37s37-16.7 37-37v-245c0-11.5-5.3-21.8-13.6-28.6z" fill="url(#b)"/>
+<radialGradient id="c" cx="772.3" cy="168.08" r="1645.5" gradientTransform="matrix(.8746 -.4848 -.3248 -.586 111.16 1105.3)" gradientUnits="userSpaceOnUse">
 	<stop stop-color="#0071BC" stop-opacity=".3" offset=".2262"/>
 	<stop stop-color="#A1C3D9" stop-opacity=".088931" offset=".4391"/>
 	<stop stop-color="#E6E6E6" stop-opacity="0" offset=".5287"/>
 	<stop stop-color="#E6E6E6" stop-opacity=".1" offset=".53"/>
 	<stop stop-color="#E6E6E6" stop-opacity=".7" offset=".629"/>
 </radialGradient>
-<path id="circle133" d="m1604.6 247.6c0 136.7-110.9 247.6-247.6 247.6s-247.6-110.9-247.6-247.6 110.9-247.6 247.6-247.6 247.6 110.9 247.6 247.6z" fill="url(#circle133_1_)"/>
+<path id="m" d="m1604.6 247.6c0 136.7-110.9 247.6-247.6 247.6s-247.6-110.9-247.6-247.6 110.9-247.6 247.6-247.6 247.6 110.9 247.6 247.6z" fill="url(#c)"/>
 </svg>

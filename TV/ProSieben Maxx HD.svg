@@ -1,35 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg40" width="794.33" height="124.02" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" version="1.1" viewBox="0 0 7036.8 1099" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata46">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g38" fill="#e5e6d7" fill-rule="nonzero">
-  <g id="g6">
-   <polygon id="polygon2" transform="translate(-1.119)" points="1099 314 1099 0 0 0 0 314"/>
-   <path id="path4" d="m1097.9 377s-319-20-659 188c-346 212-430 510-439 534h1099v-722z"/>
+<svg id="a" width="794.33" height="124.02" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" version="1.1" viewBox="0 0 7036.8 1099" xmlns="http://www.w3.org/2000/svg">
+ <g id="b" fill="#e5e6d7" fill-rule="nonzero">
+  <g id="c">
+   <polygon id="d" transform="translate(-1.119)" points="1099 314 1099 0 0 0 0 314"/>
+   <path id="e" d="m1097.9 377s-319-20-659 188c-346 212-430 510-439 534h1099v-722z"/>
   </g>
-  <g id="g30" transform="translate(-1.119)">
-   <polygon id="polygon8" points="1821 1099 1193 183 1193 1099"/>
-   <polygon id="polygon10" points="2480 1099 1726 0 1193 0 1193 137 1852 1099 1852 1099"/>
-   <polygon id="polygon12" points="4049 1099 4049 1099 3296 0 2668 0 3421 1098 3421 1099 3421 1099"/>
-   <polygon id="polygon14" points="4143 0 3516 0 4269 1099 4269 1099 4897 1099"/>
-   <polygon id="polygon16" points="2103 0 1930 252 2511 1099 2574 1099 2574 0"/>
-   <polygon id="polygon18" points="4724 801 4928 1099 5148 1099 4834 641"/>
-   <polygon id="polygon20" points="5054 0 5054 0 4740 458 5179 1099 5179 1099 5807 1099"/>
-   <polygon id="polygon22" points="4363 0 4269 137 4551 550 4929 0"/>
-   <polygon id="polygon24" points="5838 0 5838 0 5273 0 5179 137 5461 550"/>
-   <polygon id="polygon26" points="3924 641 3845 755 4081 1099 4081 1099 4238 1099"/>
-   <polygon id="polygon28" points="3045 1099 3045 1099 3218 847 2668 46 2668 1099"/>
+  <g id="f" transform="translate(-1.119)">
+   <polygon id="g" points="1821 1099 1193 183 1193 1099"/>
+   <polygon id="h" points="2480 1099 1726 0 1193 0 1193 137 1852 1099 1852 1099"/>
+   <polygon id="i" points="4049 1099 4049 1099 3296 0 2668 0 3421 1098 3421 1099 3421 1099"/>
+   <polygon id="j" points="4143 0 3516 0 4269 1099 4269 1099 4897 1099"/>
+   <polygon id="k" points="2103 0 1930 252 2511 1099 2574 1099 2574 0"/>
+   <polygon id="l" points="4724 801 4928 1099 5148 1099 4834 641"/>
+   <polygon id="m" points="5054 0 5054 0 4740 458 5179 1099 5179 1099 5807 1099"/>
+   <polygon id="n" points="4363 0 4269 137 4551 550 4929 0"/>
+   <polygon id="o" points="5838 0 5838 0 5273 0 5179 137 5461 550"/>
+   <polygon id="p" points="3924 641 3845 755 4081 1099 4081 1099 4238 1099"/>
+   <polygon id="q" points="3045 1099 3045 1099 3218 847 2668 46 2668 1099"/>
   </g>
-  <g id="g36">
-   <polygon id="polygon32" transform="translate(-1.119)" points="5954 0 6073 0 6073 219 6293 219 6293 0 6411 0 6411 554 6293 554 6293 332 6073 332 6073 554 5954 554"/>
-   <path id="path34" d="m6750.9 0h-211v110h211c97 0 163 69 163 167v2c0 98-66 165-163 165h-92v-212h-119v323h211c170 0 287-121 287-277v-1c0-156-117-276-287-276z"/>
+  <g id="r">
+   <polygon id="s" transform="translate(-1.119)" points="5954 0 6073 0 6073 219 6293 219 6293 0 6411 0 6411 554 6293 554 6293 332 6073 332 6073 554 5954 554"/>
+   <path id="t" d="m6750.9 0h-211v110h211c97 0 163 69 163 167v2c0 98-66 165-163 165h-92v-212h-119v323h211c170 0 287-121 287-277v-1c0-156-117-276-287-276z"/>
   </g>
  </g>
 </svg>

@@ -1,26 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="600" height="140.38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg version="1.1" viewBox="0 0 600 140.38" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient16059" x1="274.64" x2="302.81" y1="353.66" y2="325.49" gradientTransform="matrix(2.0054 0 0 2.0054 -177.54 -689.18)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="a" x1="274.64" x2="302.81" y1="353.66" y2="325.49" gradientTransform="matrix(2.0054 0 0 2.0054 -177.54 -689.18)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#001a4b" offset="0"/>
    <stop stop-color="#001a4b" stop-opacity="0" offset="1"/>
   </linearGradient>
  </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
  <g transform="translate(420.94 1279.6)" display="none">
   <rect transform="translate(-380.77 -1270.2)" x="-60.714" y="-48.417" width="767.86" height="232.14" rx=".9866" ry="2.5584" fill="#1a1a1a"/>
  </g>
  <g transform="translate(40.171 9.3986)">
-  <path d="m489.64-9.3986c-38.765 0-70.19 31.425-70.19 70.19s31.425 70.19 70.19 70.19 70.19-31.425 70.19-70.19-31.425-70.19-70.19-70.19zm0 14.038c31.012 0 56.152 25.14 56.152 56.152s-25.14 56.152-56.152 56.152-56.152-25.14-56.152-56.152 25.14-56.152 56.152-56.152z" fill="url(#linearGradient16059)"/>
+  <path d="m489.64-9.3986c-38.765 0-70.19 31.425-70.19 70.19s31.425 70.19 70.19 70.19 70.19-31.425 70.19-70.19-31.425-70.19-70.19-70.19zm0 14.038c31.012 0 56.152 25.14 56.152 56.152s-25.14 56.152-56.152 56.152-56.152-25.14-56.152-56.152 25.14-56.152 56.152-56.152z" fill="url(#a)"/>
   <path d="m387.54 24.626c-12.187 0-22.046 9.9238-22.046 22.082 0 12.229 9.8585 22.154 22.046 22.154 12.182 0 22.082-9.9245 22.082-22.154 0-12.158-9.8994-22.082-22.082-22.082zm0 3.2473c10.345 0 18.87 8.4606 18.87 18.834 0 10.444-8.5256 18.907-18.87 18.907-10.345 0-18.87-8.4626-18.87-18.907 0-10.374 8.5259-18.834 18.87-18.834zm8.9842 5.6647-22.262 8.0101v5.4482l7.3245-2.6339v16.633l14.938-5.2679v-22.19z" fill="#001a4b" fill-rule="evenodd"/>
   <path d="m231.31 27.764v60.226h10.529v-19.804c0-7.1798 4.2243-13.286 9.5885-13.286 3.8787 0 5.0136 2.6024 5.0136 6.8938v26.196h10.529v-28.765c0-7.1797-2.9777-13.098-12.221-13.098-6.3545 0-11.081 3.0244-13.474 7.6457l-0.1879-0.06235c0.57767-2.3931 0.75203-5.8592 0.75203-8.335v-17.61h-10.529z" fill="#001a4b" fill-rule="evenodd"/>
   <path d="m-25.067 31.65-6.2043 1.7548v13.599h-8.8991v4.8884h8.8991v24.629c0 8.5001 2.4013 12.158 10.654 12.158 2.5583 0 5.4374-0.31959 7.583-0.8148v-5.3895c-1.6505 0.49521-3.7651 0.75199-5.8283 0.75199-4.869 0-6.2043-1.8677-6.2043-9.2125v-22.122h12.033v-4.8884h-12.033v-15.354z" fill="#001a4b" fill-rule="evenodd"/>

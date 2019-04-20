@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="200mm" height="86.166mm" version="1.1" viewBox="0 0 200 86.166" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <clipPath id="clipPath6704">
+  <clipPath id="a">
    <path d="m119.25 234.57h20.347v8.699h-20.347z"/>
   </clipPath>
  </defs>
  <g transform="translate(478.73 39.393)">
   <g transform="matrix(9.9053 0 0 -9.9053 -1661.5 2370.2)">
-   <g clip-path="url(#clipPath6704)">
+   <g clip-path="url(#a)">
     <path d="m130.86 237.41c1.58 0 2.861 1.312 2.861 2.929 0 1.618-1.281 2.929-2.861 2.929s-2.861-1.311-2.861-2.929l1.798 0.013c0 0.663 0.476 1.199 1.063 1.199s1.063-0.536 1.063-1.199c0-0.662-0.476-1.199-1.063-1.199z" fill="#92278f"/>
    </g>
   </g>

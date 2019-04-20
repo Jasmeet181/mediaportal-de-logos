@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg height="64.998" viewBox="0 0 220 65" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="0">
+  <linearGradient id="a">
    <stop stop-color="#f92115" offset="0"/>
    <stop stop-color="#ff746c" stop-opacity=".902" offset="1"/>
   </linearGradient>
-  <linearGradient id="1" x2="0" y1="190.58" y2="125.58" gradientUnits="userSpaceOnUse" xlink:href="#0"/>
-  <linearGradient id="2" x2="0" y1="190.58" y2="125.58" gradientTransform="matrix(1.3255 0 0 1 73.17 0)" gradientUnits="userSpaceOnUse" xlink:href="#0"/>
+  <linearGradient id="c" x2="0" y1="190.58" y2="125.58" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x2="0" y1="190.58" y2="125.58" gradientTransform="matrix(1.3255 0 0 1 73.17 0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  </defs>
  <g transform="translate(-78.57 -125.58)">
-  <path d="m78.571 125.58h91.48v65h-91.48" fill="url(#1)"/>
-  <path d="m177.32 125.58h121.25v65h-121.25" fill="url(#2)"/>
+  <path d="m78.571 125.58h91.48v65h-91.48" fill="url(#c)"/>
+  <path d="m177.32 125.58h121.25v65h-121.25" fill="url(#b)"/>
   <g fill="#dedcdb">
    <path transform="matrix(1.25 0 0 1.25 78.57 125.58)" d="m6.21 8.6631h27.19v6.2651h-9.6084v29.072h-8.0192v-29.072h-9.5624z"/>
    <path transform="matrix(1.25 0 0 1.25 78.57 125.58)" d="m35.438 8.6631h8.6448l7.547 27.467 8.221-27.467h8.3111l-11.991 35.337h-9.3842z"/>

@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="600" height="281.41" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg version="1.0" viewBox="0 0 600 281.41" xmlns="http://www.w3.org/2000/svg">
  <g fill="#001a4b">
   <g transform="matrix(.50007 0 0 .50007 -90.112 -39.714)">
    <path d="m1103.3 190.59v349.25h89.406c162.24 0 187.31-82.537 187.31-175.84 0-84.266-26.292-173.41-187.31-173.41-26.827 1e-5 -89.406 0-89.406 0zm89.406 75.156s17.46 1e-5 24.937 0c57.177 0 72.969 54.112 72.969 100.84 0 49.63-16.525 101.66-68.688 101.66h-29.219v-202.5z" fill-rule="evenodd"/>

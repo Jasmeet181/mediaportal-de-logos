@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1053.5" viewBox="0 0 1053.5 164.17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1053.5" viewBox="0 0 1053.5 164.17" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="1" x1="-1029.3" x2="-915.18" y1="138.41" y2="25.27" gradientUnits="userSpaceOnUse">
+  <linearGradient id="a" x1="-1029.3" x2="-915.18" y1="138.41" y2="25.27" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fba10d" offset="0"/>
    <stop stop-color="#ffce08" offset="1"/>
   </linearGradient>
  </defs>
- <rect transform="scale(-1 1)" x="-1053.5" y=".017" width="163.89" height="164.04" fill="url(#1)"/>
+ <rect transform="scale(-1 1)" x="-1053.5" y=".017" width="163.89" height="164.04" fill="url(#a)"/>
  <rect x="381.47" y=".017" width="508.17" height="164.04"/>
  <path d="m0 164.17h383.32v-164.17h-383.32v164.17z" fill="#ec1b24"/>
  <g transform="matrix(.80408 0 0 .80408 -38.809 -310.3)" fill="#fff">
