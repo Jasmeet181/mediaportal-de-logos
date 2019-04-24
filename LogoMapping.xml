@@ -1282,6 +1282,10 @@
 			<File>DRF 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Dubai TV" />
+			<File>Dubai TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Duck TV" />
 			<File>Duck TV.png</File>
 		</Channel>
@@ -1379,6 +1383,12 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ERT World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESports1 HD">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>ESports1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ESports1" />
@@ -1550,6 +1560,10 @@
 		<Channel>
 			<Item Name="Eurosport News" />
 			<File>Eurosport News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Evil Angel HD" />
+			<File>Evil Angel HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="EWTN Katholisches TV">
@@ -6068,13 +6082,6 @@
 			<File>Torgau TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travel Channel Deutschland">
-				<Provider>Unitymedia Lörrach</Provider>
-			</Item>
-			<Item Name="Travel Channel" />
-			<File>Travel Channel.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Travelxp 4K">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -6804,6 +6811,10 @@
 			<File>Antenne Brandenburg.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Antenne Karnten" />
+			<File>Antenne Karnten.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Antenne Saar">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -6811,6 +6822,18 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Antenne Saar.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antenne Steiermark" />
+			<File>Antenne Steiermark.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antenne Tirol" />
+			<File>Antenne Tirol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ARS 3" />
+			<File>ARS 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="B5 Aktuell">
@@ -7152,6 +7175,14 @@
 			<File>Franceinfo.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Freies Radio Salzkammergut" />
+			<File>Freies Radio Salzkammergut.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Freirad Freies Radio Innsbruck" />
+			<File>Freirad Freies Radio Innsbruck.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Fritz">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -7320,6 +7351,10 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Life Channel Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Life Radio" />
+			<File>Life Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Lora München" />
@@ -7549,6 +7584,10 @@
 			<File>NPO Radio 5.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NPR" />
+			<File>NPR.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Energy">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -7556,6 +7595,10 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>NRJ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Orange 94.0" />
+			<File>Orange 94.0.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OE 1">
@@ -7646,10 +7689,18 @@
 			<File>Radio 7.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio 88.6" />
+			<File>Radio 88.6.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio 8">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Agora" />
+			<File>Radio Agora.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Arabella">
@@ -7813,6 +7864,10 @@
 			<File>Radio Karnten.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Klassik Stephansdom" />
+			<File>Radio Klassik Stephansdom.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio Lebensquelle">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -7865,6 +7920,10 @@
 			<File>Radio Nova.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Ö24" />
+			<File>Radio O24.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="OE2 O">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -7878,6 +7937,10 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Radio Paloma.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Prvi" />
+			<File>Radio Prvi.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Regenbogen">
@@ -8392,6 +8455,10 @@
 			<File>Sunshine Live.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Superfly" />
+			<File>Superfly.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SWR Aktuell">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8540,6 +8607,14 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>WDR Event.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Welle 1" />
+			<File>Welle 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WRN Broadcast" />
+			<File>WRN Broadcast.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="You FM">
