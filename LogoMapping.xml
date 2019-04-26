@@ -1089,6 +1089,7 @@
 		<Channel>
 			<Item Name="Deutsches Musik Fernsehen HD">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
 			<File>Deutsches Musik Fernsehen HD.png</File>
 		</Channel>
 		<Channel>
