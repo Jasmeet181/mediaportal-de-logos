@@ -82,7 +82,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="4+ HD" />
-			<File>4+ HD.png</File>
+			<File>4 Plus HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="4+" />
@@ -3586,8 +3586,8 @@
 			<Item Name="Eishockey AUT">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<Item Name="Osterreichischer Eishockeyverband" />
-			<File>Österreichischer Eishockeyverband.png</File>
+			<Item Name="Österreichischer Eishockeyverband" />
+			<File>Osterreichischer Eishockeyverband.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OstWest (rus)">
@@ -6550,13 +6550,13 @@
 			<Item Name="WDR HD Siegen">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>WDR HD Siegen HD.png</File>
+			<File>WDR HD Siegen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR HD Wuppertal">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>WDR HD Wuppertal HD.png</File>
+			<File>WDR HD Wuppertal.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR HD" />
@@ -8081,13 +8081,6 @@
 			</Item>
 			<Item Name="RadioHBR" />
 			<File>RadioHBR.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ffn">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Rafio Ffn" />
-			<File>Rafio Ffn.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai Radio 1">
