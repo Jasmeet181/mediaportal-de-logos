@@ -3056,6 +3056,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="NHK World HD" />
+			<Item Name="NHK World-Japan (eng)">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="NHK World-Japan">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -3378,6 +3381,22 @@
 			<File>One.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ORF 1 HD" />
+			<Item Name="ORF1 HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Terrestrial Wien</Provider>
+			</Item>
+			<File>ORF 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ORF 1" />
+			<Item Name="ORF1">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Terrestrial Wien</Provider>
+			</Item>
+			<File>ORF 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ORF 2 Burgenland HD" />
 			<Item Name="ORF2 B HD">
 				<Provider>Terrestrial Wien</Provider>
@@ -3533,24 +3552,6 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>ORF 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ORF Eins HD">
-				<Provider>UPC Tirol</Provider>
-			</Item>
-			<Item Name="ORF1 HD">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Terrestrial Wien</Provider>
-			</Item>
-			<File>ORF Eins HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ORF Eins" />
-			<Item Name="ORF1">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Terrestrial Wien</Provider>
-			</Item>
-			<File>ORF Eins.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ORF III HD">
