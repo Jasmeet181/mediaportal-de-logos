@@ -4841,13 +4841,6 @@
 			<File>Sky 1.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closing 03/04/19 -->
-			<Item Name="Sky Arts HD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Sky Arts HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Sky Atlantic HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5118,7 +5111,9 @@
 			<File>Sky Sport 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport 10 HD" />
+			<Item Name="Sky Sport 10 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Sport 10 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5126,12 +5121,44 @@
 			<File>Sky Sport 10.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport 11 HD" />
+			<Item Name="Sky Sport 11 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Sport 11 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 11" />
 			<File>Sky Sport 11.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 12 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Sport 12 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 12" />
+			<File>Sky Sport 12.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 13 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Sport 13 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 13" />
+			<File>Sky Sport 13.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 14 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Sport 14 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 14" />
+			<File>Sky Sport 14.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 2 HD">
