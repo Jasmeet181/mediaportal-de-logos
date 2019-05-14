@@ -323,7 +323,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="ARD alpha">
-				<Provider>UPC Tirol</Provider>
+				<Provider>Magenta Tirol</Provider>
 			</Item>
 			<Item Name="ARD-alpha">
 				<Provider>Astra 19.2E</Provider>
@@ -417,7 +417,7 @@
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
 			<Item Name="ATV II">
-				<Provider>UPC Tirol</Provider>
+				<Provider>Magenta Tirol</Provider>
 			</Item>
 			<File>ATV2.png</File>
 		</Channel>
@@ -1363,7 +1363,7 @@
 		<Channel>
 			<Item Name="Enjoy The Alps TV HD" />
 			<Item Name="EnjoyTheAlpsTV HD">
-				<Provider>UPC Tirol</Provider>
+				<Provider>Magenta Tirol</Provider>
 			</Item>
 			<File>Enjoy The Alps TV HD.png</File>
 		</Channel>
@@ -2329,7 +2329,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Ki.Ka HD">
-				<Provider>UPC Tirol</Provider>
+				<Provider>Magenta Tirol</Provider>
 			</Item>
 			<Item Name="KiKa HD">
 				<Provider>Astra 19.2E</Provider>
@@ -2569,7 +2569,7 @@
 				<Provider>SalzburgAG</Provider>
 			</Item>
 			<Item Name="MDR HD">
-				<Provider>UPC Tirol</Provider>
+				<Provider>Magenta Tirol</Provider>
 			</Item>
 			<File>MDR HD.png</File>
 		</Channel>
@@ -4788,7 +4788,7 @@
 		<Channel>
 			<Item Name="Sixx Austria">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>UPC Tirol</Provider>
+				<Provider>Magenta Tirol</Provider>
 			</Item>
 			<File>Sixx Austria.png</File>
 		</Channel>
@@ -6749,7 +6749,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="ZDF neo HD">
-				<Provider>UPC Tirol</Provider>
+				<Provider>Magenta Tirol</Provider>
 			</Item>
 			<Item Name="ZDF_neo HD">
 				<Provider>Astra 19.2E</Provider>
