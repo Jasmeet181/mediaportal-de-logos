@@ -101,9 +101,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="5 Channel" />
-			<Item Name="5 Int">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<File>5 Channel.png</File>
 		</Channel>
 		<Channel>
@@ -1249,9 +1246,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Domashniy International" />
-			<Item Name="Domashniy Int">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<File>Domashniy International.png</File>
 		</Channel>
 		<Channel>
@@ -1956,6 +1950,9 @@
 		<Channel>
 			<Item Name="HGTV">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Home &amp; Garden TV">
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>HGTV.png</File>
 		</Channel>
@@ -3643,9 +3640,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Peretz International" />
-			<Item Name="Peretz Int">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<File>Peretz International.png</File>
 		</Channel>
 		<Channel>
@@ -4158,9 +4152,6 @@
 			<File>Regionalfernsehen Oberbayern.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ren Int">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="Ren TV" />
 			<File>Ren TV.png</File>
 		</Channel>
@@ -4491,6 +4482,10 @@
 			<Item Name="RTLplus Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="RTLplus Österreich" />
+			<File>RTLplus Osterreich.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RTLplus">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -7371,6 +7366,9 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="RBBKultur">
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Kulturradio.png</File>
 		</Channel>
