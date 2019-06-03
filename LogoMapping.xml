@@ -4371,6 +4371,22 @@
 			<File>RTL Croatia World.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL Austria">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTL CH">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTL Television">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<Item Name="RTL">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<File>RTL DE.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RTL HD Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -4384,7 +4400,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<File>RTL HD.png</File>
+			<File>RTL HD DE.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Hessen" />
@@ -4447,7 +4463,7 @@
 			<Item Name="RTL UHD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>RTL UHD.png</File>
+			<File>RTL UHD DE.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTL Regional NRW">
@@ -4455,22 +4471,6 @@
 			</Item>
 			<Item Name="RTL West" />
 			<File>RTL West.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RTL Austria">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL CH">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL Television">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-			</Item>
-			<Item Name="RTL">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>RTL.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTLplus HD">
