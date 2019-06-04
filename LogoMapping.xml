@@ -152,13 +152,6 @@
 			<File>A1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Aaj Tak UK">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Aaj Tak" />
-			<File>Aaj Tak.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="ABG.TV" />
 			<File>ABG.TV.png</File>
 		</Channel>
@@ -465,20 +458,6 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>AXN.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="B4U Movies UK">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="B4U Movies" />
-			<File>B4U Movies.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="B4U Music UK">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="B4U Music" />
-			<File>B4U Music.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Babestation24">
@@ -931,19 +910,6 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CNN Turk.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Colors Rishtey" />
-			<Item Name="Rishtey Europe">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Colors Rishtey.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Colors">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Colors.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Comedy Central Austria">
@@ -5442,20 +5408,6 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Sony Channel.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="SET Asia">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Sony Entertainment Television" />
-			<File>Sony Entertainment Television.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Max">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Sony Max" />
-			<File>Sony Max.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sophia TV">
