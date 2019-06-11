@@ -362,6 +362,12 @@
 			<File>Arte.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Asteroid Day">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Asteroid Day.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Astro TV">
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -1945,7 +1951,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Home &amp; Garden TV">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>HGTV.png</File>
 		</Channel>
