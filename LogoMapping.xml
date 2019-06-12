@@ -264,10 +264,16 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
-			<File>Anixe HD.png</File>
+			<Item Name="Anixe HD Serie" />
+			<File>Anixe HD Serie.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Anixe SD">
+		<!-- Launches 01/07/19 -->
+			<Item Name="Anixe+" />
+			<File>AnixePlus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Anixe">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
