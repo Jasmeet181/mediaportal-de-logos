@@ -7704,6 +7704,13 @@
 			<File>Radio Agora.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Arabella Kult">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<Item Name="Radio Arabella Kult" />
+			<File>Radio Arabella Kult.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Radio Arabella">
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
