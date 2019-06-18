@@ -6126,9 +6126,7 @@
 			<File>TRT Spor.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRT Turk">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="TRT Turk" />
 			<Item Name="TRT Türk">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -7336,17 +7334,6 @@
 			<File>Kronehit.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kulturradio">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<Item Name="RBBKultur">
-				<Provider>Vodafone Kabel München</Provider>
-			</Item>
-			<File>Kulturradio.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Life Channel Radio" />
 			<Item Name="Life Channel CH">
 				<Provider>Astra 19.2E</Provider>
@@ -8104,6 +8091,13 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RBB 88.8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RBBKultur">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>RBBKultur.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Regenbogen 2">
