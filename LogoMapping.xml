@@ -2113,6 +2113,7 @@
 			<File>Insight UHD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closing 30/06/19 -->
 			<Item Name="Intv HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
