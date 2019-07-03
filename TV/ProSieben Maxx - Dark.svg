@@ -1,21 +1,19 @@
-<svg id="a" width="658.8" height="124.02" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" version="1.1" viewBox="0 0 5836.1 1099" xmlns="http://www.w3.org/2000/svg">
- <g id="b" fill="#383834" fill-rule="nonzero">
-  <g id="c">
-   <polygon id="d" transform="translate(-1.119)" points="0 314 1099 314 1099 0 0 0"/>
-   <path id="e" d="m1097.9 377s-319-20-659 188c-346 212-430 510-439 534h1099v-722z"/>
-  </g>
-  <g id="f" transform="translate(-1.118)">
-   <polygon id="g" points="1821 1099 1193 183 1193 1099"/>
-   <polygon id="h" points="1193 137 1852 1099 1852 1099 2480 1099 1726 0 1193 0"/>
-   <polygon id="i" points="2668 0 3421 1098 3421 1099 3421 1099 4049 1099 4049 1099 3296 0"/>
-   <polygon id="j" points="4269 1099 4897 1099 4143 0 3516 0"/>
-   <polygon id="k" points="2574 1099 2574 0 2103 0 1930 252 2511 1099"/>
-   <polygon id="l" points="4834 641 4724 801 4928 1099 5148 1099"/>
-   <polygon id="m" points="5179 1099 5179 1099 5807 1099 5054 0 5054 0 4740 458"/>
-   <polygon id="n" points="4929 0 4363 0 4269 137 4551 550"/>
-   <polygon id="o" points="5179 137 5461 550 5838 0 5838 0 5273 0"/>
-   <polygon id="p" points="4081 1099 4238 1099 3924 641 3845 755"/>
-   <polygon id="q" points="2668 46 2668 1099 3045 1099 3045 1099 3218 847"/>
+<svg width="658.8" height="124.02" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" version="1.1" viewBox="0 0 5836.1 1099" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#383834" fill-rule="nonzero">
+  <polygon transform="translate(-1.119)" points="0 314 1099 314 1099 0 0 0"/>
+  <path d="m1097.9 377s-319-20-659 188c-346 212-430 510-439 534h1099v-722z"/>
+  <g transform="translate(-1.118)">
+   <polygon points="1821 1099 1193 183 1193 1099"/>
+   <polygon points="1193 137 1852 1099 1852 1099 2480 1099 1726 0 1193 0"/>
+   <polygon points="2668 0 3421 1098 3421 1099 3421 1099 4049 1099 4049 1099 3296 0"/>
+   <polygon points="4269 1099 4897 1099 4143 0 3516 0"/>
+   <polygon points="2574 1099 2574 0 2103 0 1930 252 2511 1099"/>
+   <polygon points="4834 641 4724 801 4928 1099 5148 1099"/>
+   <polygon points="5179 1099 5179 1099 5807 1099 5054 0 5054 0 4740 458"/>
+   <polygon points="4929 0 4363 0 4269 137 4551 550"/>
+   <polygon points="5179 137 5461 550 5838 0 5838 0 5273 0"/>
+   <polygon points="4081 1099 4238 1099 3924 641 3845 755"/>
+   <polygon points="2668 46 2668 1099 3045 1099 3045 1099 3218 847"/>
   </g>
  </g>
 </svg>

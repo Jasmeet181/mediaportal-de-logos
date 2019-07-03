@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg13" width="829.98pt" height="242.12pt" version="1.1" viewBox="0 0 829.98 242.12" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata19">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path id="path826" d="m708.74 0a121.23 121.06 0 0 0-121.23 121.06 121.23 121.06 0 0 0 121.23 121.06 121.23 121.06 0 0 0 121.23-121.06 121.23 121.06 0 0 0-121.23-121.06zm-49.472 43.988h79.099v158.01h-56.55l-0.01027-121.17h-31.409z" fill="#019de0" style="paint-order:stroke fill markers"/>
- <g id="g875" fill="#fff">
-  <path id="path8" d="m108.37 93.013 46.405-73.95 46.405 73.95 40.1-73.95h71.51l-102.12 204.45-55.765-92.92-55.765 92.92-99.14-204.45h71.45z"/>
-  <path id="path10" d="m331.26 19.063 225.93 2.51e-4v65.2h-72.628v139.03h-80.675v-139.03h-72.628z"/>
+<svg width="829.98pt" height="242.12pt" version="1.1" viewBox="0 0 829.98 242.12" xmlns="http://www.w3.org/2000/svg">
+ <path d="m708.74 0a121.23 121.06 0 0 0-121.23 121.06 121.23 121.06 0 0 0 121.23 121.06 121.23 121.06 0 0 0 121.23-121.06 121.23 121.06 0 0 0-121.23-121.06zm-49.472 43.988h79.099v158.01h-56.55l-0.01027-121.17h-31.409z" fill="#019de0" style="paint-order:stroke fill markers"/>
+ <g fill="#fff">
+  <path d="m108.37 93.013 46.405-73.95 46.405 73.95 40.1-73.95h71.51l-102.12 204.45-55.765-92.92-55.765 92.92-99.14-204.45h71.45z"/>
+  <path d="m331.26 19.063 225.93 2.51e-4v65.2h-72.628v139.03h-80.675v-139.03h-72.628z"/>
  </g>
 </svg>

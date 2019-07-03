@@ -123,23 +123,6 @@
 			<File>8Sport.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closing 29/06/19 -->
-			<Item Name="A&amp;E HD">
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>A and E HD.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closing 29/06/19 -->
-			<Item Name="A&amp;E">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>A and E.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="A Spor HD" />
 			<File>A Spor HD.png</File>
 		</Channel>
@@ -268,17 +251,11 @@
 			<File>Anixe HD Serie.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 01/07/19 -->
-			<Item Name="Anixe+" />
-			<File>AnixePlus.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Anixe">
+			<Item Name="Anixe+">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
-			<Item Name="Anixe" />
-			<File>Anixe.png</File>
+			<File>AnixePlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ANT1 Europe (gre)">
@@ -959,12 +936,19 @@
 			<File>Coswiger Infokanal K3.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 29/06/19 -->
+			<Item Name="C+I HD">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Crime and Investigation HD" />
 			<File>Crime and Investigation HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 29/06/19 -->
+			<Item Name="C+I">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<Item Name="Crime + Investigation">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Crime and Investigation" />
 			<File>Crime and Investigation.png</File>
 		</Channel>
@@ -1233,10 +1217,6 @@
 		<Channel>
 			<Item Name="Donau Kanal" />
 			<File>Donau Kanal.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Donau TV" />
-			<File>Donau TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dorf TV" />
@@ -2111,18 +2091,6 @@
 			</Item>
 			<Item Name="Insight UHD" />
 			<File>Insight UHD.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closing 30/06/19 -->
-			<Item Name="Intv HD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Intv" />
-			<File>Intv.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Isar TV" />
-			<File>Isar TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ITV Coburg" />
@@ -3163,11 +3131,11 @@
 			<File>Nicktoons.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Niederbayern HD">
+			<Item Name="Niederbayern TV HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Niederbayern" />
-			<File>Niederbayern.png</File>
+			<Item Name="Niederbayern TV" />
+			<File>Niederbayern TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nitro HD">
@@ -6081,10 +6049,11 @@
 			<File>Torgau TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Travelxp 4K HDR" />
 			<Item Name="Travelxp 4K">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>Travelxp 4K.png</File>
+			<File>Travelxp 4K HDR.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Trentino TV" />
@@ -6152,10 +6121,9 @@
 			<File>TV Halle.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mainfranken HD">
+			<Item Name="TV Mainfranken HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="TV Mainfranken HD" />
 			<File>TV Mainfranken HD.png</File>
 		</Channel>
 		<Channel>
@@ -6197,6 +6165,13 @@
 		<Channel>
 			<Item Name="TV Westsachsen" />
 			<File>TV Westsachsen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV.Ingolstadt HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="TV.Ingolstadt" />
+			<File>TV.Ingolstadt.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV.Rostock">

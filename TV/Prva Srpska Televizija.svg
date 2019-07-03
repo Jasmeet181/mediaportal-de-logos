@@ -1,52 +1,40 @@
-<svg id="d" width="1e3" height="707.49" version="1.1" viewBox="0 0 264.58 187.19" xmlns="http://www.w3.org/2000/svg">
- <defs id="e">
+<svg width="1e3" height="707.49" version="1.1" viewBox="0 0 264.58 187.19" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="a" x2="1" gradientTransform="matrix(-6e-7 13.459 13.459 6e-7 53.93 8.2136)" gradientUnits="userSpaceOnUse">
-   <stop id="f" stop-color="#ed1c24" offset="0"/>
-   <stop id="g" stop-color="#ed1c24" offset=".57874"/>
-   <stop id="h" stop-color="#8b0304" offset="1"/>
+   <stop stop-color="#ed1c24" offset="0"/>
+   <stop stop-color="#ed1c24" offset=".57874"/>
+   <stop stop-color="#8b0304" offset="1"/>
   </linearGradient>
   <clipPath id="c">
-   <path id="i" d="m0 841.89h595.28v-841.89h-595.28z"/>
+   <path d="m0 841.89h595.28v-841.89h-595.28z"/>
   </clipPath>
   <clipPath id="b">
-   <path id="j" d="m49.893 8.214h19.031v13.46h-19.031z"/>
+   <path d="m49.893 8.214h19.031v13.46h-19.031z"/>
   </clipPath>
  </defs>
- <g id="k" transform="translate(-122.89 97.97)">
-  <g id="l" transform="matrix(13.905 0 0 -13.905 -570.91 203.42)">
-   <g id="m" transform="translate(52.583 8.2129)">
-    <path id="n" d="m0 0 2.689 2.692 5e-3 9.673-2.691 1.095z" fill="#ed1d24"/>
+ <g transform="translate(-122.89 97.97)">
+  <g transform="matrix(13.905 0 0 -13.905 -570.91 203.42)">
+   <g transform="translate(52.583 8.2129)">
+    <path d="m0 0 2.689 2.692 5e-3 9.673-2.691 1.095z" fill="#ed1d24"/>
    </g>
-   <g id="o">
-    <g id="p">
-     <g id="q">
-      <g id="r">
-       <path id="s" d="m52.583 8.214 2.69 2.691 5e-3 9.674-2.692 1.094z" fill="url(#a)"/>
-      </g>
-     </g>
+   <path d="m52.583 8.214 2.69 2.691 5e-3 9.674-2.692 1.094z" fill="url(#a)"/>
+   <g clip-path="url(#c)">
+    <g transform="translate(52.587 21.675)">
+     <path d="m0 0-2.692-2.692v-3.788l5.383 5.384z" fill="#f7941e"/>
     </g>
    </g>
-   <g id="t">
-    <g id="u" clip-path="url(#c)">
-     <g id="v" transform="translate(52.587 21.675)">
-      <path id="w" d="m0 0-2.692-2.692v-3.788l5.383 5.384z" fill="#f7941e"/>
-     </g>
+   <g clip-path="url(#b)">
+    <g transform="translate(57.003 15.181)">
+     <path d="m0 0h1.486c0.412 0 0.838 0.164 0.838 0.748 0 0.748-0.604 0.748-0.889 0.748h-1.435zm-0.215 1.684h1.738c0.469 0 1.016-0.164 1.016-0.926 0-0.562-0.318-0.945-1.048-0.945h-1.491v-1.468h-0.215z" fill="#f7941e"/>
     </g>
-   </g>
-   <g id="x">
-    <g id="y" clip-path="url(#b)">
-     <g id="z" transform="translate(57.003 15.181)">
-      <path id="aa" d="m0 0h1.486c0.412 0 0.838 0.164 0.838 0.748 0 0.748-0.604 0.748-0.889 0.748h-1.435zm-0.215 1.684h1.738c0.469 0 1.016-0.164 1.016-0.926 0-0.562-0.318-0.945-1.048-0.945h-1.491v-1.468h-0.215z" fill="#f7941e"/>
-     </g>
-     <g id="ab" transform="translate(63.045 16.864)">
-      <path id="ac" d="m0 0h0.243l1.36-3.067 1.361 3.067h0.243l-1.482-3.339h-0.244z" fill="#f7941e"/>
-     </g>
-     <g id="ad" transform="translate(66.432 14.788)">
-      <path id="ae" d="m0 0h1.675l-0.838 1.833zm0.716 2.076h0.243l1.532-3.339h-0.242l-0.491 1.076h-1.842l-0.491-1.076h-0.243z" fill="#f7941e"/>
-     </g>
-     <g id="af" transform="translate(60.231 15.181)">
-      <path id="ag" d="m0 0v1.496h1.435c0.286 0 0.888 0 0.888-0.748 0-0.584-0.426-0.748-0.836-0.748zm2.642-1.655-0.682 1.536c0.398 0.135 0.578 0.454 0.578 0.877 0 0.762-0.547 0.926-1.015 0.926h-1.738v-3.339h0.215v1.468h1.492c0.088 0 0.171 6e-3 0.248 0.017l0.658-1.485z" fill="#f7941e"/>
-     </g>
+    <g transform="translate(63.045 16.864)">
+     <path d="m0 0h0.243l1.36-3.067 1.361 3.067h0.243l-1.482-3.339h-0.244z" fill="#f7941e"/>
+    </g>
+    <g transform="translate(66.432 14.788)">
+     <path d="m0 0h1.675l-0.838 1.833zm0.716 2.076h0.243l1.532-3.339h-0.242l-0.491 1.076h-1.842l-0.491-1.076h-0.243z" fill="#f7941e"/>
+    </g>
+    <g transform="translate(60.231 15.181)">
+     <path d="m0 0v1.496h1.435c0.286 0 0.888 0 0.888-0.748 0-0.584-0.426-0.748-0.836-0.748zm2.642-1.655-0.682 1.536c0.398 0.135 0.578 0.454 0.578 0.877 0 0.762-0.547 0.926-1.015 0.926h-1.738v-3.339h0.215v1.468h1.492c0.088 0 0.171 6e-3 0.248 0.017l0.658-1.485z" fill="#f7941e"/>
     </g>
    </g>
   </g>

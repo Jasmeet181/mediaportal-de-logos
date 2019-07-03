@@ -1,6 +1,6 @@
 <svg space="preserve" version="1.1" viewBox="0 0 105 75" xmlns="http://www.w3.org/2000/svg">
- <link id="a" href="" rel="stylesheet" type="text/css"/>
- <style id="b" type="text/css"/>
+ <link href="" rel="stylesheet" type="text/css"/>
+ <style type="text/css"/>
  <rect x="-.013" y=".017" width="105.09" height="75" fill="#DF111F"/>
  <g fill="#fff">
   <polyline points="71.998 65.435 94.459 65.435 94.459 55.985 83.889 55.985 83.893 10.265 71.99 10.264"/>

@@ -12,7 +12,7 @@
 <!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
 ]>
 <svg enable-background="new 0 0 487.621 243.559" overflow="visible" viewBox="0 0 487.62 243.56" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-		<g id="a" fill="#78B420">
+		<g fill="#78B420">
 					<path d="M55.308,212.747H45.261v-2.843h23.671v2.843H58.847v30.124h-3.539V212.747z"/>
 					<path d="m106.08 227.1h-11.517v12.99h17.261v2.777h-20.828v-32.967h20.094v2.843h-16.527v11.486h11.518v2.871z"/>
 					<path d="m192.12 227.1h-11.518v12.99h17.261v2.777h-20.828v-32.967h20.094v2.843h-16.527v11.486h11.518v2.871z"/>

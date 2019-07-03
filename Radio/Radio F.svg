@@ -2,7 +2,7 @@
 <!ENTITY ns_svg "http://www.w3.org/2000/svg">
 <!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
 ]>
-<svg id="a" enable-background="new 0 0 199.662 98.079" overflow="visible" version="1.1" viewBox="0 0 199.66 98.079" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<svg enable-background="new 0 0 199.662 98.079" overflow="visible" version="1.1" viewBox="0 0 199.66 98.079" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <path d="m26.318 0.398s-15.057-0.935-17.098 14.011l-8.74 64.024s-2.041 14.949 12.946 13.208l158.95-18.461s14.984-1.742 14.188-16.808l-1.649-31.142s-0.793-15.065-15.853-15.997l-142.74-8.835" fill="#7FB93D"/>
 <path d="m26.318 0.398s-15.057-0.935-17.098 14.011l-8.74 64.024s-2.041 14.949 12.946 13.208l158.95-18.461s14.984-1.742 14.188-16.808l-1.649-31.142s-0.793-15.065-15.853-15.997l-142.74-8.835" fill="none" stroke="#C3DA9F" stroke-width=".774"/>
 <path d="m54.656 61.339s-5.88 0.354-5.298 6.216l2.549 25.533s0.588 5.862 6.396 4.879l101.74-17.336s5.809-0.987 5.815-6.878l0.039-13.226s0.015-5.89-5.865-5.536l-105.38 6.348" fill="#C3DA9F"/>

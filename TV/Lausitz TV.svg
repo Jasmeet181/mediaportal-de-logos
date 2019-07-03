@@ -1,21 +1,21 @@
-<svg id="d" width="232.32pt" height="67.55pt" version="1.1" viewBox="0 0 232.32 67.55" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs id="e">
+<svg width="232.32pt" height="67.55pt" version="1.1" viewBox="0 0 232.32 67.55" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
   <linearGradient id="b">
-   <stop id="f" stop-color="#f47231" offset="0"/>
-   <stop id="g" stop-color="#f9981a" offset=".5"/>
-   <stop id="h" stop-color="#febc03" offset="1"/>
+   <stop stop-color="#f47231" offset="0"/>
+   <stop stop-color="#f9981a" offset=".5"/>
+   <stop stop-color="#febc03" offset="1"/>
   </linearGradient>
   <linearGradient id="c" x1="116.32" x2="116.22" y1="133.58" y2="66.15" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
   <linearGradient id="a" x1="116.32" x2="116.22" y1="133.6" y2="66.055" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
  </defs>
- <g id="i" transform="translate(-82.995 -66.055)" fill="#fff">
-  <path id="j" d="m169.68 66.055 20.735-2.53e-4v47.745h18.94v19.805l-39.675-2.4e-4z"/>
-  <path id="k" d="m202 66.055h63.125l14.28 37.725 13.94-37.725h21.96l-24.95 67.55h-21.9l-17.21-47.675h-14.6v47.675h-19.53v-47.675h-15.115z"/>
+ <g transform="translate(-82.995 -66.055)" fill="#fff">
+  <path d="m169.68 66.055 20.735-2.53e-4v47.745h18.94v19.805l-39.675-2.4e-4z"/>
+  <path d="m202 66.055h63.125l14.28 37.725 13.94-37.725h21.96l-24.95 67.55h-21.9l-17.21-47.675h-14.6v47.675h-19.53v-47.675h-15.115z"/>
  </g>
- <g id="l" transform="translate(-82.995 -66.055)">
-  <g id="m" fill="url(#c)">
-   <path id="n" d="m116.22 66.055c11.53 11.22 22.96 22.537 34.43 33.807-11.44 11.27-22.9 22.462-34.33 33.742z" fill="url(#a)"/>
+ <g transform="translate(-82.995 -66.055)">
+  <g fill="url(#c)">
+   <path d="m116.22 66.055c11.53 11.22 22.96 22.537 34.43 33.807-11.44 11.27-22.9 22.462-34.33 33.742z" fill="url(#a)"/>
   </g>
-  <path id="o" d="m82.995 66.055c11.53 11.22 22.96 22.537 34.43 33.807-11.44 11.27-22.9 22.462-34.33 33.742z" fill="url(#a)"/>
+  <path d="m82.995 66.055c11.53 11.22 22.96 22.537 34.43 33.807-11.44 11.27-22.9 22.462-34.33 33.742z" fill="url(#a)"/>
  </g>
 </svg>

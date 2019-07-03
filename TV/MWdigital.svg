@@ -1,14 +1,14 @@
-<svg id="a" width="867.87pt" height="960pt" version="1.1" viewBox="0 0 867.87 960" xmlns="http://www.w3.org/2000/svg">
- <g id="b" transform="translate(-44.13)">
-  <path id="c" d="m478.06 0 433.94 217.58v531.76l-433.94 210.66-433.94-211.31v-531.11" fill="#646464"/>
+<svg width="867.87pt" height="960pt" version="1.1" viewBox="0 0 867.87 960" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-44.13)">
+  <path d="m478.06 0 433.94 217.58v531.76l-433.94 210.66-433.94-211.31v-531.11" fill="#646464"/>
  </g>
- <g id="d" transform="translate(-44.13)">
-  <path id="e" d="m478.06 138.47 310.42 155.8v133.31l-190.98 94.311v241.19l-119.44 60.44-309.4-153.34v-375.92" fill="#fff"/>
+ <g transform="translate(-44.13)">
+  <path d="m478.06 138.47 310.42 155.8v133.31l-190.98 94.311v241.19l-119.44 60.44-309.4-153.34v-375.92" fill="#fff"/>
  </g>
- <g id="f" transform="translate(-44.13)">
-  <path id="g" d="m478.06 275.44 180.56 93.54-180.56 90.24-187.28-91.66z" fill="#55c4f0"/>
+ <g transform="translate(-44.13)">
+  <path d="m478.06 275.44 180.56 93.54-180.56 90.24-187.28-91.66z" fill="#55c4f0"/>
  </g>
- <g id="h" transform="translate(-44.13)">
-  <path id="i" d="m290.78 367.56 187.28 91.66v226.63l-187.28-91.95z" fill="#3cb5e8"/>
+ <g transform="translate(-44.13)">
+  <path d="m290.78 367.56 187.28 91.66v226.63l-187.28-91.95z" fill="#3cb5e8"/>
  </g>
 </svg>
