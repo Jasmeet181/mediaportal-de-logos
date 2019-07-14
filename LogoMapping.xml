@@ -1328,14 +1328,6 @@
 			<File>EOTV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EOTV">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>EOTV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="ERT World">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -1931,6 +1923,13 @@
 		<Channel>
 			<Item Name="Herzo.TV" />
 			<File>Herzo.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HGTV HD" />
+			<Item Name="Home &amp; Garden TV HD">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>HGTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HGTV">
@@ -2856,6 +2855,12 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>N24 Doku Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="N24 Doku HD">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>N24 Doku HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="N24 Doku">
@@ -4670,9 +4675,8 @@
 			<File>Schau TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Schweiz 5">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+		<!-- Closing 08/08/2019 -->
+			<Item Name="Schweiz 5" />
 			<File>Schweiz 5.png</File>
 		</Channel>
 		<Channel>
@@ -6062,10 +6066,6 @@
 		<Channel>
 			<Item Name="Tribuna Channel" />
 			<File>Tribuna Channel.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TRP1" />
-			<File>TRP1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TRT Belgesel HD" />
