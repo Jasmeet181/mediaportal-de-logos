@@ -5371,6 +5371,10 @@
 			<File>Sky Sport Bundesliga UHD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F1 Race Control">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Sky Pitlane">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
