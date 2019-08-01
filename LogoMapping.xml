@@ -3828,6 +3828,12 @@
 			<File>Prva Srpska Televizija.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Puls 24 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Puls 24 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Puls 4 HD Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
