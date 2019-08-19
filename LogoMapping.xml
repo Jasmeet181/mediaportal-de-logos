@@ -101,6 +101,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="5 Channel" />
+			<Item Name="5Channel-Spb">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>5 Channel.png</File>
 		</Channel>
 		<Channel>
@@ -766,6 +769,13 @@
 			<File>Canal Extremadura Sat.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Central Television" />
+			<Item Name="CTV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Central Television.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Cartoon Network HD">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -801,6 +811,13 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CGTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Channel 5 (Ukraine)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Channel 5" />
+			<File>Channel 5.png</File>>
 		</Channel>
 		<Channel>
 			<Item Name="Channel One Russia Worldwide (rus)">
@@ -1211,6 +1228,9 @@
 			<File>DMAX.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Dom-Int">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Domashniy International" />
 			<File>Domashniy International.png</File>
 		</Channel>
@@ -2107,6 +2127,12 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ITVN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Izvestia">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Izvestia.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Jena TV" />
@@ -3619,6 +3645,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Peretz International" />
+			<Item Name="Peretz Int">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Peretz International.png</File>
 		</Channel>
 		<Channel>
@@ -4137,6 +4166,9 @@
 			<File>Regionalfernsehen Oberbayern.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ren TV Int.">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Ren TV" />
 			<File>Ren TV.png</File>
 		</Channel>
@@ -4726,6 +4758,13 @@
 			</Item>
 			<Item Name="SES" />
 			<File>SES.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Shanson TV" />
+			<Item Name="Shanson">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Shanson TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mei Musi TV">
@@ -6103,6 +6142,12 @@
 			<File>Tribuna Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Trofey">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Trofey.png</File>>
+		</Channel>
+		<Channel>
 			<Item Name="TRT Belgesel HD" />
 			<File>TRT Belgesel HD.png</File>
 		</Channel>
@@ -6191,11 +6236,11 @@
 			<File>TV Trwam.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Tsentr International" />
+			<Item Name="TV Tsentr" />
 			<Item Name="TVCI">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>TV Tsentr International.png</File>
+			<File>TV Tsentr.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Westsachsen" />
