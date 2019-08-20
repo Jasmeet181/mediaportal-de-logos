@@ -1889,6 +1889,10 @@
 			<File>Happy.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Hauptstadt TV" />
+			<File>Hauptstadt TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Havoc TV" />
 			<File>Havoc TV.png</File>
 		</Channel>
@@ -3741,10 +3745,6 @@
 			<File>Playboy TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Potsdam TV" />
-			<File>Potsdam TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="PowerTürk TV">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -5582,14 +5582,14 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<File>Sportdigital HD.png</File>
+			<File>Sportdigital Fussball HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sportdigital">
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<File>Sportdigital.png</File>
+			<File>Sportdigital Fussball.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Spreekanal" />
