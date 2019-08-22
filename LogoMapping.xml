@@ -100,13 +100,6 @@
 			<File>4News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="5 Channel" />
-			<Item Name="5Channel-Spb">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>5 Channel.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="5+ HD" />
 			<File>5 Plus HD.png</File>
 		</Channel>
@@ -770,7 +763,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Central Television" />
-			<Item Name="CTV">
+			<Item Name="CTV(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Central Television.png</File>
@@ -813,7 +806,7 @@
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Channel 5 (Ukraine)">
+			<Item Name="Channel 5 (Ukraine)(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Channel 5" />
@@ -1139,6 +1132,7 @@
 			<File>Disney Channel.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closing 30/09/2019 -->
 			<Item Name="Disney Cinemagic HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -1228,7 +1222,7 @@
 			<File>DMAX.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dom-Int">
+			<Item Name="Dom-Int(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Domashniy International" />
@@ -2133,9 +2127,10 @@
 			<File>ITVN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Izvestia">
+			<Item Name="Izvestia(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Izvestia" />
 			<File>Izvestia.png</File>
 		</Channel>
 		<Channel>
@@ -2817,6 +2812,13 @@
 			<File>Muldental TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Mult(test_HEVC_aac)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Mult" />
+			<File>Mult.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="München.tv HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
@@ -3216,7 +3218,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="NTV Mir">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NTV Mir.png</File>
@@ -3648,10 +3649,13 @@
 			<File>Penthouse Passion.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Peretz International" />
-			<Item Name="Peretz Int">
+			<Item Name="Peretz Int(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Perez Int.(test_avc_mpeg2)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Peretz International" />
 			<File>Peretz International.png</File>
 		</Channel>
 		<Channel>
@@ -3737,6 +3741,13 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Planet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PlanetaHD(test_HEVC_aac)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Planeta HD" />
+			<File>Planeta HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Playboy TV">
@@ -3964,13 +3975,6 @@
 			<File>QVC2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="R1" />
-			<Item Name="Russkij Perwyj R1">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>R1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="R9 Oesterreich HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -4166,7 +4170,7 @@
 			<File>Regionalfernsehen Oberbayern.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ren TV Int.">
+			<Item Name="Ren TV Int.(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Ren TV" />
@@ -4761,7 +4765,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Shanson TV" />
-			<Item Name="Shanson">
+			<Item Name="Shanson(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Shanson TV.png</File>
@@ -5704,7 +5708,7 @@
 			<File>Stralsund TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="STS Int">
+			<Item Name="CTC Int(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="STS" />
@@ -6142,9 +6146,10 @@
 			<File>Tribuna Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trofey">
+			<Item Name="Trofey(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Trofey" />
 			<File>Trofey.png</File>>
 		</Channel>
 		<Channel>
@@ -6237,7 +6242,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TV Tsentr" />
-			<Item Name="TVCI">
+			<Item Name="TVCi(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TV Tsentr.png</File>
