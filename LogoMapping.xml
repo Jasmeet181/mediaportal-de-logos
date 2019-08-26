@@ -4542,12 +4542,17 @@
 			<File>RTRS.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTS 1 CH" />
 			<Item Name="RTS 1" />
-			<File>RTS 1.png</File>
+			<File>RTS 1 CH.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTS Deux" />
-			<File>RTS Deux.png</File>
+			<Item Name="RTS 1 RS" />
+			<File>RTS 1 RS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTS 2" />
+			<File>RTS 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTS Salzburg HD" />
@@ -4560,10 +4565,6 @@
 		<Channel>
 			<Item Name="RTS Svet" />
 			<File>RTS Svet.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RTS Un" />
-			<File>RTS Un.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTV Regionalfernsehen" />
@@ -5711,8 +5712,8 @@
 			<Item Name="CTC Int(test_avc_aac)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="STS" />
-			<File>STS.png</File>
+			<Item Name="STS International" />
+			<File>STS International.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Studio 47" />
