@@ -5002,6 +5002,11 @@
 			<File>Sky Cinema.png</File>
 		</Channel>
 		<Channel>
+		<!-- Launches 08/10/19 -->
+			<Item Name="Sky Krimi HD" />
+			<File>Sky Krimi HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Krimi">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
