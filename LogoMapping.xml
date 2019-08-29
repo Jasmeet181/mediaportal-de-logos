@@ -863,6 +863,12 @@
 			<File>CMC TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CNBC HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>CNBC HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CNBC Europe/Sky News (eng)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
