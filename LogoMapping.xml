@@ -5593,17 +5593,21 @@
 			<File>Sport1Plus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sportdigital Fussball HD">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Sportdigital HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sportdigital Fussball HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sportdigital Fussball">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Sportdigital">
 				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sportdigital Fussball.png</File>
 		</Channel>
