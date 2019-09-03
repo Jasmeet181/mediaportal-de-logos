@@ -962,6 +962,7 @@
 			<Item Name="C+I">
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
+			<Item Name="Crime+Investigation" />
 			<Item Name="Crime + Investigation">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -1044,9 +1045,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Deutsche Eishockey Liga" />
-			<Item Name="Eishockey AUT">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
 			<Item Name="Eishockey">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -4370,7 +4368,6 @@
 			<Item Name="RTLII HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="RTL II HD" />
 			<Item Name="RTL2 HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -4541,9 +4538,6 @@
 			<File>RTR Planeta.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTS Sat">
-				<Provider>Unitymedia Lörrach</Provider>
-			</Item>
 			<Item Name="RTRS" />
 			<File>RTRS.png</File>
 		</Channel>
@@ -4569,6 +4563,9 @@
 			<File>RTS Salzburg.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTS Sat">
+				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
 			<Item Name="RTS Svet" />
 			<File>RTS Svet.png</File>
 		</Channel>
@@ -4578,9 +4575,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="RTV21 HD" />
-			<Item Name="RTS Sat">
-				<Provider>Unitymedia Lörrach</Provider>
-			</Item>
 			<File>RTV21 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5124,6 +5118,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Sport HD 1" />
 			<File>Sky Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5190,6 +5185,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Sport HD 2" />
 			<File>Sky Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5205,6 +5201,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Sport HD 3" />
 			<File>Sky Sport 3 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5217,6 +5214,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Sport HD 4" />
 			<File>Sky Sport 4 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5229,6 +5227,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Sport HD 5" />
 			<File>Sky Sport 5 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5301,22 +5300,22 @@
 			<File>Sky Sport Austria 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport Austria 2 HD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Sky Sport Austria 2 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Sport Austria 2">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Sky Sport Austria 2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Sky Sport Austria 3 HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Sky Sport Austria 3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport Austria 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Sport Austria 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport Austria 4 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Sport Austria 4 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport Austria 4">
@@ -5330,6 +5329,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Bundesliga HD 1" />
 			<File>Sky Sport Bundesliga 1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5344,6 +5344,7 @@
 			<File>Sky Sport Bundesliga 10 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Bundesliga 10" />
 			<Item Name="Sky Sport Bundesliga 10" />
 			<File>Sky Sport Bundesliga 10.png</File>
 		</Channel>
@@ -5353,6 +5354,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Bundesliga HD 2" />
 			<File>Sky Sport Bundesliga 2 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5365,6 +5367,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Bundesliga HD 3" />
 			<File>Sky Sport Bundesliga 3 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5377,6 +5380,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Bundesliga HD 4" />
 			<File>Sky Sport Bundesliga 4 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5390,6 +5394,7 @@
 			<File>Sky Sport Bundesliga 5 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Bundesliga 5" />
 			<Item Name="Sky Sport Bundesliga 5" />
 			<File>Sky Sport Bundesliga 5.png</File>
 		</Channel>
@@ -5398,6 +5403,7 @@
 			<File>Sky Sport Bundesliga 6 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Bundesliga 6" />
 			<Item Name="Sky Sport Bundesliga 6" />
 			<File>Sky Sport Bundesliga 6.png</File>
 		</Channel>
@@ -5406,6 +5412,7 @@
 			<File>Sky Sport Bundesliga 7 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Bundesliga 7" />
 			<Item Name="Sky Sport Bundesliga 7" />
 			<File>Sky Sport Bundesliga 7.png</File>
 		</Channel>
@@ -5414,6 +5421,7 @@
 			<File>Sky Sport Bundesliga 8 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Bundesliga 8" />
 			<Item Name="Sky Sport Bundesliga 8" />
 			<File>Sky Sport Bundesliga 8.png</File>
 		</Channel>
@@ -5422,6 +5430,7 @@
 			<File>Sky Sport Bundesliga 9 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Bundesliga 9" />
 			<Item Name="Sky Sport Bundesliga 9" />
 			<File>Sky Sport Bundesliga 9.png</File>
 		</Channel>
