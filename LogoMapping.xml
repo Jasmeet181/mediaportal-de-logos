@@ -955,6 +955,8 @@
 			<Item Name="C+I HD">
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
+			<Item Name="Crime+Investigation HD" />
+			<Item Name="Crime + Investigation HD" />
 			<Item Name="Crime and Investigation HD" />
 			<File>Crime and Investigation HD.png</File>
 		</Channel>
