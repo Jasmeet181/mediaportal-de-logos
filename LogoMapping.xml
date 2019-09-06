@@ -54,6 +54,13 @@
 			<File>24 Horas.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="360 Mir">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="360 TV" />
+			<File>360 TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="3+ HD" />
 			<File>3 Plus HD.png</File>
 		</Channel>
@@ -98,6 +105,13 @@
 		<Channel>
 			<Item Name="4News" />
 			<File>4News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="5 Channel SPB int">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="5 Channel" />
+			<File>5 Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="5+ HD" />
@@ -1044,6 +1058,13 @@
 		<Channel>
 			<Item Name="Der Aktionar TV" />
 			<File>Der Aktionar TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Detskii Mir">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Detskiy Mir" />
+			<File>Detskiy Mir.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Deutsche Eishockey Liga" />
@@ -2513,6 +2534,13 @@
 			<File>LT1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Lubimoe Kino" />
+			<Item Name="Lyubimoe Kino">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Lubimoe Kino.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Lust Pur HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -2728,6 +2756,12 @@
 		<Channel>
 			<Item Name="Mezzo" />
 			<File>Mezzo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mir Seriala">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Mir Seriala.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mittel Erzgebirgs Fernsehen" />
@@ -3300,6 +3334,13 @@
 		<Channel>
 			<Item Name="OFTV" />
 			<File>OFTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ohota I Rybalka" />
+			<Item Name="Rybalka i Oxota">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Ohota I Rybalka.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OK Bitburg TV" />
@@ -4760,6 +4801,9 @@
 			<File>ServusTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="8KTest">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="SES UHD Demo Channel">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
