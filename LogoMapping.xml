@@ -1109,7 +1109,6 @@
 			<File>Die Neue Zeit TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Channel HD" />
 			<Item Name="Discovery HD (S)">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -1121,7 +1120,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<File>Discovery Channel HD.png</File>
+			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Channel (S)">
@@ -1131,7 +1130,8 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<File>Discovery Channel.png</File>
+			<Item Name="Discovery" />
+			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney Ch. HD">
@@ -1814,9 +1814,7 @@
 			<File>Globo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="God Channel">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="God Channel" />
 			<Item Name="God TV" />
 			<Item Name="God.TV">
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5959,6 +5957,12 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TBN Espana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TBN Russia">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>TBN Russia.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Teins" />
