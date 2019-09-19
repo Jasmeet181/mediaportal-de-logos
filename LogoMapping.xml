@@ -107,7 +107,7 @@
 			<File>4News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="5 Channel SPB int">
+			<Item Name="5 Piter Int">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="5 Channel" />
@@ -820,7 +820,7 @@
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Channel 5 (Ukraine)(test_avc_aac)">
+			<Item Name="Channel 5 (Ukraine)(test_avc_aac)Encrypted">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Channel 5" />
@@ -1262,6 +1262,13 @@
 		<Channel>
 			<Item Name="Dorf TV" />
 			<File>Dorf TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dozd">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Dozhd" />
+			<File>Dozhd.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dream Turk" />
@@ -2135,6 +2142,12 @@
 			<File>Insight UHD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Inter+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Inter Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ITV Coburg" />
 			<File>ITV Coburg.png</File>
 		</Channel>
@@ -2850,7 +2863,7 @@
 			<File>Muldental TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mult(test_HEVC_aac)">
+			<Item Name="Mult(test_HEVC_aac)Encrypted">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Mult" />
@@ -4334,6 +4347,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="RT Documentary" />
+			<Item Name="RT Doc">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>RT Documentary.png</File>
 		</Channel>
 		<Channel>
@@ -6221,7 +6237,7 @@
 			<File>Tribuna Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trofey(test_avc_aac)">
+			<Item Name="Trofey(test_avc_aac)encrypted">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Trofey" />
