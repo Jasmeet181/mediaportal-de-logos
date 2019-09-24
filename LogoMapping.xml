@@ -271,11 +271,11 @@
 			<Item Name="ANT1 Europe (gre)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<Item Name="ANT1" />
+			<Item Name="ANT1 Europe" />
 			<Item Name="Antenna TV (Ant 1)">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
-			<File>ANT1.png</File>
+			<File>ANT1 Europe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Aragon TV Internacional" />
@@ -1382,6 +1382,9 @@
 			<File>ERT World.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ESport1 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="ESports1 HD">
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
@@ -5649,6 +5652,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sport1+ HD">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
