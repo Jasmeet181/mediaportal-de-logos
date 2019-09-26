@@ -20,6 +20,13 @@
 			<File>1-2-3.tv.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="1HD Music Television" />
+			<Item Name="1HD Music">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>1HD Music Television.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="13th Street HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -777,7 +784,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Central Television" />
-			<Item Name="CTV(test_avc_aac)">
+			<Item Name="ZTV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Central Television.png</File>
@@ -820,7 +827,7 @@
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Channel 5 (Ukraine)(test_avc_aac)Encrypted">
+			<Item Name="5 Ukraina">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Channel 5" />
@@ -1060,7 +1067,7 @@
 			<File>Der Aktionar TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Detskii Mir">
+			<Item Name="DetskijMir">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Detskiy Mir" />
@@ -1249,10 +1256,10 @@
 			<File>DMAX.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dom-Int(test_avc_aac)">
+			<Item Name="Domashniy International" />
+			<Item Name="Domashniy">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Domashniy International" />
 			<File>Domashniy International.png</File>
 		</Channel>
 		<Channel>
@@ -2168,10 +2175,9 @@
 			<File>ITVN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Izvestia(test_avc_aac)">
+			<Item Name="Izvestia">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Izvestia" />
 			<File>Izvestia.png</File>
 		</Channel>
 		<Channel>
@@ -2549,7 +2555,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Lubimoe Kino" />
-			<Item Name="Lyubimoe Kino">
+			<Item Name="Nashe Lubimoe Kino">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Lubimoe Kino.png</File>
@@ -2772,9 +2778,7 @@
 			<File>Mezzo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mir Seriala">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="Mir Seriala" />
 			<File>Mir Seriala.png</File>
 		</Channel>
 		<Channel>
@@ -2866,10 +2870,9 @@
 			<File>Muldental TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mult(test_HEVC_aac)Encrypted">
+			<Item Name="Mult">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Mult" />
 			<File>Mult.png</File>
 		</Channel>
 		<Channel>
@@ -3350,13 +3353,6 @@
 			<File>OFTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ohota I Rybalka" />
-			<Item Name="Rybalka i Oxota">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Ohota I Rybalka.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="OK Bitburg TV" />
 			<File>OK Bitburg TV.png</File>
 		</Channel>
@@ -3710,13 +3706,10 @@
 			<File>Penthouse Passion.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Peretz Int(test_avc_aac)">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Perez Int.(test_avc_mpeg2)">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="Peretz International" />
+			<Item Name="Perez">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Peretz International.png</File>
 		</Channel>
 		<Channel>
@@ -3804,7 +3797,7 @@
 			<File>Planet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="PlanetaHD(test_HEVC_aac)">
+			<Item Name="Planeta">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Planeta HD" />
@@ -4231,7 +4224,7 @@
 			<File>Regionalfernsehen Oberbayern.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ren TV Int.(test_avc_aac)">
+			<Item Name="RenTV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Ren TV" />
@@ -4642,6 +4635,13 @@
 			<File>Rugen TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ribalka i Ohota">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Rybalka I Ohota" />
+			<File>Rybalka I Ohota.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="S1 HD" />
 			<File>S1 HD.png</File>
 		</Channel>
@@ -4829,7 +4829,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Shanson TV" />
-			<Item Name="Shanson(test_avc_aac)">
+			<Item Name="Shanson">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Shanson TV.png</File>
@@ -5049,6 +5049,11 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Cinema Plus 24.png</File>
+		</Channel>
+		<Channel>
+		<!-- Launches 01/10/19 -->
+			<Item Name="Sky Cinema Special HD" />
+			<File>Sky Cinema Special HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema">
@@ -5797,7 +5802,7 @@
 			<File>Stralsund TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CTC Int(test_avc_aac)">
+			<Item Name="CTC">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="STS International" />
@@ -6241,10 +6246,9 @@
 			<File>Tribuna Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trofey(test_avc_aac)encrypted">
+			<Item Name="Trofey">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Trofey" />
 			<File>Trofey.png</File>>
 		</Channel>
 		<Channel>
@@ -6337,7 +6341,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TV Tsentr" />
-			<Item Name="TVCi(test_avc_aac)">
+			<Item Name="TVCi">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TV Tsentr.png</File>
@@ -6576,6 +6580,11 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Vox.png</File>
+		</Channel>
+		<Channel>
+		<!-- Launches 01/12/19 -->
+			<Item Name="VoxUp" />
+			<File>VoxUp.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Deutschland Vozrozhdenie">
