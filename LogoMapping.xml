@@ -27,9 +27,23 @@
 			<File>1HD Music Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="13ème Rue HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>13eme Rue HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="13ème Rue" />
+			<File>13eme Rue.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="13th Street HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="13th Street HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>13th Street HD.png</File>
@@ -43,6 +57,7 @@
 			</Item>
 			<Item Name="13th Street">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>13th Street.png</File>
@@ -61,6 +76,13 @@
 			<File>24 Horas.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="2M Maroc">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="2M Monde" />
+			<File>2M Monde.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="360 Mir">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -68,7 +90,9 @@
 			<File>360 TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="3+ HD" />
+			<Item Name="3+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>3 Plus HD.png</File>
 		</Channel>
 		<Channel>
@@ -82,6 +106,7 @@
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>3sat HD.png</File>
@@ -95,7 +120,9 @@
 			<File>3sat.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="4+ HD" />
+			<Item Name="4+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>4 Plus HD.png</File>
 		</Channel>
 		<Channel>
@@ -118,10 +145,19 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="5 Channel" />
-			<File>5 Channel.png</File>
+			<File>5 Channel RU.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="5+ HD" />
+			<Item Name="5 Ukraina">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="5 Kanal" />
+			<File>5 Kanal UA.png</File>>
+		</Channel>
+		<Channel>
+			<Item Name="5+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>5 Plus HD.png</File>
 		</Channel>
 		<Channel>
@@ -129,11 +165,40 @@
 			<File>5 Plus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="6+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>6 Plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="6+" />
+			<File>6 Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="6+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>6 Plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="6ter">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>6ter.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="8 Channel" />
 			<Item Name="8 TV RU">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>8 Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="8 Mont Blanc" />
+			<Item Name="TV8 Mont-Blanc HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>8 Mont Blanc.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="8Sport" />
@@ -152,6 +217,20 @@
 			<File>A1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="AB1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="AB1" />
+			<File>AB1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AB3 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="AB3" />
+			<File>AB3.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ABG.TV" />
 			<File>ABG.TV.png</File>
 		</Channel>
@@ -165,6 +244,13 @@
 			</Item>
 			<Item Name="Achtung Sexy" />
 			<File>Achtung Sexy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Action HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Action" />
+			<File>Action.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Aichfeld TV" />
@@ -188,7 +274,8 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Al Jazeera">
-				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Unitymedia Lörrach</Provider>">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Al Jazeera Channel.png</File>
 		</Channel>
@@ -201,6 +288,7 @@
 		<Channel>
 			<Item Name="Al Jazeera English">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Al Jazeera Int (eng)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -209,6 +297,12 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Al Jazeera English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Masriyah">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Al Masriyah.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Alex Offener Kanal Berlin" />
@@ -250,14 +344,23 @@
 		<Channel>
 			<Item Name="Animal Planet HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Animal Planet HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Animal Planet">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Animal Planet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animaux HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Animaux" />
+			<File>Animaux.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Anixe HD">
@@ -308,6 +411,7 @@
 			</Item>
 			<Item Name="ARD-alpha HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>ARD-alpha HD.png</File>
 		</Channel>
@@ -343,12 +447,16 @@
 			<File>Aristo.TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Arte F HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Arte HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Arte HD.png</File>
@@ -433,6 +541,9 @@
 			<File>Austria24 TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Auto Motor + Sport HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Auto Motor und Sport HD" />
 			<Item Name="Auto Motor und Sport TV HD">
 				<Provider>Unitymedia Lörrach</Provider>
@@ -449,6 +560,7 @@
 		<Channel>
 			<Item Name="AXN HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>AXN HD.png</File>
@@ -520,6 +632,28 @@
 			<File>BBC Entertainment.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BBC One HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>BBC One HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC One">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>BBC One.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Two HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>BBC Two HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Two" />
+			<File>BBC Two.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BBC HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -533,7 +667,9 @@
 			<Item Name="BBC World News (eng)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<Item Name="BBC World News" />
+			<Item Name="BBC World News">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="BBC-World">
 				<Provider>SalzburgAG</Provider>
 			</Item>
@@ -551,6 +687,13 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Beate-Uhse.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Be Curious TV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="BeCuriousTV" />
+			<File>BeCuriousTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bein Gurme (tur)">
@@ -575,6 +718,20 @@
 			<File>Bein Movies Turk.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BET France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="BET France" />
+			<File>BET France.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BFM TV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="BFM TV" />
+			<File>BFM TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BHT 1" />
 			<File>BHT 1.png</File>
 		</Channel>
@@ -591,6 +748,7 @@
 			<Item Name="Bibel TV">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bibel TV.png</File>
@@ -604,13 +762,18 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bloomberg Television" />
+			<Item Name="Bloomberg TV">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Bloomberg">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Bloomberg Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Blue Hustler" />
+			<Item Name="Blue Hustler">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Blue Hustler.png</File>
 		</Channel>
 		<Channel>
@@ -658,8 +821,16 @@
 			<File>BN Televizija.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Boing France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Boing" />
+			<File>Boing.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Bon Gusto HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Bon Gusto HD.png</File>
 		</Channel>
@@ -673,12 +844,19 @@
 			<File>Bon Gusto.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Boomerang France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Boomerang HD">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Boomerang HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Boomerang (alt)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Boomerang (eng)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -688,6 +866,12 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Boomerang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Booster TV">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Booster TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BR Fernsehen HD" />
@@ -716,6 +900,7 @@
 			<Item Name="BR Fernsehen Süd HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="BR Fernsehen Sued HD">
@@ -771,16 +956,119 @@
 			<File>BW Family.tv.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="C8" />
+			<Item Name="Canal8 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>C8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 9 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Canal 9" />
+			<File>Canal 9.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Canal Algerie">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Canal Algerie.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Canal Alpha HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Canal Alpha JU HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Canal Alpha HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Alpha" />
+			<File>Canal Alpha.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Extremadura Sat">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Canal Extremadura Sat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal J HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Canal J" />
+			<File>Canal J.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canale 5 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Canale 5 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Cinéma HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CanalPlus Cinema HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Cinéma" />
+			<File>CanalPlus Cinema.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Décalé HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CanalPlus Decale HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Décalé" />
+			<File>CanalPlus Decale.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Family HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CanalPlus Family HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Family" />
+			<File>CanalPlus Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ en clair HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Canal+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CanalPlus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Series HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CanalPlus Series HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Series" />
+			<File>CanalPlus Series.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Sport HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CanalPlus Sport HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ Sport" />
+			<File>CanalPlus Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+" />
+			<File>CanalPlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Central Television" />
@@ -790,7 +1078,14 @@
 			<File>Central Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Cartoon Network F HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Cartoon Network HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Cartoon Network HD">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Cartoon Network HD.png</File>
@@ -805,6 +1100,19 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Cartoon Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBBC HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CBBC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Four/Cbeebies HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Cbeebies HD BBC Four HD" />
+			<File>Cbeebies HD BBC Four HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CGTN Documentary">
@@ -823,15 +1131,27 @@
 			<Item Name="CGTN">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="5 Ukraina">
-				<Provider>Astra 19.2E</Provider>
+			<Item Name="Channel 4 HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Channel 5" />
-			<File>Channel 5.png</File>>
+			<File>Channel 4 HD.png</File>>
+		</Channel>
+		<Channel>
+			<Item Name="Channel 5 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Channel 5 HD.png</File>>
+		</Channel>
+		<Channel>
+			<Item Name="Channel 55">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Channel 55.png</File>>
 		</Channel>
 		<Channel>
 			<Item Name="Channel One Russia Worldwide (rus)">
@@ -861,6 +1181,12 @@
 			<File>Chemnitz Fernsehen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Chérie 25">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Cherie 25.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CHTV HD" />
 			<File>CHTV HD.png</File>
 		</Channel>
@@ -871,6 +1197,36 @@
 		<Channel>
 			<Item Name="City Vision" />
 			<File>City Vision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ciné+ Emotion HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CinePlus Emotion HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ciné+ Emotion" />
+			<File>CinePlus Emotion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ciné+ Frisson HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CinePlus Frisson HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ciné+ Frisson" />
+			<File>CinePlus Frisson.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ciné+ Premier HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CinePlus Premier HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ciné+ Premier" />
+			<File>CinePlus Premier.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="City-TV Kabelservice" />
@@ -900,10 +1256,15 @@
 			<Item Name="CNBC Europe">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="CNBC" />
+			<Item Name="CNBC">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>CNBC.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CanalNews HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="CNews">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -924,6 +1285,7 @@
 			</Item>
 			<Item Name="CNN Int.">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="CNN International" />
 			<Item Name="CNN">
@@ -933,6 +1295,12 @@
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CNN Money Switzerland">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CNN Money Switzerland.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CNN Türk (tur)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -940,6 +1308,13 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>CNN Turk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comédie+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Comédie+" />
+			<File>ComediePlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Comedy Central Austria">
@@ -964,6 +1339,7 @@
 			<Item Name="Comedy Central">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Comedy Central.png</File>
@@ -974,6 +1350,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="C+I HD">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<Item Name="Crime+Investigation HD" />
@@ -993,6 +1370,20 @@
 			<File>Crime and Investigation.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Crime District HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Crime District" />
+			<File>Crime District.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CanalStar HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="CStar" />
+			<File>CStar.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Cubavision Internacional">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -1005,6 +1396,7 @@
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Das Erste HD.png</File>
@@ -1058,6 +1450,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deluxe Music.png</File>
@@ -1119,15 +1512,28 @@
 			<Item Name="Discovery HD (S)">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="Discovery HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Discovery HD (VF)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Discovery France HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Discovery HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Discovery HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Science HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Discovery Science HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Channel (S)">
@@ -1137,7 +1543,9 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<Item Name="Discovery" />
+			<Item Name="Discovery">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
@@ -1146,6 +1554,9 @@
 			</Item>
 			<Item Name="Disney Channel HD Austria">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Disney Channel HD F">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Disney Channel HD">
 				<Provider>Astra 19.2E</Provider>
@@ -1158,6 +1569,7 @@
 			<Item Name="Disney Channel">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Disney SD">
@@ -1166,22 +1578,19 @@
 			<File>Disney Channel.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closing 30/09/2019 -->
-			<Item Name="Disney Cinemagic HD">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
+			<Item Name="Disney Cinema HD F">
+				<Provider>UPC (CH)</Provider>
 			</Item>
-		<Channel>
-			<Item Name="Disney Cinemagic">
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>Disney Cinemagic.png</File>
+			<Item Name="Disney Cinema" />
+			<File>Disney Cinema.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Disney Junior HD F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Disney Junior HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Disney Junior HD.png</File>
 		</Channel>
@@ -1199,7 +1608,11 @@
 			<File>Disney Junior.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Disney XD HD F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Disney XD HD">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Disney XD HD.png</File>
@@ -1212,8 +1625,8 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Disney XD">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Disney XD.png</File>
@@ -1241,6 +1654,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>DMAX HD.png</File>
@@ -1324,7 +1738,12 @@
 			<Item Name="E! Entertainm. HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="E! HD" />
+			<Item Name="E! France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="E! HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="E!Entertainment HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -1337,6 +1756,12 @@
 			</Item>
 			<Item Name="E!" />
 			<File>E.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="E4">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>E4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="E8 Television">
@@ -1383,10 +1808,22 @@
 			<File>EOTV HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Equidia">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Equidia.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ERT World">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ERT World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ES1">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>ES1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ESport1 HD">
@@ -1398,7 +1835,9 @@
 			<File>ESports1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ESports1" />
+			<Item Name="ESports1">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>ESports1.png</File>
 		</Channel>
 		<Channel>
@@ -1423,8 +1862,17 @@
 			<Item Name="Euronews (D)">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="euronews D">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Euronews F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Euronews French SD">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Euronews F">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Euronews German SD">
 				<Provider>Astra 19.2E</Provider>
@@ -1435,6 +1883,9 @@
 			<File>Euronews.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport 1 F HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Eurosport 1 HD Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -1442,6 +1893,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 1 HD.png</File>
@@ -1450,9 +1902,13 @@
 			<Item Name="Eurosport 1 Deutschland">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Eurosport 1 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Eurosport 1">
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 1.png</File>
@@ -1464,8 +1920,12 @@
 			<File>Eurosport 2 HD Xtra.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport 2 F HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Eurosport 2 HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Eurosport 2 HD.png</File>
@@ -1583,6 +2043,7 @@
 			<Item Name="Extreme Sports Channel" />
 			<Item Name="Extreme Sports">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Extreme Sports Channel.png</File>
 		</Channel>
@@ -1604,6 +2065,7 @@
 		<Channel>
 			<Item Name="Fashion TV">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Fashion TV.png</File>
 		</Channel>
@@ -1622,6 +2084,12 @@
 		<Channel>
 			<Item Name="Fight Channel World HD" />
 			<File>Fight Channel World HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Film 4">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Film 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Filstalwelle" />
@@ -1663,12 +2131,16 @@
 			<Item Name="Fox HD (S)">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="Fox HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Fox HD (VF)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Fox HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Fox HD.png</File>
@@ -1682,6 +2154,7 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Fox">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Fox.png</File>
@@ -1689,6 +2162,9 @@
 		<Channel>
 			<Item Name="France 2 (fre)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="France 2 HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 2">
 				<Provider>Unitymedia Lörrach</Provider>
@@ -1724,8 +2200,18 @@
 			<File>France 24 - Francais.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="France 3 (Alsace) HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="France 3 Alsace" />
+			<File>France 3 Alsace.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="France 3 (fre)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="France 3 HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 3">
 				<Provider>Unitymedia Lörrach</Provider>
@@ -1733,16 +2219,34 @@
 			<File>France 3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="France 4 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="France 4">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 4.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="France 5 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="France 5">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France Ô">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>France O.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Franceinfo">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Franceinfo.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Franken Fernsehen HD">
@@ -1787,6 +2291,13 @@
 		<Channel>
 			<Item Name="FS1" />
 			<File>FS1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Game One HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Game One" />
+			<File>Game One.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Genius Exklusiv">
@@ -1845,11 +2356,25 @@
 			<File>GoldStar TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Golf Channel France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Golf Channel" />
+			<File>Golf Channel.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Golf" />
 			<Item Name="Live Golf">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Golf.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Golf+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Golf+" />
+			<File>GolfPlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Gotv neu">
@@ -1869,8 +2394,16 @@
 			<File>Grevesmuhlen TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Gulli HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Gulli" />
+			<File>Gulli.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Gute Laune TV">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Gute Laune TV.png</File>
@@ -1976,6 +2509,7 @@
 			<Item Name="Heimatkanal">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Heimatkanal.png</File>
@@ -2001,9 +2535,20 @@
 			<File>HGTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Histoire HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Histoire" />
+			<File>Histoire.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="History HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>History HD.png</File>
@@ -2040,6 +2585,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="HR Fernsehen HD" />
@@ -2079,6 +2625,7 @@
 			<Item Name="HSE24 Extra">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HSE24 Extra.png</File>
@@ -2103,6 +2650,7 @@
 			<Item Name="HSE24">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>HSE24.png</File>
@@ -2127,6 +2675,13 @@
 		<Channel>
 			<Item Name="Ikono TV" />
 			<File>Ikono TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Infosport+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Infosport+" />
+			<File>InfosportPlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Insight HD" />
@@ -2158,8 +2713,41 @@
 			<File>Inter Plus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Italia 1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Italia 1 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ITV Coburg" />
 			<File>ITV Coburg.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ITV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>ITV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ITV 2">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="ITV2" />
+			<File>ITV2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ITV 3">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="ITV3" />
+			<File>ITV3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ITV 4">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="ITV4" />
+			<File>ITV4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ITVN Extra" />
@@ -2214,9 +2802,16 @@
 			<Item Name="Junior">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Junior.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Juvelirochka">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Juvelirochka.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Juwelo HD">
@@ -2242,6 +2837,7 @@
 		<Channel>
 			<Item Name="K-TV">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>K-TV.png</File>
@@ -2255,6 +2851,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kabel Eins Classics HD">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="KabelEinsClassics HD">
@@ -2278,6 +2875,12 @@
 			<File>Kabel Eins Doku Austria.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="kabel Eins Doku HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Kabel Eins Doku HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Kabel Eins Doku">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -2298,6 +2901,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kabel Eins HD.png</File>
@@ -2310,6 +2914,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Kabel Eins.png</File>
@@ -2378,6 +2983,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>KiKa HD.png</File>
@@ -2393,6 +2999,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kino Welt TV HD" />
+			<Item Name="Kinowelt HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Kinowelt TV HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -2450,6 +3059,12 @@
 			<File>KT1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTO">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>KTO.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Kulmbach TV" />
 			<File>Kulmbach TV.png</File>
 		</Channel>
@@ -2467,6 +3082,16 @@
 			</Item>
 			<Item Name="La Chaine Parlementaire" />
 			<File>La Chaine Parlementaire.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Télé HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>La Tele HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Télé" />
+			<File>La Tele.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="L-TV HD" />
@@ -2509,6 +3134,9 @@
 			<File>Lausitzwelle.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="LCI HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="LCI">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2523,6 +3151,26 @@
 		<Channel>
 			<Item Name="Leipzig Fernsehen" />
 			<File>Leipzig Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Léman Bleu HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Léman Bleu TV" />
+			<File>Leman Bleu TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="L'Equipe HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="L'Equipe" />
+			<File>LEquipe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LFM TV">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>LFM TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Linz Land TV" />
@@ -2578,6 +3226,18 @@
 			<File>M4 Mostviertel Fernsehen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M6 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>M6 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M6">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>M6.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Maennersache TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2588,8 +3248,22 @@
 			<File>Main.TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Mangas HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Mangas" />
+			<File>Mangas.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Marco Polo TV" />
 			<File>Marco Polo TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Max TV">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MaxTV" />
+			<File>MaxTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MB Live TV" />
@@ -2606,8 +3280,18 @@
 			<File>MBC 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MCM Top HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="MCM Top" />
 			<File>MCM Top.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MCM France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MCM" />
+			<File>MCM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDF.1" />
@@ -2640,6 +3324,7 @@
 		<Channel>
 			<Item Name="MDR Sachsen HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Sachsen HD.png</File>
@@ -2761,6 +3446,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Melodie TV">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Melodie TV.png</File>
@@ -2770,11 +3456,15 @@
 			<File>Metropolregion.tv.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mezzo Live HD" />
+			<Item Name="Mezzo Live HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Mezzo Live HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mezzo" />
+			<Item Name="Mezzo">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Mezzo.png</File>
 		</Channel>
 		<Channel>
@@ -2790,7 +3480,16 @@
 			<File>Mittelsachsen TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Motorvision TV HD" />
+			<Item Name="More 4">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="More4" />
+			<File>More4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Motorvision TV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Motorvision TV HD.png</File>
 		</Channel>
 		<Channel>
@@ -2805,36 +3504,43 @@
 		<Channel>
 			<Item Name="MTV Brand New">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MTV Brand New.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV Dance">
-				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>MTV Dance.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MTV France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="MTV HD Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="MTV HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MTV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Hits">
-				<Provider>Astra 19.2E</Provider>
+			<Item Name="MTV Hits France HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="MTV Hits" />
 			<File>MTV Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV Live HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>MTV Live HD.png</File>
 		</Channel>
@@ -2842,7 +3548,12 @@
 			<Item Name="MTV Music 24">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="MTV Music" />
+			<File>MTV Music 24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Music">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>MTV Music.png</File>
 		</Channel>
 		<Channel>
@@ -2850,11 +3561,6 @@
 			<File>MTV Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Rocks">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>MTV Rocks.png</File>
-		</Channel>
 			<Item Name="MTV">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -2910,10 +3616,119 @@
 			<File>MWdigital.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MySports 2/Sky 2 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 2/Sky 2">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 2" />
+			<File>MySports 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports 3/Sky 3 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 3/Sky 3">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 3" />
+			<File>MySports 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports 4/Sky 4 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 4/Sky 4">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 4" />
+			<File>MySports 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports 5/Sky 5 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 5/Sky 5">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 5" />
+			<File>MySports 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports 6/Sky 6 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 6/Sky 6">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 6" />
+			<File>MySports 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports 7/Sky 7 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 7/Sky 7">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 7" />
+			<File>MySports 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports 8/Sky 8 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 8/Sky 8">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 8" />
+			<File>MySports 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports 9/Sky 9 F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 9/Sky 9">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports 9" />
+			<File>MySports 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports One F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports One HD F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports One HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports One">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>MySports One.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MySports Preview">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports Preview F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports Shop">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="MySports" />
+			<File>MySports.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="N-TV HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NTV HD">
@@ -2985,11 +3800,20 @@
 			<File>Nat Geo People.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nat Geo F HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="NatGeo HD (S)">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="Nat Geo HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="NatGeo HD (VF)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Nat Geo HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="NatGeo HD">
 				<Provider>Astra 19.2E</Provider>
@@ -3000,9 +3824,16 @@
 			<File>National Geographic HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nat Geo Wild France HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Nat Geo Wild HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Nat Geo Wild HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="NatGeo Wild HD (VF)">
@@ -3078,6 +3909,7 @@
 			<Item Name="NDR FS NDS HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="NDR Niedersachsen HD">
 				<Provider>Unitymedia Lörrach</Provider>
@@ -3116,6 +3948,12 @@
 			<File>Neisse Welle Guben.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Netflix">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Netflix.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NeuEins" />
 			<File>NeuEins.png</File>
 		</Channel>
@@ -3151,6 +3989,7 @@
 		<Channel>
 			<Item Name="Nick Jr HD" />
 			<Item Name="Nick Jr. HD">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Nick Jr HD.png</File>
@@ -3167,6 +4006,9 @@
 			</Item>
 			<Item Name="Nick Junior Global">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Nickelodeon Jr. F">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Nick Jr.png</File>
 		</Channel>
@@ -3191,7 +4033,11 @@
 		<Channel>
 			<Item Name="Nick HD">
 				<Provider>Terrestrial München</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Nickelodeon F HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Nickelodeon HD">
 				<Provider>Astra 19.2E</Provider>
@@ -3216,6 +4062,12 @@
 			<File>Nickelodeon.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nickelodeon Teen">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Nickelodeon Teen.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nicktoons (S)">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -3237,6 +4089,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Nitro HD.png</File>
@@ -3264,6 +4117,18 @@
 		<Channel>
 			<Item Name="Nova TV" />
 			<File>Nova TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRJ 12 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>NRJ12 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRJ 12">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>NRJ12.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NRWision HD" />
@@ -3432,9 +4297,16 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>One HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="One TV">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>One TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="One">
@@ -3446,6 +4318,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="ORF 1 HD" />
+			<Item Name="ORF Eins HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="ORF1 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -3485,7 +4360,9 @@
 			<File>ORF 2 Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ORF 2 HD" />
+			<Item Name="ORF 2 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>ORF 2 HD.png</File>
 		</Channel>
 		<Channel>
@@ -3672,8 +4549,26 @@
 			<File>P3tv.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Paramount Channel HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Paramount Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Paramount Channel">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Paramount Channel.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Parlamentsfernsehen des Deutschen Bundestages" />
 			<File>Parlamentsfernsehen des Deutschen Bundestages.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PBS America">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>PBS America.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pearl TV 4K UHD">
@@ -3725,6 +4620,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Phoenix HD.png</File>
@@ -3784,6 +4680,7 @@
 		<Channel>
 			<Item Name="Planet HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Planet HD.png</File>
@@ -3804,10 +4701,36 @@
 			<File>Planeta HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Planète+ A&amp;E HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Planète+ A&amp;E" />
+			<File>PlanetePlus A and E.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Planète+ CI HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Planète+ CI" />
+			<File>PlanetePlus Crime and Investigation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Planète+ HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>PlanetePlus HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Playboy TV">
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
 			<File>Playboy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Polar+">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>PolarPlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="PowerTürk TV">
@@ -3837,6 +4760,7 @@
 		<Channel>
 			<Item Name="ProSieben Fun HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben Fun HD.png</File>
@@ -3860,6 +4784,7 @@
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben HD.png</File>
@@ -3886,6 +4811,7 @@
 			</Item>
 			<Item Name="ProSieben Maxx HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben Maxx HD.png</File>
@@ -3913,6 +4839,7 @@
 			<Item Name="ProSieben">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben.png</File>
@@ -3946,6 +4873,9 @@
 			<File>Puls 4.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Puls 8 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Puls 8" />
 			<File>Puls 8.png</File>
 		</Channel>
@@ -4021,6 +4951,12 @@
 			<File>QVC2 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="QVC2 UHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>QVC2 UHD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="QVC2">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -4058,6 +4994,12 @@
 			<File>Radio WSW.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Rai 1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Rai 1 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Rai 1 (ita)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -4068,6 +5010,12 @@
 			<File>Rai 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Rai 2 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Rai 2 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Rai 2 (ita)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -4076,6 +5024,12 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Rai 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai 3 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Rai 3 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai 3 (ita)">
@@ -4112,6 +5066,7 @@
 			<Item Name="RBB Berlin HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RBB Berlin HD.png</File>
@@ -4203,8 +5158,20 @@
 			<File>Regio TV Stuttgart.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Regio 3">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Regio 4">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Regio 5">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Regio TV">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Regio">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Regio TV.png</File>
 		</Channel>
@@ -4233,6 +5200,19 @@
 		<Channel>
 			<Item Name="Rennsteig TV" />
 			<File>Rennsteig TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rete 4 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Rete 4 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RFM TV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="RFM TV" />
+			<File>RFM TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rhein Main TV">
@@ -4293,6 +5273,49 @@
 			<File>RLP.TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RMC Découverte">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>RMC Decouverte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RMC Sport 1">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>RMC Sport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RMC Sport 2">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>RMC Sport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RMC Sport 3">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>RMC Sport 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RMC Sport 4">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>RMC Sport 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RMC Sport Access 1" />
+			<Item Name="TC RMC Sport Access 1">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>RMC Sport Access 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RMC Story">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>RMC Story.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Rocket Beans TV" />
 			<File>Rocket Beans TV.png</File>
 		</Channel>
@@ -4306,6 +5329,7 @@
 		<Channel>
 			<Item Name="Romance TV HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Romance TV HD.png</File>
@@ -4317,6 +5341,7 @@
 			<Item Name="Romance TV">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Romance TV.png</File>
@@ -4326,7 +5351,16 @@
 			<File>RON TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RSI La 1 HD" />
+			<Item Name="Rouge TV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Rouge TV" />
+			<File>Rouge TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RSI La 1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>RSI La 1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -4334,7 +5368,9 @@
 			<File>RSI La 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RSI La 2 HD" />
+			<Item Name="RSI La 2 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>RSI La 2 HD.png</File>
 		</Channel>
 		<Channel>
@@ -4375,6 +5411,7 @@
 			<Item Name="Russia Today">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RT.png</File>
 		</Channel>
@@ -4396,6 +5433,9 @@
 			<Item Name="RTL 2 CH">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="RTL 2">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="RTL II">
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -4410,6 +5450,9 @@
 			<File>RTL 2 DE.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL 2 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="RTL II HD Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -4418,11 +5461,11 @@
 				<Provider>Terrestrial München</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<Item Name="RTLII HD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="RTL2 HD">
 				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<Item Name="RTLII HD">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>RTL 2 HD DE.png</File>
 		</Channel>
@@ -4433,6 +5476,7 @@
 		<Channel>
 			<Item Name="RTL Crime HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL Crime HD.png</File>
@@ -4459,6 +5503,7 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="RTL">
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL DE.png</File>
@@ -4475,6 +5520,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL HD DE.png</File>
@@ -4490,6 +5536,7 @@
 		<Channel>
 			<Item Name="RTL Living HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTL Living HD.png</File>
@@ -4520,6 +5567,7 @@
 		<Channel>
 			<Item Name="RTL Passion HD">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RTL Passion HD.png</File>
 		</Channel>
@@ -4550,6 +5598,17 @@
 			<File>RTL West.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL 9 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="RTL9 HD" />
+			<File>RTL9 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL9" />
+			<File>RTL9.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RTLplus HD">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -4563,6 +5622,9 @@
 			<File>RTLplus Osterreich.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL plus">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="RTLplus">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -4572,6 +5634,9 @@
 			<File>RTLplus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTP Int.">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="RTP Internacional (por)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -4597,6 +5662,9 @@
 		<Channel>
 			<Item Name="RTS 1 CH" />
 			<Item Name="RTS 1" />
+			<Item Name="RTS Un HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>RTS 1 CH.png</File>
 		</Channel>
 		<Channel>
@@ -4605,6 +5673,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="RTS 2" />
+			<Item Name="RTS Deux HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>RTS 2.png</File>
 		</Channel>
 		<Channel>
@@ -4631,6 +5702,12 @@
 			<File>RTV21 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTVi Archive">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>RTVi Archive.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Rugen TV" />
 			<File>Rugen TV.png</File>
 		</Channel>
@@ -4642,7 +5719,9 @@
 			<File>Rybalka I Ohota.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="S1 HD" />
+			<Item Name="S1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>S1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -4698,6 +5777,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sat.1 Gold HD.png</File>
@@ -4727,6 +5807,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Sat.1 HD.png</File>
 		</Channel>
@@ -4763,6 +5844,7 @@
 			<Item Name="Sat.1">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Sat.1.png</File>
 		</Channel>
@@ -4778,9 +5860,25 @@
 			<File>Schau TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closing 08/08/2019 -->
+			<Item Name="Schweiz5 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Schweiz 5" />
 			<File>Schweiz 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Science &amp; Vie HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Science and Vie TV" />
+			<File>Science and Vie TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Seasons HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Seasons" />
+			<File>Seasons.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ServusTV HD Deutschland">
@@ -4802,6 +5900,9 @@
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Servus TV HD">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>ServusTV HD.png</File>
 		</Channel>
@@ -4890,6 +5991,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sixx HD.png</File>
@@ -4922,6 +6024,7 @@
 		<Channel>
 			<Item Name="Sky 1">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky 1.png</File>
@@ -4930,6 +6033,7 @@
 			<Item Name="Sky Atlantic HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Atlantic HD.png</File>
@@ -4937,6 +6041,7 @@
 		<Channel>
 			<Item Name="Sky Atlantic">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Atlantic.png</File>
@@ -5051,8 +6156,10 @@
 			<File>Sky Cinema Plus 24.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 01/10/19 -->
-			<Item Name="Sky Cinema Special HD" />
+			<Item Name="Sky Cinema Special HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<File>Sky Cinema Special HD.png</File>
 		</Channel>
 		<Channel>
@@ -5069,6 +6176,9 @@
 			<File>Sky Krimi HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Krimi">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Sky Krimi">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5081,6 +6191,9 @@
 			<File>Sky News HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SkyNews">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Sky News Intl">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -5184,6 +6297,7 @@
 			<Item Name="Sky Sport 1 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Sky Sport HD 1" />
@@ -5193,6 +6307,7 @@
 			<Item Name="Sky Sport 1">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 1.png</File>
@@ -5251,6 +6366,7 @@
 			<Item Name="Sky Sport 2 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Sky Sport HD 2" />
@@ -5259,6 +6375,7 @@
 		<Channel>
 			<Item Name="Sky Sport 2">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport 2.png</File>
@@ -5401,8 +6518,12 @@
 			<File>Sky Sport Bundesliga 1 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Bundesliga 1">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Sky Sport Bundesliga 1">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 1.png</File>
@@ -5526,6 +6647,7 @@
 			<Item Name="Sky Sport News HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport News HD.png</File>
@@ -5534,6 +6656,7 @@
 			<Item Name="Sky Sport News">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sky Sport News.png</File>
@@ -5543,6 +6666,13 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Sky Sport UHD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport App">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Sky Sport" />
+			<File>Sky Sport.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sonlife (eng)">
@@ -5585,6 +6715,7 @@
 		<Channel>
 			<Item Name="Sony Channel">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Sony Channel.png</File>
 		</Channel>
@@ -5640,6 +6771,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sport1 HD.png</File>
@@ -5659,6 +6791,7 @@
 			<Item Name="Sport1+ HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Sport1Plus HD.png</File>
@@ -5677,6 +6810,7 @@
 			<Item Name="Sportdigital HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Sportdigital Fussball HD.png</File>
 		</Channel>
@@ -5717,7 +6851,9 @@
 			<File>SR Fernsehen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SRF 1 HD" />
+			<Item Name="SRF 1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>SRF 1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -5730,7 +6866,9 @@
 			<File>SRF 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SRF Info HD" />
+			<Item Name="SRF Info HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>SRF Info HD.png</File>
 		</Channel>
 		<Channel>
@@ -5742,7 +6880,9 @@
 			<File>SRF Sudthuringer Regionalfernsehen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SRF Zwei HD" />
+			<Item Name="SRF Zwei HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="SRFZwei HD">
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
@@ -5760,7 +6900,9 @@
 			<File>Stadtkanal Steinach.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Star TV HD" />
+			<Item Name="Star TV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Star TV HD.png</File>
 		</Channel>
 		<Channel>
@@ -5790,7 +6932,9 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<Item Name="Stingray Classica" />
+			<Item Name="Stingray Classica">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Stingray Classica.png</File>
 		</Channel>
 		<Channel>
@@ -5826,6 +6970,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Super RTL HD.png</File>
@@ -5841,9 +6986,16 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Super RTL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Swiss 1">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Swiss 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR Aktuell (Internet)">
@@ -5891,6 +7043,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>SWR BW HD.png</File>
 		</Channel>
@@ -5935,9 +7088,16 @@
 			<File>SWR.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Syfy HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Syfy HD F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Syfy HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Syfy HD.png</File>
@@ -5965,6 +7125,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Tagesschau24 HD.png</File>
@@ -5976,6 +7137,13 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Tagesschau24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tamil Television Network" />
+			<Item Name="TTN">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Tamil Television Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TBN Espana">
@@ -5990,10 +7158,23 @@
 			<File>TBN Russia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TCM Cinéma HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>TCM Cinema HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TCM Cinéma" />
+			<File>TCM Cinema.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Teins" />
 			<File>Teins.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Tele 1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Tele 1" />
 			<File>Tele 1.png</File>
 		</Channel>
@@ -6006,6 +7187,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Tele 5 HD.png</File>
@@ -6019,8 +7201,18 @@
 			<File>Tele 5.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Tele D HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Tele D" />
 			<File>Tele D.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tele M1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Tele M1" />
+			<File>Tele M1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tele Maroc" />
@@ -6034,16 +7226,43 @@
 			<File>Tele Stein.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Tele Top HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="Tele Top" />
 			<File>Tele Top.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Tele Z HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Tele Z" />
+			<File>Tele Z.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tele Bärn HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TeleBärn HD" />
+			<File>TeleBarn HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleBärn" />
+			<File>TeleBarn.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleBasel HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TeleBasel">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TeleBasel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TeleBielingue HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TeleBielingue" />
 			<File>TeleBielingue.png</File>
 		</Channel>
@@ -6059,6 +7278,90 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TeleBom.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Action HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Action HD" />
+			<File>Teleclub Action HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Action">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Action" />
+			<File>Teleclub Action.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Cinema HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Cinema HD" />
+			<File>Teleclub Cinema HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Cinema">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Cinema" />
+			<File>Teleclub Cinema.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Emotion HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Emotion HD" />
+			<File>Teleclub Emotion HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Emotion">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Emotion" />
+			<File>Teleclub Emotion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Sport 1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Sport 1 HD" />
+			<File>Teleclub Sport 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Sport 1">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Sport 1" />
+			<File>Teleclub Sport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Sport 2 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Sport 2 HD" />
+			<File>Teleclub Sport 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Sport 2">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Sport 2" />
+			<File>Teleclub Sport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Zoom HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Zoom HD" />
+			<File>Teleclub Zoom HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TC Zoom">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleclub Zoom" />
+			<File>Teleclub Zoom.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tele Dom">
@@ -6082,6 +7385,13 @@
 			<File>TeleSur HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Teleticino HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Teleticino" />
+			<File>Teleticino.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Television de Galicia" />
 			<Item Name="TVGA">
 				<Provider>Astra 19.2E</Provider>
@@ -6096,6 +7406,9 @@
 			<File>Television Tunisienne 1 Orient News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TeleZüri HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TeleZuri" />
 			<File>TeleZuri.png</File>
 		</Channel>
@@ -6104,6 +7417,15 @@
 			<File>Teltowkanal.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TF1 Séries Films">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>TF1 Series Films.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TF 1 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TF 1">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -6111,8 +7433,24 @@
 			<File>TF1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TFX HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TFX">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>TFX.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TGRT EU" />
 			<File>TGRT EU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tiji HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Tiji" />
+			<File>Tiji.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tide" />
@@ -6142,6 +7480,7 @@
 			<Item Name="TLC HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TLC HD.png</File>
@@ -6160,9 +7499,20 @@
 			<File>Tlnovelas.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TMC Monte Carlo HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TMC" />
+			<File>TMC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Comedy HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TNT Comedy HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Comedy HD.png</File>
@@ -6175,9 +7525,13 @@
 			<File>TNT Comedy.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TNT Film HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TNT Film HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Film HD.png</File>
@@ -6195,9 +7549,13 @@
 			<Item Name="TNT Serie HD (S)">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="TNT Serie HD (TC)">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TNT Serie HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>TNT Serie HD.png</File>
@@ -6222,6 +7580,7 @@
 			<Item Name="Toggo Plus">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Toggo Plus.png</File>
@@ -6236,6 +7595,12 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Travelxp 4K HDR.png</File>
+		</Channel>
+		<Channel>>
+			<Item Name="Trek">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Trek.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Trentino TV" />
@@ -6280,9 +7645,11 @@
 			<File>TRT Spor.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TRT Turk" />
 			<Item Name="TRT Türk">
 				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<Item Name="TRT-Türk">
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>TRT Turk.png</File>
 		</Channel>
@@ -6299,6 +7666,13 @@
 		<Channel>
 			<Item Name="TV Berlin" />
 			<File>TV Berlin.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Breizh HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TV Breizh" />
+			<File>TV Breizh.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Halle" />
@@ -6334,17 +7708,17 @@
 			<File>TV Slovenija 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV Südostschweiz HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TV Sudostschweiz" />
+			<File>TV Sudostschweiz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV Trwam">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TV Trwam.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TV Tsentr" />
-			<Item Name="TVCi">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>TV Tsentr.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Westsachsen" />
@@ -6371,6 +7745,23 @@
 			<File>TV1 Oberosterreich.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV24 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>TV24 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV24" />
+			<File>TV24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV25 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TV25" />
+			<File>TV25.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV38" />
 			<File>TV38.png</File>
 		</Channel>
@@ -6383,6 +7774,19 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>TV5Monde Europe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5Monde FBS HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TV5Monde France Belgique Suisse" />
+			<File>TV5Monde France Belgique Suisse.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5Monde">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>TV5Monde.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV 8">
@@ -6412,6 +7816,9 @@
 			<Item Name="TVE (spa)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="TVE Int.">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="TVE Internacional Europa">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -6429,6 +7836,13 @@
 			<File>TVM Meissen Fernsehen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TVM3 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TVM3" />
+			<File>TVM3.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TVN24 HD" />
 			<File>TVN24 HD.png</File>
 		</Channel>
@@ -6438,6 +7852,13 @@
 			</Item>
 			<Item Name="TVN24" />
 			<File>TVN24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVO HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TVO" />
+			<File>TVO.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TVP Info HD" />
@@ -6486,6 +7907,20 @@
 			<File>UHD1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ukraine 1" />
+			<Item Name="Ukraine1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Ukraine 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ukraine 2" />
+			<Item Name="Ukraine2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Ukraine 2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Infokanal">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -6506,18 +7941,49 @@
 		<Channel>
 			<Item Name="Universal TV">
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Universal TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Info Channel">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="UPC Shop D">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="UPC Shop F">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="UPC Shop I">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="UPC" />
+			<Item Name="Vorschau On Demand">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>UPC CH.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Usedom TV" />
 			<File>Usedom TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ushuaia TV HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Ushuaia TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ushuaia TV" />
+			<File>Ushuaia TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="VH1 Classic">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>VH1 Classic.png</File>
 		</Channel>
@@ -6563,6 +8029,7 @@
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Vox HD.png</File>
@@ -6577,6 +8044,7 @@
 			<Item Name="Vox">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Vox.png</File>
@@ -6585,6 +8053,13 @@
 		<!-- Launches 01/12/19 -->
 			<Item Name="VoxUp" />
 			<File>VoxUp.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Voyage HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="Voyage" />
+			<File>Voyage.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Deutschland Vozrozhdenie">
@@ -6602,6 +8077,13 @@
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
 			<File>W24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="W9 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="W9" />
+			<File>W9.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Waidwerk" />
@@ -6719,6 +8201,9 @@
 			<File>WDR HD Wuppertal.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Fernsehen HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<Item Name="WDR HD" />
 			<File>WDR HD.png</File>
 		</Channel>
@@ -6776,6 +8261,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Welt.png</File>
@@ -6788,8 +8274,16 @@
 			<Item Name="Deutsches Wetter Fernsehen">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
-			<Item Name="Wetter.com" />
+			<Item Name="Wetter.com">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>Wetter.com.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Wetter.TV">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Wetter.TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Wettin TV" />
@@ -6848,6 +8342,7 @@
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ZDF HD.png</File>
@@ -6866,6 +8361,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ZDFinfo HD.png</File>
@@ -6888,6 +8384,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="ZDFneo HD">

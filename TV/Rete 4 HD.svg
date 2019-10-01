@@ -1,0 +1,13 @@
+<svg width="555.46pt" height="307.8pt" version="1.1" viewBox="0 0 555.46 307.8" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="208.5" x2="208.5" y1="-.0021008" y2="410.39" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#EA651E" offset="0"/>
+   <stop stop-color="#E64011" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m362.57 104.2-0.33003 2.6074-12.345 96.796h192.88l12.682-99.404zm25.816 11.009h12.048l-4.0306 31.869h40.24l4.0559-31.869h12.059l-9.7774 77.205h-12.059l4.2369-32.81h-40.348l-4.1428 32.81h-12.062zm78.462 0h22.669c7.0257 0 12.82 1.2313 17.238 3.4766h0.0397c4.563 2.3176 8.2205 5.3233 10.9 8.9086 2.7159 3.6212 4.6715 7.6771 5.8301 12.095 1.1584 4.4905 1.7382 8.9086 1.7382 13.073 0 5.7942-0.86946 11.19-2.4987 16.042-1.7021 4.925-4.0196 9.0893-6.953 12.566-2.8971 3.5126-6.4098 6.2287-10.357 8.1478-3.9109 1.9193-8.1845 2.8971-12.783 2.8971h-35.525zm10.756 10.14-0.32606 2.6074-6.7718 54.319h16.332c4.3818 0 8.3652-0.83367 11.733-2.6074 3.2228-1.7021 5.9751-4.0196 8.0758-6.8443 2.0642-2.8247 3.5852-6.0476 4.5266-9.5967 0.97815-3.5489 1.4848-7.1343 1.4848-10.719 0-3.6574-0.57921-7.2063-1.702-10.501-1.1226-3.2954-2.7885-6.1926-4.9976-8.6552v-0.0397c-2.2452-2.4625-5.0335-4.4179-8.2565-5.8302-3.2953-1.4485-7.0617-2.1366-11.19-2.1366z" color="#000000" color-rendering="auto" fill="#a7a5a5" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="3.6212" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ <g transform="matrix(.75 0 0 .75 .026845 -.0023645)">
+  <path d="M 417,205.2 A 208.5,205.2 0 0 1 208.5,410.39999 208.5,205.2 0 0 1 0,205.2 208.5,205.2 0 0 1 208.5,0 208.5,205.2 0 0 1 417,205.2 Z" fill="url(#a)"/>
+  <path class="st1" d="m273.3 262.7h-18.7v29.6c0 15.6-12.7 28.3-28.3 28.3s-28.2-12.7-28.2-28.3v-29.6h-66.3c-15.5 0-28.2-12.6-28.2-28.2 0-6.3 2.1-12.2 5.6-16.8h-0.1l94.4-125.4c5.1-7 13.4-11.6 22.8-11.6 15.6 0 28.3 12.6 28.3 28.2v97.3h18.7c15.6 0 28.2 12.7 28.2 28.3s-12.6 28.2-28.2 28.2" fill="#fff"/>
+ </g>
+</svg>

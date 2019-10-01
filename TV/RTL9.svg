@@ -1,0 +1,32 @@
+<svg width="800" height="386.21" version="1.1" viewBox="0 0 800 386.21" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="a" cx="365.17" cy="3.83" r="127.57" gradientTransform="matrix(1.3793 .013793 -.013793 1.3793 .016208 -.047183)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b5c75d" offset="0"/>
+   <stop stop-color="#5cab4b" offset="1"/>
+  </radialGradient>
+  <radialGradient id="b" cx="176.16" cy="54.92" r="110.78" gradientTransform="matrix(1.3793 .013793 -.013793 1.3793 -.05558 -.066493)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fedb44" offset="0"/>
+   <stop stop-color="#fed540" offset=".23"/>
+   <stop stop-color="#fcc335" offset=".53"/>
+   <stop stop-color="#faa723" offset=".88"/>
+   <stop stop-color="#f99c1c" offset="1"/>
+  </radialGradient>
+  <radialGradient id="c" cx="86.28" cy="21.34" r="129.79" gradientTransform="matrix(.076995 1.3772 -1.3772 .076995 -.023448 -.12444)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f79b76" offset="0"/>
+   <stop stop-color="#c32127" offset="1"/>
+  </radialGradient>
+  <radialGradient id="d" cx="455.68" cy="5.53" r="145.69" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#70c2e6" offset=".01"/>
+   <stop stop-color="#3777b8" offset="1"/>
+  </radialGradient>
+ </defs>
+ <polygon transform="scale(1.3793)" points="427.5 0 450.9 241.7 301 256.5 277.6 14.9" fill="#bdd63b" opacity=".75"/>
+ <polygon transform="scale(1.3793)" points="300.7 29.5 287.7 273.9 135.2 264.3 148.2 19.9" fill="#f78d1e" opacity=".75"/>
+ <polygon transform="scale(1.3793)" points="151.4 35 167.3 242.6 15.9 256.5 0 48.9" fill="#92284e" opacity=".75"/>
+ <polygon transform="scale(1.3793)" points="580 33.2 555.3 280 402.3 264 426.9 17.1" fill="#4e419a" opacity=".75"/>
+ <rect transform="rotate(-.8)" x="392.04" y="26.725" width="207.72" height="314.19" fill="url(#a)" opacity=".8" stroke-width="1.3793"/>
+ <rect transform="rotate(-.8)" x="192.91" y="49.616" width="210.62" height="316.06" fill="url(#b)" opacity=".8" stroke-width="1.3793"/>
+ <rect transform="rotate(-86.8)" x="-323.33" y="22.496" width="270.76" height="207.7" fill="url(#c)" opacity=".8" stroke-width="1.3793"/>
+ <polygon transform="scale(1.3793)" points="565.5 32.7 568.6 261.9 415.4 263.3 412.3 34.1" fill="url(#d)" opacity=".8"/>
+ <path d="m446.48 73.931h42.483v158.21h58.207v36.276h-100.69zm-171.31 61.793h-33.517v-37.517h115.03v37.517h-33.517v171.72h-48zm403.45-38.069c-47.448 0-72.276 34.621-72.276 68.69 0 24.69 12.828 47.448 33.517 59.172a58.345 58.345 0 0 0 28.138 6.7586h3.3103l-41.655 59.172h48.69l60.828-85.379a74.345 74.345 0 0 0 12-39.586c0.13793-34.345-24.828-68.828-72.552-68.828zm0 40c22.483 0 32.69 14.483 32.69 28.828s-10.207 29.103-32.69 29.103-32.69-15.034-32.69-29.103 10.207-28.966 32.69-28.966zm-631.86-32.69h77.793q19.034 0 32.138 4.6897a55.172 55.172 0 0 1 21.379 13.103q14.621 14.069 14.621 38.345v0.41379q0 19.034-9.1034 31.448a57.931 57.931 0 0 1-24.69 19.034l36.552 76.414h-52.69l-30.345-68.966h-20v68.69h-45.655zm75.724 78.897q11.724 0 18.069-5.2414a17.517 17.517 0 0 0 6.3448-14.207v-0.4138q0-9.931-6.6207-14.621-6.6207-4.6896-18.069-4.8276h-29.793v39.448z" fill="#fff" stroke-width="1.3793"/>
+</svg>

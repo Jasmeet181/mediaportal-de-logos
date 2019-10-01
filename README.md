@@ -1,8 +1,8 @@
-# German and Austrian TV and radio logos for MediaPortal 1
+# Austrian, German and Swiss TV and radio logos for MediaPortal 1
 
 ## Introduction
 
-This repository contains German and Austrian television channel and radio station logos for use with [MediaPortal 1](https://www.team-mediaportal.com/) and the [LogoManager plugin](https://www.team-mediaportal.com/extensions/utilities/logomanager). The folders contain high quality SVG and PNG logos with dark and light designs. Any help would be very much appreciated, I can be contacted either through the MediaPortal forums or GitHub issues.
+This repository contains Austrian, German and Swiss television channel and radio station logos for use with [MediaPortal 1](https://www.team-mediaportal.com/) and the [LogoManager plugin](https://www.team-mediaportal.com/extensions/utilities/logomanager). The folders contain high quality SVG and PNG logos with dark and light designs. Any help would be very much appreciated, I can be contacted either through the MediaPortal forums or GitHub issues.
 
 ## Links
 
