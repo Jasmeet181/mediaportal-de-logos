@@ -650,10 +650,6 @@
 			<File>BBC Two HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC Two" />
-			<File>BBC Two.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="BBC HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -1145,7 +1141,7 @@
 			<Item Name="Channel 5 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<File>Channel 5 HD.png</File>>
+			<File>Channel 5 HD GB.png</File>>
 		</Channel>
 		<Channel>
 			<Item Name="Channel 55">
@@ -2089,7 +2085,8 @@
 			<Item Name="Film 4">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<File>Film 4.png</File>
+			<Item Name="Film4" />
+			<File>Film4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Filstalwelle" />
