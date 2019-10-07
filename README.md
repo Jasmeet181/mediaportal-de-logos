@@ -10,6 +10,7 @@ This repository contains Austrian, German and Swiss television channel and radio
 * [MediaPortal forum - LogoManager thread](https://forum.team-mediaportal.com/threads/logomanager-1-0-0-1-23-11-2015.119376/)
 * [MediaPortal forum - LogoManager German thread](https://forum.team-mediaportal.com/threads/logomanager.123121/)
 * [MediaPortal forum - [MP LogoManager] Logo Pack Deutschland/Österreich (TV/Radio) thread](https://forum.team-mediaportal.com/threads/mp-logomanager-logo-pack-deutschland-oesterreich-tv-radio.92282/)
+* [MediaPortal forum - [MP LogoManager] Swiss radio + TV logos thread](https://forum.team-mediaportal.com/threads/mp-logomanager-swiss-radio-tv-logos.91149/)
 
 ## Preview
 
