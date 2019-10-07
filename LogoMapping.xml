@@ -5420,46 +5420,6 @@
 			<File>RTK1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL 2 CH">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL 2">
-				<Provider>UPC (CH)</Provider>
-			</Item>
-			<Item Name="RTL II">
-				<Provider>Terrestrial Wien</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<Item Name="RTL2 Austria">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL2">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-			</Item>
-			<File>RTL 2 DE.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RTL 2 HD">
-				<Provider>UPC (CH)</Provider>
-			</Item>
-			<Item Name="RTL II HD Austria">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RTL II HD">
-				<Provider>Terrestrial Freiburg</Provider>
-				<Provider>Terrestrial München</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<Item Name="RTL2 HD">
-				<Provider>Unitymedia Lörrach</Provider>
-			</Item>
-			<Item Name="RTLII HD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>RTL 2 HD DE.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="RTL 2 HR" />
 			<File>RTL 2 HR.png</File>
 		</Channel>
@@ -5622,6 +5582,48 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>RTLplus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL 2 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="RTL II HD Austria">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTL II HD">
+				<Provider>Terrestrial Freiburg</Provider>
+				<Provider>Terrestrial München</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="RTL2 HD">
+				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<Item Name="RTLII HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTLZwei HD" />
+			<File>RTLZwei HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL 2 CH">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTL 2">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="RTL II">
+				<Provider>Terrestrial Wien</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="RTL2 Austria">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RTL2">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<Item Name="RTLZwei" />
+			<File>RTLZwei.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTP Int.">
