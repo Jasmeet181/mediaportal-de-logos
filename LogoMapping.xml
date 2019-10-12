@@ -5535,6 +5535,9 @@
 			<File>RTL TV Bayern.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL UHD Austria">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="RTL UHD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -6163,8 +6166,9 @@
 			<File>Sky Cinema.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 08/10/19 -->
-			<Item Name="Sky Krimi HD" />
+			<Item Name="Sky Krimi HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Krimi HD.png</File>
 		</Channel>
 		<Channel>
@@ -6172,7 +6176,6 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Sky Krimi">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -8332,9 +8335,7 @@
 			<File>Xite.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Yol TV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="Yol TV" />
 			<File>Yol TV.png</File>
 		</Channel>
 		<Channel>
