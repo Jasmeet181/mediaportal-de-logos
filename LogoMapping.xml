@@ -558,26 +558,6 @@
 			<File>Auto Motor und Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AXN HD">
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>UPC (CH)</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>AXN HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="AXN (eng)">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<Item Name="AXN Deutschland">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="AXN">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>AXN.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Babestation24">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -1024,6 +1004,16 @@
 			<File>CanalPlus Decale.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Canal+ En Clair HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>CanalPlus En Clair HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal+ En Clair" />
+			<File>CanalPlus En Clair.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Canal+ Family HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -1034,9 +1024,6 @@
 			<File>CanalPlus Family.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal+ en clair HD">
-				<Provider>UPC (CH)</Provider>
-			</Item>
 			<Item Name="Canal+ HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -3464,8 +3451,16 @@
 			<File>Mezzo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mir Seriala" />
+			<Item Name="Mir Seriala">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Mir Seriala.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mir24">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Mir24.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mittel Erzgebirgs Fernsehen" />
@@ -6702,6 +6697,28 @@
 			<File>Sonnenklar.TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="AXN HD">
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>UPC (CH)</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Sony AXN HD" />
+			<File>Sony AXN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AXN (eng)">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="AXN Deutschland">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="AXN">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Sony AXN" />
+			<File>Sony AXN.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sony Channel HD">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -7211,9 +7228,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Tele Maroc" />
-			<Item Name="TeleMaroc">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<File>Tele Maroc.png</File>
 		</Channel>
 		<Channel>
@@ -8335,7 +8349,9 @@
 			<File>Xite.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Yol TV" />
+			<Item Name="Yol TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Yol TV.png</File>
 		</Channel>
 		<Channel>
