@@ -1319,6 +1319,10 @@
 			<File>Comedy Central HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Comedy Central Schweiz" />
+			<File>Comedy Central Schweiz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Comedy Central">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -4763,6 +4767,10 @@
 			<File>ProSieben HD Austria.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ProSieben HD Schweiz" />
+			<File>ProSieben HD Schweiz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ProSieben HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
@@ -4775,18 +4783,23 @@
 			<File>ProSieben HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Pro7 Maxx HD Austria">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="ProSieben Maxx Austria HD" />
-			<File>ProSieben Maxx Austria HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Pro7 Maxx Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="ProSieben Maxx Austria" />
 			<File>ProSieben Maxx Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pro7 Maxx HD Austria">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="ProSieben Maxx HD Austria" />
+			<File>ProSieben Maxx HD Austria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pro7 Maxx HD Schweiz" />
+			<Item Name="ProSieben Maxx HD Schweiz" />
+			<File>ProSieben Maxx HD Schweiz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pro7 Maxx HD">
@@ -4800,6 +4813,11 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben Maxx HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pro7 Maxx Schweiz" />
+			<Item Name="ProSieben Maxx Schweiz" />
+			<File>ProSieben Maxx Schweiz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pro7 Maxx">
@@ -7418,7 +7436,10 @@
 			<Item Name="TeleZüri HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="TeleZuri" />
+			<File>TeleZuri HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleZüri" />
 			<File>TeleZuri.png</File>
 		</Channel>
 		<Channel>
