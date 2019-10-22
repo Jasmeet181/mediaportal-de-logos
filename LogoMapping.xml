@@ -6835,10 +6835,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sportdigital Fussball HD">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<Item Name="Sportdigital HD">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
