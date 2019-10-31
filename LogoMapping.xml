@@ -3253,6 +3253,7 @@
 			<File>MaxTV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes ??/??/19 -->
 			<Item Name="MB Live TV" />
 			<Item Name="MB Live">
 				<Provider>Astra 19.2E</Provider>
@@ -7659,6 +7660,10 @@
 			<File>TRT Cocuk.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TRT Deutsch" />
+			<File>TRT Deutsch.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TRT Haber" />
 			<File>TRT Haber.png</File>
 		</Channel>
@@ -9734,6 +9739,10 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Radio Swiss Pop.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Teddy" />
+			<File>Radio Teddy.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OE2 T">
