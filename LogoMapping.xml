@@ -1756,6 +1756,13 @@
 			<File>E8 Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="EdgeSport HD" />
+			<Item Name="EdgeSport">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>EdgeSport HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="EFF 3" />
 			<File>EFF 3.png</File>
 		</Channel>
