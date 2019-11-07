@@ -5728,6 +5728,13 @@
 			<File>Rugen TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Russian Music Box">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Russian MusicBox" />
+			<File>Russian MusicBox.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Ribalka i Ohota">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
