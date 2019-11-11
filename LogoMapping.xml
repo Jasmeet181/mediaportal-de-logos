@@ -3,6 +3,13 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+			<Item Name="1+1 International" />
+			<Item Name="1+1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>1 Plus 1 International.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="1-2-3.tv HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
