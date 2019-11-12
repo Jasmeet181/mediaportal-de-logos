@@ -5287,6 +5287,13 @@
 			<File>RIK Zollernalb1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RIT-TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RIT" />
+			<File>RIT.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RLP.TV" />
 			<File>RLP.TV.png</File>
 		</Channel>
