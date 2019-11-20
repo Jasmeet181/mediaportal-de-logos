@@ -3360,6 +3360,9 @@
 			<File>MDR.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ALT Sendersuchlauf starten!!">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="BunnyClub24">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -5285,13 +5288,6 @@
 		<Channel>
 			<Item Name="RIK Zollernalb1" />
 			<File>RIK Zollernalb1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RIT-TV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="RIT" />
-			<File>RIT.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RLP.TV" />
@@ -7274,10 +7270,6 @@
 			<File>Tele M1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Tele Maroc" />
-			<File>Tele Maroc.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Tele Stein" />
 			<File>Tele Stein.png</File>
 		</Channel>
@@ -8086,6 +8078,13 @@
 			<File>Vogtland Regional Fernsehen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Volksmusik.TV - Der neue Sender!">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Volksmusik.TV" />
+			<File>Volksmusik.TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Vorpommern TV" />
 			<File>Vorpommern TV.png</File>
 		</Channel>
@@ -8118,6 +8117,11 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Vox.png</File>
+		</Channel>
+		<Channel>
+		<!-- Launches 01/12/19 -->
+			<Item Name="VoxUp HD" />
+			<File>VoxUp HD.png</File>
 		</Channel>
 		<Channel>
 		<!-- Launches 01/12/19 -->
