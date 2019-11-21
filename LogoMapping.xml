@@ -410,15 +410,13 @@
 			<File>Arcadia World.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ARD alpha HD">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
 			<Item Name="ARD-alpha HD (Internet)">
 				<Provider>Terrestrial Freiburg</Provider>
 			</Item>
 			<Item Name="ARD-alpha HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>ARD-alpha HD.png</File>
 		</Channel>
@@ -9457,6 +9455,9 @@
 			<File>Radio B2.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Bob (national)">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Radio Bob!">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -9773,6 +9774,9 @@
 			<File>Radio Swiss Pop.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Teddy (BY)">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Radio Teddy" />
 			<File>Radio Teddy.png</File>
 		</Channel>
