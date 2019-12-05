@@ -159,7 +159,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="5 Kanal" />
-			<File>5 Kanal UA.png</File>>
+			<File>5 Kanal UA.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="5+ HD">
@@ -657,8 +657,10 @@
 			<File>BBC World News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Beate-Uhse.TV HD">
+			<Item Name="Beate-Uhse.TV HD" />
+			<Item Name="Beate Uhse HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Beate-Uhse.TV HD.png</File>
 		</Channel>
@@ -1127,19 +1129,19 @@
 			<Item Name="Channel 4 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<File>Channel 4 HD.png</File>>
+			<File>Channel 4 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Channel 5 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<File>Channel 5 HD GB.png</File>>
+			<File>Channel 5 HD GB.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Channel 55">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<File>Channel 55.png</File>>
+			<File>Channel 55.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Channel One Russia Worldwide (rus)">
@@ -1381,6 +1383,14 @@
 			</Item>
 			<File>Cubavision Internacional.png</File>
 		</Channel>
+		<!--
+		<Channel>
+			<Item Name="D7 TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>D7 TV.png</File>
+		</Channel>
+		-->
 		<Channel>
 			<Item Name="Das Erste HD">
 				<Provider>Astra 19.2E</Provider>
@@ -1415,6 +1425,7 @@
 		<Channel>
 			<Item Name="DAZN 1 Bar HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<Item Name="Dazn 1" />
 			<File>Dazn 1.png</File>
@@ -1422,6 +1433,7 @@
 		<Channel>
 			<Item Name="DAZN 2 Bar HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<Item Name="Dazn 2" />
 			<File>Dazn 2.png</File>
@@ -1583,6 +1595,7 @@
 			<Item Name="Disney Junior HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Disney Junior HD.png</File>
 		</Channel>
@@ -1914,6 +1927,7 @@
 		<Channel>
 			<Item Name="Eurosport 2 HD Xtra">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Eurosport 2 HD Xtra.png</File>
 		</Channel>
@@ -1984,6 +1998,7 @@
 			<Item Name="Eurosport 360 HD4" />
 			<Item Name="Eurosport360HD 4">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Eurosport 360 HD4.png</File>
 		</Channel>
@@ -1991,6 +2006,7 @@
 			<Item Name="Eurosport 360 HD5" />
 			<Item Name="Eurosport360HD 5">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Eurosport 360 HD5.png</File>
 		</Channel>
@@ -3385,7 +3401,7 @@
 			<Item Name="Heiss und Sexy TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Media Broadcast Satellite" />>
+			<Item Name="Media Broadcast Satellite" />
 			<Item Name="Mobile Sex">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -4686,7 +4702,6 @@
 			<Item Name="Planet HD">
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>UPC (CH)</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Planet HD.png</File>
 		</Channel>
@@ -4694,7 +4709,6 @@
 			<Item Name="Planet">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Planet.png</File>
 		</Channel>
@@ -5474,9 +5488,6 @@
 			<Item Name="RTL Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="RTL CH">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="RTL Television">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5976,7 +5987,7 @@
 			</Item>
 			<File>Shop24Direct.png</File>
 		</Channel>
-		<Channel>>
+		<Channel>
 			<Item Name="Show Turk (tur)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -6204,6 +6215,7 @@
 		<Channel>
 			<Item Name="Sky Krimi HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Krimi HD.png</File>
 		</Channel>
@@ -6453,6 +6465,7 @@
 		<Channel>
 			<Item Name="Sky Sport 6 HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Sport 6 HD.png</File>
 		</Channel>
@@ -6463,6 +6476,7 @@
 		<Channel>
 			<Item Name="Sky Sport 7 HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Sport 7 HD.png</File>
 		</Channel>
@@ -6610,6 +6624,7 @@
 		<Channel>
 			<Item Name="Sky Sport Bundesliga 5 HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 5 HD.png</File>
 		</Channel>
@@ -6619,7 +6634,9 @@
 			<File>Sky Sport Bundesliga 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport Bundesliga 6 HD" />
+			<Item Name="Sky Sport Bundesliga 6 HD">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<File>Sky Sport Bundesliga 6 HD.png</File>
 		</Channel>
 		<Channel>
@@ -6789,6 +6806,13 @@
 		<Channel>
 			<Item Name="Sparda Welt" />
 			<File>Sparda Welt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Souz">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Soyuz" />
+			<File>Soyuz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Spiegel Geschichte HD">
@@ -7645,7 +7669,7 @@
 			</Item>
 			<File>Travelxp 4K HDR.png</File>
 		</Channel>
-		<Channel>>
+		<Channel>
 			<Item Name="Trek">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -7663,7 +7687,7 @@
 			<Item Name="Trofey">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>Trofey.png</File>>
+			<File>Trofey.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TRT Belgesel HD" />
@@ -8105,9 +8129,6 @@
 			<Item Name="Vox Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Vox CH">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="Vox">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8117,13 +8138,14 @@
 			<File>Vox.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 01/12/19 -->
 			<Item Name="VoxUp HD" />
 			<File>VoxUp HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Launches 01/12/19 -->
-			<Item Name="VoxUp" />
+			<Item Name="VoxUp">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<File>VoxUp.png</File>
 		</Channel>
 		<Channel>
@@ -8817,6 +8839,17 @@
 			<File>Die neue Welle.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Die Sendung Mit Der Maus Zum Hören" />
+			<Item Name="Die Maus">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="KiRaKa">
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<File>Die Sendung Mit Der Maus Zum Horen.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Dokumente und Debatten" />
 			<Item Name="DRadio DokDeb">
 				<Provider>Astra 19.2E</Provider>
@@ -8857,7 +8890,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>ERF Pop.png</File>
-		</Channel>>
+		</Channel>
 		<Channel>
 			<Item Name="Europe 1">
 				<Provider>Astra 19.2E</Provider>
@@ -8945,7 +8978,7 @@
 			</Item>
 			<File>Hit Radio FFH.png</File>
 		</Channel>
-		<Channel>>
+		<Channel>
 			<Item Name="Hit Radio N1">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -9051,14 +9084,6 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>JSTV Radio Japan.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="KiRaKa">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>KiRaKa.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Klassik Radio">
