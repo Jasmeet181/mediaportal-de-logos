@@ -1383,14 +1383,12 @@
 			</Item>
 			<File>Cubavision Internacional.png</File>
 		</Channel>
-		<!--
 		<Channel>
 			<Item Name="D7 TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>D7 TV.png</File>
 		</Channel>
-		-->
 		<Channel>
 			<Item Name="Das Erste HD">
 				<Provider>Astra 19.2E</Provider>
@@ -7842,6 +7840,9 @@
 			<Item Name="TV25 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<File>TV25 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV25" />
 			<File>TV25.png</File>
 		</Channel>
@@ -8842,9 +8843,6 @@
 			<Item Name="Die Sendung Mit Der Maus Zum Hören" />
 			<Item Name="Die Maus">
 				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="KiRaKa">
-				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Die Sendung Mit Der Maus Zum Horen.png</File>
