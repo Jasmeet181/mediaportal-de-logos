@@ -2967,6 +2967,12 @@
 			<File>Karnten TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kaufbei.TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Kaufbei.TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Kazakh TV / 1+1 International (kaz/ukr)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
