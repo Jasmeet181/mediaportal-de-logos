@@ -1356,6 +1356,9 @@
 			<Item Name="C+I">
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
+			<Item Name="Crime&amp;Investigation">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<Item Name="Crime+Investigation" />
 			<Item Name="Crime + Investigation">
 				<Provider>Astra 19.2E</Provider>
@@ -1564,6 +1567,9 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Disney HD">
+				<Provider>Unitymedia Köln</Provider>
 			</Item>
 			<File>Disney Channel HD.png</File>
 		</Channel>
@@ -1892,6 +1898,9 @@
 			<File>Euronews.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport1 HD">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<Item Name="Eurosport 1 F HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -2185,13 +2194,6 @@
 			<File>France 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 (in Arabic)">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="France 24 - Arabic" />
-			<File>France 24 - Arabic.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="France 24 (in English)">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -2232,6 +2234,7 @@
 			<File>France 3.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 09/08/2020 -->
 			<Item Name="France 4 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -2250,6 +2253,7 @@
 			<File>France 5.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 09/08/2020 -->
 			<Item Name="France Ô">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -4150,6 +4154,13 @@
 			<File>Nova TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nederland 2">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
+			<Item Name="NPO 2" />
+			<File>NPO 2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRJ 12 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -4168,6 +4179,12 @@
 		<Channel>
 			<Item Name="NRWision" />
 			<File>NRWision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NTV Avrupa">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
+			<File>NTV Avrupa.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NTV Mir">
@@ -4933,10 +4950,10 @@
 			<File>QS24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Quadratauge" />
-			<Item Name="Videothek">
-				<Provider>Unitymedia Lörrach</Provider>
+			<Item Name="Quadratauge TV">
+				<Provider>Unitymedia Köln</Provider>
 			</Item>
+			<Item Name="Quadratauge" />
 			<File>Quadratauge.png</File>
 		</Channel>
 		<Channel>
@@ -5738,6 +5755,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="RTV21 HD" />
+			<Item Name="RTV21">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<File>RTV21 HD.png</File>
 		</Channel>
 		<Channel>
@@ -6098,6 +6118,9 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Sky Cinema  Action  HD">
+					<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<File>Sky Cinema Action HD.png</File>
 		</Channel>
 		<Channel>
@@ -6205,6 +6228,9 @@
 			<Item Name="Sky Cinema Special HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<Item Name="Sky Cinema  Special  HD">
+					<Provider>Unitymedia Köln</Provider>
 			</Item>
 			<File>Sky Cinema Special HD.png</File>
 		</Channel>
@@ -6771,6 +6797,9 @@
 			<Item Name="AXN (eng)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="AXN Action">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<Item Name="AXN Deutschland">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -7082,7 +7111,9 @@
 			<Item Name="SWR Aktuell (Internet)">
 				<Provider>Terrestrial Freiburg</Provider>
 			</Item>
-			<Item Name="SWR Aktuell" />
+			<Item Name="SWR Aktuell">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<File>SWR Aktuell.png</File>
 		</Channel>
 		<Channel>
@@ -7099,14 +7130,18 @@
 			<Item Name="SWR2 (Internet)">
 				<Provider>Terrestrial Freiburg</Provider>
 			</Item>
-			<Item Name="SWR2" />
+			<Item Name="SWR2">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<File>SWR2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR3 (Internet)">
 				<Provider>Terrestrial Freiburg</Provider>
 			</Item>
-			<Item Name="SWR3" />
+			<Item Name="SWR3">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<File>SWR3.png</File>
 		</Channel>
 		<Channel>
@@ -7227,12 +7262,6 @@
 			<File>Tamil Television Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TBN Espana">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>TBN Espana.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TBN Russia">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -7345,6 +7374,9 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="TeleBom/TeleDom" />
+			<Item Name="Telebom / Tele Dom">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<File>TeleBom TeleDom.png</File>
 		</Channel>
 		<Channel>
@@ -8027,6 +8059,9 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="Universal TV  HD">
+				<Provider>Unitymedia Köln</Provider>
+			</Item>
 			<File>Universal TV HD.png</File>
 		</Channel>
 		<Channel>
@@ -8283,6 +8318,9 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="WDR Köln HD">
+				<Provider>Unitymedia Köln</Provider>
 			</Item>
 			<File>WDR HD Koln.png</File>
 		</Channel>
@@ -8783,6 +8821,7 @@
 		<Channel>
 			<Item Name="Dasding">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Unitymedia Köln</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
