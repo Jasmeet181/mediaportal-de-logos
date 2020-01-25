@@ -109,6 +109,7 @@
 		<Channel>
 			<Item Name="3sat HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -119,6 +120,9 @@
 			<File>3sat HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="3sat SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="3sat">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -415,6 +419,7 @@
 			</Item>
 			<Item Name="ARD-alpha HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
@@ -423,6 +428,9 @@
 		<Channel>
 			<Item Name="ARD alpha">
 				<Provider>Magenta Tirol</Provider>
+			</Item>
+			<Item Name="ARD-alpha SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="ARD-alpha">
 				<Provider>Astra 19.2E</Provider>
@@ -457,6 +465,7 @@
 			</Item>
 			<Item Name="Arte HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -467,6 +476,9 @@
 			<File>Arte HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Arte SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Arte">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -874,6 +886,9 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="BR Nord SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="BR Nord">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -889,6 +904,9 @@
 			<Item Name="BR Fernsehen Sued HD">
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
+			<Item Name="BR Süd HD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<File>BR Fernsehen Sud HD.png</File>
 		</Channel>
 		<Channel>
@@ -896,6 +914,9 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="BR Süd SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<File>BR Fernsehen Sud.png</File>
 		</Channel>
@@ -1395,6 +1416,7 @@
 		<Channel>
 			<Item Name="Das Erste HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -1405,6 +1427,9 @@
 			<File>Das Erste HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Das Erste SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Das Erste">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -2212,6 +2237,9 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="France 24 - Francais" />
+			<Item Name="France 24 HD">
+				<Provider>UPC (CH)</Provider>
+			</Item>
 			<File>France 24 - Francais.png</File>
 		</Channel>
 		<Channel>
@@ -2606,6 +2634,9 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="HR Fernsehen HD" />
+			<Item Name="HR HD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<File>HR Fernsehen HD.png</File>
 		</Channel>
 		<Channel>
@@ -2615,6 +2646,9 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="HR Fernsehen" />
+			<Item Name="HR SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<File>HR Fernsehen.png</File>
 		</Channel>
 		<Channel>
@@ -2886,18 +2920,22 @@
 		</Channel>
 		<Channel>
 			<Item Name="Kabel Eins Doku Austria" />
-			<Item Name="kabel1 Doku austria">
+			<Item Name="Kabel1 Doku Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Kabel Eins Doku Austria.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="kabel Eins Doku HD">
+			<Item Name="Kabel Eins Doku HD">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Kabel Eins Doku HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kabel Eins Doku SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Kabel Eins Doku">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -2926,6 +2964,9 @@
 		<Channel>
 			<Item Name="Kabel 1 Schweiz">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Kabel Eins SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="Kabel Eins">
 				<Provider>Astra 19.2E</Provider>
@@ -3003,6 +3044,7 @@
 			</Item>
 			<Item Name="KiKa HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -3012,6 +3054,9 @@
 			<File>KiKa HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KiKa SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="KiKa">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -3342,18 +3387,25 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="MDR Sachsen-Anhalt SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="MDR Sachsen-Anhalt" />
 			<File>MDR Sachsen-Anhalt.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Sachsen HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>MDR Sachsen HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MDR Sachsen SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="MDR Sachsen">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -3371,6 +3423,9 @@
 			<File>MDR Thuringen HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MDR Thüringen SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="MDR Thüringen">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -3775,6 +3830,9 @@
 			<Item Name="N-TV Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="N-TV SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="N-TV">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -3917,11 +3975,16 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="NDR Hamburg SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="NDR Hamburg" />
 			<File>NDR Hamburg.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NDR HD" />
+			<Item Name="NDR HD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<File>NDR HD.png</File>
 		</Channel>
 		<Channel>
@@ -3936,6 +3999,9 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="NDR Mecklenburg-Vorpommern SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="NDR Mecklenburg-Vorpommern" />
 			<File>NDR Mecklenburg-Vorpommern.png</File>
@@ -3971,10 +4037,16 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
+			<Item Name="NDR Schleswig-Holstein SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="NDR Schleswig-Holstein" />
 			<File>NDR Schleswig-Holstein.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NDR SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="NDR" />
 			<File>NDR.png</File>
 		</Channel>
@@ -4133,6 +4205,9 @@
 			<Item Name="Nitro Austria">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
+			</Item>
+			<Item Name="Nitro SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="Nitro">
 				<Provider>Astra 19.2E</Provider>
@@ -4342,6 +4417,7 @@
 		<Channel>
 			<Item Name="One HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -4357,6 +4433,9 @@
 			<File>One TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="One SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="One">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -4659,6 +4738,7 @@
 		<Channel>
 			<Item Name="Phoenix HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -4668,6 +4748,9 @@
 			<File>Phoenix HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Phoenix SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Phoenix">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -4874,6 +4957,9 @@
 			<Item Name="Pro7 Maxx">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="ProSieben Maxx SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="ProSieben Maxx">
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -4890,6 +4976,9 @@
 			<File>ProSieben Schweiz.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ProSieben SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="ProSieben">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -4986,6 +5075,31 @@
 			<File>QVC UHD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="QVC Zwei HD" />
+			<Item Name="QVC2 HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Terrestrial München</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<File>QVC Zwei HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC Zwei UHD" />
+			<Item Name="QVC2 UHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>QVC Zwei UHD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC Zwei" />
+			<Item Name="QVC2">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Unitymedia Lörrach</Provider>
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<File>QVC Zwei.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="QVC Deutschland">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -4995,28 +5109,6 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>QVC.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="QVC2 HD">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Terrestrial München</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-			</Item>
-			<File>QVC2 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="QVC2 UHD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>QVC2 UHD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="QVC2">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Unitymedia Lörrach</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>QVC2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="R9 Oesterreich HD">
@@ -5029,10 +5121,15 @@
 			<Item Name="Radio Bremen HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Radio Bremen TV HD" />
+			<Item Name="Radio Bremen TV HD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<File>Radio Bremen TV HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Bremen TV SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Radio Bremen TV">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5119,6 +5216,7 @@
 			</Item>
 			<Item Name="RBB Berlin HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -5126,6 +5224,9 @@
 			<File>RBB Berlin HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RBB Berlin SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="RBB Berlin">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5140,6 +5241,9 @@
 			<File>RBB Brandenburg HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RBB Brandenburg SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="RBB Brandenburg">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5509,6 +5613,9 @@
 			<Item Name="RTL Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="RTL SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="RTL Television">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -5605,6 +5712,9 @@
 			<File>RTL UHD DE.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTL NRW SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="RTL Regional NRW">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -5638,6 +5748,9 @@
 		<Channel>
 			<Item Name="RTL plus">
 				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="RTLplus SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="RTLplus">
 				<Provider>Astra 19.2E</Provider>
@@ -5685,6 +5798,9 @@
 			<Item Name="RTL2">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<Item Name="RTLZwei SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="RTLZwei" />
 			<File>RTLZwei.png</File>
@@ -5849,6 +5965,9 @@
 			<File>Sat.1 Gold HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sat.1 Gold SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Sat.1 Gold">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -5906,6 +6025,9 @@
 			</Item>
 			<Item Name="Sat.1 RhlPf/Hessen">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Sat.1 SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="Sat.1">
 				<Provider>Astra 19.2E</Provider>
@@ -6067,6 +6189,9 @@
 			<File>Sixx Schweiz.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sixx SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Sixx">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -6704,6 +6829,7 @@
 		<Channel>
 			<Item Name="Sky Sport Bundesliga UHD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga UHD.png</File>
 		</Channel>
@@ -6742,6 +6868,7 @@
 		<Channel>
 			<Item Name="Sky Sport UHD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Sport UHD.png</File>
 		</Channel>
@@ -6950,6 +7077,9 @@
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
+			<Item Name="SR HD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<File>SR Fernsehen HD.png</File>
 		</Channel>
 		<Channel>
@@ -6957,6 +7087,9 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="SR SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<File>SR Fernsehen.png</File>
 		</Channel>
@@ -7092,6 +7225,9 @@
 			<Item Name="Super RTL A">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Super RTL SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Super RTL">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -7157,6 +7293,7 @@
 		<Channel>
 			<Item Name="SWR BW HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>UPC (CH)</Provider>
@@ -7164,6 +7301,9 @@
 			<File>SWR BW HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SWR BW SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="SWR BW" />
 			<Item Name="SWR Fernsehen BW">
 				<Provider>Astra 19.2E</Provider>
@@ -7185,6 +7325,7 @@
 		<Channel>
 			<Item Name="SWR RP HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -7195,6 +7336,9 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="SWR RP SD">
+				<Provider>MagentaTV</Provider>
 			</Item>
 			<Item Name="SWR RP" />
 			<File>SWR RP.png</File>
@@ -7238,6 +7382,7 @@
 		<Channel>
 			<Item Name="Tagesschau24 HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -7686,6 +7831,9 @@
 			<File>TNT Serie.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Toggo Plus SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Toggo Plus">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8171,6 +8319,9 @@
 			<Item Name="Vox Austria">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Vox SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="Vox">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8183,7 +8334,10 @@
 			<Item Name="VoxUp HD" />
 			<File>VoxUp HD.png</File>
 		</Channel>
-		<Channel>
+		<Channel
+			<Item Name="VoxUp SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="VoxUp">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
@@ -8229,42 +8383,63 @@
 			<File>Waidwerk.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Aachen SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Aachen">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Aachen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Bielefeld SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Bielefeld">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Bielefeld.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Bonn SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Bonn">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Bonn.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Dortmund SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Dortmund">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Dortmund.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Duisburg SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Duisburg">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Duisburg.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Düsseldorf SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Düsseldorf">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Dusseldorf.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Essen SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Essen">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -8346,7 +8521,9 @@
 			<Item Name="WDR Fernsehen HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="WDR HD" />
+			<Item Name="WDR HD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<File>WDR HD.png</File>
 		</Channel>
 		<Channel>
@@ -8358,24 +8535,36 @@
 			<File>WDR Koln.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Münster SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Münster">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Munster.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Siegen SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Siegen">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Siegen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR Wuppertal SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR Wuppertal">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>WDR Wuppertal.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDR SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="WDR" />
 			<File>WDR.png</File>
 		</Channel>
@@ -8397,6 +8586,16 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Welt HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Welt CH HD">
+				<Provider>Swisscom</Provider>
+			</Item>
+			<Item Name="Welt CH">
+				<Provider>Swisscom</Provider>
+			</Item>
+			<Item Name="Welt Schweiz" />
+			<File>Welt Schweiz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Welt">
@@ -8480,6 +8679,7 @@
 		<Channel>
 			<Item Name="ZDF HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -8490,6 +8690,9 @@
 			<File>ZDF HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ZDF SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="ZDF">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8500,6 +8703,7 @@
 		<Channel>
 			<Item Name="ZDFinfo HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8509,6 +8713,9 @@
 			<File>ZDFinfo HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ZDFinfo SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="ZDFinfo">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -8523,6 +8730,7 @@
 			</Item>
 			<Item Name="ZDF_neo HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>MagentaTV</Provider>
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8535,11 +8743,14 @@
 			<File>ZDFneo HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ZDF_neo SD">
+				<Provider>MagentaTV</Provider>
+			</Item>
 			<Item Name="ZDF_neo">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
+			</Item>>
 			<Item Name="ZDFneo" />
 			<File>ZDFneo.png</File>
 		</Channel>
@@ -9772,6 +9983,10 @@
 			</Item>
 			<Item Name="Radio Salzburg" />
 			<File>Radio Salzburg.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Schwaben" />
+			<File>Radio Schwaben.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Das neue Radio Seefunk">
