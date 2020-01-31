@@ -2377,6 +2377,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Ginx eSports TV" />
+			<Item Name="Ginx TV (eng)">
+				<Provider>Vodafone Kabel Aichach</Provider>
+			</Item>
 			<Item Name="Ginx TV">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -2493,9 +2496,7 @@
 			<Item Name="Handystar TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Handystar">
-				<Provider>Vodafone Kabel München</Provider>
-			</Item>
+			<Item Name="Handystar" />
 			<File>Handystar.png</File>
 		</Channel>
 		<Channel>
@@ -3141,7 +3142,9 @@
 			<File>Kulturmd.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KW-TV" />
+			<Item Name="KW-TV">
+				<Provider>Vodafone Kabel Königs Wusterhausen</Provider>
+			</Item>
 			<File>KW-TV.png</File>
 		</Channel>
 		<Channel>
@@ -3250,13 +3253,6 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Lokal TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="LRT Lituanica/Ginx eSports TV" />
-			<Item Name="LRT Lituanica/Ginx TV (lit/engl)">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>LRT Lituanica Ginx eSports TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="LT1 HD" />
@@ -6265,6 +6261,7 @@
 			<File>Sky Cinema Comedy.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 12/03/2020 -->
 			<Item Name="Sky Cinema Emotion">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -6318,12 +6315,14 @@
 			<File>Sky Cinema Nostalgie.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 12/03/2020 -->
 			<Item Name="Sky Cinema +1 HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Sky Cinema Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 12/03/2020 -->
 			<Item Name="Sky Cinema +1">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -7167,6 +7166,10 @@
 			<File>Stendaler Fernsehen Offener Kanal.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Stingray Ambiance 4K" />
+			<File>Stingray Ambiance 4K.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Classica HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -7183,6 +7186,14 @@
 		<Channel>
 			<Item Name="Stingray CMusic" />
 			<File>Stingray CMusic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stingray Festival 4K" />
+			<File>Stingray Festival 4K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stingray Hits 4K" />
+			<File>Stingray Hits 4K.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Stralsund TV" />
@@ -7643,6 +7654,13 @@
 			<File>Teleticino.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Galicia TV HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Television de Galicia HD" />
+			<File>Television de Galicia HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Television de Galicia" />
 			<Item Name="TVGA">
 				<Provider>Astra 19.2E</Provider>
@@ -7667,6 +7685,9 @@
 			<File>TeleZuri.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TeltOwkanal TV">
+				<Provider>Vodafone Kabel Königs Wusterhausen</Provider>
+			</Item>
 			<Item Name="Teltowkanal" />
 			<File>Teltowkanal.png</File>
 		</Channel>
@@ -9832,6 +9853,20 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Radio Freundes-Dienst.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Galega Música" />
+			<Item Name="Radio Gallega Musica">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio Galega Musica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Galega" />
+			<Item Name="Radio Gallega">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio Galega.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Galaxy">
