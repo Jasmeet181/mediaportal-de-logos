@@ -3067,7 +3067,6 @@
 			<File>KiKa.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kino Welt TV HD" />
 			<Item Name="Kinowelt HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -3077,10 +3076,9 @@
 			<Item Name="KinoweltTV HD">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<File>Kino Welt TV HD.png</File>
+			<File>Kinowelt TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kino Welt TV" />
 			<Item Name="Kinowelt TV">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -3088,7 +3086,7 @@
 			<Item Name="KinoweltTV">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<File>Kino Welt TV.png</File>
+			<File>Kinowelt TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kirche ist Toll" />
@@ -8355,7 +8353,7 @@
 			<Item Name="VoxUp HD" />
 			<File>VoxUp HD.png</File>
 		</Channel>
-		<Channel
+		<Channel>
 			<Item Name="VoxUp SD">
 				<Provider>MagentaTV</Provider>
 			</Item>
@@ -8771,7 +8769,7 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>>
+			</Item>
 			<Item Name="ZDFneo" />
 			<File>ZDFneo.png</File>
 		</Channel>
