@@ -7357,10 +7357,18 @@
 			<File>SWR.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Syfy HD (TC)">
+			<Item Name="Syfy FR" />
+			<File>Syfy FR.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Syfy HD FR" />
+			<Item Name="Syfy HD F">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Syfy HD F">
+			<File>Syfy HD FR.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Syfy HD (TC)">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Syfy HD">
@@ -7652,10 +7660,10 @@
 			<File>Teleticino.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Galicia TV HD">
+			<Item Name="Television de Galicia HD" />
+			<Item Name="TVGA HD Europa">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Television de Galicia HD" />
 			<File>Television de Galicia HD.png</File>
 		</Channel>
 		<Channel>
@@ -9853,15 +9861,14 @@
 			<File>Radio Freundes-Dienst.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Galega Música" />
-			<Item Name="Radio Gallega Musica">
+			<Item Name="Radio Galega Musica">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Radio Galega Música" />
 			<File>Radio Galega Musica.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Radio Galega" />
-			<Item Name="Radio Gallega">
+			<Item Name="Radio Galega">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Radio Galega.png</File>
