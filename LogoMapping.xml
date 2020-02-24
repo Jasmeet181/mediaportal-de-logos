@@ -4,9 +4,6 @@
 	<TV>
 		<Channel>
 			<Item Name="1+1 International" />
-			<Item Name="1+1">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<File>1 Plus 1 International.png</File>
 		</Channel>
 		<Channel>
@@ -25,13 +22,6 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>1-2-3.tv.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="1HD Music Television" />
-			<Item Name="1HD Music">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>1HD Music Television.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="13ème Rue HD">
@@ -90,13 +80,6 @@
 			<File>2M Monde.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="360 Mir">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="360 TV" />
-			<File>360 TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="3+ HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -148,20 +131,6 @@
 		<Channel>
 			<Item Name="4News" />
 			<File>4News.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="5 Piter Int">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="5 Channel" />
-			<File>5 Channel RU.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="5 Ukraina">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="5 Kanal" />
-			<File>5 Kanal UA.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="5+ HD">
@@ -1117,13 +1086,6 @@
 			<File>CBNN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Central Television" />
-			<Item Name="ZTV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Central Television.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="CGTN Documentary">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -1486,13 +1448,6 @@
 			<File>Der Aktionar TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DetskijMir">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Detskiy Mir" />
-			<File>Detskiy Mir.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Deutsche Eishockey Liga" />
 			<Item Name="Eishockey">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -1699,26 +1654,12 @@
 			<File>DMAX.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Domashniy International" />
-			<Item Name="Domashniy">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Domashniy International.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Donau Kanal" />
 			<File>Donau Kanal.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dorf TV" />
 			<File>Dorf TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Dozd">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Dozhd" />
-			<File>Dozhd.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dream Turk" />
@@ -2372,6 +2313,12 @@
 			<File>Geo Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="GigaTV">
+				<Provider>Unitymedia Esslingen</Provider>
+			</Item>
+			<File>GigaTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Ginx eSports TV" />
 			<Item Name="Ginx TV (eng)">
 				<Provider>Vodafone Kabel Aichach</Provider>
@@ -2753,12 +2700,6 @@
 			<File>Insight TV UHD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Inter+">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Inter Plus.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Italia 1 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -2807,12 +2748,6 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>ITVN.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Izvestia">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Izvestia.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Jena TV" />
@@ -3252,13 +3187,6 @@
 			<File>LT1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lubimoe Kino" />
-			<Item Name="Nashe Lubimoe Kino">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Lubimoe Kino.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Lust Pur HD">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -3527,18 +3455,6 @@
 			<File>Mezzo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mir Seriala">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Mir Seriala.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Mir24">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Mir24.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Mittel Erzgebirgs Fernsehen" />
 			<File>Mittel Erzgebirgs Fernsehen.png</File>
 		</Channel>
@@ -3641,12 +3557,6 @@
 		<Channel>
 			<Item Name="Muldental TV" />
 			<File>Muldental TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Mult">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Mult.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="München.tv HD">
@@ -4689,13 +4599,6 @@
 			<File>Penthouse Passion.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Peretz International" />
-			<Item Name="Perez">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Peretz International.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="PCNE/NTD TV (chi)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
@@ -4780,13 +4683,6 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Planet.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Planeta">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Planeta HD" />
-			<File>Planeta HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Planète+ A&amp;E HD">
@@ -4998,16 +4894,6 @@
 		<Channel>
 			<Item Name="QS24" />
 			<File>QS24.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="GigaTV">
-				<Provider>Unitymedia Esslingen</Provider>
-			</Item>
-			<Item Name="Quadratauge TV">
-				<Provider>Unitymedia Köln</Provider>
-			</Item>
-			<Item Name="Quadratauge" />
-			<File>Quadratauge.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="QVC HD">
@@ -5307,13 +5193,6 @@
 			<File>Regionalfernsehen Oberbayern.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RenTV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Ren TV" />
-			<File>Ren TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Rennsteig TV" />
 			<File>Rennsteig TV.png</File>
 		</Channel>
@@ -5494,13 +5373,6 @@
 		<Channel>
 			<Item Name="RSI La 2" />
 			<File>RSI La 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="RT Documentary" />
-			<Item Name="RT Doc">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>RT Documentary.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RT Espanol HD" />
@@ -5832,28 +5704,8 @@
 			<File>RTV21 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTVi Archive">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>RTVi Archive.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Rugen TV" />
 			<File>Rugen TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Russian Music Box">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Russian MusicBox" />
-			<File>Russian MusicBox.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ribalka i Ohota">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Rybalka I Ohota" />
-			<File>Rybalka I Ohota.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="S1 HD">
@@ -6002,6 +5854,10 @@
 			<Item Name="Schweiz5 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="Schweiz 5 HD" />
+			<File>Schweiz 5 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Schweiz 5" />
 			<File>Schweiz 5.png</File>
 		</Channel>
@@ -6066,13 +5922,6 @@
 			</Item>
 			<Item Name="SES" />
 			<File>SES.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Shanson TV" />
-			<Item Name="Shanson">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Shanson TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mei Musi TV">
@@ -6920,13 +6769,6 @@
 			<File>Sparda Welt.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Souz">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Soyuz" />
-			<File>Soyuz.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Spiegel Geschichte HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -7151,13 +6993,6 @@
 		<Channel>
 			<Item Name="Stralsund TV" />
 			<File>Stralsund TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="CTC">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="STS International" />
-			<File>STS International.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Studio 47" />
@@ -7844,12 +7679,6 @@
 			<File>Tribuna Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trofey">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Trofey.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TRT Belgesel HD" />
 			<File>TRT Belgesel HD.png</File>
 		</Channel>
@@ -7956,13 +7785,6 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TV Trwam.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TV Tsentr" />
-			<Item Name="TVCi">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>TV Tsentr.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Westsachsen" />
@@ -8152,20 +7974,6 @@
 			</Item>
 			<Item Name="UHD1" />
 			<File>UHD1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ukraine 1" />
-			<Item Name="Ukraine1">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Ukraine 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ukraine 2" />
-			<Item Name="Ukraine2">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Ukraine 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Infokanal">
@@ -8745,8 +8553,9 @@
 			<File>AFK Max.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AlternativeFM">
-				<Provider>Unitymedia Lörrach</Provider>
+			<Item Name="AlternativeFM" />
+			<Item Name="Alternative FM">
+				<Provider>Unitymedia Esslingen</Provider>
 			</Item>
 			<File>AlternativeFM.png</File>
 		</Channel>
@@ -9399,10 +9208,8 @@
 		</Channel>
 		<Channel>
 			<Item Name="Metropol FM">
+				<Provider>Unitymedia Esslingen</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<Item Name="Radyo Metropol">
-				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Metropol FM.png</File>
 		</Channel>
@@ -10562,8 +10369,8 @@
 			<Item Name="WDR 2 Ostwestfalen-Lippe">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
-			<Item Name="WDR 2 Rhein und Ruhr">
-				<Provider>Unitymedia Lörrach</Provider>
+			<Item Name="WDR 2 Rhein/Ruhr">
+				<Provider>Unitymedia Esslingen</Provider>
 			</Item>
 			<Item Name="WDR 2 Rheinland">
 				<Provider>Astra 19.2E</Provider>
