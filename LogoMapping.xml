@@ -2081,6 +2081,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Fix und Foxi" />
+			<Item Name="Fix &amp; Foxi">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Fix&amp;Foxi">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -2859,6 +2862,7 @@
 			<Item Name="Kabel Eins Doku HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Kabel Eins Doku HD.png</File>
 		</Channel>
