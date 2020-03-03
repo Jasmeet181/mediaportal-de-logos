@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- Sky Cinema changes https://community.sky.de/t5/Service/Neu-Relaunch-von-Sky-Cinema-Senderportfolio/ba-p/344014 12/03/2020 -->
+		<!-- Disney Cinema and Disney XD France close 31/03/2020 -->
+		<!-- France 4 and France O close 09/08/2020 -->
 	<TV>
 		<Channel>
 			<Item Name="1+1 International" />
@@ -67,9 +70,7 @@
 			<Item Name="24Horas">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
-			<Item Name="Canal 24 Horas">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="Canal 24 Horas" />
 			<File>24 Horas.png</File>
 		</Channel>
 		<Channel>
@@ -536,6 +537,10 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Auto Motor und Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="B92" />
+			<File>B92.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Babestation24">
@@ -2202,7 +2207,6 @@
 			<File>France 3.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 09/08/2020 -->
 			<Item Name="France 4 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -2221,7 +2225,6 @@
 			<File>France 5.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 09/08/2020 -->
 			<Item Name="France Ô">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -3248,7 +3251,6 @@
 			<File>MaxTV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes ??/??/19 -->
 			<Item Name="MB Live TV" />
 			<Item Name="MB Live">
 				<Provider>Astra 19.2E</Provider>
@@ -4149,10 +4151,6 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>NTV Mir.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="O2.TV" />
-			<File>O2.TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OAMTC" />
@@ -6067,7 +6065,6 @@
 			<File>Sky Cinema Comedy.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 12/03/2020 -->
 			<Item Name="Sky Cinema Emotion">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -6121,14 +6118,12 @@
 			<File>Sky Cinema Nostalgie.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 12/03/2020 -->
 			<Item Name="Sky Cinema +1 HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Sky Cinema Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 12/03/2020 -->
 			<Item Name="Sky Cinema +1">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -7458,9 +7453,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Television de Galicia" />
-			<Item Name="TVGA">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="TVGA" />
 			<File>Television de Galicia.png</File>
 		</Channel>
 		<Channel>
@@ -7892,9 +7885,7 @@
 			<Item Name="TVE Int.">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="TVE Internacional Europa">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="TVE Internacional Europa" />
 			<Item Name="TVE Internacional">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
@@ -9014,6 +9005,9 @@
 			</Item>
 			<Item Name="OE 3">
 				<Provider>Unitymedia Lörrach</Provider>
+			</Item>
+			<Item Name="OE3.">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="OE3">
 				<Provider>Astra 19.2E</Provider>
