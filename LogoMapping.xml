@@ -254,7 +254,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Al Jazeera">
-				<Provider>Unitymedia Lörrach</Provider>">
+				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Al Jazeera Channel.png</File>
@@ -751,8 +751,8 @@
 			<File>Bibel TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BipTV" />
-			<File>BipTV.png</File>
+			<Item Name="BIP TV" />
+			<File>BIP TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BLK Regional TV" />
@@ -2894,7 +2894,7 @@
 			<File>I24 News French.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="IDF1" />
+			<Item Name="IDF1 HD" />
 			<File>IDF1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -3313,7 +3313,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="LCP">
-				<Provider>Astra 19.2E</Provider>">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="La Chaine Parlementaire" />
@@ -8359,8 +8359,8 @@
 			<File>Ushuaia TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Var Azul" />
-			<File>Var Azul.png</File>
+			<Item Name="Var Azur" />
+			<File>Var Azur.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VH1 Classic">
@@ -8388,7 +8388,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="ViàLMtv Sarthe" />
-			<File>ViaLMtv Sarthe - Dark.png</File>
+			<File>ViaLMtv Sarthe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Matele">
