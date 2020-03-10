@@ -161,6 +161,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="6ter">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>6ter.png</File>
@@ -305,6 +306,12 @@
 			<File>Alpen-Welle TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Alsace 20">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>Alsace 20.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alpenland TV" />
 			<File>Alpenland TV.png</File>
 		</Channel>
@@ -435,6 +442,7 @@
 				<Provider>Terrestrial Freiburg</Provider>
 				<Provider>Terrestrial München</Provider>
 				<Provider>Terrestrial Wien</Provider>
+				<Provider>TNT (FR)</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -537,6 +545,10 @@
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>Auto Motor und Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Azur TV" />
+			<File>Azur TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="B92" />
@@ -688,10 +700,32 @@
 			<File>BET France.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BFM Grand Lille" />
+			<File>BFM Grand Lille.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BFM Grand Littoral" />
+			<File>BFM Grand Littoral.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BFM Lyon">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>BFM Lyon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BFM Paris">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>BFM Paris.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BFM TV HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="BFM TV" />
+			<Item Name="BFM TV">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>BFM TV.png</File>
 		</Channel>
 		<Channel>
@@ -715,6 +749,10 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Bibel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BipTV" />
+			<File>BipTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BLK Regional TV" />
@@ -926,11 +964,23 @@
 			<File>BW Family.tv.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="C8" />
+			<Item Name="C8">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<Item Name="Canal8 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>C8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 31">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>Canal 31.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 32" />
+			<File>Canal 32.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Canal 9 HD">
@@ -985,6 +1035,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Canal+ Cinéma" />
+			<Item Name="Canal+ Cinema">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>CanalPlus Cinema.png</File>
 		</Channel>
 		<Channel>
@@ -1040,11 +1093,15 @@
 			<File>CanalPlus Sport HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal+ Sport" />
+			<Item Name="Canal+ Sport">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>CanalPlus Sport.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal+" />
+			<Item Name="Canal+">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>CanalPlus.png</File>
 		</Channel>
 		<Channel>
@@ -1158,6 +1215,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Chérie 25">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Cherie 25.png</File>
@@ -1243,6 +1301,7 @@
 			</Item>
 			<Item Name="CNews">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>CNews.png</File>
 		</Channel>
@@ -1363,7 +1422,9 @@
 			<Item Name="CanalStar HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="CStar" />
+			<Item Name="CStar">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>CStar.png</File>
 		</Channel>
 		<Channel>
@@ -1485,6 +1546,11 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Deutsches Musik Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="D!Ci TV" />
+			<Item Name="Dici TV" />
+			<File>Dici TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Die Neue Zeit TV">
@@ -2159,6 +2225,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 2">
+				<Provider>TNT (FR)</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 2.png</File>
@@ -2185,14 +2252,159 @@
 			<Item Name="France 24 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="France 24">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>France 24 - Francais.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F3 Alpes">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Alpes" />
+			<File>France 3 Alpes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Alsace">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<Item Name="France 3 (Alsace) HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 3 Alsace" />
 			<File>France 3 Alsace.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Aquitaine" />
+			<Item Name="France 3 Aquitaine" />
+			<File>France 3 Aquitaine.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Auvergne" />
+			<Item Name="France 3 Auvergne" />
+			<File>France 3 Auvergne.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Bourgogne" />
+			<Item Name="France 3 Bourgogne" />
+			<File>France 3 Bourgogne.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Bretagne" />
+			<Item Name="France 3 Bretagne" />
+			<File>France 3 Bretagne.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Centre">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Center-Val de Loire" />
+			<File>France 3 Center-Val de Loire.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Champagne-Ardenne" />
+			<Item Name="France 3 Champagne-Ardenne" />
+			<File>France 3 Champagne-Ardenne.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Corse Via Stella" />
+			<Item Name="France 3 Corse Via Stella" />
+			<File>France 3 Corse Via Stella.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Côte d'Azur">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Côte d'Azur" />
+			<File>France 3 Cote dAzur.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Franche-Comte" />
+			<Item Name="France 3 Franche-Comte" />
+			<File>France 3 Franche-Comte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Languedoc-Roussillon">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Languedoc-Roussillon" />
+			<File>France 3 Languedoc-Roussillon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Limousin" />
+			<Item Name="France 3 Limousin" />
+			<File>France 3 Limousin.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Lorraine" />
+			<Item Name="France 3 Lorraine" />
+			<File>France 3 Lorraine.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Midi-Pyrenees" />
+			<Item Name="France 3 Midi-Pyrénées" />
+			<File>France 3 Midi-Pyrenees.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 NoA" />
+			<Item Name="France 3 NoA" />
+			<Item Name="Nouvelle Aquitaine" />
+			<File>France 3 NoA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Nord-Pas-de-Calais">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Nord-Pas-de-Calais" />
+			<File>France 3 Nord-Pas-de-Calais.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Basse-Normandie">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="F3 Haute-Normandie">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Normandie" />
+			<File>France 3 Normandie.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Paris Ile-de-France">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Paris Île-de-France" />
+			<File>France 3 Paris Ile-de-France.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Pays de la Loire" />
+			<Item Name="France 3 Pays de la Loire" />
+			<File>France 3 Pays de la Loire.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Picardie">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Picardie" />
+			<File>France 3 Picardie.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Poitou-Charentes" />
+			<Item Name="France 3 Poitou-Charentes" />
+			<File>France 3 Poitou-Charentes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Provence-Alpes">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Provence-Alpes" />
+			<File>France 3 Provence-Alpes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="F3 Rhône-Alpes">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="France 3 Rhône-Alpes" />
+			<File>France 3 Rhone-Alpes.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France 3 (fre)">
@@ -2211,6 +2423,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 4">
+				<Provider>TNT (FR)</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 4.png</File>
@@ -2220,17 +2433,22 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 5">
+				<Provider>TNT (FR)</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<File>France 5.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France Ô">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>France O.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Franceinfo:">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<Item Name="Franceinfo">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -2394,7 +2612,9 @@
 			<Item Name="Gulli HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Gulli" />
+			<Item Name="Gulli">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>Gulli.png</File>
 		</Channel>
 		<Channel>
@@ -2672,6 +2892,16 @@
 			</Item>
 			<Item Name="I24 News French" />
 			<File>I24 News French.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="IDF1" />
+			<File>IDF1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="IDF1">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>IDF1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ikono TV" />
@@ -3076,8 +3306,15 @@
 			<File>KW-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="La Chaine Normande">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>La Chaine Normande.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="LCP">
-				<Provider>Astra 19.2E</Provider>
+				<Provider>Astra 19.2E</Provider>">
+				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="La Chaine Parlementaire" />
 			<File>La Chaine Parlementaire.png</File>
@@ -3138,6 +3375,7 @@
 			</Item>
 			<Item Name="LCI">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>LCI.png</File>
 		</Channel>
@@ -3159,6 +3397,9 @@
 			<File>Leman Bleu TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="L'Equipe 21">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<Item Name="L'Equipe HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -3218,6 +3459,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="M6">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>M6.png</File>
@@ -3993,6 +4235,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Nick Jr.">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
 			<Item Name="Nick Jr">
@@ -4127,6 +4370,9 @@
 			<File>NRJ12 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NRJ12">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<Item Name="NRJ 12">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -4567,6 +4813,12 @@
 			<File>Paramount Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Paris Premiere">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>Paris Premiere.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Parlamentsfernsehen des Deutschen Bundestages" />
 			<File>Parlamentsfernsehen des Deutschen Bundestages.png</File>
 		</Channel>
@@ -4707,6 +4959,12 @@
 			<File>PlanetePlus HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Planete+">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>PlanetePlus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Playboy TV">
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
@@ -4845,6 +5103,12 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>ProSieben.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Provence Azur">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>Provence Azur.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Prva Srpska Televizija" />
@@ -5273,6 +5537,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="RMC Découverte">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RMC Decouverte.png</File>
@@ -5310,6 +5575,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="RMC Story">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RMC Story.png</File>
@@ -6292,6 +6558,12 @@
 			<File>Sky Select.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Serien &amp; Shows HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Serien and Shows HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Sport 1 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -7225,6 +7497,14 @@
 			<File>TCM Cinema.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Tébéo" />
+			<File>Tebeo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TébéSud" />
+			<File>TebeSud.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Teins" />
 			<File>Teins.png</File>
 		</Channel>
@@ -7424,8 +7704,16 @@
 			<File>TeleDom.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TéléGrenoble" />
+			<File>TeleGrenoble.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Telehit Urbano" />
 			<File>Telehit Urbano.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Télénantes" />
+			<File>Telenantes.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TeleSur HD" />
@@ -7457,6 +7745,10 @@
 			<File>Television de Galicia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Télévision locale du Choletais" />
+			<File>Television Locale du Choletais.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Television Tunisienne 1/Orient News" />
 			<Item Name="Tunisie 1/Orient TV (ara)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -7482,6 +7774,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TF1 Séries Films">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>TF1 Series Films.png</File>
@@ -7493,7 +7786,9 @@
 			<Item Name="TF 1">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
-			<Item Name="TF1" />
+			<Item Name="TF1">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>TF1.png</File>
 		</Channel>
 		<Channel>
@@ -7501,6 +7796,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="TFX">
+				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>TFX.png</File>
@@ -7527,6 +7823,10 @@
 		<Channel>
 			<Item Name="Tirol TV" />
 			<File>Tirol TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TL7" />
+			<File>TL7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TLC Austria">
@@ -7566,7 +7866,9 @@
 			<Item Name="TMC Monte Carlo HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="TMC" />
+			<Item Name="TMC">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>TMC.png</File>
 		</Channel>
 		<Channel>
@@ -7778,10 +8080,18 @@
 			<File>TV Sudostschweiz.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV Tours" />
+			<File>TV Tours.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV Trwam">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TV Trwam.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Vendée" />
+			<File>TV Vendee.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Westsachsen" />
@@ -7853,6 +8163,10 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>TV5Monde.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV7 Bordeaux" />
+			<File>TV7 Bordeaux.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV 8">
@@ -7943,10 +8257,22 @@
 			<File>TVP Polonia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TVPI" />
+			<File>TVPI.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVR" />
+			<File>TVR.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TVRus">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TVRus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVR" />
+			<File>TVR.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Silesia">
@@ -8033,6 +8359,10 @@
 			<File>Ushuaia TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Var Azul" />
+			<File>Var Azul.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="VH1 Classic">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Unitymedia Lörrach</Provider>
@@ -8045,6 +8375,46 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>VH1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ViàAngers" />
+			<File>ViaAngers.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ViàGrandParis">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>ViaGrandParis.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ViàLMtv Sarthe" />
+			<File>ViaLMtv Sarthe - Dark.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Matele">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="ViàMatélé" />
+			<File>ViaMatele.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ViàMirabelle" />
+			<File>ViaMirabelle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVSud Montpellier">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="ViàOccitanie" />
+			<File>ViaOccitanie.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="viàTéléPaese" />
+			<File>ViaTelePaese.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="viàVosges" />
+			<File>ViaVosges.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Visit-X.tv">
@@ -8150,7 +8520,9 @@
 			<File>W9 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="W9" />
+			<Item Name="W9">
+				<Provider>TNT (FR)</Provider>
+			</Item>
 			<File>W9.png</File>
 		</Channel>
 		<Channel>
@@ -8360,6 +8732,14 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Welt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Wéo Picardie" />
+			<Item Name="Wéo" />
+			<Item Name="Weo">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<File>Weo.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Westerwald TV" />
@@ -9428,23 +9808,17 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio 3" />
-			<Item Name="RNE Radio 3">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio 3" />
 			<File>Radio 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio 4" />
-			<Item Name="RNE Radio 4">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio 4" />
 			<File>Radio 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio 5" />
-			<Item Name="RNE Radio 5 Todo Noticias">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio 5 Todo Noticias" />
 			<File>Radio 5.png</File>
 		</Channel>
 		<Channel>
@@ -9513,9 +9887,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio Clasica" />
-			<Item Name="RNE Radio Clasica">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio Clasica" />
 			<File>Radio Clasica.png</File>
 		</Channel>
 		<Channel>
@@ -9544,9 +9916,7 @@
 			<Item Name="Radio Exterior">
 				<Provider>Unitymedia Lörrach</Provider>
 			</Item>
-			<Item Name="RNE Radio Exterior de España">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio Exterior de España" />
 			<File>Radio Exterior de Espana.png</File>
 		</Channel>
 		<Channel>
