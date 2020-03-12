@@ -6394,11 +6394,11 @@
 			<File>Sky Cinema Special HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Cinema Thiller HD">
+			<Item Name="Sky Cinema Thriller HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
-			<File>Sky Cinema Thiller HD.png</File>
+			<File>Sky Cinema Thriller HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Krimi HD">
