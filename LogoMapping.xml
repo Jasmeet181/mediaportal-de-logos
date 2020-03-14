@@ -73,6 +73,13 @@
 			<File>24 Horas.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Á La Une" />
+			<Item Name="A La Une">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>A La Une.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="2M Maroc">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -160,6 +167,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="6ter">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -199,7 +207,9 @@
 			<Item Name="AB1 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="AB1" />
+			<Item Name="AB1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>AB1.png</File>
 		</Channel>
 		<Channel>
@@ -228,7 +238,9 @@
 			<Item Name="Action HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Action" />
+			<Item Name="Action">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Action.png</File>
 		</Channel>
 		<Channel>
@@ -344,7 +356,9 @@
 			<Item Name="Animaux HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Animaux" />
+			<Item Name="Animaux">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Animaux.png</File>
 		</Channel>
 		<Channel>
@@ -546,6 +560,13 @@
 			<File>Auto Motor und Sport.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Automoto La Chaîne" />
+			<Item Name="Automoto La Chaine">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Automoto La Chaine.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Azur TV" />
 			<File>Azur TV.png</File>
 		</Channel>
@@ -692,11 +713,83 @@
 			<File>Bein Movies Turk.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bein Sports Max 10">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Bein Sports 10 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports Max 4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Bein Sports 4 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports Max 5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Bein Sports 5 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports Max 6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Bein Sports 6 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports Max 7">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Bein Sports 7 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports Max 8">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Bein Sports 8 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports Max 9">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Bein Sports 9 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports HD1" />
+			<File>Bein Sports HD1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports HD2" />
+			<File>Bein Sports HD2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports HD3" />
+			<File>Bein Sports HD3.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BET France HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="BET France" />
+			<Item Name="BET">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>BET France.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BFM Business">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>BFM Business.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BFM Grand Lille" />
@@ -723,6 +816,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="BFM TV">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>BFM TV.png</File>
@@ -824,7 +918,9 @@
 			<Item Name="Boing France HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Boing" />
+			<Item Name="Boing">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Boing.png</File>
 		</Channel>
 		<Channel>
@@ -964,12 +1060,20 @@
 		</Channel>
 		<Channel>
 			<Item Name="C8">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="Canal8 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>C8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 4K UHD" />
+			<Item Name="Evenement Sport 4K UHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Canal 4K UHD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Canal 31">
@@ -1017,7 +1121,9 @@
 			<Item Name="Canal J HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Canal J" />
+			<Item Name="Canal J">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Canal J.png</File>
 		</Channel>
 		<Channel>
@@ -1035,6 +1141,7 @@
 		<Channel>
 			<Item Name="Canal+ Cinéma" />
 			<Item Name="Canal+ Cinema">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>CanalPlus Cinema.png</File>
@@ -1047,6 +1154,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Canal+ Décalé" />
+			<Item Name="Canal+ Decale">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>CanalPlus Decale.png</File>
 		</Channel>
 		<Channel>
@@ -1066,7 +1176,9 @@
 			<File>CanalPlus Family HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal+ Family" />
+			<Item Name="Canal+ Family">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>CanalPlus Family.png</File>
 		</Channel>
 		<Channel>
@@ -1082,7 +1194,9 @@
 			<File>CanalPlus Series HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal+ Series" />
+			<Item Name="Canal+ Series">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>CanalPlus Series.png</File>
 		</Channel>
 		<Channel>
@@ -1093,12 +1207,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Canal+ Sport">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>CanalPlus Sport.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Canal+">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>CanalPlus.png</File>
@@ -1168,6 +1284,12 @@
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Chaine Evenement">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Chaine Evenement.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Channel 4 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -1209,6 +1331,13 @@
 			<File>Channel21.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Chasse et Pêche" />
+			<Item Name="Chasse Et Peche">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Chasse et Peche.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Chemnitz Fernsehen" />
 			<File>Chemnitz Fernsehen.png</File>
 		</Channel>
@@ -1232,14 +1361,34 @@
 			<File>City Vision.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Cine+ Classic">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>CinePlus Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cine+ Club">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>CinePlus Club.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Ciné+ Emotion HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>CinePlus Emotion HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ciné+ Emotion" />
+			<Item Name="Ciné+ Emotion">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>CinePlus Emotion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cine+ Famiz">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>CinePlus Famiz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ciné+ Frisson HD">
@@ -1248,7 +1397,9 @@
 			<File>CinePlus Frisson HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ciné+ Frisson" />
+			<Item Name="Ciné+ Frisson">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>CinePlus Frisson.png</File>
 		</Channel>
 		<Channel>
@@ -1258,12 +1409,20 @@
 			<File>CinePlus Premier HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ciné+ Premier" />
+			<Item Name="Ciné+ Premier">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>CinePlus Premier.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="City-TV Kabelservice" />
 			<File>City-TV Kabelservice.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Clique TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Clique TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CMC TV" />
@@ -1344,10 +1503,19 @@
 			<File>CNN Turk.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Colmax TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Colmax TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Comédie+ HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Comédie+" />
+			<Item Name="Comedie+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>ComediePlus.png</File>
 		</Channel>
 		<Channel>
@@ -1418,10 +1586,17 @@
 			<File>Crime District.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CStar Hits France">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>CStar Hits France.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CanalStar HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="CStar">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>CStar.png</File>
@@ -1620,6 +1795,13 @@
 			<File>Disney Channel HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Disney Channel+1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Disney Channel +1" />
+			<File>Disney Channel Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Disney Channel">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
@@ -1635,7 +1817,9 @@
 			<Item Name="Disney Cinema HD F">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Disney Cinema" />
+			<Item Name="Disney Cinema">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Disney Cinema.png</File>
 		</Channel>
 		<Channel>
@@ -1657,6 +1841,7 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<Item Name="Disney Junior">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -1679,6 +1864,7 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<Item Name="Disney XD">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
@@ -1726,6 +1912,18 @@
 		<Channel>
 			<Item Name="Donau Kanal" />
 			<File>Donau Kanal.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dorcel TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Dorcel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dorcel XXX">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Dorcel XXX.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dorf TV" />
@@ -1856,6 +2054,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Equidia">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Equidia.png</File>
@@ -1868,6 +2067,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="ES1">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>ES1.png</File>
@@ -1956,6 +2156,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Eurosport 1">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -1983,6 +2184,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Eurosport 2">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -2095,6 +2297,7 @@
 		<Channel>
 			<Item Name="Extreme Sports Channel" />
 			<Item Name="Extreme Sports">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -2174,6 +2377,12 @@
 			<File>Folx TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Foot+ 24/24">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>FootPlus 2424.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Forst TV" />
 			<File>Forst TV.png</File>
 		</Channel>
@@ -2224,6 +2433,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 2">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -2258,6 +2468,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="F3 Alpes">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="France 3 Alpes" />
@@ -2265,6 +2476,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="F3 Alsace">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="France 3 (Alsace) HD">
@@ -2274,39 +2486,54 @@
 			<File>France 3 Alsace.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="F3 Aquitaine" />
+			<Item Name="F3 Aquitaine">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Aquitaine" />
 			<File>France 3 Aquitaine.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="F3 Auvergne" />
+			<Item Name="F3 Auvergne">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Auvergne" />
 			<File>France 3 Auvergne.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="F3 Bourgogne" />
+			<Item Name="F3 Bourgogne">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Bourgogne" />
 			<File>France 3 Bourgogne.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="F3 Bretagne" />
+			<Item Name="F3 Bretagne">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Bretagne" />
 			<File>France 3 Bretagne.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="F3 Centre">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="France 3 Center-Val de Loire" />
 			<File>France 3 Center-Val de Loire.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F3 Champ Ardenne">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="F3 Champagne-Ardenne" />
 			<Item Name="France 3 Champagne-Ardenne" />
 			<File>France 3 Champagne-Ardenne.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="F3 Corse Via Stella" />
+			<Item Name="F3 CorseViaStella">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Corse Via Stella" />
 			<File>France 3 Corse Via Stella.png</File>
 		</Channel>
@@ -2314,10 +2541,16 @@
 			<Item Name="F3 Côte d'Azur">
 				<Provider>TNT (FR)</Provider>
 			</Item>
+			<Item Name="F3 Cote d'Azur">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Côte d'Azur" />
 			<File>France 3 Cote dAzur.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F3 Franche Comte">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="F3 Franche-Comte" />
 			<Item Name="France 3 Franche-Comte" />
 			<File>France 3 Franche-Comte.png</File>
@@ -2326,20 +2559,30 @@
 			<Item Name="F3 Languedoc-Roussillon">
 				<Provider>TNT (FR)</Provider>
 			</Item>
+			<Item Name="F3 LanguedocRou">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Languedoc-Roussillon" />
 			<File>France 3 Languedoc-Roussillon.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="F3 Limousin" />
+			<Item Name="F3 Limousin">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Limousin" />
 			<File>France 3 Limousin.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="F3 Lorraine" />
+			<Item Name="F3 Lorraine">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Lorraine" />
 			<File>France 3 Lorraine.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F3 Midi Pyrenees">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="F3 Midi-Pyrenees" />
 			<Item Name="France 3 Midi-Pyrénées" />
 			<File>France 3 Midi-Pyrenees.png</File>
@@ -2351,6 +2594,9 @@
 			<File>France 3 NoA.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F3 Nord PDC">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="F3 Nord-Pas-de-Calais">
 				<Provider>TNT (FR)</Provider>
 			</Item>
@@ -2361,13 +2607,22 @@
 			<Item Name="F3 Basse-Normandie">
 				<Provider>TNT (FR)</Provider>
 			</Item>
+			<Item Name="F3 BNormandie">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="F3 Haute-Normandie">
 				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="F3 HNormandie">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="France 3 Normandie" />
 			<File>France 3 Normandie.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F3 Paris IDF">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="F3 Paris Ile-de-France">
 				<Provider>TNT (FR)</Provider>
 			</Item>
@@ -2375,12 +2630,15 @@
 			<File>France 3 Paris Ile-de-France.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="F3 Pays de la Loire" />
+			<Item Name="F3 Pays de la Loire">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Pays de la Loire" />
 			<File>France 3 Pays de la Loire.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="F3 Picardie">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="France 3 Picardie" />
@@ -2388,10 +2646,16 @@
 		</Channel>
 		<Channel>
 			<Item Name="F3 Poitou-Charentes" />
+			<Item Name="F3 PoitouChar">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="France 3 Poitou-Charentes" />
 			<File>France 3 Poitou-Charentes.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="F3 Prov Alpes">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="F3 Provence-Alpes">
 				<Provider>TNT (FR)</Provider>
 			</Item>
@@ -2401,6 +2665,9 @@
 		<Channel>
 			<Item Name="F3 Rhône-Alpes">
 				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="F3 Rhone Alpes">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="France 3 Rhône-Alpes" />
 			<File>France 3 Rhone-Alpes.png</File>
@@ -2413,6 +2680,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 3">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>France 3.png</File>
@@ -2422,6 +2690,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 4">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -2432,6 +2701,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="France 5">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -2442,10 +2712,14 @@
 				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="France O">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>France O.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Franceinfo:">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<Item Name="Franceinfo">
@@ -2501,7 +2775,9 @@
 			<Item Name="Game One HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Game One" />
+			<Item Name="Game One">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Game One.png</File>
 		</Channel>
 		<Channel>
@@ -2587,7 +2863,9 @@
 			<Item Name="Golf+ HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Golf+" />
+			<Item Name="Golf+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>GolfPlus.png</File>
 		</Channel>
 		<Channel>
@@ -2612,6 +2890,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Gulli">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>Gulli.png</File>
@@ -2752,8 +3031,10 @@
 			<Item Name="Histoire HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Histoire" />
-			<File>Histoire.png</File>
+			<Item Name="Histoire TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Histoire TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="History HD (TC)">
@@ -2910,7 +3191,9 @@
 			<Item Name="Infosport+ HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Infosport+" />
+			<Item Name="Infosport+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>InfosportPlus.png</File>
 		</Channel>
 		<Channel>
@@ -2995,6 +3278,12 @@
 		<Channel>
 			<Item Name="Joiz" />
 			<File>Joiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="J-One">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>JOne.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="JSTV 1" />
@@ -3305,6 +3594,13 @@
 			<File>KW-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="La Chaîne Météo" />
+			<Item Name="La Chaine Meteo">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>La Chaine Meteo.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="La Chaine Normande">
 				<Provider>TNT (FR)</Provider>
 			</Item>
@@ -3402,7 +3698,9 @@
 			<Item Name="L'Equipe HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="L'Equipe" />
+			<Item Name="L'Equipe">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>LEquipe.png</File>
 		</Channel>
 		<Channel>
@@ -3410,6 +3708,12 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>LFM TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Libido TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Libido TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Linz Land TV" />
@@ -3451,13 +3755,26 @@
 			<File>M4 Mostviertel Fernsehen.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M6 Boutique">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>M6 Boutique.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="M6 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>M6 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M6 Music">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>M6 Music.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="M6">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -3477,12 +3794,21 @@
 			<Item Name="Mangas HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Mangas" />
+			<Item Name="Mangas">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Mangas.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Marco Polo TV" />
 			<File>Marco Polo TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Man-X" />
+			<Item Name="Man X">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Man-X.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Max TV">
@@ -3516,7 +3842,9 @@
 			<Item Name="MCM France HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="MCM" />
+			<Item Name="MCM">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>MCM.png</File>
 		</Channel>
 		<Channel>
@@ -3686,6 +4014,12 @@
 			<File>Melodie TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Melody">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Melody.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Metropolregion.tv" />
 			<File>Metropolregion.tv.png</File>
 		</Channel>
@@ -3693,10 +4027,14 @@
 			<Item Name="Mezzo Live HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="Mezzo Live">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Mezzo Live HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mezzo">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Mezzo.png</File>
@@ -3764,7 +4102,9 @@
 			<Item Name="MTV Hits France HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="MTV Hits" />
+			<Item Name="MTV Hits">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>MTV Hits.png</File>
 		</Channel>
 		<Channel>
@@ -3806,6 +4146,30 @@
 			<File>Muldental TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MultiSports 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MultiSports 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MultiSports 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MultiSports 4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MultiSports 5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MultiSports 6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="MultiSports">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>MultiSports.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="München.tv HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
@@ -3830,6 +4194,12 @@
 			<File>Munde TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Museum">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Museum.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="MV1">
 				<Provider>Vodafone Kabel Rostock</Provider>
 			</Item>
@@ -3838,6 +4208,12 @@
 		<Channel>
 			<Item Name="MWdigital" />
 			<File>MWdigital.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="My Zen TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>My Zen TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MySports 2/Sky 2 F">
@@ -4075,7 +4451,9 @@
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
-			<Item Name="National Geographic Wild" />
+			<Item Name="National Geographic Wild">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>National Geographic Wild.png</File>
 		</Channel>
 		<Channel>
@@ -4084,6 +4462,9 @@
 			</Item>
 			<Item Name="NatGeo">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="National Geo">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="National Geographic (S)">
 				<Provider>Vodafone UM Lörrach</Provider>
@@ -4246,6 +4627,9 @@
 			<Item Name="Nickelodeon Jr. F">
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="Nickelodeon Junior">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Nick Jr.png</File>
 		</Channel>
 		<Channel>
@@ -4289,16 +4673,25 @@
 			<File>Nickelodeon MTV Plus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nickelodeon+1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Nickelodeon +1" />
+			<File>Nickelodeon Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nick">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="Nickelodeon">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Terrestrial Wien</Provider>
 			</Item>
 			<File>Nickelodeon.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nickelodeon Teen">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Nickelodeon Teen.png</File>
@@ -4352,8 +4745,20 @@
 			<File>Noa4.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Non Stop People">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Non Stop People.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nova TV" />
 			<File>Nova TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Novelas TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Novelas TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nederland 2">
@@ -4361,6 +4766,12 @@
 			</Item>
 			<Item Name="NPO 2" />
 			<File>NPO 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRJ Hits">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>NRJ Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NRJ 12 HD">
@@ -4416,6 +4827,30 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Ocko.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OCS Choc">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>OCS Choc.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OCS City">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>OCS City.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OCS Geants">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>OCS Geants.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OCS Max">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>OCS Max.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Oder Spree Fernsehen" />
@@ -4539,6 +4974,19 @@
 		<Channel>
 			<Item Name="Oldenburg Eins" />
 			<File>Oldenburg Eins.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OL TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="OLTV" />
+			<File>OLTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Olympia TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Olympia TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="One HD">
@@ -4807,12 +5255,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Paramount Channel">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Paramount Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Paris Premiere">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>Paris Premiere.png</File>
@@ -4842,11 +5292,18 @@
 			<File>Pearl TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Penthouse Black">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Penthouse Black.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Penthouse HD">
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<Item Name="Penthouse Passion" />
 			<Item Name="Penthouse">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Penthouse Passion.png</File>
@@ -4920,8 +5377,20 @@
 			<File>Pink Reality.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Pink X">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Pink X.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Pirna TV" />
 			<File>Pirna TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Piwi+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>PiwiPlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Planet HD">
@@ -4942,6 +5411,9 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Planète+ A&amp;E" />
+			<Item Name="Planete+ A&amp;E">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>PlanetePlus A and E.png</File>
 		</Channel>
 		<Channel>
@@ -4949,6 +5421,9 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Planète+ CI" />
+			<Item Name="Planete+ CI">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>PlanetePlus Crime and Investigation.png</File>
 		</Channel>
 		<Channel>
@@ -4959,6 +5434,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Planete+">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>PlanetePlus.png</File>
@@ -4971,6 +5447,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Polar+">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>PolarPlus.png</File>
@@ -5471,7 +5948,9 @@
 			<Item Name="RFM TV HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="RFM TV" />
+			<Item Name="RFM TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>RFM TV.png</File>
 		</Channel>
 		<Channel>
@@ -5539,28 +6018,35 @@
 				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="RMC Decouverte">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>RMC Decouverte.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RMC Sport 1">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RMC Sport 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RMC Sport 2">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RMC Sport 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RMC Sport 3">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RMC Sport 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RMC Sport 4">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>RMC Sport 4.png</File>
@@ -5573,7 +6059,14 @@
 			<File>RMC Sport Access 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RMC Sport News">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>RMC Sport News.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RMC Story">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -5826,7 +6319,9 @@
 			<File>RTL9 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL9" />
+			<Item Name="RTL9">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>RTL9.png</File>
 		</Channel>
 		<Channel>
@@ -6133,14 +6628,25 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Science and Vie TV" />
+			<Item Name="Science et Vie">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Science and Vie TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Seasons HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Seasons" />
+			<Item Name="Seasons">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Seasons.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Serie Club">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Serie Club.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ServusTV HD Deutschland">
@@ -7221,6 +7727,13 @@
 			<File>Stingray CMusic.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Djazz">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Stingray Djazz" />
+			<File>Stingray Djazz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Stingray Festival 4K" />
 			<File>Stingray Festival 4K.png</File>
 		</Channel>
@@ -7243,6 +7756,12 @@
 		<Channel>
 			<Item Name="Südtirol TV" />
 			<File>Sudtirol TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sundance TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sundance TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Super RTL HD">
@@ -7461,6 +7980,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="TCM Cinéma" />
+			<Item Name="TCM Cinema">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>TCM Cinema.png</File>
 		</Channel>
 		<Channel>
@@ -7700,6 +8222,18 @@
 			<File>Teleticino.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Teletoon+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>TeleToonPlus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Teletoon+1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>TeleToonPlus1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Television de Galicia HD" />
 			<Item Name="TVGA HD Europa">
 				<Provider>Astra 19.2E</Provider>
@@ -7740,9 +8274,18 @@
 			<File>Teltowkanal.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Teva">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Teva.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TF1 Séries Films">
 				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
+			</Item>
+			<Item Name="TF1 Series Films">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>TF1 Series Films.png</File>
 		</Channel>
@@ -7750,10 +8293,15 @@
 			<Item Name="TF 1 HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
+			<Item Name="TF1 HD" />
+			<File>TF1 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TF 1">
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<Item Name="TF1">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>TF1.png</File>
@@ -7763,6 +8311,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="TFX">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -7776,7 +8325,9 @@
 			<Item Name="Tiji HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Tiji" />
+			<Item Name="Tiji">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Tiji.png</File>
 		</Channel>
 		<Channel>
@@ -7834,6 +8385,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="TMC">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>TMC.png</File>
@@ -7920,8 +8472,33 @@
 			<File>Toggo Plus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Toonami">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Toonami.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Torgau TV" />
 			<File>Torgau TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Toute L Histoire">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Toute L'Histoire" />
+			<File>Toute LHistoire.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trace Latina">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Trace Latina.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trace Urban">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Trace Urban.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Travelxp 4K HDR" />
@@ -7932,6 +8509,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Trek">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<File>Trek.png</File>
@@ -8003,7 +8581,9 @@
 			<Item Name="TV Breizh HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="TV Breizh" />
+			<Item Name="TV Breizh">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>TV Breizh.png</File>
 		</Channel>
 		<Channel>
@@ -8126,6 +8706,9 @@
 			<File>TV5Monde France Belgique Suisse.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV5 Monde">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="TV5Monde">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -8309,10 +8892,9 @@
 			<Item Name="Ushuaia TV HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<File>Ushuaia TV HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ushuaia TV" />
+			<Item Name="Ushuaia TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Ushuaia TV.png</File>
 		</Channel>
 		<Channel>
@@ -8372,6 +8954,12 @@
 		<Channel>
 			<Item Name="viàVosges" />
 			<File>ViaVosges.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vice TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Vice TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Visit-X.tv">
@@ -8456,7 +9044,9 @@
 			<Item Name="Voyage HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
-			<Item Name="Voyage" />
+			<Item Name="Voyage">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Voyage.png</File>
 		</Channel>
 		<Channel>
@@ -8484,6 +9074,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="W9">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>TNT (FR)</Provider>
 			</Item>
 			<File>W9.png</File>
@@ -8491,6 +9082,12 @@
 		<Channel>
 			<Item Name="Waidwerk" />
 			<File>Waidwerk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Warner TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Warner TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDR Aachen">
@@ -8768,6 +9365,12 @@
 			<File>Xite.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="XXL">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>XXL.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Yol TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -9029,9 +9632,7 @@
 			<File>Beur FM.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BFM Business">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="BFM Business" />
 			<File>BFM Business.png</File>
 		</Channel>
 		<Channel>
