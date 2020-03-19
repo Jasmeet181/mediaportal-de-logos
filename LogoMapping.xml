@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!-- 31/03/2020 Disney Cinema and Disney XD France closes -->
+		<!-- 01/04/2020 Sky 1/HD becomes Sky One -->
 		<!-- 09/08/2020 France 4 and France O closes -->
 	<TV>
 		<Channel>
@@ -1872,6 +1873,12 @@
 			<File>Disney XD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Disney+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>DisneyPlus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="DM Sat">
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -2297,7 +2304,6 @@
 		<Channel>
 			<Item Name="Extreme Sports Channel" />
 			<Item Name="Extreme Sports">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -3311,12 +3317,6 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Junior.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Juvelirochka">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Juvelirochka.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Juwelo HD">
@@ -4807,6 +4807,10 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>NTV Mir.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nyon Région Télévision" />
+			<File>Nyon Region Television.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OAMTC" />
@@ -6600,6 +6604,11 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Sat.1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Schaffhauser Fernsehen" />
+			<Item Name="SHF" />
+			<File>Schaffhauser Fernsehen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Schau TV HD">
@@ -8896,6 +8905,10 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Ushuaia TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Val TV" />
+			<File>Val TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Var Azur" />
