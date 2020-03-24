@@ -2,6 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!-- 31/03/2020 Disney Cinema and Disney XD France closes -->
+		<!-- 31/03/2020 Disney Junior removed from Sky -->
+		<!-- 01/04/2020 Nick Jr. and NickToons launch on Sky -->
 		<!-- 01/04/2020 Sky 1/HD becomes Sky One -->
 		<!-- 09/08/2020 France 4 and France O closes -->
 	<TV>
@@ -1607,12 +1609,6 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Cubavision Internacional.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="D7 TV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>D7 TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Das Erste HD">
