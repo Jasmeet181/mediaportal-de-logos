@@ -7510,6 +7510,12 @@
 			<File>Souvenirs From Earth.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SpaceConnectsUs">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>SpaceConnectsUs.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Spandau TV" />
 			<File>Spandau TV.png</File>
 		</Channel>
