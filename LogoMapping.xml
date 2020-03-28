@@ -5,6 +5,7 @@
 		<!-- 31/03/2020 Disney Junior removed from Sky -->
 		<!-- 01/04/2020 Nick Jr. and NickToons launch on Sky -->
 		<!-- 01/04/2020 Sky 1/HD becomes Sky One -->
+		<!-- 01/04/2020 Travelxp 4K removed from Astra 19.2E -->
 		<!-- 09/08/2020 France 4 and France O closes -->
 	<TV>
 		<Channel>
@@ -1044,6 +1045,9 @@
 		<Channel>
 			<Item Name="BVN (dut)">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="BVN TV">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="BVN">
 				<Provider>Vodafone UM Lörrach</Provider>
@@ -2308,13 +2312,6 @@
 		<Channel>
 			<Item Name="Fahrgast Fernsehen" />
 			<File>Fahrgast Fernsehen.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Fashion 4K">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Fashion One 4K" />
-			<File>Fashion One 4K.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fashion TV HD" />
@@ -7510,12 +7507,6 @@
 			<File>Souvenirs From Earth.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SpaceConnectsUs">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>SpaceConnectsUs.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Spandau TV" />
 			<File>Spandau TV.png</File>
 		</Channel>
@@ -10368,6 +10359,9 @@
 		<Channel>
 			<Item Name="Radio 1" />
 			<Item Name="VRT Radio1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="VRT Radio 1">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Radio 1.png</File>
