@@ -4583,7 +4583,7 @@
 			<Item Name="Nick Junior Global">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Nick. Jr">
+			<Item Name="Nick. Jr.">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Nick_Jr..">
@@ -7730,7 +7730,8 @@
 			<Item Name="Sundance TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>Sundance TV.png</File>
+			<Item Name="SundanceTV" />
+			<File>SundanceTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Super RTL HD">
