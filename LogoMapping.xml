@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 31/03/2020 Disney Cinema and Disney XD France closes -->
-		<!-- 31/03/2020 Disney Junior removed from Sky -->
-		<!-- 01/04/2020 Nick Jr. and NickToons launch on Sky -->
-		<!-- 01/04/2020 Sky 1/HD becomes Sky One -->
-		<!-- 01/04/2020 Travelxp 4K removed from Astra 19.2E -->
 		<!-- 09/08/2020 France 4 and France O closes -->
 	<TV>
 		<Channel>
@@ -308,6 +303,13 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Algerie 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="All Elite Wrestling" />
+			<Item Name="WrestlingAEW PPV">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>All Elite Wrestling.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Allgau TV" />
@@ -1815,22 +1817,12 @@
 			<File>Disney Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disney Cinema HD F">
-				<Provider>UPC (CH)</Provider>
-			</Item>
-			<Item Name="Disney Cinema">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Disney Cinema.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Disney Junior HD F">
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Disney Junior HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
-				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Disney Junior HD.png</File>
 		</Channel>
@@ -1847,30 +1839,6 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Disney Junior.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Disney XD HD F">
-				<Provider>UPC (CH)</Provider>
-			</Item>
-			<Item Name="Disney XD HD">
-				<Provider>UPC (CH)</Provider>
-			</Item>
-			<File>Disney XD HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Disney XD (eng)">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<Item Name="Disney XD (S)">
-				<Provider>Vodafone UM Lörrach</Provider>
-			</Item>
-			<Item Name="Disney XD">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>UPC (CH)</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-				<Provider>Vodafone UM Lörrach</Provider>
-			</Item>
-			<File>Disney XD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney+">
@@ -2748,9 +2716,6 @@
 			<File>Freenet Shopping.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Freenet TV Connect">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="Freenet TV" />
 			<File>Freenet TV.png</File>
 		</Channel>
@@ -3298,7 +3263,6 @@
 		<Channel>
 			<Item Name="Jukebox">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<File>Jukebox.png</File>
 		</Channel>
@@ -3559,8 +3523,10 @@
 			<File>Kraichgau TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Krone.TV" />
-			<File>Krone.TV.png</File>
+			<Item Name="Krone TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Krone TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KT1" />
@@ -4617,6 +4583,12 @@
 			<Item Name="Nick Junior Global">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Nick. Jr">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Nick_Jr..">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Nickelodeon Jr. F">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -4690,10 +4662,8 @@
 			<File>Nickelodeon Teen.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nicktoons (S)">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="Nicktoons">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Nicktoons.png</File>
@@ -5851,7 +5821,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="RCK TV">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>RCK TV.png</File>
@@ -6156,7 +6125,6 @@
 			</Item>
 			<Item Name="RT" />
 			<Item Name="Russia Today">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -6778,20 +6746,19 @@
 			<File>SKB Stadtfernsehen Brandenburg.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky 1 HD">
+			<Item Name="Sky One HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
-			<File>Sky 1 HD.png</File>
+			<File>Sky One HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky 1">
-				<Provider>UPC (CH)</Provider>
+			<Item Name="Sky One">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
-			<File>Sky 1.png</File>
+			<File>Sky One.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Atlantic HD">
@@ -8504,9 +8471,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Travelxp 4K HDR" />
-			<Item Name="Travelxp 4K">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="Travelxp 4K" />
 			<File>Travelxp 4K HDR.png</File>
 		</Channel>
 		<Channel>
@@ -9358,7 +9323,7 @@
 			<File>WT1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Wrestling PPV">
+			<Item Name="WWE PPV">
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 			</Item>
 			<Item Name="WWE" />
