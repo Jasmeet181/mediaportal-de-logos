@@ -3037,7 +3037,8 @@
 				<Provider>Terrestrial Wien</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
-			<File>Hope Channel.png</File>
+			<Item Name="Hope TV" />
+			<File>Hope TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HR-Fernsehen HD">
@@ -4616,6 +4617,10 @@
 			<File>Nickelodeon HD MTV Plus HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nickelodeon HD Schweiz" />
+			<File>Nickelodeon HD Schweiz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nick HD">
 				<Provider>Terrestrial München</Provider>
 				<Provider>UPC (CH)</Provider>
@@ -4643,6 +4648,10 @@
 			</Item>
 			<Item Name="Nickelodeon +1" />
 			<File>Nickelodeon Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon Schweiz" />
+			<File>Nickelodeon Schweiz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nick">
