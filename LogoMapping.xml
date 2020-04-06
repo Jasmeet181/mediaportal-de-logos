@@ -72,6 +72,12 @@
 			<File>24 Horas.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="A La Maison">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>A La Maison.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Á La Une" />
 			<Item Name="A La Une">
 				<Provider>Astra 19.2E</Provider>
@@ -8564,6 +8570,7 @@
 			<File>TV Breizh.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV Halle HD" />
 			<Item Name="TV Halle" />
 			<File>TV Halle.png</File>
 		</Channel>
