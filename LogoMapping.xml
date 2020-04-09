@@ -6085,10 +6085,6 @@
 			<File>Romance TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RON TV" />
-			<File>RON TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Rouge TV HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
@@ -6891,6 +6887,12 @@
 			<File>Sky Cinema Thriller HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Comedy HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Sky Comedy HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Krimi HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
@@ -7013,12 +7015,6 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Sky Select.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Serien &amp; Shows HD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Sky Serien and Shows HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 1 HD">
