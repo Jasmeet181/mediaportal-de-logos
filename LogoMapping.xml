@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- 20/04/2020 Sky Comedy HD will close -->
+		<!-- 01/06/2020 MTV Dance becomes Club MTV -->
 		<!-- 09/08/2020 France 4 and France O closes -->
 	<TV>
 		<Channel>
@@ -2879,6 +2881,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Haber Turk" />
+			<Item Name="Habertürk (tur)">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
 			<Item Name="Habertürk">
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
@@ -3036,11 +3041,11 @@
 			<File>Hitradio O3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hope Channel HD">
+			<Item Name="HopeTV">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Terrestrial Wien</Provider>
 			</Item>
 			<Item Name="Hope Channel">
-				<Provider>Terrestrial Wien</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<Item Name="Hope TV" />
@@ -4591,6 +4596,9 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Nick. Jr.">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<Item Name="Nick.Jr.">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Nick_Jr..">
@@ -6759,14 +6767,13 @@
 		<Channel>
 			<Item Name="Sky One HD">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Sky One HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky One">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Sky One.png</File>
@@ -10629,6 +10636,12 @@
 		<Channel>
 			<Item Name="Radio Ö24" />
 			<File>Radio O24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Oberland">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>Radio Oberland.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="OE2 O">
