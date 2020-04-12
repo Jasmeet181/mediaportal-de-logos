@@ -8450,6 +8450,10 @@
 			<File>TNT Serie.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Toggo Plus HD" />
+			<File>Toggo Plus HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Toggo Plus">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>MagentaTV</Provider>
@@ -8951,6 +8955,12 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Vice TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Videothek">
+				<Provider>Vodafone UM Lörrach</Provider>
+			</Item>
+			<File>Videothek.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Visit-X.tv">
@@ -9470,19 +9480,6 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>80s80s.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="AFK M94.5" />
-			<Item Name="M94">
-				<Provider>Vodafone Kabel München</Provider>
-			</Item>
-			<File>AFK M94.5.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="AFK Max">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<File>AFK Max.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="AlternativeFM" />
@@ -10062,6 +10059,20 @@
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Lora Munchen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M94.5" />
+			<Item Name="M94">
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>M94.5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AFK Max">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Max Neo" />
+			<File>Max Neo.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MDR Aktuell">
