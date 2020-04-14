@@ -1,4 +1,4 @@
-# Austrian, German and Swiss TV and radio logos for MediaPortal 1
+# Austrian, French, German and Swiss TV and radio logos for MediaPortal 1
 
 ## Introduction
 

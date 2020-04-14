@@ -8838,6 +8838,19 @@
 			<File>UHD1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Test UHD1">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="Test UHD2">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="Test UHD3">
+				<Provider>TNT (FR)</Provider>
+			</Item>
+			<Item Name="Ultra HD" />
+			<File>Ultra HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Universal TV HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
