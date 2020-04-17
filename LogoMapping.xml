@@ -4568,6 +4568,9 @@
 			<File>Nice.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NicerDicerTV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Nicer Dicer TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
