@@ -181,13 +181,6 @@
 			<File>6ter.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="8 Channel" />
-			<Item Name="8 TV RU">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>8 Channel.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="8 Mont Blanc" />
 			<Item Name="TV8 Mont-Blanc HD">
 				<Provider>UPC (CH)</Provider>
