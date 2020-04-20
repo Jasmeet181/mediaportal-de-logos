@@ -3789,13 +3789,6 @@
 			<File>MaxTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MB Live TV" />
-			<Item Name="MB Live">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>MB Live TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="MBC 1" />
 			<Item Name="MBC Maghreb al Arabia">
 				<Provider>Vodafone UM Lörrach</Provider>
