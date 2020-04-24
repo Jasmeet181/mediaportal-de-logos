@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 20/04/2020 Sky Comedy HD will close -->
 		<!-- 01/06/2020 MTV Dance becomes Club MTV -->
 		<!-- 09/08/2020 France 4 and France O closes -->
 	<TV>
@@ -2708,17 +2707,6 @@
 		<Channel>
 			<Item Name="Franken Sat" />
 			<File>Franken Sat.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Freenet Shopping">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Terrestrial München</Provider>
-			</Item>
-			<File>Freenet Shopping.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Freenet TV" />
-			<File>Freenet TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Friesischer Rundfunk" />
@@ -8972,7 +8960,13 @@
 			<File>Visit-X.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Vivid CZ">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Vivid TV Europe" />
+			<Item Name="Vivid">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Vivid TV Europe.png</File>
 		</Channel>
 		<Channel>
