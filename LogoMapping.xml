@@ -1117,6 +1117,14 @@
 			<File>Canal Alpha HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Canal Alpha JU" />
+			<File>Canal Alpha JU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Alpha NE" />
+			<File>Canal Alpha NE.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Canal Alpha" />
 			<File>Canal Alpha.png</File>
 		</Channel>
@@ -9077,7 +9085,9 @@
 			<File>W9.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Waidwerk" />
+			<Item Name="Waidwerk">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Waidwerk.png</File>
 		</Channel>
 		<Channel>

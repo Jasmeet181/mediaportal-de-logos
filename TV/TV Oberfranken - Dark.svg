@@ -1,5 +1,11 @@
 <svg width="800" height="304.62" version="1.0" viewBox="0 0 800 304.62" xmlns="http://www.w3.org/2000/svg">
- <g transform="scale(.99161)" clip-path="url(#_clipPath_tf8YaTXffXgtA95Ek7kQduiKtlTDT5el)" fill="#fff" style="isolation:isolate;paint-order:stroke fill markers">
+ <defs>
+  <linearGradient id="linearGradient829" x2="960" y2="960" gradientTransform="matrix(1.2085 0 0 1.2085 -180.07 -427.8)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4e8cc5" offset="0"/>
+   <stop stop-color="#012348" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="scale(.99161)" clip-path="url(#_clipPath_tf8YaTXffXgtA95Ek7kQduiKtlTDT5el)" fill="url(#linearGradient829)" style="isolation:isolate;paint-order:stroke fill markers">
   <path d="m674.17 140.84c-18.627 0-33.726 15.06-33.726 33.639 0 18.583 15.099 33.638 33.726 33.638 18.618 0 33.717-15.055 33.717-33.638 0-18.579-15.099-33.639-33.717-33.639zm132.59 33.712c0 73.255-59.381 132.64-132.64 132.64-73.25 0-132.64-59.386-132.64-132.64 0-73.256 59.386-132.64 132.64-132.64 73.256 0 132.64 59.381 132.64 132.64z" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
   <path d="m407.78 48.577c24.03 59.825 48.011 119.68 72.129 179.47 23.619-59.801 47.137-119.64 70.668-179.47z" style="paint-order:stroke fill markers"/>
   <path d="m464.28 267.13c-29.013-72.875-58.249-145.65-87.159-218.56h-147.29c33.531 84.709 67.326 169.31 100.98 253.97 31.906 0.263 63.832 0.097 95.738 0.097h23.957c4.694-11.785 8.955-23.771 13.767-35.507z" style="paint-order:stroke fill markers"/>
