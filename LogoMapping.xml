@@ -3524,9 +3524,10 @@
 			<File>Kraichgau TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Krone TV">
+			<Item Name="Krone.TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Krone TV" />
 			<File>Krone TV.png</File>
 		</Channel>
 		<Channel>
@@ -10428,16 +10429,6 @@
 			<File>Radio Arabella.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RadioB2 Schlager">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-			</Item>
-			<Item Name="Radio B2">
-				<Provider>Vodafone UM Lörrach</Provider>
-			</Item>
-			<File>Radio B2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Radio Bob (national)">
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
@@ -10925,11 +10916,16 @@
 			<File>RTV21.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Schlager-Radio">
+			<Item Name="RadioB2 Schlager">
+				<Provider>Vodafone Kabel Nürnberg</Provider>
+			</Item>
+			<Item Name="Radio B2">
+				<Provider>Vodafone UM Lörrach</Provider>
+			</Item>
+			<Item Name="Schlager Radio B2">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Schlager Radio" />
-			<File>Schlager Radio.png</File>
+			<File>Schlager Radio B2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Schwarzwaldradio" />
