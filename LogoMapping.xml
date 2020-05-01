@@ -3526,6 +3526,7 @@
 		<Channel>
 			<Item Name="Krone.TV">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Terrestrial Wien</Provider>
 			</Item>
 			<Item Name="Krone TV" />
 			<File>Krone TV.png</File>
@@ -10044,9 +10045,7 @@
 			<File>Klassik Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kronehit">
-				<Provider>Terrestrial Wien</Provider>
-			</Item>
+			<Item Name="Kronehit" />
 			<File>Kronehit.png</File>
 		</Channel>
 		<Channel>
