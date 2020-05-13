@@ -604,9 +604,7 @@
 			<File>Baden TV Sud.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Baden TV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="Baden TV" />
 			<File>Baden TV.png</File>
 		</Channel>
 		<Channel>
@@ -1272,12 +1270,6 @@
 			</Item>
 			<Item Name="Cbeebies HD BBC Four HD" />
 			<File>Cbeebies HD BBC Four HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="CBNN">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>CBNN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CGTN Documentary">
@@ -2346,9 +2338,7 @@
 			<File>Flimmit.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Folx TV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="Folx TV" />
 			<File>Folx TV.png</File>
 		</Channel>
 		<Channel>
@@ -6883,6 +6873,7 @@
 		<Channel>
 			<Item Name="Sky Comedy HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Comedy HD.png</File>
 		</Channel>
@@ -7009,6 +7000,13 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>Sky Select.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Serien &amp; Shows HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Vodafone Kabel München</Provider>
+			</Item>
+			<File>Sky Serien and Shows HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 1 HD">
@@ -7241,6 +7239,7 @@
 				<Provider>UPC (CH)</Provider>
 			</Item>
 			<Item Name="Sky Sport Bundesliga 1">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>UPC (CH)</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
@@ -7248,7 +7247,9 @@
 			<File>Sky Sport Bundesliga 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport Bundesliga 10 HD" />
+			<Item Name="Sky Sport Bundesliga 10 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Sport Bundesliga 10 HD.png</File>
 		</Channel>
 		<Channel>
@@ -7266,7 +7267,9 @@
 			<File>Sky Sport Bundesliga 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport Bundesliga 2" />
+			<Item Name="Sky Sport Bundesliga 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Sport Bundesliga 2.png</File>
 		</Channel>
 		<Channel>
@@ -7309,6 +7312,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport Bundesliga 6 HD">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel München</Provider>
 			</Item>
 			<File>Sky Sport Bundesliga 6 HD.png</File>
@@ -7319,7 +7323,9 @@
 			<File>Sky Sport Bundesliga 6.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport Bundesliga 7 HD" />
+			<Item Name="Sky Sport Bundesliga 7 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Sport Bundesliga 7 HD.png</File>
 		</Channel>
 		<Channel>
@@ -7328,7 +7334,9 @@
 			<File>Sky Sport Bundesliga 7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport Bundesliga 8 HD" />
+			<Item Name="Sky Sport Bundesliga 8 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Sport Bundesliga 8 HD.png</File>
 		</Channel>
 		<Channel>
@@ -7337,7 +7345,9 @@
 			<File>Sky Sport Bundesliga 8.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sport Bundesliga 9 HD" />
+			<Item Name="Sky Sport Bundesliga 9 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Sky Sport Bundesliga 9 HD.png</File>
 		</Channel>
 		<Channel>
@@ -9000,7 +9010,9 @@
 			<Item Name="Volksmusik.TV - Der neue Sender!">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Volksmusik.TV" />
+			<Item Name="Volksmusik.TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>Volksmusik.TV.png</File>
 		</Channel>
 		<Channel>
@@ -9710,13 +9722,6 @@
 		<Channel>
 			<Item Name="Couleur 3" />
 			<File>Couleur 3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Das Inselradio Mallorca" />
-			<Item Name="Inselradio">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Das Inselradio Mallorca.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dasding">
