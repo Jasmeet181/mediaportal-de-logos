@@ -780,6 +780,13 @@
 			<File>Bein Sports HD3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BestMarket.TV" />
+			<Item Name="BestMarket TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>BestMarket.TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BET France HD">
 				<Provider>UPC (CH)</Provider>
 			</Item>
