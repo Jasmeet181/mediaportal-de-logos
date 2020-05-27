@@ -3342,7 +3342,7 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Kabel Eins Doku HD Austria" />
-			<File>Kabel Eins Doku Austria.png</File>
+			<File>Kabel Eins Doku HD Austria.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kabel Eins Doku HD">
