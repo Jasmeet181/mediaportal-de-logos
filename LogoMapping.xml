@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 31/05/2020 Zee One/HD closes -->
-		<!-- 01/06/2020 MTV Dance becomes Club MTV -->
 		<!-- 09/08/2020 France 4 and France O close -->
 		<!-- 12/01/2021 ARD-alpha, Das Erste, One and Tagesschau24 in SD removed from Astra 19.2E -->
 		<!-- 00/01/2021 Arte in SD removed from Astra 19.2E -->
@@ -1444,6 +1442,13 @@
 			<File>Clique TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Club MTV" />
+			<Item Name="MTV Dance">
+				<Provider>UPC (CH)</Provider>
+			</Item>
+			<File>Club MTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CMC TV" />
 			<Item Name="CMC">
 				<Provider>Vodafone UM Lörrach</Provider>
@@ -2019,6 +2024,26 @@
 			<File>Elbekanal.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ElevenSports1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Eleven Sports 1" />
+			<Item Name="VElevenSports1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Eleven Sports 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ElevenSports2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Eleven Sports 2" />
+			<Item Name="VElevenSports2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Eleven Sports 2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Elta HD" />
 			<File>Elta HD.png</File>
 		</Channel>
@@ -2172,9 +2197,6 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Vodafone Kabel Nürnberg</Provider>
 				<Provider>Vodafone UM Lörrach</Provider>
-			</Item>
-			<Item Name="Eurosport2 ger">
-				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Eurosport 2.png</File>
 		</Channel>
@@ -4038,12 +4060,6 @@
 				<Provider>Vodafone UM Lörrach</Provider>
 			</Item>
 			<File>MTV Brand New.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="MTV Dance">
-				<Provider>UPC (CH)</Provider>
-			</Item>
-			<File>MTV Dance.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV France HD">
@@ -9475,22 +9491,6 @@
 			</Item>
 			<Item Name="ZDFneo" />
 			<File>ZDFneo.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Zee One HD">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>Zee One HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Zee One">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Zee.One">
-				<Provider>Vodafone Kabel Nürnberg</Provider>
-				<Provider>Vodafone UM Lörrach</Provider>
-			</Item>
-			<File>Zee One.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
