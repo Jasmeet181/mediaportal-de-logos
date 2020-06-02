@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!-- 09/08/2020 France 4 and France O close -->
+		<!-- 00/08/2020 Téléfoot launches -->
 		<!-- 12/01/2021 ARD-alpha, Das Erste, One and Tagesschau24 in SD removed from Astra 19.2E -->
 		<!-- 00/01/2021 Arte in SD removed from Astra 19.2E -->
 	<TV>
@@ -479,9 +480,10 @@
 			<File>Arte.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Asteroid Day">
+			<Item Name="Asteroid Day TV">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="Asteroid Day TV" />
 			<File>Asteroid Day.png</File>
 		</Channel>
 		<Channel>
@@ -2025,6 +2027,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="ElevenSports1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Elevensports 1 FR">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Eleven Sports 1" />
