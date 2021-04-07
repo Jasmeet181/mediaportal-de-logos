@@ -1,0 +1,26 @@
+<svg version="1.0" viewBox="0 0 2084 1779" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="a" cx="-822.27" cy="348.03" r="100.18" gradientTransform="matrix(1 0 0 .82468 0 61.019)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0055d4" offset="0"/>
+   <stop stop-color="#0055d4" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="b" cx="-822.27" cy="348.03" r="100.18" gradientTransform="matrix(1 0 0 .82468 0 61.019)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00aad4" offset="0"/>
+   <stop stop-color="#00aad4" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="c" cx="-822.27" cy="348.03" r="100.18" gradientTransform="matrix(1 0 0 .82468 0 61.019)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#60f" offset="0"/>
+   <stop stop-color="#5500d4" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(-439.09 -87.84)" fill-rule="evenodd">
+  <path transform="matrix(9.3015 -2.4923 2.4923 9.3015 8175.5 -4371.8)" d="m-722.09 348.03a100.18 82.617 0 1 1-200.36 0 100.18 82.617 0 1 1 200.36 0z" fill="url(#a)"/>
+  <path transform="matrix(9.3015 -2.4923 2.4923 9.3015 8195.7 -4319)" d="m-722.09 348.03a100.18 82.617 0 1 1-200.36 0 100.18 82.617 0 1 1 200.36 0z" fill="url(#a)"/>
+  <path transform="matrix(9.3015 -2.4923 2.4923 9.3015 8214.2 -4287.2)" d="m-722.09 348.03a100.18 82.617 0 1 1-200.36 0 100.18 82.617 0 1 1 200.36 0z" fill="url(#a)"/>
+  <path transform="matrix(9.3015 -2.4923 2.4923 9.3015 8234.5 -4234.3)" d="m-722.09 348.03a100.18 82.617 0 1 1-200.36 0 100.18 82.617 0 1 1 200.36 0z" fill="url(#a)"/>
+  <path transform="matrix(3.8796 7.0186 -6.8691 4.1385 6766 5418.3)" d="m-722.09 348.03a100.18 82.617 0 1 1-200.36 0 100.18 82.617 0 1 1 200.36 0z" fill="url(#c)"/>
+  <path transform="matrix(3.8796 7.0186 -6.8691 4.1385 7416.8 5202.8)" d="m-722.09 348.03a100.18 82.617 0 1 1-200.36 0 100.18 82.617 0 1 1 200.36 0z" fill="url(#b)"/>
+  <path transform="matrix(8.588 -2.3012 2.3012 8.588 7724.7 -3900.3)" d="m-722.09 348.03a100.18 82.617 0 1 1-200.36 0 100.18 82.617 0 1 1 200.36 0z" fill="url(#a)"/>
+  <path d="m1186.4 673.17 82.853 136.71 89.067-66.282 4e-4 546.83-132.56 49.712-5e-4 99.423c0 6.7096 4.7635 6.0381 10.459 6.038l421.15 1e-4c6.4777-1e-4 10.742-2.4501 10.743-10.705l-3e-4 -94.756-119.23-49.712-1e-4 -772.6c0-8.1921-3.5119-12.076-13.149-12.076l-111.13 5e-5 -238.2 167.43z" fill="#fff"/>
+ </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg version="1.1" viewBox="0 0 507.45 277.96" xmlns="http://www.w3.org/2000/svg">
+ <path d="m0 0h297.19v277.96h-297.19z" fill-rule="evenodd"/>
+ <g transform="matrix(1.0432 0 0 1.0432 -413.08 325.39)" fill-rule="evenodd">
+  <path d="m428.34-281.63h168.34v48.446h-168.34z" fill="#0078bc"/>
+  <path d="m480.14-202.68h116.54v48.446h-116.54z" fill="#0078bc"/>
+  <path d="m480.14-124.18h116.54v48.446h-116.54z" fill="#0078bc"/>
+  <path d="m428.34-202.68h51.796v126.95h-51.796z" fill="#1d4287"/>
+  <path d="m596.68-281.63h51.796v205.89h-51.796z" fill="#1d4287"/>
+ </g>
+ <path d="m351.1 34.67v-34.669h157.75l-112.17 277.96h-39.918l97.903-243.09z" fill="#1d4287" style="paint-order:normal"/>
+</svg>

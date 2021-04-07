@@ -1,0 +1,19 @@
+<svg data-name="Calque 1" version="1.1" viewBox="0 0 160.07 32.69" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="14.4" x2="35.91" y1="32.689" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fce82f" offset="0"/>
+   <stop stop-color="#fec60d" offset=".19618"/>
+   <stop stop-color="#faa930" offset=".44171"/>
+   <stop stop-color="#f04835" offset="1"/>
+  </linearGradient>
+ </defs>
+ <polygon class="cls-2" transform="translate(.070312 .00030515)" points="152.93 32.68 160 32.68 145.54 0.02 138.48 0.02" fill="#504f4e"/>
+ <polygon class="cls-2" transform="translate(.070312 .00030515)" points="139.28 14.42 132.21 14.42 124.02 32.68 131.09 32.68" fill="#504f4e"/>
+ <polygon class="cls-2" transform="translate(.070312 .00030515)" points="58.63 13.85 48.31 13.84 48.31 6.41 62.11 6.42 64.98 0.03 41.91 0 41.91 32.66 65.01 32.68 64.99 26.3 48.31 26.28 48.31 20.23 55.76 20.23" fill="#504f4e"/>
+ <polygon class="cls-2" transform="translate(.070312 .00030515)" points="116.8 32.68 116.74 0.13 110.28 0.13 110.34 32.68" fill="#504f4e"/>
+ <path class="cls-2" d="m86.83 3.0515e-4h-10.82l-2.87 6.42h13.61a9.87 9.87 0 1 1 0 19.74h-7v-12.31h-6.61v18.83h13.69a16.42 16.42 0 0 0 16.51-16.32 16.41 16.41 0 0 0-16.51-16.36z" fill="#504f4e"/>
+ <g transform="translate(.070312 .00030515)" fill="url(#a)">
+  <path d="m-0.070312 0 14.471 32.689h7.0703l-14.471-32.689z"/>
+  <path class="cls-1" d="m28.85 0-8.2 18.26h7.07l8.19-18.26z"/>
+ </g>
+</svg>

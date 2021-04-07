@@ -1,0 +1,37 @@
+<svg space="preserve" version="1.1" viewBox="0 0 800 173.04" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="radialGradient1089" cx="634.44" cy="-20.639" r="146.84" gradientTransform="matrix(-2.6688 .71511 -.34759 -1.2972 2319.2 -469.19)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#10aeb9" offset="0"/>
+   <stop stop-color="#10aeb9" offset=".19745"/>
+   <stop stop-color="#176694" offset=".42979"/>
+   <stop stop-color="#1b4d87" offset=".58469"/>
+   <stop stop-color="#1b3b80" offset=".76803"/>
+   <stop stop-color="#176095" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient1099" x1="320.83" x2="478.79" y1="173.04" y2="-.0019881" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1a4b88" offset="0"/>
+   <stop stop-color="#184d86" offset=".49142"/>
+   <stop stop-color="#157299" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1099-1" x1="478.79" x2="320.83" y1="173.04" y2="-.00199" gradientTransform="translate(0)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1c377b" offset="0"/>
+   <stop stop-color="#1a4180" stop-opacity="0" offset=".4"/>
+   <stop stop-color="#184d86" stop-opacity="0" offset=".6"/>
+   <stop stop-color="#1c377b" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1169" cx="257.81" cy="48.218" r="146.84" gradientTransform="matrix(-.67087 1.162 -.97237 -.5614 401.62 -245.1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1f2977" offset="0"/>
+   <stop stop-color="#1f2776" offset=".7"/>
+   <stop stop-color="#1d4b84" offset="1"/>
+  </radialGradient>
+ </defs>
+ <link href="" rel="stylesheet" type="text/css"/>
+ <style type="text/css"/>
+ <style type="text/css">.st0{display:none;}
+	.st1{fill:#FFFFFF;}
+	.st2{clip-path:url(#SVGID_2_);fill:#FFFFFF;}</style>
+ <path d="m293.68 173.04v-173.04h-44.109l-67.483 87.841v-87.841h-49.387l-132.7 173.04h63.713l71.63-93.119v93.119h38.077l71.63-93.119v93.119z" fill="url(#radialGradient1169)" stroke-width="3.77"/>
+ <path d="m800 173.04-132.7-173.04h-49.387v87.841l-67.483-87.841h-44.109v173.04h48.633v-93.119l71.63 93.119h38.077v-93.119l71.63 93.119z" fill="url(#radialGradient1089)" stroke-width="3.77"/>
+ <path d="m432.04 87.839-67.483-87.841h-43.732v173.04h48.256v-93.119l71.63 93.119h38.077v-173.04h-46.748z" fill="url(#linearGradient1099)" stroke-width="3.77"/>
+ <path d="m432.04 87.839-67.483-87.841h-43.732v173.04h48.256v-93.119l71.63 93.119h38.077v-173.04h-46.748z" fill="url(#linearGradient1099-1)" stroke-width="3.77"/>
+</svg>
