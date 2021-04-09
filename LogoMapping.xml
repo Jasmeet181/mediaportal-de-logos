@@ -107,6 +107,12 @@
 			<File>24 Horas.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="24Kitchen">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>24Kitchen.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="25 TV">
 					<Provider>TDT (Catalunya, Barcelona)</Provider>
 				</Item>
@@ -785,6 +791,10 @@
 			<File>ASTV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="AT5" />
+			<File>AT5.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="ATP" />
 				<Item Name="Live Tennis ATP">
 					<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -994,6 +1004,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="BBC One">
+					<Provider>Digitenne</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -1007,6 +1018,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="BBC Two">
+					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>BBC Two.png</File>
@@ -2086,6 +2098,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canvas">
+					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Canvas.png</File>
@@ -2487,6 +2500,7 @@
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="CNN">
+					<Provider>Digitenne</Provider>
 					<Provider>Terrestrial Wien</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 					<Provider>Voo</Provider>
@@ -2540,6 +2554,7 @@
 		<Channel>
 				<Item Name="Comedy Central">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Digitenne</Provider>
 					<Provider>Terrestrial Wien</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>UPC (CH)</Provider>
@@ -2888,6 +2903,7 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="Discovery Channel">
+					<Provider>Digitenne</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="Discovery">
@@ -3180,8 +3196,11 @@
 			<File>EdgeSport.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eén">
+				<Item Name="Een">
 					<Provider>Voo</Provider>
+				</Item>
+				<Item Name="Één">
+					<Provider>Digitenne</Provider>
 				</Item>
 			<File>Een.png</File>
 		</Channel>
@@ -3379,6 +3398,18 @@
 			<File>ESNE TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ESPN2 / CartoonNetwork / AT5">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>ESPN2 Cartoon Network AT5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ESPN">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>ESPN.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Esport 3" />
 				<Item Name="Esport3">
 					<Provider>TDT (Catalunya, Barcelona)</Provider>
@@ -3534,6 +3565,9 @@
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="Eurosport">
+					<Provider>Digitenne</Provider>
 				</Item>
 			<File>Eurosport 1.png</File>
 		</Channel>
@@ -3853,6 +3887,7 @@
 				</Item>
 				<Item Name="Fox">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Digitenne</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 				</Item>
@@ -4711,6 +4746,12 @@
 			<File>IDF1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ID">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>ID.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Ikono TV" />
 			<File>Ikono TV.png</File>
 		</Channel>
@@ -4796,10 +4837,6 @@
 		<Channel>
 				<Item Name="Insight TV UHD" />
 			<File>Insight TV UHD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Investigation Discovery" />
-			<File>Investigation Discovery.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Italia 1 HD">
@@ -5081,6 +5118,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Ketnet">
+					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Ketnet.png</File>
@@ -6134,32 +6172,6 @@
 			<File>Movistar Fest.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. F1 UHD DRM">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="Movistar Formula 1 UHD" />
-			<File>Movistar Formula 1 UHD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="M. F1">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="M. F1 HD">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="M. F1 HD ">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="M.Formula1">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="M.Formula1HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Movistar Formula 1" />
-			<File>Movistar Formula 1.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="M. Golf">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
@@ -6181,6 +6193,11 @@
 		<Channel>
 				<Item Name="Movistar James Bond" />
 			<File>Movistar James Bond.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. LaLiga 1 UHD" />
+				<Item Name="Movistar LaLiga 1 UHD" />
+			<File>Movistar LaLiga 1 UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M. LaLiga 10">
@@ -6267,6 +6284,11 @@
 				</Item>
 				<Item Name="Movistar LaLiga 9" />
 			<File>Movistar LaLiga 9.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. LaLiga UHD" />
+				<Item Name="Movistar LaLiga UHD" />
+			<File>Movistar LaLiga UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M. LaLiga HD">
@@ -6359,6 +6381,7 @@
 			<File>Movistar Liga de Campeones 8.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M.LCampeonsUHD" />
 				<Item Name="Movistar Liga de Campeones UHD" />
 			<File>Movistar Liga de Campeones UHD.png</File>
 		</Channel>
@@ -6371,23 +6394,6 @@
 				</Item>
 				<Item Name="Movistar Liga de Campeones" />
 			<File>Movistar Liga de Campeones.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="M. MotoGP">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="M. MotoGP HD">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="M. MotoGP HD Degustacion">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="M.MotoGPHD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Movistar MotoGP" />
-			<File>Movistar MotoGP.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Movistar Multicine" />
@@ -6546,6 +6552,7 @@
 				</Item>
 				<Item Name="MTV">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Digitenne</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -7017,6 +7024,7 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="National Geographic">
+					<Provider>Digitenne</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -7128,12 +7136,6 @@
 			<File>Neisse Welle Guben.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Netflix">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-			<File>Netflix.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Neox">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
@@ -7143,8 +7145,24 @@
 			<File>Neox.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Net5">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Net5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Netflix">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+			<File>Netflix.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="NeuEins" />
 			<File>NeuEins.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NH Nieuws" />
+			<File>NH Nieuws.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NHK World HD" />
@@ -7274,6 +7292,12 @@
 			<File>Nickelodeon Schweiz.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nickelodeon / Spike">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Nickelodeon Spike.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Nickelodeon Teen">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
@@ -7396,9 +7420,16 @@
 		</Channel>
 		<Channel>
 				<Item Name="NPO 1">
+					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>NPO 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO 2 Extra">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>NPO 2 Extra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO 2 HD" />
@@ -7409,6 +7440,7 @@
 					<Provider>Vodafone UM Köln</Provider>
 				</Item>
 				<Item Name="NPO 2">
+					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>NPO 2.png</File>
@@ -7418,7 +7450,9 @@
 			<File>NPO 3 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO 3" />
+				<Item Name="NPO 3">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>NPO 3.png</File>
 		</Channel>
 		<Channel>
@@ -7685,14 +7719,27 @@
 			<File>Omroep Brabant.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Omroep Flevoland" />
+			<File>Omroep Flevoland.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Omroep Gelderland" />
 			<File>Omroep Gelderland.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Omroep Zeeland" />
+				<Item Name="Omroep West" />
+			<File>Omroep West.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Omroep Zeeland">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>Omroep Zeeland.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Omrop Fryslan TV">
+					<Provider>Digitenne</Provider>
+				</Item>
 				<Item Name="Omrop Fryslân" />
 			<File>Omrop Fryslan.png</File>
 		</Channel>
@@ -8289,6 +8336,13 @@
 		<Channel>
 				<Item Name="Popular TV Region de Murcia" />
 			<File>Popular TV Region de Murcia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Pornhub TV" />
+				<Item Name="Pornhub">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Pornhub TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="PowerTürk TV">
@@ -9069,6 +9123,33 @@
 			<File>RTL 2 HR.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL 4" />
+				<Item Name="RTL4">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>RTL 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTL 5" />
+				<Item Name="RTL5">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>RTL 5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTL 7" />
+				<Item Name="RTL7">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>RTL 7.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTL 8">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>RTL 8.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTL Crime HD">
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -9204,6 +9285,12 @@
 				</Item>
 				<Item Name="RTL West" />
 			<File>RTL West.png</File>
+		</Channel>
+		<Channel>>
+				<Item Name="RTL Z">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>RTL Z.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTL 9 HD">
@@ -9363,12 +9450,36 @@
 			<File>RTV Ceuta.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTV Drenthe" />
+				<Item Name="TV Drenthe">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>RTV Drenthe.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTV Noord" />
+				<Item Name="TV Noord">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>RTV Noord.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTV Oost" />
+				<Item Name="TV Oost">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>RTV Oost.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTV Rijnmond" />
+				<Item Name="TV Rijnmond">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>RTV Rijnmond.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTV Utrecht" />
+			<File>RTV Utrecht.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTV" />
@@ -9509,6 +9620,12 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 			<File>Sat.1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SBS6">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>SBS6.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Schaffhauser Fernsehen" />
@@ -11471,6 +11588,7 @@
 		<Channel>
 				<Item Name="TLC">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Digitenne</Provider>
 					<Provider>Terrestrial Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -12273,6 +12391,12 @@
 			<File>Vernier Visions.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Veronica / Disney XD">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Veronica Disney XD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="VH1">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
@@ -12831,6 +12955,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Xite">
+					<Provider>Digitenne</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 			<File>Xite.png</File>
@@ -12940,6 +13065,13 @@
 <!-- ******************************************************************** -->
 	<Radio>
 		<Channel>
+				<Item Name="100% NL" />
+				<Item Name="100%NL">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>100Procent NL.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="106.4 Top FM" />
 				<Item Name="106">
 					<Provider>Vodafone Kabel München</Provider>
@@ -13001,6 +13133,12 @@
 		<Channel>
 				<Item Name="Antenne Tirol" />
 			<File>Antenne Tirol.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Arrow Classic Rock">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Arrow Classic Rock.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ARS 3" />
@@ -13071,16 +13209,28 @@
 			<File>BBC Arabic.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC Radio 1" />
+				<Item Name="BBC Radio 1">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>BBC Radio 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC Radio 2" />
+				<Item Name="BBC Radio 2">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>BBC Radio 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC Radio 3" />
+				<Item Name="BBC Radio 3">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>BBC Radio 3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BBC Radio 4">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>BBC Radio 4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC World Service (E)">
@@ -13130,7 +13280,9 @@
 			<File>BNL.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BNR Nieuwsradio" />
+				<Item Name="BNR Nieuwsradio">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>BNR Nieuwsradio.png</File>
 		</Channel>
 		<Channel>
@@ -13283,6 +13435,12 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Classic 21.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Classicnl">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Classicnl.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Contact FM">
@@ -13564,6 +13722,12 @@
 			<File>Fun Radio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="FunX">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>FunX.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Harmony.FM">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -13748,12 +13912,14 @@
 			<File>Kiss FM.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Klara" />
-			<File>Klara.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Klara Continuo" />
 			<File>Klara Continuo.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Klara">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Klara.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Klassik Radio">
@@ -13924,12 +14090,14 @@
 			<File>Metropol FM.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MNM" />
-			<File>MNM.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="MNM Hits" />
 			<File>MNM Hits.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MNM">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>MNM.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Monster Radio">
@@ -14074,20 +14242,41 @@
 			<File>Nostalgie Vlaanderen.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO 3FM" />
+				<Item Name="NPO 3FM">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>NPO 3FM.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO Radio 1" />
+				<Item Name="NPO Radio 1">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>NPO Radio 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO Radio 2" />
+				<Item Name="NPO Radio 2 Soul &amp; Jazz" />
+				<Item Name="NPO Soul &amp; Jazz">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>NPO Radio 2 Soul and Jazz.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO Radio 2">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>NPO Radio 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO Radio 4" />
+				<Item Name="NPO Radio 4">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>NPO Radio 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO Radio 5">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>NPO Radio 5.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NL-Radio 1">
@@ -14122,6 +14311,19 @@
 					<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 				</Item>
 			<File>O2 Radio.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Omroep Zeeland">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Omroep Zeeland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Omrop Fryslan Radio">
+					<Provider>Digitenne</Provider>
+				</Item>
+				<Item Name="Omrop Fryslan" />
+			<File>Omrop Fryslan.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Onda Cero">
@@ -14194,7 +14396,9 @@
 			<File>Q-Maximum Hits.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="QMusic" />
+				<Item Name="QMusic">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>QMusic.png</File>
 		</Channel>
 		<Channel>
@@ -14216,11 +14420,21 @@
 				</Item>
 				<Item Name="VRT Radio 1">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Digitenne</Provider>
 				</Item>
 			<File>Radio 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio 10">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Radio 10.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Radio 2" />
+				<Item Name="VRT Radio 2">
+					<Provider>Digitenne</Provider>
+				</Item>
 				<Item Name="VRT Radio2">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -14250,6 +14464,12 @@
 			<File>Radio 4.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio 538">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Radio 538.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Radio 5" />
 				<Item Name="Radio 5 RNE">
 					<Provider>TDT (Catalunya, Barcelona)</Provider>
@@ -14262,10 +14482,6 @@
 				</Item>
 				<Item Name="RNE Radio 5 Todo Noticias" />
 			<File>Radio 5.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Radio 538" />
-			<File>Radio 538.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio 7" />
@@ -14922,8 +15138,32 @@
 			<File>RTL2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTV Ceuta" />
-			<File>RTV Ceuta.png</File>
+				<Item Name="Radio Drenthe">
+					<Provider>Digitenne</Provider>
+				</Item>
+				<Item Name="RTV Drenthe" />
+			<File>RTV Drenthe.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Noord">
+					<Provider>Digitenne</Provider>
+				</Item>
+				<Item Name="RTV Noord" />
+			<File>RTV Noord.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Oost">
+					<Provider>Digitenne</Provider>
+				</Item>
+				<Item Name="RTV Oost" />
+			<File>RTV Oost.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Rijnmond">
+					<Provider>Digitenne</Provider>
+				</Item>
+				<Item Name="RTV Rijnmond" />
+			<File>RTV Rijnmond.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio 21 Kosovo">
@@ -14943,10 +15183,23 @@
 			<File>Schwarzwaldradio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Radio" />
+				<Item Name="SkyRadio">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Sky Radio.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Skyrock">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Skyrock.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Slam!">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Slam.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Slow Türk">
@@ -15210,8 +15463,16 @@
 			<File>Stingray Music.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Studio Brussel" />
+				<Item Name="Studio Brussel">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>Studio Brussel.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sublime">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Sublime.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sud Radio">
@@ -15339,6 +15600,12 @@
 					<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 				</Item>
 			<File>Vaughan Radio.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Veronica">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Veronica.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Virgin Radio">
