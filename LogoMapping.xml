@@ -2,13 +2,18 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		00/04/2021 ProSieben Fun and Kabel Eins Classics new logos
+		14/06/2021 Franken Plus HD on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		20/08/2021 France 4 closes
+		00/09/2021 Bild
 		00/00/2021 Sky Documentaries and Sky Nature launch
 		-->
 		<!--
 		Hit FM BE/ES conflict 
 		DMAX DE/ES conflict
+		RTL Crime DE/NL conflict
+		National Geographic Wild conflicts
 		-->
 	<TV>
 		<Channel>
@@ -83,8 +88,16 @@
 			<File>13th Street.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="192 TV" />
-			<File>192 TV.png</File>
+				<Item Name="192TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>192TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="100% NL TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>100Procent NL TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="24 Horas">
@@ -107,8 +120,15 @@
 			<File>24 Horas.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="24Kitchen HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>24Kitchen HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="24Kitchen">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>24Kitchen.png</File>
 		</Channel>
@@ -123,6 +143,9 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="2M Monde" />
+				<Item Name="2M">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>2M Monde.png</File>
 		</Channel>
 		<Channel>
@@ -150,9 +173,9 @@
 				<Item Name="3sat HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
 					<Provider>Terrestrial München</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -181,7 +204,7 @@
 		<Channel>
 				<Item Name="4Mediathek">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>4Mediathek.png</File>
 		</Channel>
@@ -364,11 +387,15 @@
 				<Item Name="Al Aoula">
 					<Provider>Voo</Provider>
 				</Item>
+				<Item Name="TVM Europe">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Al Aoula.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Al Arabiya">
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Al Arabiya.png</File>
 		</Channel>
@@ -388,6 +415,9 @@
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
+				<Item Name="Aljazeera">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Al Jazeera Channel.png</File>
 		</Channel>
 		<Channel>
@@ -406,6 +436,9 @@
 				</Item>
 				<Item Name="Al Jazeera International">
 					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="Aljazeera English">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Al Jazeera English.png</File>
 		</Channel>
@@ -575,7 +608,9 @@
 			<File>Andalucia TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Animal Planet HD" />
+				<Item Name="Animal Planet HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Animal Planet HD.png</File>
 		</Channel>
 		<Channel>
@@ -703,8 +738,12 @@
 			<File>ARD-alpha.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ARD HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="ARD">
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ARD.png</File>
 		</Channel>
@@ -743,9 +782,9 @@
 				<Item Name="Arte HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
 					<Provider>Terrestrial München</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -759,6 +798,7 @@
 					<Provider>MagentaTV</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Arte.png</File>
 		</Channel>
@@ -791,7 +831,9 @@
 			<File>ASTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="AT5" />
+				<Item Name="AT5">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>AT5.png</File>
 		</Channel>
 		<Channel>
@@ -825,27 +867,28 @@
 		<Channel>
 				<Item Name="ATV Avrupa">
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ATV Avrupa.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ATV HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ATV HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ATV">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ATV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ATV2">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="ATV II">
 					<Provider>Magenta Tirol</Provider>
@@ -942,6 +985,7 @@
 				<Item Name="Baby TV">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="BabyTV" />
 			<File>BabyTV.png</File>
@@ -988,17 +1032,25 @@
 				<Item Name="BBC Entertainment Europe">
 					<Provider>SalzburgAG</Provider>
 				</Item>
-				<Item Name="BBC Entertainment" />
+				<Item Name="BBC Entertainment">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>BBC Entertainment.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC First" />
+				<Item Name="BBC First HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="BBC First">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>BBC First.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC One HD">
 					<Provider>UPC (CH)</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC One HD.png</File>
 		</Channel>
@@ -1007,12 +1059,14 @@
 					<Provider>Digitenne</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC One.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Two HD">
 					<Provider>UPC (CH)</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Two HD.png</File>
 		</Channel>
@@ -1020,6 +1074,7 @@
 				<Item Name="BBC Two">
 					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Two.png</File>
 		</Channel>
@@ -1039,6 +1094,7 @@
 				</Item>
 				<Item Name="BBC World News">
 					<Provider>UPC (CH)</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="BBC World">
 					<Provider>Movistar+ IPTV</Provider>
@@ -1634,6 +1690,7 @@
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Boomerang.png</File>
 		</Channel>
@@ -1679,7 +1736,7 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="BR Fernsehen Sued HD">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="BR Süd HD">
 					<Provider>MagentaTV</Provider>
@@ -2093,13 +2150,16 @@
 			<File>CanalPlus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Canvas HD" />
+				<Item Name="Canvas HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Canvas HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canvas">
 					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Canvas.png</File>
 		</Channel>
@@ -2107,12 +2167,10 @@
 				<Item Name="Cartoon Network F HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Cartoon Network HD (TC)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="Cartoon Network HD">
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Cartoon Network HD.png</File>
 		</Channel>
@@ -2125,6 +2183,7 @@
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Cartoon Network.png</File>
 		</Channel>
@@ -2178,6 +2237,12 @@
 			<File>Cbeebies BBC Four.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="CBS Reality">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>CBS Reality.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="#0 HD">
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Astra 19.2E</Provider>
@@ -2213,6 +2278,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>CGTN.png</File>
 		</Channel>
@@ -2445,6 +2511,7 @@
 				<Item Name="CNBC Europe">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="CNBC">
 					<Provider>UPC (CH)</Provider>
@@ -2501,9 +2568,10 @@
 				</Item>
 				<Item Name="CNN">
 					<Provider>Digitenne</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>CNN.png</File>
 		</Channel>
@@ -2531,6 +2599,12 @@
 			<File>Comedy Central Austria.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Comedy Central Extra">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Comedy Central Extra NL.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Comedy Central HD AT">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2541,6 +2615,7 @@
 				<Item Name="Comedy Central HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="ComedyCentralHD">
 					<Provider>Astra 19.2E</Provider>
@@ -2555,10 +2630,11 @@
 				<Item Name="Comedy Central">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Digitenne</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Comedy Central.png</File>
 		</Channel>
@@ -2607,6 +2683,9 @@
 		<Channel>
 				<Item Name="C+I">
 					<Provider>Vodafone Kabel München</Provider>
+				</Item>
+				<Item Name="CI">
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Crime&amp;Investigation">
 					<Provider>Vodafone UM Köln</Provider>
@@ -2680,6 +2759,12 @@
 			<File>CyLTV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="DanceTelevision">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>DanceTelevision.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Dark">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
@@ -2689,9 +2774,9 @@
 				<Item Name="Das Erste HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
 					<Provider>Terrestrial München</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -2811,7 +2896,7 @@
 		<Channel>
 				<Item Name="Deluxe Music">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -2881,12 +2966,14 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Discovery Science HD">
 					<Provider>UPC (CH)</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Discovery Science HD.png</File>
 		</Channel>
@@ -2908,6 +2995,7 @@
 				</Item>
 				<Item Name="Discovery">
 					<Provider>UPC (CH)</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Discovery.png</File>
 		</Channel>
@@ -2929,6 +3017,7 @@
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Terrestrial München</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Disney HD">
 					<Provider>Vodafone UM Köln</Provider>
@@ -2949,12 +3038,13 @@
 				<Item Name="Disney Channel">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>TDT (Catalunya, Barcelona)</Provider>
 					<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Disney SD">
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -3030,8 +3120,8 @@
 		<Channel>
 				<Item Name="DMAX">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -3156,6 +3246,12 @@
 			<File>Duna.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Dusk">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Dusk.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="E! Entertainm. HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3164,6 +3260,7 @@
 				</Item>
 				<Item Name="E! HD">
 					<Provider>UPC (CH)</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>E HD.png</File>
 		</Channel>
@@ -3196,11 +3293,18 @@
 			<File>EdgeSport.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Één HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Een HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Een">
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Één">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Een.png</File>
 		</Channel>
@@ -3401,11 +3505,42 @@
 				<Item Name="ESPN2 / CartoonNetwork / AT5">
 					<Provider>Digitenne</Provider>
 				</Item>
-			<File>ESPN2 Cartoon Network AT5.png</File>
+			<File>ESPN 2 Cartoon Network AT5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ESPN 2">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>ESPN 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ESPN 3">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>ESPN 3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ESPN 4">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>ESPN 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ESPN 5">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>ESPN 5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ESPN 6">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>ESPN 6.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ESPN">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ESPN.png</File>
 		</Channel>
@@ -3489,6 +3624,7 @@
 				</Item>
 				<Item Name="Euro D">
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Euro D.png</File>
 		</Channel>
@@ -3498,6 +3634,9 @@
 				</Item>
 				<Item Name="Euro Star">
 					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="Eurostar">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Euro Star.png</File>
 		</Channel>
@@ -3525,6 +3664,7 @@
 					<Provider>TNT (BE)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Euronews.png</File>
 		</Channel>
@@ -3561,10 +3701,11 @@
 				<Item Name="Eurosport 1">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Eurosport">
 					<Provider>Digitenne</Provider>
@@ -3587,6 +3728,7 @@
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Eurosport 2 HD.png</File>
 		</Channel>
@@ -3694,6 +3836,13 @@
 			<File>Evil Angel HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Evil Angel TV" />
+				<Item Name="Evil Angel">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Evil Angel TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="EWTN Katholisches TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3703,7 +3852,9 @@
 			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Extreme Sports Channel" />
+				<Item Name="Extreme Sports Channel">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Extreme Sports">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -3731,7 +3882,15 @@
 			<File>Fama A Bailar.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Fashion TV HD" />
+				<Item Name="Family7">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Family7.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Fashion TV HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Fashion TV HD.png</File>
 		</Channel>
 		<Channel>
@@ -3777,6 +3936,41 @@
 			<File>Film Europe.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Film1 Action HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Film1 Action" />
+			<File>Film1 Action.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Film1 Drama HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Film1 Drama" />
+			<File>Film1 Drama.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Film1 Family HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Film1 Family" />
+			<File>Film1 Family.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Film1 Premiere HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Film1 Premiere" />
+			<File>Film1 Premiere.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Film1 On Demand.">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Film1" />
+			<File>Film1.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Film 4">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -3804,7 +3998,7 @@
 		<Channel>
 				<Item Name="Flimmit Zusatzpaket">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="Flimmit" />
 			<File>Flimmit.png</File>
@@ -3850,6 +4044,7 @@
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Fox HD.png</File>
 		</Channel>
@@ -3890,6 +4085,7 @@
 					<Provider>Digitenne</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Fox.png</File>
 		</Channel>
@@ -4209,6 +4405,13 @@
 			<File>Franken Fernsehen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Franken Plus HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Franken Plus" />
+			<File>Franken Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Franken Sat" />
 			<File>Franken Sat.png</File>
 		</Channel>
@@ -4363,7 +4566,7 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Gotv">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Gotv.png</File>
 		</Channel>
@@ -4411,6 +4614,7 @@
 				</Item>
 				<Item Name="Habertürk">
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Haber Turk.png</File>
 		</Channel>
@@ -4557,14 +4761,12 @@
 			<File>Historia.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="History HD (TC)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="History HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>History HD.png</File>
 		</Channel>
@@ -4572,6 +4774,7 @@
 				<Item Name="History">
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>History.png</File>
 		</Channel>
@@ -4585,20 +4788,26 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Ö3-Visual-Radio">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Hitradio O3.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="HopeTV">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="Hope Channel">
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="Hope TV" />
 			<File>Hope TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Horse &amp; Country TV HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Horse and Country TV HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="HR-Fernsehen HD">
@@ -4746,8 +4955,15 @@
 			<File>IDF1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ID HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>ID HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="ID">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ID.png</File>
 		</Channel>
@@ -5026,7 +5242,7 @@
 				<Item Name="Kabel Eins Doku">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -5061,7 +5277,7 @@
 				<Item Name="Kabel Eins">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -5120,6 +5336,7 @@
 				<Item Name="Ketnet">
 					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Ketnet.png</File>
 		</Channel>
@@ -5146,7 +5363,7 @@
 				<Item Name="KiKa">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -5206,7 +5423,7 @@
 		<Channel>
 				<Item Name="Krone.TV">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="Krone TV" />
 			<File>Krone TV.png</File>
@@ -5384,8 +5601,14 @@
 			<File>L-TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="L1mburg" />
-			<File>L1mburg.png</File>
+				<Item Name="L1 TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="L1TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="L1" />
+			<File>L1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Labor14 Thuringer Lernsender" />
@@ -5454,7 +5677,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Laola1.tv">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Laola1.tv.png</File>
 		</Channel>
@@ -5524,6 +5747,13 @@
 			<File>Leman Bleu TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Leo Middelsé TV" />
+				<Item Name="Leo TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Leo Middelse TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="L'Equipe 21">
 					<Provider>TNT (FR)</Provider>
 				</Item>
@@ -5581,6 +5811,19 @@
 		<Channel>
 				<Item Name="Loly TV" />
 			<File>Loly TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LN UHD DVB">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Love Nature 4K" />
+			<File>Love Nature 4K.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Love Nature HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Love Nature HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="LT1 HD" />
@@ -5711,6 +5954,9 @@
 				<Item Name="MBC 1" />
 				<Item Name="MBC Maghreb al Arabia">
 					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="MBC">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MBC 1.png</File>
 		</Channel>
@@ -5843,6 +6089,7 @@
 		<Channel>
 				<Item Name="Mediaset Italia">
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Mediaset">
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -5889,6 +6136,13 @@
 					<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 				</Item>
 			<File>Mega.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Meiden van Holland Hard" />
+				<Item Name="MvH Hard">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Meiden van Holland Hard.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Mein TV Shop" />
@@ -5941,6 +6195,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Mezzo.png</File>
 		</Channel>
@@ -6495,6 +6750,7 @@
 		<Channel>
 				<Item Name="MTV 80s">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV 80s.png</File>
 		</Channel>
@@ -6510,6 +6766,7 @@
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV HD.png</File>
 		</Channel>
@@ -6520,18 +6777,21 @@
 				<Item Name="MTV Hits">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV Hits.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTV Live HD">
 					<Provider>UPC (CH)</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV Live HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTV Music 24">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV Music 24.png</File>
 		</Channel>
@@ -6555,6 +6815,7 @@
 					<Provider>Digitenne</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV.png</File>
 		</Channel>
@@ -6743,15 +7004,6 @@
 			<File>My Cuisine.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="My Zen TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="MyZen TV">
-					<Provider>Voo</Provider>
-				</Item>
-			<File>My Zen TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="MySports 2/Sky 2 F">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -6860,6 +7112,18 @@
 			<File>MySports.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="My Zen TV">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MyZen HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="MyZen TV">
+					<Provider>Voo</Provider>
+				</Item>
+			<File>MyZen TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="N-TV HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
@@ -6879,7 +7143,7 @@
 				<Item Name="N-TV">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 				</Item>
 				<Item Name="NTV">
@@ -6890,12 +7154,6 @@
 		<Channel>
 				<Item Name="N1 Niederösterreich TV" />
 			<File>N1 Niederosterreich TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="N24 Doku Austria">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>N24 Doku Austria.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="N24 Doku HD">
@@ -6943,9 +7201,6 @@
 				<Item Name="Nat Geo F HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Nat Geo HD (TC)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="Nat Geo HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
@@ -6961,37 +7216,19 @@
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
+				<Item Name="National Geographic Channel HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="National Geographic HD">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>National Geographic HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nat Geo Wild France HD">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="Nat Geo Wild HD (TC)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="Nat Geo Wild HD">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
-					<Provider>UPC (CH)</Provider>
-					<Provider>Vodafone Kabel Nürnberg</Provider>
-					<Provider>Vodafone UM Lörrach</Provider>
-					<Provider>Voo</Provider>
-				</Item>
-				<Item Name="NatGeo Wild HD (VF)">
-					<Provider>Vodafone Kabel Nürnberg</Provider>
-				</Item>
-				<Item Name="NatGeo Wild HD">
-					<Provider>Vodafone UM Lörrach</Provider>
-				</Item>
-				<Item Name="National Geographic Wild HD" />
-				<Item Name="NG Wild HD">
+				<Item Name="National Geographic Wild">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>National Geographic Wild HD.png</File>
+			<File>National Geographic Wild FR.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nat Geo Wild">
@@ -6999,10 +7236,39 @@
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="NatGeo Wild" />
-				<Item Name="National Geographic Wild">
+			<File>National Geographic Wild GB.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nat Geo Wild France HD">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<!--
+				<Item Name="Nat Geo Wild HD">
+					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+				-->
+				<Item Name="National Geographic Wild HD" />
+			<File>National Geographic Wild HD FR.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nat Geo Wild HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Movistar+ IPTV</Provider>
+					<Provider>UPC (CH)</Provider>
+					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="NatGeo Wild HD (VF)">
+					<Provider>Vodafone Kabel Nürnberg</Provider>
+				</Item>
+				<Item Name="NatGeo Wild HD">
+					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="NG Wild HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>National Geographic Wild.png</File>
+			<File>National Geographic Wild HD GB.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nat Geo Channel">
@@ -7022,6 +7288,9 @@
 				</Item>
 				<Item Name="National Geographic (S)">
 					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="National Geographic Channel">
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="National Geographic">
 					<Provider>Digitenne</Provider>
@@ -7124,6 +7393,7 @@
 		<Channel>
 				<Item Name="NDR">
 					<Provider>MagentaTV</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NDR.png</File>
 		</Channel>
@@ -7145,12 +7415,19 @@
 			<File>Neox.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Net5 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Net5">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Net5.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Netflix.">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Netflix">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -7161,7 +7438,9 @@
 			<File>NeuEins.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NH Nieuws" />
+				<Item Name="NH Nieuws">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>NH Nieuws.png</File>
 		</Channel>
 		<Channel>
@@ -7211,6 +7490,7 @@
 				<Item Name="Nick Jr.">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Nick Jr">
 					<Provider>Astra 19.2E</Provider>
@@ -7274,6 +7554,7 @@
 				</Item>
 				<Item Name="Nickelodeon HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="NickelodeonHD">
 					<Provider>Astra 19.2E</Provider>
@@ -7311,8 +7592,9 @@
 				<Item Name="Nickelodeon">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Nick">
 					<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -7320,6 +7602,9 @@
 			<File>Nickelodeon.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nick Music">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="NickMusic" />
 			<File>NickMusic.png</File>
 		</Channel>
@@ -7329,6 +7614,7 @@
 				</Item>
 				<Item Name="Nicktoons">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Nicktoons.png</File>
 		</Channel>
@@ -7356,7 +7642,7 @@
 		<Channel>
 				<Item Name="Nitro Austria">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="Nitro">
 					<Provider>Astra 19.2E</Provider>
@@ -7369,6 +7655,12 @@
 		<Channel>
 				<Item Name="Njam" />
 			<File>Njam.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Lokale Omroep">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NLPO.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Noa4 HD" />
@@ -7415,15 +7707,30 @@
 			<File>Novelas TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO 1 HD" />
+				<Item Name="NPO 1 Extra">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO 1 Extra.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO 1 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>NPO 1 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO 1">
 					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO 2 Extra HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO 2 Extra HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO 2 Extra">
@@ -7432,7 +7739,9 @@
 			<File>NPO 2 Extra.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO 2 HD" />
+				<Item Name="NPO 2 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>NPO 2 HD.png</File>
 		</Channel>
 		<Channel>
@@ -7442,18 +7751,40 @@
 				<Item Name="NPO 2">
 					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO 3 HD" />
+				<Item Name="NPO 3 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>NPO 3 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO 3">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO 3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO Nieuws">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO Nieuws.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO Politiek">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO Politiek.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO Zappelin Extra">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO Zappelin Extra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NRJ Hits TV">
@@ -7587,7 +7918,7 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Oe24.TV">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Oe24.TV.png</File>
 		</Channel>
@@ -7689,7 +8020,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Okto">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Okto.png</File>
 		</Channel>
@@ -7715,24 +8046,41 @@
 			<File>Oman TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Omroep Brabant" />
+				<Item Name="Omroep Brabant">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Omroep Brabant.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Omroep Flevoland" />
+				<Item Name="Omroep Flevoland">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Omroep Flevoland.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Omroep Gelderland" />
+				<Item Name="TV Gelderland">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Omroep Gelderland.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Omroep Súdwest">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Omroep Sudwest.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Omroep West" />
+				<Item Name="TV West">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Omroep West.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Omroep Zeeland">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Omroep Zeeland.png</File>
 		</Channel>
@@ -7740,7 +8088,9 @@
 				<Item Name="Omrop Fryslan TV">
 					<Provider>Digitenne</Provider>
 				</Item>
-				<Item Name="Omrop Fryslân" />
+				<Item Name="Omrop Fryslân">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Omrop Fryslan.png</File>
 		</Channel>
 		<Channel>
@@ -7783,7 +8133,9 @@
 			<File>Onda Mezquita TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ONS" />
+				<Item Name="ONS">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>ONS.png</File>
 		</Channel>
 		<Channel>
@@ -7793,7 +8145,7 @@
 				</Item>
 				<Item Name="ORF1 HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ORF 1 HD.png</File>
 		</Channel>
@@ -7801,14 +8153,14 @@
 				<Item Name="ORF 1" />
 				<Item Name="ORF1">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ORF 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ORF 2 Burgenland HD" />
 				<Item Name="ORF2 B HD">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="ORF2B HD">
 					<Provider>Astra 19.2E</Provider>
@@ -7852,7 +8204,7 @@
 		<Channel>
 				<Item Name="ORF 2 Niederösterreich HD" />
 				<Item Name="ORF2 N HD">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="ORF2N HD">
 					<Provider>Astra 19.2E</Provider>
@@ -7942,7 +8294,7 @@
 		<Channel>
 				<Item Name="ORF 2 Wien HD" />
 				<Item Name="ORF2 W HD">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="ORF2W HD">
 					<Provider>Astra 19.2E</Provider>
@@ -7953,7 +8305,7 @@
 				<Item Name="ORF 2 Wien" />
 				<Item Name="ORF2 W">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ORF 2 Wien.png</File>
 		</Channel>
@@ -7967,7 +8319,7 @@
 		<Channel>
 				<Item Name="ORF III HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ORF III HD.png</File>
 		</Channel>
@@ -7980,7 +8332,7 @@
 		<Channel>
 				<Item Name="ORF Sport+ HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ORF Sport Plus HD.png</File>
 		</Channel>
@@ -8015,6 +8367,9 @@
 			<File>OTV Valentino.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="OutTV HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="OutTV" />
 			<File>OutTV.png</File>
 		</Channel>
@@ -8058,6 +8413,12 @@
 			<File>Parlamentsfernsehen des Deutschen Bundestages.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="PassieXXX">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>PassieXXX.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="PBS America">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -8078,13 +8439,21 @@
 			<File>Pearl TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Pebble TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Pebble TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Penthouse Black">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Penthouse Black.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Penthouse Gold" />
+				<Item Name="Penthouse Gold">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Penthouse Gold.png</File>
 		</Channel>
 		<Channel>
@@ -8121,7 +8490,7 @@
 				<Item Name="Phoenix">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -8294,7 +8663,7 @@
 				<Item Name="Playboy TV">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Playboy TV.png</File>
 		</Channel>
@@ -8313,6 +8682,12 @@
 		<Channel>
 				<Item Name="Podium 19" />
 			<File>Podium 19.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="PodiumTV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>PodiumTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Polar+">
@@ -8396,9 +8771,9 @@
 		<Channel>
 				<Item Name="ProSieben HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
 					<Provider>Terrestrial München</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -8452,7 +8827,7 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="ProSiebenMaxx">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ProSieben Maxx.png</File>
 		</Channel>
@@ -8493,7 +8868,7 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Puls 4 HD">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Puls 4 HD.png</File>
 		</Channel>
@@ -8502,7 +8877,7 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Puls 4">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Puls 4.png</File>
 		</Channel>
@@ -8646,6 +9021,14 @@
 		<Channel>
 				<Item Name="Radio Weser.TV" />
 			<File>Radio Weser.TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Centraal" />
+				<Item Name="Radio Weststellingwerf Centraal" />
+				<Item Name="Westellingwerf TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Radio Weststellingwerf Centraal.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio WSW" />
@@ -8962,6 +9345,10 @@
 			<File>RMC Decouverte.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RMC Sport 1 UHD" />
+			<File>RMC Sport 1 UHD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RMC Sport 1">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
@@ -9123,21 +9510,36 @@
 			<File>RTL 2 HR.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTL 4" />
+				<Item Name="RTL 4 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RTL 4">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="RTL4">
 					<Provider>Digitenne</Provider>
 				</Item>
 			<File>RTL 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTL 5" />
+				<Item Name="RTL 5 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RTL 5">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="RTL5">
 					<Provider>Digitenne</Provider>
 				</Item>
 			<File>RTL 5.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTL 7" />
+				<Item Name="RTL 7 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RTL 7">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="RTL7">
 					<Provider>Digitenne</Provider>
 				</Item>
@@ -9146,6 +9548,7 @@
 		<Channel>
 				<Item Name="RTL 8">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>RTL 8.png</File>
 		</Channel>
@@ -9154,14 +9557,21 @@
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
-			<File>RTL Crime HD.png</File>
+			<File>RTL Crime HD DE.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTL Crime HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RTL Crime" />
+			<File>RTL Crime NL.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTL Crime (blue)">
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="RTL Crime" />
-			<File>RTL Crime.png</File>
+			<File>RTL Crime DE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTL Croatia World" />
@@ -9179,6 +9589,7 @@
 					<Provider>MagentaTV</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>RTL DE.png</File>
 		</Channel>
@@ -9191,8 +9602,8 @@
 				</Item>
 				<Item Name="RTL HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -9223,6 +9634,9 @@
 			<File>RTL Living.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL Lounge HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="RTL Lounge">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -9247,6 +9661,13 @@
 		<Channel>
 				<Item Name="RTL Passion" />
 			<File>RTL Passion.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTL Telekids HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RTL Telekids" />
+			<File>RTL Telekids.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTL Bayern">
@@ -9287,6 +9708,9 @@
 			<File>RTL West.png</File>
 		</Channel>
 		<Channel>>
+				<Item Name="RTL Z HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="RTL Z">
 					<Provider>Digitenne</Provider>
 				</Item>
@@ -9325,7 +9749,7 @@
 				<Item Name="RTLplus">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -9357,7 +9781,7 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="RTL II">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 				</Item>
 				<Item Name="RTL2 Austria">
@@ -9435,8 +9859,50 @@
 			<File>RTS Svet.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTV Ceuta" />
+			<File>RTV Ceuta.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTV Drenthe" />
+				<Item Name="TV Drenthe">
+					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV Drenthe.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTV Noord" />
+				<Item Name="TV Noord">
+					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV Noord.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTV Oost" />
+				<Item Name="TV Oost">
+					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV Oost.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTV Regionalfernsehen" />
 			<File>RTV Regionalfernsehen.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTV Rijnmond" />
+				<Item Name="TV Rijnmond">
+					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV Rijnmond.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTV Utrecht">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV Utrecht.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTV21 HD" />
@@ -9446,40 +9912,10 @@
 			<File>RTV21 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTV Ceuta" />
-			<File>RTV Ceuta.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="RTV Drenthe" />
-				<Item Name="TV Drenthe">
-					<Provider>Digitenne</Provider>
+				<Item Name="RTV-7">
+					<Provider>Ziggo</Provider>
 				</Item>
-			<File>RTV Drenthe.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="RTV Noord" />
-				<Item Name="TV Noord">
-					<Provider>Digitenne</Provider>
-				</Item>
-			<File>RTV Noord.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="RTV Oost" />
-				<Item Name="TV Oost">
-					<Provider>Digitenne</Provider>
-				</Item>
-			<File>RTV Oost.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="RTV Rijnmond" />
-				<Item Name="TV Rijnmond">
-					<Provider>Digitenne</Provider>
-				</Item>
-			<File>RTV Rijnmond.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="RTV Utrecht" />
-			<File>RTV Utrecht.png</File>
+			<File>RTV7.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTV" />
@@ -9557,7 +9993,7 @@
 				<Item Name="Sat.1 Gold">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -9577,7 +10013,7 @@
 				<Item Name="Sat.1 HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -9598,6 +10034,9 @@
 			<File>Sat.1 Schweiz.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sat. 1">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Sat.1 Bayern">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -9622,10 +10061,23 @@
 			<File>Sat.1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SBS6 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="SBS6">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>SBS6.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SBS9 HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="SBS9">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>SBS9.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Schaffhauser Fernsehen" />
@@ -9635,7 +10087,7 @@
 		<Channel>
 				<Item Name="Schau TV HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Schau TV HD.png</File>
 		</Channel>
@@ -9688,6 +10140,15 @@
 			<File>Seasons.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Secret Circle Info">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Secret Circle">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Secret Circle.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sender Neu Jerusalem">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -9716,7 +10177,7 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="ServusTV HD">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -9762,8 +10223,16 @@
 			<File>Shop24Direct.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Shorts TV HD" />
+				<Item Name="Shorts TV HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Shorts TV HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Show TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Show TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Show Turk (tur)">
@@ -9824,7 +10293,7 @@
 				<Item Name="Sixx">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -10371,6 +10840,12 @@
 			<File>Sky Sport UHD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Slam!">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Slam.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sol Musica" />
 			<File>Sol Musica.png</File>
 		</Channel>
@@ -10452,6 +10927,13 @@
 			<File>Sony Channel.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SET Asia">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Sony Entertainment Television" />
+			<File>Sony Entertainment Television.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sophia TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -10498,6 +10980,13 @@
 			<File>Spiegel TV Wissen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Spike HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Spike" />
+			<File>Spike.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sport 10" />
 			<File>Sport 10.png</File>
 		</Channel>
@@ -10519,7 +11008,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sport 1">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="Sport1">
 					<Provider>Astra 19.2E</Provider>
@@ -10607,9 +11096,7 @@
 				<Item Name="SF1">
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
-				<Item Name="SRF 1">
-					<Provider>Terrestrial Wien</Provider>
-				</Item>
+				<Item Name="SRF 1" />
 			<File>SRF 1.png</File>
 		</Channel>
 		<Channel>
@@ -10629,9 +11116,6 @@
 		<Channel>
 				<Item Name="SRF Zwei HD">
 					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="SRFZwei HD">
-					<Provider>Terrestrial Wien</Provider>
 				</Item>
 			<File>SRF Zwei HD.png</File>
 		</Channel>
@@ -10690,6 +11174,7 @@
 				<Item Name="Stingray Classica">
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>UPC (CH)</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Stingray Classica.png</File>
 		</Channel>
@@ -10704,7 +11189,9 @@
 				<Item Name="Djazz TV">
 					<Provider>Voo</Provider>
 				</Item>
-				<Item Name="Stingray Djazz" />
+				<Item Name="Stingray Djazz">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Stingray Djazz.png</File>
 		</Channel>
 		<Channel>
@@ -10721,6 +11208,12 @@
 		<Channel>
 				<Item Name="Stingray iConcerts" />
 			<File>Stingray iConcerts.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Stingray Lite TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Stingray Lite TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Stingray Music" />
@@ -10784,7 +11277,7 @@
 				<Item Name="Super RTL">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -10926,9 +11419,6 @@
 			<File>Syfy HD FR.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Syfy HD (TC)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="Syfy HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
@@ -11582,6 +12072,7 @@
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>TLC HD.png</File>
 		</Channel>
@@ -11589,9 +12080,10 @@
 				<Item Name="TLC">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Digitenne</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>TLC.png</File>
 		</Channel>
@@ -11611,9 +12103,6 @@
 			<File>TMC.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TNT Comedy HD (TC)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="TNT Comedy HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
@@ -11630,9 +12119,6 @@
 			<File>TNT Comedy.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TNT Film HD (TC)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="TNT Film HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
@@ -11660,9 +12146,6 @@
 		<Channel>
 				<Item Name="TNT Serie HD (S)">
 					<Provider>Vodafone UM Lörrach</Provider>
-				</Item>
-				<Item Name="TNT Serie HD (TC)">
-					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="TNT Serie HD">
 					<Provider>Astra 19.2E</Provider>
@@ -11708,6 +12191,12 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 			<File>Toggo Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Tommy TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Tommy TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Toonami">
@@ -11822,7 +12311,9 @@
 			<File>TRT Belgesel.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TRT Cocuk" />
+				<Item Name="TRT Çocuk">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>TRT Cocuk.png</File>
 		</Channel>
 		<Channel>
@@ -11834,7 +12325,9 @@
 			<File>TRT Haber.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TRT Muzik" />
+				<Item Name="TRT Müzik">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>TRT Muzik.png</File>
 		</Channel>
 		<Channel>
@@ -11846,8 +12339,12 @@
 			<File>TRT Spor.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TRT Turk">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="TRT Türk">
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="TRT-Türk">
 					<Provider>UPC (CH)</Provider>
@@ -11939,7 +12436,9 @@
 			<File>TV Oost.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TV Oranje" />
+				<Item Name="TV Oranje">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>TV Oranje.png</File>
 		</Channel>
 		<Channel>
@@ -12076,6 +12575,12 @@
 			<File>TV4TNG.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV538">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>TV538.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV5Monde Europe HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -12090,6 +12595,7 @@
 				</Item>
 				<Item Name="TV5 Monde">
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="TV5Monde Europe">
 					<Provider>Astra 19.2E</Provider>
@@ -12123,6 +12629,7 @@
 		<Channel>
 				<Item Name="TV 8">
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="TV8 Int (tur)">
 					<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -12348,6 +12855,18 @@
 			<File>Ushuaia TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Utsav Gold">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Utsav Gold.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Utsav Plus">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Utsav Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="V Television" />
 			<File>V Television.png</File>
 		</Channel>
@@ -12393,8 +12912,15 @@
 		<Channel>
 				<Item Name="Veronica / Disney XD">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Veronica Disney XD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Veronica HD / Disney XD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Veronica HD Disney XD HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="VH1">
@@ -12471,6 +12997,13 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Vice TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Videoland.">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Videoland" />
+			<File>Videoland.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Videothek">
@@ -12569,9 +13102,9 @@
 				</Item>
 				<Item Name="Vox HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
 					<Provider>Terrestrial München</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -12648,7 +13181,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="W24">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>W24.png</File>
 		</Channel>
@@ -12845,6 +13378,7 @@
 		<Channel>
 				<Item Name="WDR">
 					<Provider>MagentaTV</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>WDR.png</File>
 		</Channel>
@@ -12880,7 +13414,7 @@
 		<Channel>
 				<Item Name="Welt">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -12954,11 +13488,21 @@
 			<File>WWE.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Xite HD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Xite">
 					<Provider>Digitenne</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Xite.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="X-MO">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>XMO.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Xtrm HD" />
@@ -12984,12 +13528,13 @@
 				<Item Name="ZDF HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Terrestrial Freiburg</Provider>
 					<Provider>Terrestrial München</Provider>
-					<Provider>Terrestrial Wien</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ZDF HD.png</File>
 		</Channel>
@@ -13000,6 +13545,7 @@
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 					<Provider>Voo</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ZDF.png</File>
 		</Channel>
@@ -13019,7 +13565,7 @@
 				<Item Name="ZDFinfo">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -13039,7 +13585,7 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="ZDFneo HD">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>ZDFneo HD.png</File>
 		</Channel>
@@ -13052,6 +13598,110 @@
 				</Item>
 				<Item Name="ZDFneo" />
 			<File>ZDFneo.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Zee Cinema">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Zee Cinema.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Zee TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Zee TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ziggo Sport Docu HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Sport Docu" />
+			<File>Ziggo Sport Docu.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ziggo Sport Golf HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Sport Golf" />
+			<File>Ziggo Sport Golf.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ziggo Sport Racing HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Sport Racing" />
+			<File>Ziggo Sport Racing.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ziggo Sport Select HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Sport Select" />
+			<File>Ziggo Sport Select.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ziggo Sport Tennis">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Ziggo Sport Tennis.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ziggo Sport Voetbal HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Sport Voetbal" />
+			<File>Ziggo Sport Voetbal.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ziggo Sport HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Sport">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Ziggo Sport.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Erotiek Pakket info">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Radio Info">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Testbeeld">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Live Event ESPN">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Live Events ESPN">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Live Events">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo TV HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo TV">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Zenderoverzicht HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Zenderoverzicht">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Ziggo.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Zing">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Zing.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Zouk TV" />
@@ -13068,6 +13718,7 @@
 				<Item Name="100% NL" />
 				<Item Name="100%NL">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>100Procent NL.png</File>
 		</Channel>
@@ -13137,6 +13788,7 @@
 		<Channel>
 				<Item Name="Arrow Classic Rock">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Arrow Classic Rock.png</File>
 		</Channel>
@@ -13211,24 +13863,28 @@
 		<Channel>
 				<Item Name="BBC Radio 1">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Radio 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Radio 2">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Radio 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Radio 3">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Radio 3.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Radio 4">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Radio 4.png</File>
 		</Channel>
@@ -13238,6 +13894,7 @@
 				</Item>
 				<Item Name="BBC World Service">
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="BBCW Service">
 					<Provider>Astra 19.2E</Provider>
@@ -13282,6 +13939,7 @@
 		<Channel>
 				<Item Name="BNR Nieuwsradio">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BNR Nieuwsradio.png</File>
 		</Channel>
@@ -13439,8 +14097,15 @@
 		<Channel>
 				<Item Name="Classicnl">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Classicnl.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Concertzender">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Concertzender.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Contact FM">
@@ -13603,6 +14268,12 @@
 			<File>Donau 3 FM.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Efteling Kids Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Efteling Kids Radio.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="EgoFM">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -13658,13 +14329,14 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="Radio FM4">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>FM4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Fip">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Fip.png</File>
 		</Channel>
@@ -13724,8 +14396,15 @@
 		<Channel>
 				<Item Name="FunX">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>FunX.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Groot Nieuws Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Groot Nieuws Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Harmony.FM">
@@ -13768,7 +14447,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Hitradio Ö3">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 				<Item Name="OE 3">
 					<Provider>Vodafone UM Lörrach</Provider>
@@ -13896,6 +14575,12 @@
 			<File>Joe.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Joy Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Joy Radio.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="JSTV Radio Japan">
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -13918,6 +14603,7 @@
 		<Channel>
 				<Item Name="Klara">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Klara.png</File>
 		</Channel>
@@ -13934,6 +14620,13 @@
 			<File>Kronehit.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="L1 Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="L1" />
+			<File>L1.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="La Première">
 					<Provider>Voo</Provider>
 				</Item>
@@ -13947,6 +14640,13 @@
 					<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 				</Item>
 			<File>Lancelot Radio.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Leo FM">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Leo Middelsé FM" />
+			<File>Leo Middelse FM.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Life Channel Radio" />
@@ -14096,6 +14796,7 @@
 		<Channel>
 				<Item Name="MNM">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MNM.png</File>
 		</Channel>
@@ -14142,6 +14843,9 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="NDR 1 Niedersachsen" />
+				<Item Name="NDR1">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>NDR 1 Niedersachsen.png</File>
 		</Channel>
 		<Channel>
@@ -14172,6 +14876,9 @@
 				</Item>
 				<Item Name="NDR 2">
 					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="NDR2">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NDR 2.png</File>
 		</Channel>
@@ -14216,6 +14923,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NDR Kultur.png</File>
 		</Channel>
@@ -14226,6 +14934,12 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 			<File>NDR Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NH Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NH Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nostalgie">
@@ -14244,16 +14958,21 @@
 		<Channel>
 				<Item Name="NPO 3FM">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO 3FM.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO Radio 1">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NPO 2 Soul &amp; Jazz">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="NPO Radio 2 Soul &amp; Jazz" />
 				<Item Name="NPO Soul &amp; Jazz">
 					<Provider>Digitenne</Provider>
@@ -14263,18 +14982,21 @@
 		<Channel>
 				<Item Name="NPO Radio 2">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO Radio 4">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO Radio 5">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 5.png</File>
 		</Channel>
@@ -14313,8 +15035,42 @@
 			<File>O2 Radio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Omroep Brabant">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Omroep Brabant.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Omroep Flevoland" />
+				<Item Name="Radio Flevoland">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Omroep Flevoland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Omroep Gelderland" />
+				<Item Name="Radio Gelderland">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Omroep Gelderland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Omroep Súdwest FM">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Omroep Sudwest FM.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Omroep West" />
+				<Item Name="Radio West">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Omroep West.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Omroep Zeeland">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Omroep Zeeland.png</File>
 		</Channel>
@@ -14322,7 +15078,9 @@
 				<Item Name="Omrop Fryslan Radio">
 					<Provider>Digitenne</Provider>
 				</Item>
-				<Item Name="Omrop Fryslan" />
+				<Item Name="Omrop Fryslân">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>Omrop Fryslan.png</File>
 		</Channel>
 		<Channel>
@@ -14356,7 +15114,7 @@
 				</Item>
 				<Item Name="Österreich 1" />
 				<Item Name="Radio Österreich 1">
-					<Provider>Terrestrial Wien</Provider>
+					<Provider>SimpliTV Wien</Provider>
 				</Item>
 			<File>Osterreich 1.png</File>
 		</Channel>
@@ -14396,7 +15154,16 @@
 			<File>Q-Maximum Hits.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="QMusic">
+				<Item Name="Qmusic Nonstop">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Qmusic Nonstop.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Q-Music">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Qmusic">
 					<Provider>Digitenne</Provider>
 				</Item>
 			<File>QMusic.png</File>
@@ -14414,6 +15181,9 @@
 			<File>RAC105.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio 1 (VRT)">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Radio 1" />
 				<Item Name="VRT Radio1">
 					<Provider>Astra 19.2E</Provider>
@@ -14427,10 +15197,14 @@
 		<Channel>
 				<Item Name="Radio 10">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Radio 10.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio 2 (VRT)">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Radio 2" />
 				<Item Name="VRT Radio 2">
 					<Provider>Digitenne</Provider>
@@ -14466,6 +15240,7 @@
 		<Channel>
 				<Item Name="Radio 538">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Radio 538.png</File>
 		</Channel>
@@ -14573,6 +15348,18 @@
 			<File>Radio Contact.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio Continu">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Radio Continu.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Decibel">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Radio Decibel.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Radio Dukagjini">
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -14646,6 +15433,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Radio France Internationale" />
+				<Item Name="Radio France International">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="RFI Internat">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -14762,6 +15552,12 @@
 			<File>Radio LHospitalet.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio M Utrecht">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Radio M Utrecht.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Radio Marca">
 					<Provider>TDT (Catalunya, Barcelona)</Provider>
 					<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
@@ -14771,9 +15567,9 @@
 		<Channel>
 				<Item Name="Radio Maria">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV Wien</Provider>
 					<Provider>TDT (Catalunya, Barcelona)</Provider>
 					<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
-					<Provider>Terrestrial Wien</Provider>
 				</Item>
 			<File>Radio Maria.png</File>
 		</Channel>
@@ -14812,6 +15608,9 @@
 				</Item>
 				<Item Name="RNE Radio 1">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="RNE Radio Uno">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Radio Nacional de Espana.png</File>
 		</Channel>
@@ -15001,6 +15800,15 @@
 			<File>Radio Top 40.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio Veronica">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Veronica">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>Radio Veronica.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="OE 2V">
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
@@ -15009,6 +15817,12 @@
 				</Item>
 				<Item Name="Radio Vorarlberg" />
 			<File>Radio Vorarlberg.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Weststellingwerf Centraal">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Radio Weststellingwerf Centraal.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="OE2 W">
@@ -15036,6 +15850,12 @@
 				</Item>
 				<Item Name="Radiolé" />
 			<File>Radiole.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RadioNL">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RadioNL.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Rai Radio 1">
@@ -15140,6 +15960,7 @@
 		<Channel>
 				<Item Name="Radio Drenthe">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="RTV Drenthe" />
 			<File>RTV Drenthe.png</File>
@@ -15147,6 +15968,7 @@
 		<Channel>
 				<Item Name="Radio Noord">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="RTV Noord" />
 			<File>RTV Noord.png</File>
@@ -15154,6 +15976,7 @@
 		<Channel>
 				<Item Name="Radio Oost">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="RTV Oost" />
 			<File>RTV Oost.png</File>
@@ -15161,6 +15984,7 @@
 		<Channel>
 				<Item Name="Radio Rijnmond">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="RTV Rijnmond" />
 			<File>RTV Rijnmond.png</File>
@@ -15183,7 +16007,9 @@
 			<File>Schwarzwaldradio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Radio" />
+				<Item Name="Sky Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="SkyRadio">
 					<Provider>Digitenne</Provider>
 				</Item>
@@ -15198,6 +16024,7 @@
 		<Channel>
 				<Item Name="Slam!">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Slam.png</File>
 		</Channel>
@@ -15465,12 +16292,14 @@
 		<Channel>
 				<Item Name="Studio Brussel">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Studio Brussel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sublime">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Sublime.png</File>
 		</Channel>
@@ -15479,6 +16308,13 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Sud Radio.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sunrise FM">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="SunriseFM" />
+			<File>SunriseFM.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio Sunshine Live">
@@ -15550,6 +16386,12 @@
 			<File>Tarmac.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TeamFM">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>TeamFM.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Tipik Radio">
 					<Provider>Voo</Provider>
 				</Item>
@@ -15602,12 +16444,6 @@
 			<File>Vaughan Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Veronica">
-					<Provider>Digitenne</Provider>
-				</Item>
-			<File>Veronica.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Virgin Radio">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -15631,6 +16467,12 @@
 			<File>VRT Nws.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Waterstad FM">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Waterstad FM.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="1Live Diggi">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
@@ -15644,6 +16486,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="WDR 1Live" />
 			<File>WDR 1Live.png</File>
@@ -15664,6 +16507,9 @@
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
 				<Item Name="WDR 2" />
+				<Item Name="WDR2">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>WDR 2.png</File>
 		</Channel>
 		<Channel>
@@ -15671,6 +16517,9 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
+				</Item>
+				<Item Name="WDR3">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>WDR 3.png</File>
 		</Channel>
@@ -15680,12 +16529,18 @@
 					<Provider>Vodafone Kabel Nürnberg</Provider>
 					<Provider>Vodafone UM Lörrach</Provider>
 				</Item>
+				<Item Name="WDR4">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>WDR 4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="WDR 5">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone Kabel Nürnberg</Provider>
+				</Item>
+				<Item Name="WDR5">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>WDR 5.png</File>
 		</Channel>
@@ -15708,6 +16563,129 @@
 		<Channel>
 				<Item Name="WRN Broadcast" />
 			<File>WRN Broadcast.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="60s&amp;70s Fever">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="80s Flashback">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="All Out Dance">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Back 2 The 90s">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Country Roads">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Gouwe Ouwe">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Huisfeestje">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="In De Kroeg">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Indie Wave">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Jazzy Dinner">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Kneiterhard">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Love.">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Mellow Beats">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Mini Disco">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Muziek Van Nu">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Op De Koffie">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Piratenplaten">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Pop NL">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Pure Focus">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Reggae Feels">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Rock Legends">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Rock On">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Schlagerfest">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Siempre Latino">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Sing-Along">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Sit Back&amp;Jazz">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Soul Baby">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Straattaal">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Take It Easy">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Teen Party">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Themafeestje">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Thuisorkest">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Twist Again">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Urban Vibes">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Voel Je Goed">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Workout!">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="XITE Hits">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Yoga Flow">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Zeroes Heroes">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Ziggo Dome">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Xite.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="You FM">
