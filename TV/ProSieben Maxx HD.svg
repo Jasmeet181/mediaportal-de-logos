@@ -1,21 +1,23 @@
-<svg width="794.33" height="124.02" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" version="1.1" viewBox="0 0 7036.8 1099" xmlns="http://www.w3.org/2000/svg">
- <g fill="#e5e6d7" fill-rule="nonzero">
-  <polygon transform="translate(-1.119)" points="1099 314 1099 0 0 0 0 314"/>
-  <path d="m1097.9 377s-319-20-659 188c-346 212-430 510-439 534h1099v-722z"/>
-  <g transform="translate(-1.119)">
-   <polygon points="1821 1099 1193 183 1193 1099"/>
-   <polygon points="2480 1099 1726 0 1193 0 1193 137 1852 1099 1852 1099"/>
-   <polygon points="4049 1099 4049 1099 3296 0 2668 0 3421 1098 3421 1099 3421 1099"/>
-   <polygon points="4143 0 3516 0 4269 1099 4269 1099 4897 1099"/>
-   <polygon points="2103 0 1930 252 2511 1099 2574 1099 2574 0"/>
-   <polygon points="4724 801 4928 1099 5148 1099 4834 641"/>
-   <polygon points="5054 0 5054 0 4740 458 5179 1099 5179 1099 5807 1099"/>
-   <polygon points="4363 0 4269 137 4551 550 4929 0"/>
-   <polygon points="5838 0 5838 0 5273 0 5179 137 5461 550"/>
-   <polygon points="3924 641 3845 755 4081 1099 4081 1099 4238 1099"/>
-   <polygon points="3045 1099 3045 1099 3218 847 2668 46 2668 1099"/>
+<svg width="800" height="251.09" clip-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" version="1.1" viewBox="0 0 7087 2225.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.6081 0 0 1.6081 .73196 -432.74)" fill="#e5e6d7">
+  <polygon transform="matrix(.75514 0 0 .75514 -1.119 269.11)" points="0 314 1099 314 1099 0 0 0"/>
+  <path d="m828.79 553.79s-240.89-15.103-497.63 141.97c-261.28 160.09-324.71 385.12-331.5 403.24h829.89v-545.21z" stroke-width=".75514"/>
+  <g transform="matrix(.75514 0 0 .75514 -1.119 269.11)">
+   <polygon points="1193 183 1193 1099 1821 1099"/>
+   <polygon points="1726 0 1193 0 1193 137 1852 1099 2480 1099"/>
+   <polygon points="4049 1099 3296 0 2668 0 3421 1098 3421 1099"/>
+   <polygon points="4269 1099 4897 1099 4143 0 3516 0"/>
+   <polygon points="2511 1099 2574 1099 2574 0 2103 0 1930 252"/>
+   <polygon points="4834 641 4724 801 4928 1099 5148 1099"/>
+   <polygon points="4740 458 5179 1099 5807 1099 5054 0"/>
+   <polygon points="4929 0 4363 0 4269 137 4551 550"/>
+   <polygon points="5179 137 5461 550 5838 0 5273 0"/>
+   <polygon points="4081 1099 4238 1099 3924 641 3845 755"/>
+   <polygon points="2668 46 2668 1099 3045 1099 3218 847"/>
   </g>
-  <polygon transform="translate(-1.119)" points="5954 0 6073 0 6073 219 6293 219 6293 0 6411 0 6411 554 6293 554 6293 332 6073 332 6073 554 5954 554"/>
-  <path d="m6750.9 0h-211v110h211c97 0 163 69 163 167v2c0 98-66 165-163 165h-92v-212h-119v323h211c170 0 287-121 287-277v-1c0-156-117-276-287-276z"/>
+ </g>
+ <g transform="matrix(1.6081 0 0 1.6081 -1457.7 1118.4)" fill="#e5e6d7">
+  <polygon transform="matrix(.75514 0 0 .75514 -1.119 269.11)" points="6073 332 6073 554 5954 554 5954 0 6073 0 6073 219 6293 219 6293 0 6411 0 6411 554 6293 554 6293 332"/>
+  <path d="m5097.6 269.11h-159.33v83.065h159.33c73.248 0 123.09 52.104 123.09 126.11v1.5103c0 74.003-49.839 124.6-123.09 124.6h-69.473v-160.09h-89.861v243.91h159.33c128.37 0 216.72-91.371 216.72-209.17v-0.75514c0-117.8-88.351-208.42-216.72-208.42z" stroke-width=".75514"/>
  </g>
 </svg>

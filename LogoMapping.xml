@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		00/04/2021 ProSieben Fun and Kabel Eins Classics new logos
 		14/06/2021 Franken Plus HD on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		20/08/2021 France 4 closes
@@ -9942,6 +9941,10 @@
 		<Channel>
 				<Item Name="Saarland Fernsehen 1" />
 			<File>Saarland Fernsehen 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Saarland Fernsehen 2" />
+			<File>Saarland Fernsehen 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Salve TV" />
