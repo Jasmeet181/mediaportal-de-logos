@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+				<Item Name="National Geographic Wild">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>National Geographic Wild FR.png</File>
+		</Channel>
+	</TV>
+<!-- ******************************************************************** -->
+	<Radio>		
+	</Radio>
+<!-- ******************************************************************** -->
+</Mappings>

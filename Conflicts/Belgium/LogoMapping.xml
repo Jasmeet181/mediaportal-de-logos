@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+				<Item Name="Nat Geo Wild HD">
+					<Provider>Voo</Provider>
+				</Item>
+				<Item Name="National Geographic Wild HD" />
+			<File>National Geographic Wild HD FR.png</File>
+		</Channel>
+	</TV>
+<!-- ******************************************************************** -->
+	<Radio>
+		<Channel>
+				<Item Name="Hit FM" />
+			<File>Hit FM BE.png</File>
+		</Channel>
+	</Radio>
+<!-- ******************************************************************** -->
+</Mappings>

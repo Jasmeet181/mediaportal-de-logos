@@ -2,10 +2,12 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		14/06/2021 Franken Plus HD on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
+		03/05/2021 OK-TV SD removed from Vodafone
+		04/05/2021 Culturebox closes
+		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		20/08/2021 France 4 closes
-		00/09/2021 Bild
+		00/09/2021 Bild launches
 		00/00/2021 Sky Documentaries and Sky Nature launch
 		-->
 		<!--
@@ -1078,9 +1080,6 @@
 			<File>BBC Two.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC HD">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="BBC World News Europe HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3126,16 +3125,18 @@
 				</Item>
 			<File>DMAX DE.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="DMAX">
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
+					<Provider>TDT</Provider> Catalunya, Barcelona
+					<Provider>TDT</Provider> Gran Canaria, Lanzarote
 				</Item>
 				<Item Name="Discovery Max">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>DMAX ES.png</File>
 		</Channel>
+		-->
 		<Channel>
 				<Item Name="DMAX HD Austria">
 					<Provider>Astra 19.2E</Provider>
@@ -4808,7 +4809,12 @@
 				<Item Name="Horse &amp; Country TV HD">
 					<Provider>Ziggo</Provider>
 				</Item>
-			<File>Horse and Country TV HD.png</File>
+				<Item Name="Horse &amp; Country TV" />
+			<File>Horse and Country TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Horse TV" />
+			<File>Horse TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="HR-Fernsehen HD">
@@ -5162,9 +5168,6 @@
 		<Channel>
 				<Item Name="Juwelo HD">
 					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Juwelo TV HD">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Juwelo HD.png</File>
 		</Channel>
@@ -7113,6 +7116,11 @@
 			<File>MySports.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MyZen TV 4K" />
+				<Item Name="MyZen 4K" />
+			<File>MyZen TV 4K.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="My Zen TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -7225,18 +7233,20 @@
 				</Item>
 			<File>National Geographic HD.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="National Geographic Wild">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>National Geographic Wild FR.png</File>
 		</Channel>
+		-->
 		<Channel>
 				<Item Name="Nat Geo Wild">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="NatGeo Wild" />
+				<Item Name="National Geographic Wild" />
 			<File>National Geographic Wild GB.png</File>
 		</Channel>
 		<Channel>
@@ -9554,12 +9564,20 @@
 			<File>RTL 8.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL Crime (blue)">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="RTL Crime" />
+			<File>RTL Crime DE.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTL Crime HD">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>RTL Crime HD DE.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="RTL Crime HD">
 					<Provider>Ziggo</Provider>
@@ -9567,13 +9585,7 @@
 				<Item Name="RTL Crime" />
 			<File>RTL Crime NL.png</File>
 		</Channel>
-		<Channel>
-				<Item Name="RTL Crime (blue)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="RTL Crime" />
-			<File>RTL Crime DE.png</File>
-		</Channel>
+		-->
 		<Channel>
 				<Item Name="RTL Croatia World" />
 			<File>RTL Croatia World.png</File>
@@ -14423,17 +14435,21 @@
 				</Item>
 			<File>Harmony.FM.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="Hit FM" />
 			<File>Hit FM BE.png</File>
 		</Channel>
+		-->
+		<!--
 		<Channel>
 				<Item Name="Hit FM">
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
+					<Provider>TDT</Provider> Catalunya, Barcelona
+					<Provider>TDT</Provider> Gran Canaria, Lanzarote
 				</Item>
 			<File>Hit FM ES.png</File>
 		</Channel>
+		-->
 		<Channel>
 				<Item Name="Hit Radio FFH - Mittelhessen">
 					<Provider>Vodafone</Provider><!-- Bad Marienberg -->
