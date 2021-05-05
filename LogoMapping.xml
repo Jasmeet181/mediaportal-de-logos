@@ -2,10 +2,10 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		03/05/2021 OK-TV SD removed from Vodafone
 		04/05/2021 Culturebox closes
 		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
+		01/07/2021 B5 Aktuell renamed to BR24
 		20/08/2021 France 4 closes
 		00/09/2021 Bild launches
 		00/00/2021 Sky Documentaries and Sky Nature launch
@@ -2962,6 +2962,7 @@
 				</Item>
 				<Item Name="Discovery HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- München -->
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
@@ -3978,6 +3979,10 @@
 			<File>Film4.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="FilmBox" />
+			<File>FilmBox.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Filstalwelle" />
 			<File>Filstalwelle.png</File>
 		</Channel>
@@ -4483,10 +4488,8 @@
 			<File>Geo Television.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="GigaTV">
-					<Provider>Vodafone</Provider><!-- UM Esslingen -->
-				</Item>
-			<File>GigaTV.png</File>
+				<Item Name="German Tote TV" />
+			<File>German Tote TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Ginx eSports TV" />
@@ -4697,10 +4700,7 @@
 			<File>HDPlus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Health TV">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Health TV" />
 				<Item Name="Health.TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -4764,17 +4764,19 @@
 				<Item Name="History HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="The HISTORY Channel HD">
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>History HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="History">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="The History Channel">
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>History.png</File>
 		</Channel>
@@ -13979,6 +13981,10 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>BR Schlager.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BR24" />
+			<File>BR24.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BR-Klassik">
