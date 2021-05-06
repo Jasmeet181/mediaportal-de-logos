@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		04/05/2021 Culturebox closes
+		04/05/2021 Culturebox closes (broadcasting closure notice)
 		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		01/07/2021 B5 Aktuell renamed to BR24
@@ -4766,7 +4766,7 @@
 					<Provider>UPC (CH)</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="The HISTORY Channel HD">
+				<Item Name="The History Channel HD">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>History HD.png</File>
@@ -6983,6 +6983,13 @@
 		<Channel>
 				<Item Name="Munde TV" />
 			<File>Munde TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Museum Paris">
+					<Provider>TNT (FR)</Provider>
+				</Item>
+				<Item Name="Museum TV Paris" />
+			<File>Museum TV Paris.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Museum TV" />
@@ -12951,12 +12958,6 @@
 		<Channel>
 				<Item Name="ViàAngers" />
 			<File>ViaAngers.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ViàGrandParis">
-					<Provider>TNT (FR)</Provider>
-				</Item>
-			<File>ViaGrandParis.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Viajar HD">
