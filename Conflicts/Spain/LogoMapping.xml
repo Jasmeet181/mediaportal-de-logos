@@ -3,6 +3,20 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+				<Item Name="AXN HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Movistar+ IPTV</Provider>
+				</Item>
+			<File>AXN HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="AXN">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Movistar+ IPTV</Provider>
+				</Item>
+			<File>AXN.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="DMAX">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->

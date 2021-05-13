@@ -9,6 +9,10 @@
 				<Item Name="National Geographic Wild HD" />
 			<File>National Geographic Wild HD FR.png</File>
 		</Channel>
+		<Channel>
+				<Item Name="TV Oost" />
+			<File>TV Oost.png</File>
+		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
 	<Radio>

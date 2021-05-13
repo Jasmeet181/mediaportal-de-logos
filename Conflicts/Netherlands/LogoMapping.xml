@@ -16,6 +16,14 @@
 				<Item Name="RTL Crime" />
 			<File>RTL Crime NL.png</File>
 		</Channel>
+		<Channel>
+				<Item Name="RTV Oost" />
+				<Item Name="TV Oost">
+					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV Oost.png</File>
+		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
 	<Radio>		

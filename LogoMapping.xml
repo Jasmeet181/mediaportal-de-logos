@@ -7,14 +7,18 @@
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		01/07/2021 B5 Aktuell renamed to BR24
 		20/08/2021 France 4 closes
-		00/09/2021 Bild launches
+		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to WB TV Comedy, WB TV Film and WB TV Serie
+		00/09/2021 Bild Live launches
 		00/00/2021 Sky Documentaries and Sky Nature launch
+		TNT/HD renamed to WB TV/HD (ES)
 		-->
 		<!--
 		Hit FM BE/ES conflict 
 		DMAX DE/ES conflict
 		RTL Crime DE/NL conflict
 		National Geographic Wild conflicts
+		AXN/HD (ES) Sony AXN/HD (DE) conflict
+		RTV Oost (NL) TV Oost (BE) conflict
 		-->
 	<TV>
 		<Channel>
@@ -232,12 +236,6 @@
 		<Channel>
 				<Item Name="6+" />
 			<File>6 Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="6+ HD">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-			<File>6 Plus HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="6ter">
@@ -665,7 +663,6 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="Antena3 HD" />
 				<Item Name="Antena3 HD">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -677,7 +674,6 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="Antena3" />
 				<Item Name="Antena3">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -807,7 +803,7 @@
 				<Item Name="Asteroid Day TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Asteroid Day TV" />
+				<Item Name="Asteroid Day" />
 			<File>Asteroid Day.png</File>
 		</Channel>
 		<Channel>
@@ -940,6 +936,7 @@
 				<Item Name="AVS" />
 			<File>AVS.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="AXN HD">
 					<Provider>Astra 19.2E</Provider>
@@ -947,6 +944,7 @@
 				</Item>
 			<File>AXN HD.png</File>
 		</Channel>
+		-->
 		<Channel>
 				<Item Name="AXN White HD">
 					<Provider>Astra 19.2E</Provider>
@@ -961,6 +959,7 @@
 				</Item>
 			<File>AXN White.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="AXN">
 					<Provider>Astra 19.2E</Provider>
@@ -968,6 +967,7 @@
 				</Item>
 			<File>AXN.png</File>
 		</Channel>
+		-->
 		<Channel>
 				<Item Name="Azur TV" />
 			<File>Azur TV.png</File>
@@ -2287,6 +2287,11 @@
 			<File>Chaine Evenement.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Chamber TV HD" />
+				<Item Name="Chamber TV" />
+			<File>Chamber TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Channel 4 HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -2402,10 +2407,6 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>CinePlus Frisson HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Ciné+ Frisson" />
-			<File>CinePlus Frisson.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Ciné+ Frisson">
@@ -2860,7 +2861,6 @@
 				<Item Name="DAZN F1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Dazn F1" />
 			<File>Dazn F1.png</File>
 		</Channel>
 		<Channel>
@@ -3278,12 +3278,6 @@
 			<File>E4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="E8 Television">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>E8 Television.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Eclips TV" />
 			<File>Eclips TV.png</File>
 		</Channel>
@@ -3403,21 +3397,18 @@
 			<File>Eleven Pro League 1 NL.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eleven Pro League 1" />
 				<Item Name="Eleven Pro League 1">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Eleven Pro League 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eleven Pro League 2" />
 				<Item Name="Eleven Pro League 2">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Eleven Pro League 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eleven Pro League 3" />
 				<Item Name="Eleven Pro League 3">
 					<Provider>Voo</Provider>
 				</Item>
@@ -3646,9 +3637,6 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="euronews D">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="Euronews F">
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="Euronews French SD">
@@ -3977,6 +3965,11 @@
 				</Item>
 				<Item Name="Film4" />
 			<File>Film4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="FilmBox HD" />
+				<Item Name="FilmBox NL HD" />
+			<File>FilmBox HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="FilmBox" />
@@ -4477,6 +4470,12 @@
 			<File>Genius Plus TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Genius Trend">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Genius Trend.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Geo Television HD" />
 				<Item Name="Geo TV HD">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -4554,9 +4553,6 @@
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
-				</Item>
-				<Item Name="Gol HD">
-					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>Gol.png</File>
 		</Channel>
@@ -5914,15 +5910,6 @@
 			<File>Main.TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Mangas HD">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="Mangas">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Mangas.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Marco Polo TV" />
 			<File>Marco Polo TV.png</File>
 		</Channel>
@@ -5936,6 +5923,9 @@
 			<File>Man-X.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Mangas HD">
+					<Provider>UPC (CH)</Provider>
+				</Item>
 				<Item Name="Mangas">
 					<Provider>Voo</Provider>
 				</Item>
@@ -8878,6 +8868,10 @@
 			<File>Prva Srpska Televizija.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="P-TV Vienna" />
+			<File>PTV Vienna.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Puls 24 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -9685,6 +9679,11 @@
 			<File>RTL Passion.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL Tele Letzebuerg 23.5" />
+				<Item Name="RTL Télé Lëtzebuerg" />
+			<File>RTL Tele Letzebuerg.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTL Telekids HD">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -9729,7 +9728,11 @@
 				<Item Name="RTL West" />
 			<File>RTL West.png</File>
 		</Channel>
-		<Channel>>
+		<Channel>
+				<Item Name="RTL Zwee" />
+			<File>RTL Zwee.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTL Z HD">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -9900,6 +9903,7 @@
 				</Item>
 			<File>RTV Noord.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="RTV Oost" />
 				<Item Name="TV Oost">
@@ -9908,6 +9912,7 @@
 				</Item>
 			<File>RTV Oost.png</File>
 		</Channel>
+		-->
 		<Channel>
 				<Item Name="RTV Regionalfernsehen" />
 			<File>RTV Regionalfernsehen.png</File>
@@ -11973,6 +11978,11 @@
 			<File>Teve.cat.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TF1 4K" />
+				<Item Name="TF1 UHD" />
+			<File>TF1 4K.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TF 1 HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -11980,6 +11990,13 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>TF1 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TF1 +1 HD" />
+				<Item Name="TF1 +1 HD" />
+				<Item Name="TF1 +1" />
+				<Item Name="TF1+1 SD" />
+			<File>TF1 Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TF1 Séries Films HD">
@@ -12118,6 +12135,15 @@
 			<File>Tlnovelas.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TMC +1 HD" />
+				<Item Name="TMC +1 SD" />
+				<Item Name="TMC +1" />
+				<Item Name="TMC+1 HD" />
+				<Item Name="TMC+1 SD" />
+			<File>TMC Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TMC HD" />
 				<Item Name="TMC Monte Carlo HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -12457,10 +12483,12 @@
 				<Item Name="TV Oberwallis" />
 			<File>TV Oberwallis.png</File>
 		</Channel>
+		<!--
 		<Channel>
 				<Item Name="TV Oost" />
 			<File>TV Oost.png</File>
 		</Channel>
+		-->
 		<Channel>
 				<Item Name="TV Oranje">
 					<Provider>Ziggo</Provider>
@@ -12620,11 +12648,13 @@
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="TV5 Monde">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="TV5Monde Europe">
-					<Provider>Astra 19.2E</Provider>
+				<Item Name="TV5Monde Europe" />
+				<Item Name="TV5Monde">
+					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>TV5Monde Europe.png</File>
 		</Channel>
@@ -12632,17 +12662,8 @@
 				<Item Name="TV5Monde FBS HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="TV5Monde France Belgique Suisse" />
-			<File>TV5Monde France Belgique Suisse.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV5 Monde">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="TV5Monde">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-			<File>TV5Monde.png</File>
+				<Item Name="TV5Monde France Belgique Suisse HD" />
+			<File>TV5Monde France Belgique Suisse HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV7 Bordeaux" />
@@ -12766,10 +12787,6 @@
 		<Channel>
 				<Item Name="TVPI" />
 			<File>TVPI.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TVR" />
-			<File>TVR.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVRus">
@@ -12993,10 +13010,6 @@
 			<File>ViaMoselleTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Vernier Visions" />
-			<File>Vernier Visions.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="TVSud Montpellier">
 					<Provider>TNT (FR)</Provider>
 				</Item>
@@ -13135,7 +13148,7 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-			<File>Vox HD.png</File>
+			<File>Vox HD DE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vox Austria">
@@ -13148,7 +13161,7 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-			<File>Vox.png</File>
+			<File>Vox DE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="VoxUp HD" />
@@ -15003,6 +15016,9 @@
 			<File>NPO 3FM.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NL-Radio 1">
+					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
 				<Item Name="NPO Radio 1">
 					<Provider>Digitenne</Provider>
 					<Provider>Ziggo</Provider>
@@ -15034,24 +15050,13 @@
 			<File>NPO Radio 4.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NL-Radio 5">
+					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
 				<Item Name="NPO Radio 5">
 					<Provider>Digitenne</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
-			<File>NPO Radio 5.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="NL-Radio 1">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="NPO Radio 1" />
-			<File>NPO Radio 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="NL-Radio 5">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="NPO Radio 5" />
 			<File>NPO Radio 5.png</File>
 		</Channel>
 		<Channel>
@@ -15227,6 +15232,18 @@
 			<File>RAC105.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio 100,7 Letzebuerg" />
+				<Item Name="Radio 100,7" />
+			<File>Radio 100komma7.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio 10">
+					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Radio 10.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Radio 1 (VRT)">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -15241,11 +15258,10 @@
 			<File>Radio 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Radio 10">
-					<Provider>Digitenne</Provider>
-					<Provider>Ziggo</Provider>
+				<Item Name="Radio 21">
+					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-			<File>Radio 10.png</File>
+			<File>Radio 21.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio 2 (VRT)">
@@ -15259,12 +15275,6 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Radio 2.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Radio 21">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>Radio 21.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio 3" />
@@ -15994,6 +16004,7 @@
 			<File>RTL FR.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL Radio Letzebuerg" />
 				<Item Name="RTL Radio">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16231,9 +16242,6 @@
 				<Item Name="Klassik">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="Klassik Radio Movie">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="Klassik Sinfonie">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->

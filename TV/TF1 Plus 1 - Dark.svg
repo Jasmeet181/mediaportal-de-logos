@@ -1,0 +1,39 @@
+<svg width="866.77" height="256.08" version="1.1" viewBox="0 0 866.77 256.08" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x2="39.799" y1="19.9" y2="19.9" gradientTransform="matrix(17.694 0 0 6.4343 0 -1.3428e-5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0416c5" offset="0"/>
+   <stop stop-color="#002dc3" offset=".239"/>
+   <stop stop-color="#840339" offset=".644"/>
+   <stop stop-color="#d00606" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x2="31.59" y1="15.795" y2="15.795" gradientTransform="scale(2.0893 .47863)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0c2cae" offset=".001"/>
+   <stop stop-color="#3959c6" offset=".281"/>
+   <stop stop-color="#b72f56" offset=".644"/>
+   <stop stop-color="#a20a0d" offset="1"/>
+  </linearGradient>
+  <radialGradient id="d" cx="12.856" cy="0" r="40.563" gradientTransform="scale(2.0893 .47863)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <filter id="c" x="-.068" y="-.188" width="1.136" height="1.375">
+   <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="4.5"/>
+   <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+   <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+   <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.44 0"/>
+  </filter>
+  <path id="a" d="m66 0v6.766c-33.032-1.815-66 8.354-66 8.354v-15.12z"/>
+  <mask id="f" fill="#ffffff">
+   <use width="100%" height="100%" fill-rule="evenodd" xlink:href="#a"/>
+  </mask>
+ </defs>
+ <path d="m704.23-1.3428e-5h-704.23v256.08h704.23z" fill="url(#b)" stroke-width="10.67"/>
+ <path transform="matrix(10.67 0 0 10.67 0 -1.3428e-5)" d="m66 0h-66v24h66z" filter="url(#c)"/>
+ <use transform="matrix(10.67 0 0 10.67 0 -1.3428e-5)" width="100%" height="100%" fill="url(#d)" fill-opacity=".8" fill-rule="evenodd" opacity=".6" xlink:href="#a"/>
+ <path transform="matrix(10.67 0 0 10.67 0 -1.3428e-5)" d="m66 0h-66v24h66z" fill="url(#e)" fill-opacity=".5" mask="url(#f)"/>
+ <path d="m54.951 39.607v61.673h40.877v116.94h78.254v-116.94h40.866v-61.673zm256.62 0v178.62h78.244v-56.231h48.058v-44.729h-48.058v-32.928h67.222v-44.729zm319.2-0.91763v179.53h-81.125v-156.53z" fill="#fff" fill-rule="evenodd" stroke-width="10.67"/>
+ <g transform="matrix(1.4446 0 0 1.4446 -.0099957 -370.89)" fill="#0416c5" stroke-width=".40844">
+  <path d="m565.16 266.16 20.001-9.2777h14.839v75.812h-17.134l-0.0245-60.008-14.749 6.9843z"/>
+  <path d="m516.58 296.16-24.397 2e-5v10.92h24.397v25.624h11.434v-25.624h24.397v-10.92h-24.397v-25.624h-11.434z"/>
+ </g>
+</svg>
