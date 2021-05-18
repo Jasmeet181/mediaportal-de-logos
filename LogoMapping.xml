@@ -2,10 +2,10 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		04/05/2021 Culturebox closes (broadcasting closure notice)
 		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		01/07/2021 B5 Aktuell renamed to BR24
+		01/08/2021 VH1 replaced by MTV 00s
 		20/08/2021 France 4 closes
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to WB TV Comedy, WB TV Film and WB TV Serie
 		00/09/2021 Bild Live launches
@@ -2745,13 +2745,6 @@
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>Cubavision Internacional.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Culturebox">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>TNT (FR)</Provider>
-				</Item>
-			<File>Culturebox.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="CyLTV" />
@@ -11993,7 +11986,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="TF1 +1 HD" />
-				<Item Name="TF1 +1 HD" />
+				<Item Name="TF1 +1 SD" />
 				<Item Name="TF1 +1" />
 				<Item Name="TF1+1 SD" />
 			<File>TF1 Plus 1.png</File>
@@ -13186,6 +13179,10 @@
 			<File>Voyage.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="VTM 2 HD" />
+			<File>VTM 2 HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="VTM 2" />
 			<File>VTM 2.png</File>
 		</Channel>
@@ -13202,6 +13199,10 @@
 			<File>VTM Gold.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="VTM HD" />
+			<File>VTM HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="VTM Kids Kanaal Z" />
 			<File>VTM Kids Kanaal Z.png</File>
 		</Channel>
@@ -13210,7 +13211,6 @@
 			<File>VTM Kids.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM HD" />
 				<Item Name="VTM" />
 			<File>VTM.png</File>
 		</Channel>
