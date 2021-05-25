@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		03/06/2021 Movistar Tolkien renamed to Movistar VHS
 		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		01/07/2021 B5 Aktuell renamed to BR24
@@ -6724,6 +6725,18 @@
 		<Channel>
 				<Item Name="Movistar Star Wars" />
 			<File>Movistar Star Wars.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. Tolkien">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Tolkien" />
+			<File>Movistar Tolkien.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. VHS" />
+				<Item Name="Movistar VHS" />
+			<File>Movistar VHS.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M. Wimbledon">
