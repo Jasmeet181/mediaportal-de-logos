@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		23/05/2021 MTV Music 24 (NL) replaced by MTV 90s (Ziggo label not updated)
 		03/06/2021 Movistar Tolkien renamed to Movistar VHS
 		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
@@ -800,7 +801,7 @@
 			<File>Arte.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Asteroid Day TV">
+				<Item Name="Asteroid Day 2021 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Asteroid Day" />
@@ -4097,20 +4098,12 @@
 			<File>France 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 24 - English" />
-				<Item Name="France 24 (in English)">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>France 24 - English.png</File>
+				<Item Name="France 24 (en Español)" />
+				<Item Name="France 24 (en Espanol)" />
+			<File>France 24 en Espanol.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 24 - Español" />
-			<File>France 24 - Espanol.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="France 24 - Français" />
-				<Item Name="France 24 (en francais)">
+				<Item Name="France 24 (en Francais)">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="France 24 (en Français)">
@@ -4119,13 +4112,25 @@
 				<Item Name="France24 (fre)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
-				<Item Name="France 24 HD">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="France 24">
 					<Provider>Voo</Provider>
 				</Item>
-			<File>France 24 - Francais.png</File>
+			<File>France 24 en Francais.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="France 24 HD (en Français)" />
+				<Item Name="France 24 HD (en Francais)" />
+				<Item Name="France 24 HD">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+			<File>France 24 HD en Francais.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="France 24 (in English)">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+			<File>France 24 in English.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="F3 Alpes">
@@ -5808,7 +5813,7 @@
 			<File>Loly TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LN UHD DVB">
+				<Item Name="UHD DVB">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Love Nature 4K" />
@@ -6756,6 +6761,10 @@
 			<File>MTV 80s.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MTV 90s" />
+			<File>MTV 90s.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="MTV France HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -6777,7 +6786,6 @@
 				</Item>
 				<Item Name="MTV Hits">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV Hits.png</File>
@@ -7732,6 +7740,13 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO 1 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO 1" />
+				<Item Name="UHD2 DVB">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO 1 UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO 1">
