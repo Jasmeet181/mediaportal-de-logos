@@ -2,8 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		23/05/2021 MTV Music 24 (NL) replaced by MTV 90s (Ziggo label not updated)
-		03/06/2021 Movistar Tolkien renamed to Movistar VHS
 		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
 		01/07/2021 B5 Aktuell renamed to BR24
@@ -11,6 +9,7 @@
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to WB TV Comedy, WB TV Film and WB TV Serie
 		00/09/2021 Bild Live launches
 		00/00/2021 Sky Documentaries and Sky Nature launch
+		Super RTL renamed to Toggo
 		TNT/HD renamed to WB TV/HD (ES)
 		-->
 		<!--
@@ -6739,7 +6738,9 @@
 			<File>Movistar Tolkien.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. VHS" />
+				<Item Name="M. VHS">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Movistar VHS" />
 			<File>Movistar VHS.png</File>
 		</Channel>
@@ -6761,7 +6762,9 @@
 			<File>MTV 80s.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV 90s" />
+				<Item Name="MTV 90s">
+					<Provider>Ziggo</Provider>
+				</Item>
 			<File>MTV 90s.png</File>
 		</Channel>
 		<Channel>
@@ -6796,13 +6799,6 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MTV Live HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="MTV Music 24">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Ziggo</Provider>
-				</Item>
-			<File>MTV Music 24.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTV Music">
