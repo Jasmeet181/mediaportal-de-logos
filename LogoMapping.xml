@@ -4,11 +4,14 @@
 		<!--
 		14/06/2021 Franken Plus HD launches on Astra (Franken Fernsehen/TV Oberfranken/TV Mainfranken)
 		14/06/2021 Niederbayern TV and TVA/Oberpfalz TV HD move on Astra
+		19/06/2021 eoTV replaced by More Than Sports TV
 		01/07/2021 B5 Aktuell renamed to BR24
+		05/07/2021 Azur TV, Provence Azur and Var Azur renamed to BFM Nice Côte d'Azur, BFM Marseille Provence and BFM Toulon Var
 		01/08/2021 VH1 replaced by MTV 00s
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to WB TV Comedy, WB TV Film and WB TV Serie
 		00/09/2021 Bild Live launches
 		00/00/2021 Sky Documentaries and Sky Nature launch
+		00/00/2022 TVP World HD launches on Astra
 		Super RTL renamed to Toggo
 		TNT/HD renamed to WB TV/HD (ES)
 		-->
@@ -11832,8 +11835,9 @@
 			<File>TeleGrenoble.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Telehit Urbano" />
-			<File>Telehit Urbano.png</File>
+				<Item Name="Telehit Musica" />
+				<Item Name="Telehit Música" />
+			<File>Telehit Musica.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TeleMadrid HD" />
