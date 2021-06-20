@@ -2,8 +2,9 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		19/06/2021 eoTV replaced by More Than Sports TV
 		01/07/2021 B5 Aktuell renamed to BR24
+		01/07/2021 Franken Fernsehen HD, Oberpfalz TV HD, TV Mainfranken HD, TV Oberfranken HD and TVA Ostbayern HD removed from Astra
+		01/07/2021 Niederbayern TV HD - alt closes
 		05/07/2021 Azur TV, Provence Azur and Var Azur renamed to BFM Nice Côte d'Azur, BFM Marseille Provence and BFM Toulon Var
 		01/08/2021 VH1 replaced by MTV 00s
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
@@ -1022,13 +1023,6 @@
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 				</Item>
 			<File>Barca TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BB MV LokalTV" />
-				<Item Name="BB-MV-LokalTV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>BB MV LokalTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Entertainment Europe">
@@ -3451,10 +3445,6 @@
 			<File>Enjy TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="EOTV HD" />
-			<File>EOTV HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Equidia">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
@@ -4404,8 +4394,7 @@
 				<Item Name="Franken Plus HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Franken Plus" />
-			<File>Franken Plus.png</File>
+			<File>Franken Plus HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Franken Sat" />
@@ -8399,6 +8388,12 @@
 			<File>OTV Valentino.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="OTVA HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>OTVA HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="OutTV HD">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -10252,7 +10247,19 @@
 			<File>ServusTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="8KTest">
+				<Item Name="SES UHD Demo Channel 02">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="SES UHD Demo Channel 03">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="SES UHD Demo Channel 04">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="SES UHD Demo Channel 05">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="SES UHD Demo Channel 06">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="SES UHD Demo Channel">
@@ -12711,13 +12718,6 @@
 				<Item Name="TV8 Moselle-Est" />
 				<Item Name="TV8 Moselle" />
 			<File>TV8 Moselle-Est.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TVA - OTV HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="TVA Oberpfalz TV HD" />
-			<File>TVA Oberpfalz TV HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVA Ostbayern HD">
