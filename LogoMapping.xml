@@ -2780,10 +2780,6 @@
 			<File>Das Erste.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Das Frankfurter Fernsehen" />
-			<File>Das Frankfurter Fernsehen.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Dasding (Internet)">
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
 				</Item>
@@ -5584,12 +5580,6 @@
 			<File>La Xarxa.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="L-TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>L-TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="L1 TV">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -5824,6 +5814,13 @@
 				</Item>
 				<Item Name="LT1" />
 			<File>LT1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="L-TV Landesfernsehen" />
+				<Item Name="L-TV">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>LTV Landesfernsehen.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Lucky Jack HD" />
@@ -7908,7 +7905,13 @@
 			<File>OCS Max.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Oder Spree Fernsehen 2" />
+				<Item Name="OSF 2" />
+			<File>Oder Spree Fernsehen 2.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Oder Spree Fernsehen" />
+				<Item Name="OSF" />
 			<File>Oder Spree Fernsehen.png</File>
 		</Channel>
 		<Channel>
@@ -10195,6 +10198,10 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Secret Circle.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Seenluft24" />
+			<File>Seenluft24.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sender Neu Jerusalem">
@@ -13525,10 +13532,6 @@
 		<Channel>
 				<Item Name="Wismar TV" />
 			<File>Wismar TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="WMZ TV" />
-			<File>WMZ TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="WNTV" />
