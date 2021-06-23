@@ -5,10 +5,13 @@
 		01/07/2021 B5 Aktuell renamed to BR24
 		01/07/2021 Franken Fernsehen HD, Oberpfalz TV HD, TV Mainfranken HD, TV Oberfranken HD and TVA Ostbayern HD removed from Astra
 		01/07/2021 Niederbayern TV HD - alt closes
+		01/07/2021 Sixx Austria replaced by Shop LC
 		05/07/2021 Azur TV, Provence Azur and Var Azur renamed to BFM Nice Côte d'Azur, BFM Marseille Provence and BFM Toulon Var
+		20/07/2021 Bremen Next added to Astra
 		01/08/2021 VH1 replaced by MTV 00s
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		00/09/2021 Bild Live launches
+		00/12/2021 RT auf Deutsch launches
 		00/00/2021 Sky Documentaries and Sky Nature launch
 		00/00/2022 TVP World HD launches on Astra
 		Super RTL renamed to Toggo
@@ -9482,6 +9485,10 @@
 			<File>RSI La 2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RT auf Deutsch" />
+			<File>RT auf Deutsch.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RT Esp HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -10278,6 +10285,10 @@
 		<Channel>
 				<Item Name="SFC TV" />
 			<File>SFC TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Shop LC" />
+			<File>Shop LC.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Mei Musi TV">
