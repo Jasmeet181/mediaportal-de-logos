@@ -2,15 +2,17 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		30/06/2021 ERF Pop removed from Astra
 		01/07/2021 B5 Aktuell renamed to BR24
 		01/07/2021 Franken Fernsehen HD, Oberpfalz TV HD, TV Mainfranken HD, TV Oberfranken HD and TVA Ostbayern HD removed from Astra
 		01/07/2021 Niederbayern TV HD - alt closes
-		01/07/2021 Sixx Austria replaced by Shop LC
+		01/07/2021 Sixx Austria Alt replaced by Shop LC
 		05/07/2021 Azur TV, Provence Azur and Var Azur renamed to BFM Nice Côte d'Azur, BFM Marseille Provence and BFM Toulon Var
+		12/07/2021 BBC One (SD) and BBC Two (SD) removed from Ziggo
 		20/07/2021 Bremen Next added to Astra
 		01/08/2021 VH1 replaced by MTV 00s
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
-		00/09/2021 Bild Live launches
+		00/09/2021 Bild launches
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 Sky Documentaries and Sky Nature launch
 		00/00/2022 TVP World HD launches on Astra
@@ -1379,6 +1381,10 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Bibel TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Bild" />
+			<File>Bild.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Biosfera TV">
@@ -6742,9 +6748,6 @@
 				<Item Name="M. Wimbledon">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="M.WimbledonHD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Movistar Wimbledon" />
 			<File>Movistar Wimbledon.png</File>
 		</Channel>
@@ -10340,6 +10343,9 @@
 			<File>Silverline.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sixx Austria Alt">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Sixx Austria">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Magenta Tirol</Provider>
@@ -11010,12 +11016,6 @@
 				</Item>
 				<Item Name="Sony Entertainment Television" />
 			<File>Sony Entertainment Television.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sophia TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Sophia TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Souvenirs From Earth" />
@@ -14372,7 +14372,6 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="ERF Plus">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>ERF Plus.png</File>
@@ -16668,34 +16667,55 @@
 			<File>WRN Broadcast.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="00s Heroes">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="50s&amp;60s Rock">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="60s&amp;70s Fever">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="80s Flashback">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="All Out Dance">
+				<Item Name="Back 2 The 90s">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Back 2 The 90s">
+				<Item Name="Calm Piano">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Classic Rock">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Club Techno">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Country Roads">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Gouwe Ouwe">
+				<Item Name="Dinner Time">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Huisfeestje">
+				<Item Name="Franse Chansons">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Got The Blues">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Gouwe Ouwe">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="In De Kroeg">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Indie Wave">
+				<Item Name="Jazz Vibes">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Jazzy Dinner">
+				<Item Name="Kids Disco">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Klassiek">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Kneiterhard">
@@ -16707,10 +16727,13 @@
 				<Item Name="Mellow Beats">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Mini Disco">
+				<Item Name="Metal Madness">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Muziek Van Nu">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="NL Classics">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Op De Koffie">
@@ -16722,13 +16745,7 @@
 				<Item Name="Pop NL">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Pure Focus">
-					<Provider>Ziggo</Provider>
-				</Item>
 				<Item Name="Reggae Feels">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Rock Legends">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Rock On">
@@ -16737,52 +16754,34 @@
 				<Item Name="Schlagerfest">
 					<Provider>Ziggo</Provider>
 				</Item>
+				<Item Name="Season Vibes">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="Siempre Latino">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Sing-Along">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Sit Back&amp;Jazz">
-					<Provider>Ziggo</Provider>
-				</Item>
 				<Item Name="Soul Baby">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Straattaal">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Take It Easy">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Teen Party">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Themafeestje">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Thuisorkest">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Twist Again">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Urban Vibes">
+				<Item Name="This is EDM">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Voel Je Goed">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Workout!">
+				<Item Name="Wereldmuziek">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="XITE Hits">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Yoga Flow">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Zeroes Heroes">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Ziggo Dome">
