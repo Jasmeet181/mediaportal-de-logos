@@ -2,11 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		30/06/2021 ERF Pop removed from Astra
-		01/07/2021 B5 Aktuell renamed to BR24
-		01/07/2021 Franken Fernsehen HD, Oberpfalz TV HD, TV Mainfranken HD, TV Oberfranken HD and TVA Ostbayern HD removed from Astra
-		01/07/2021 Niederbayern TV HD - alt closes
-		01/07/2021 Sixx Austria Alt replaced by Shop LC
 		05/07/2021 Azur TV, Provence Azur and Var Azur renamed to BFM Nice Côte d'Azur, BFM Marseille Provence and BFM Toulon Var
 		12/07/2021 BBC One (SD) and BBC Two (SD) removed from Ziggo
 		20/07/2021 Bremen Next added to Astra
@@ -14,6 +9,7 @@
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		00/09/2021 Bild launches
 		00/12/2021 RT auf Deutsch launches
+		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
 		00/00/2021 Sky Documentaries and Sky Nature launch
 		00/00/2022 TVP World HD launches on Astra
 		Super RTL renamed to Toggo
@@ -421,7 +417,7 @@
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-				<Item Name="Aljazeera">
+				<Item Name="AlJazeera">
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Al Jazeera Channel.png</File>
@@ -434,7 +430,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Al Jazeera English">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="Al Jazeera Int (eng)">
@@ -2974,10 +2969,6 @@
 			<File>Discovery Science.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Discovery Showcase HD" />
-			<File>Discovery Showcase HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Discovery (blue)">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -4387,7 +4378,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Franken Fernsehen HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="Franken Fernsehen">
@@ -7635,9 +7625,6 @@
 			<File>Nicktoons.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Niederbayern TV HD - alt">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Niederbayern TV HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -7873,9 +7860,7 @@
 			<File>OAMTC.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Oberpfalz TV HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Oberpfalz TV HD" />
 			<File>Oberpfalz TV HD.png</File>
 		</Channel>
 		<Channel>
@@ -10290,7 +10275,9 @@
 			<File>SFC TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Shop LC" />
+				<Item Name="Shop LC">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Shop LC.png</File>
 		</Channel>
 		<Channel>
@@ -10343,9 +10330,6 @@
 			<File>Silverline.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sixx Austria Alt">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Sixx Austria">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Magenta Tirol</Provider>
@@ -12503,9 +12487,7 @@
 			<File>TV Lux.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TV Mainfranken HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="TV Mainfranken HD" />
 			<File>TV Mainfranken HD.png</File>
 		</Channel>
 		<Channel>
@@ -12521,9 +12503,7 @@
 			<File>TV Mittelrhein.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TV Oberfranken HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="TV Oberfranken HD" />
 				<Item Name="TV Oberfranken" />
 			<File>TV Oberfranken.png</File>
 		</Channel>
@@ -12738,9 +12718,7 @@
 			<File>TV8 Moselle-Est.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TVA Ostbayern HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="TVA Ostbayern HD" />
 				<Item Name="TVA" />
 			<File>TVA.png</File>
 		</Channel>
@@ -13353,48 +13331,72 @@
 			<File>WDR Essen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Aachen">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Aachen">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Aachen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Bielefeld">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Bielefeld">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Bielefeld.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Bonn">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Bonn">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Bonn.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Dortmund">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Dortmund">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Dortmund.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Duisburg">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Duisburg">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Duisburg.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Düsseldorf">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Düsseldorf">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Dusseldorf.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Essen">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Essen">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Essen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Köln">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Köln">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
@@ -13407,18 +13409,27 @@
 			<File>WDR HD Koln.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Münster">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Münster">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Munster.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Siegen">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Siegen">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR HD Siegen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR HD Wuppertal">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR HD Wuppertal">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -13840,6 +13851,9 @@
 			<File>Antenne Bayern.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Antenne Brandenburg">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Antenne Brandenburg">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -13880,28 +13894,15 @@
 			<File>ARS 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="B5 Aktuell">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>B5 Aktuell.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="B5 Plus">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>B5 Plus.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Baden.FM">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Baden.FM.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Bayern 1">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Bayern 1 Niederbayern/Oberpfalz">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
@@ -13916,6 +13917,9 @@
 			<File>Bayern 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Bayern 2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Bayern 2 Nord">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
@@ -13927,6 +13931,9 @@
 			<File>Bayern 2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Bayern 3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Bayern 3">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14027,6 +14034,9 @@
 			<File>BNR Nieuwsradio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_BR Heimat">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="BR Heimat">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14035,16 +14045,18 @@
 			<File>BR Heimat.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_BR Schlager">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="BR Schlager">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>BR Schlager.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BR24" />
-			<File>BR24.png</File>
-		</Channel>
-		<Channel>
+				<Item Name="alt_BR-Klassik">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="BR-Klassik">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14053,6 +14065,27 @@
 			<File>BR-Klassik.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_BR24live">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="BR24live">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>BR24live.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="alt_BR24">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="BR24">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>BR24.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="alt_Bremen Eins">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Bremen Eins">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14062,12 +14095,16 @@
 		</Channel>
 		<Channel>
 				<Item Name="Bremen Next">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Bremen Next.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Bremen Vier">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Bremen Vier">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14076,6 +14113,9 @@
 			<File>Bremen Vier.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Bremen Zwei">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Bremen Zwei">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14217,6 +14257,9 @@
 			<File>Cope.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Cosmo">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Cosmo">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14244,6 +14287,9 @@
 			<File>Cugat.cat.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Dasding">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Dasding">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14320,6 +14366,9 @@
 			<File>Die neue Welle.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Die Maus">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Die Sendung Mit Der Maus Zum Hören" />
 				<Item Name="Die Maus">
 					<Provider>Astra 19.2E</Provider>
@@ -14377,9 +14426,7 @@
 			<File>ERF Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ERF Pop">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="ERF Pop" />
 			<File>ERF Pop.png</File>
 		</Channel>
 		<Channel>
@@ -14466,6 +14513,9 @@
 			<File>Freirad Freies Radio Innsbruck.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Fritz">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Fritz">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14551,6 +14601,9 @@
 			<File>Hitradio O3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_HR-Info">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="HR-Info">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14559,6 +14612,9 @@
 			<File>HR-Info.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_HR1">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="HR1">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14567,6 +14623,9 @@
 			<File>HR1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_HR2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="HR2-Kultur" />
 				<Item Name="HR2">
 					<Provider>Astra 19.2E</Provider>
@@ -14576,6 +14635,9 @@
 			<File>HR2-Kultur.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_HR3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="HR3">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14584,6 +14646,9 @@
 			<File>HR3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_HR4">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="HR4">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14606,6 +14671,9 @@
 			<File>iCat.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Inforadio">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Inforadio">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14796,6 +14864,9 @@
 			<File>Max Neo.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_MDR Aktuell">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="MDR Aktuell">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14804,6 +14875,9 @@
 			<File>MDR Aktuell.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_MDR Jump">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="MDR Jump">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14812,6 +14886,9 @@
 			<File>MDR Jump.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_MDR Klassik">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="MDR Klassik">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14820,6 +14897,9 @@
 			<File>MDR Klassik.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_MDR Kultur">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="MDR Kultur">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14827,6 +14907,9 @@
 			<File>MDR Kultur.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_MDR S-Anhalt MD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="MDR S-Anhalt MD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14838,6 +14921,9 @@
 			<File>MDR Sachsen-Anhalt.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_MDR Sachsen DD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="MDR Sachsen DD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14848,6 +14934,9 @@
 			<File>MDR Sachsen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_MDR Sputnik">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="MDR Sputnik">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14856,8 +14945,13 @@
 			<File>MDR Sputnik.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MDR Thüringen EF">
+				<Item Name="alt_MDR Thür Mitte-W">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MDR Thür Mitte-W">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MDR Thüringen EF">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="MDR Thüringen">
@@ -14923,6 +15017,9 @@
 			<File>Musiq3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_N-Joy">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="N-Joy">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14931,6 +15028,9 @@
 			<File>N-Joy.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR 1 Nieders. HAN">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR 1 Nieders. HAN">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14945,6 +15045,9 @@
 			<File>NDR 1 Niedersachsen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR 1 Radio MV SN">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR 1 Radio MV SN">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14955,6 +15058,9 @@
 			<File>NDR 1 Radio MV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR1 Welle Nord KI">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR 1 Welle Nord" />
 				<Item Name="NDR1 Welle Nord KI">
 					<Provider>Astra 19.2E</Provider>
@@ -14966,6 +15072,9 @@
 			<File>NDR 1 Welle Nord.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR 2 NDS">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR 2 NDS">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14979,6 +15088,9 @@
 			<File>NDR 2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR 90,3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR 90,3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -14989,6 +15101,9 @@
 			<File>NDR 90,3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR Blue">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR Blue">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -14997,14 +15112,21 @@
 			<File>NDR Blue.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NDR Info Spez.">
+				<Item Name="alt_NDR Info Spezial">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="NDR Info Spez.">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-				<Item Name="NDR Info Spezial" />
+				<Item Name="NDR Info Spezial">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>NDR Info Spezial.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR Info NDS">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR Info NDS">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -15015,6 +15137,9 @@
 			<File>NDR Info.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR Kultur">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR Kultur">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -15024,6 +15149,9 @@
 			<File>NDR Kultur.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_NDR Plus">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NDR Plus">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -15232,6 +15360,9 @@
 			<File>Planet Radio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_Puls">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Puls">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -15475,6 +15606,9 @@
 			<File>Radio ECCA.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_RadioEins">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Radio Eins" />
 				<Item Name="RadioEins">
 					<Provider>Astra 19.2E</Provider>
@@ -15967,6 +16101,9 @@
 			<File>Rai Radio 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_RBB 88.8">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="RadioBerlin 88">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -15977,6 +16114,9 @@
 			<File>RBB 88.8.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_RBBKultur">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="RBBKultur">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- München -->
@@ -16144,6 +16284,9 @@
 			<File>Sporza.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SR 1 Europawelle">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SR 1 Europawelle">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16152,6 +16295,9 @@
 			<File>SR 1 Europawelle.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SR 2 KulturRadio">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SR 2 KulturRadio">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16160,6 +16306,9 @@
 			<File>SR 2 KulturRadio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SR 3 Saarlandwelle">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SR 3 Saarlandwelle">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16433,6 +16582,9 @@
 			<File>Superfly.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SWR Aktuell">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SWR Aktuell">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16441,7 +16593,14 @@
 			<File>SWR Aktuell.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SWR1 BW">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="alt_SWR1 RP">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SWR1 BW">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -16454,6 +16613,9 @@
 			<File>SWR1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SWR2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SWR2">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16462,6 +16624,9 @@
 			<File>SWR2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SWR3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SWR3">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16470,6 +16635,12 @@
 			<File>SWR3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_SWR4 BW">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="alt_SWR4 RP">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SWR4 BW">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16575,6 +16746,9 @@
 			<File>Waterstad FM.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_1Live Diggi">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="1Live Diggi">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16584,6 +16758,9 @@
 			<File>WDR 1Live Diggi.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_1Live">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="1Live">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16594,6 +16771,9 @@
 			<File>WDR 1Live.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR 2 Rheinland">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR 2 Ostwestfalen-Lippe">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
@@ -16615,6 +16795,9 @@
 			<File>WDR 2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR 3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR 3">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16626,6 +16809,9 @@
 			<File>WDR 3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR 4">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR 4">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16637,6 +16823,9 @@
 			<File>WDR 4.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR 5">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR 5">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16647,6 +16836,9 @@
 			<File>WDR 5.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_WDR Event">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="WDR Event">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16790,6 +16982,9 @@
 			<File>Xite.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="alt_You FM">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="You FM">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
