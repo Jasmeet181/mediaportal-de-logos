@@ -2,12 +2,10 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		05/07/2021 Azur TV, Provence Azur and Var Azur renamed to BFM Nice Côte d'Azur, BFM Marseille Provence and BFM Toulon Var
 		12/07/2021 BBC One (SD) and BBC Two (SD) removed from Ziggo
-		20/07/2021 Bremen Next added to Astra
 		01/08/2021 VH1 replaced by MTV 00s
+		22/08/2021 Bild/HD launches
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
-		00/09/2021 Bild launches
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
 		00/00/2021 Sky Documentaries and Sky Nature launch
@@ -971,10 +969,6 @@
 		</Channel>
 		-->
 		<Channel>
-				<Item Name="Azur TV" />
-			<File>Azur TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="B92" />
 			<File>B92.png</File>
 		</Channel>
@@ -1339,10 +1333,22 @@
 			<File>BFM Lyon.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BFM Marseille Provence" />
+			<File>BFM Marseille Provence.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BFM Nice Côte d'Azur" />
+			<File>BFM Nice Cote dAzur.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="BFM Paris">
 					<Provider>TNT (FR)</Provider>
 				</Item>
 			<File>BFM Paris.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BFM Toulon Var" />
+			<File>BFM Toulon Var.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BFM TV HD">
@@ -8869,12 +8875,6 @@
 			<File>ProSieben.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Provence Azur">
-					<Provider>TNT (FR)</Provider>
-				</Item>
-			<File>Provence Azur.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Prva Srpska Televizija" />
 			<File>Prva Srpska Televizija.png</File>
 		</Channel>
@@ -9013,8 +9013,8 @@
 				<Item Name="R9 Oesterreich HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="R9" />
-			<File>R9.png</File>
+				<Item Name="R9 Österreich" />
+			<File>R9 Osterreich.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio Bremen HD">
@@ -12958,10 +12958,6 @@
 				</Item>
 				<Item Name="Vamos" />
 			<File>Vamos.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Var Azur" />
-			<File>Var Azur.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vedia" />
