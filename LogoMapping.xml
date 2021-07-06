@@ -3,6 +3,7 @@
 <!-- ******************************************************************** -->
 		<!--
 		12/07/2021 BBC One (SD) and BBC Two (SD) removed from Ziggo
+		20/07/2021 Sky Sports Austria 1 removed from Vodafone
 		01/08/2021 VH1 replaced by MTV 00s
 		22/08/2021 Bild/HD launches
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
@@ -10,6 +11,7 @@
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
 		00/00/2021 Sky Documentaries and Sky Nature launch
 		00/00/2022 TVP World HD launches on Astra
+		DAZN 1 and DAZN 2 added to Vodafone
 		Super RTL renamed to Toggo
 		TNT/HD renamed to WB TV/HD (ES)
 		-->
@@ -758,10 +760,11 @@
 			<File>Arirang HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Aristo TV" />
 				<Item Name="Aristo.TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>Aristo.TV.png</File>
+			<File>Aristo TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Arte Belgique">
@@ -1334,6 +1337,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="BFM Marseille Provence" />
+				<Item Name="Provence Azur">
+					<Provider>TNT (FR)</Provider>
+				</Item>
 			<File>BFM Marseille Provence.png</File>
 		</Channel>
 		<Channel>
@@ -2801,10 +2807,6 @@
 			<File>Davos Klosters.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 1 Bar HD">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
 				<Item Name="DAZN 1 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2814,10 +2816,6 @@
 			<File>Dazn 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 2 Bar HD">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
 				<Item Name="DAZN 2 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3695,6 +3693,9 @@
 			<File>Eurosport 2 HD Xtra.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Eurosport2HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Eurosport 2 F HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
