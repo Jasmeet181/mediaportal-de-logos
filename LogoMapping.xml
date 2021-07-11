@@ -9308,11 +9308,9 @@
 			<File>Rhein-Main TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Rhein-Neckar Fernsehen HD" />
-			<File>Rhein-Neckar Fernsehen HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Rhein-Neckar Fernsehen" />
+				<Item Name="RNF-HD" />
+				<Item Name="RNF" />
 			<File>Rhein-Neckar Fernsehen.png</File>
 		</Channel>
 		<Channel>
