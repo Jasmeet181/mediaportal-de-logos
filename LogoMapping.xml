@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		12/07/2021 BBC One (SD) and BBC Two (SD) removed from Ziggo
 		20/07/2021 Sky Sports Austria 1 removed from Vodafone
 		01/08/2021 VH1 replaced by MTV 00s
 		22/08/2021 Bild/HD launches
@@ -484,9 +483,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Allgau TV" />
-				<Item Name="Ulm-Allgäu HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 			<File>Allgau TV.png</File>
 		</Channel>
 		<Channel>
@@ -900,6 +896,9 @@
 			<File>Auftanken.TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="A.TV HD .">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="A.TV HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -1052,7 +1051,6 @@
 					<Provider>Digitenne</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Voo</Provider>
-					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC One.png</File>
 		</Channel>
@@ -1067,7 +1065,6 @@
 				<Item Name="BBC Two">
 					<Provider>Digitenne</Provider>
 					<Provider>Voo</Provider>
-					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Two.png</File>
 		</Channel>
@@ -10733,10 +10730,34 @@
 			<File>Sky Sport Austria 3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Sport Austria 4 HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Sky Sport Austria 4 HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Sport Austria 4">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Sky Sport Austria 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sport Austria 5 HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Sky Sport Austria 5 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sport Austria 6 HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Sky Sport Austria 6 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sport Austria 7 HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Sky Sport Austria 7 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sport Bundesliga 1 HD">
@@ -14421,10 +14442,6 @@
 			<File>ERF Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ERF Pop" />
-			<File>ERF Pop.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="EsRadio">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -15421,7 +15438,6 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="VRT Radio 1">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Digitenne</Provider>
 				</Item>
 			<File>Radio 1.png</File>
@@ -16677,13 +16693,6 @@
 		<Channel>
 				<Item Name="TopRadio" />
 			<File>TopRadio.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TRT TSR" />
-				<Item Name="TSR Turkce">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>TRT TSR.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TSF Jazz">
