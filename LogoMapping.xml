@@ -2,13 +2,15 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		20/07/2021 Sky Sports Austria 1 removed from Vodafone
 		01/08/2021 VH1 replaced by MTV 00s
+		02/08/2021 New MTV, MTV Live, MTV Hits, MTV Club, MTV Music, MTV Classic and MTV Base logos. Remove MTV Live HD logo.
 		22/08/2021 Bild/HD launches
+		09/09/2021 Sky Documentaries and Sky Nature launch
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
+		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
+		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
-		00/00/2021 Sky Documentaries and Sky Nature launch
 		00/00/2022 TVP World HD launches on Astra
 		DAZN 1 and DAZN 2 added to Vodafone
 		Super RTL renamed to Toggo
@@ -724,8 +726,11 @@
 				<Item Name="ARD alpha">
 					<Provider>Magenta Tirol</Provider>
 				</Item>
-				<Item Name="ARD-alpha">
+				<Item Name="ARD-alpha bis 14.12.2021 zu HD wechseln">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
+				<Item Name="ARD-alpha">
 					<Provider>MagentaTV</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
@@ -1387,6 +1392,9 @@
 			<File>Bibel TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Bild HD">
+					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
 				<Item Name="Bild" />
 			<File>Bild.png</File>
 		</Channel>
@@ -3685,7 +3693,6 @@
 		<Channel>
 				<Item Name="Eurosport 2 HD Xtra">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>Eurosport 2 HD Xtra.png</File>
 		</Channel>
@@ -3713,6 +3720,55 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Eurosport 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport3HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Eurosport 3 HD" />
+			<File>Eurosport 3 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Eurosport 3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 4">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Eurosport 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 5">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Eurosport 5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 6">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Eurosport 6.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 7">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Eurosport 7.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 8">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Eurosport 8.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 9">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Eurosport 9.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Eurosport360 HD 1 (S)">
@@ -6042,19 +6098,40 @@
 				<Item Name="DateLine">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Deutsche Girls 24 TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Eros TV">
+				<Item Name="Dreamgirls24 TV temp">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Erotika TV - Neu!">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Erotiksat24 TV temp">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="GayBoys Live">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Heiss und Sexy TV">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MB Sat - Test1">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MB Sat - Test3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MB Sat - Test4">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MB Sat - Test5">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MB Sat - Test6">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MB Sat - Test7">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="MB Sat - Test8">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Media Broadcast Satellite" />
@@ -10544,7 +10621,6 @@
 		<Channel>
 				<Item Name="Sky Sport 1 HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -10571,27 +10647,8 @@
 			<File>Sky Sport 11.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sport 12 HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Sky Sport 12 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky Sport 13 HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Sky Sport 13 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky Sport 14 HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Sky Sport 14 HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sky Sport 1">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -10600,7 +10657,6 @@
 		<Channel>
 				<Item Name="Sky Sport 2 HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -10609,7 +10665,6 @@
 		<Channel>
 				<Item Name="Sky Sport 2">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 			<File>Sky Sport 2.png</File>
@@ -10701,7 +10756,6 @@
 		<Channel>
 				<Item Name="Sky Sport Austria 1">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>Sky Sport Austria 1.png</File>
 		</Channel>
@@ -10789,12 +10843,8 @@
 			<File>Sky Sport Bundesliga 2 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Bundesliga 1">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="Sky Sport Bundesliga 1">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -10905,7 +10955,6 @@
 		<Channel>
 				<Item Name="Sky Sport News HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -10913,8 +10962,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sport News">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -11162,6 +11209,10 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="SR FS (bis 14.12.2021)">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 				<Item Name="SR">
 					<Provider>MagentaTV</Provider>
@@ -12433,10 +12484,6 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>TRT Muzik.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TRT Spor HD" />
-			<File>TRT Spor HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TRT Spor" />
