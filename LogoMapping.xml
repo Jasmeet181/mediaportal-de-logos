@@ -10359,7 +10359,7 @@
 			<File>Shop LC.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Mei Musi TV">
+				<Item Name="Mei Musi">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Shop24Direct" />
@@ -11282,7 +11282,7 @@
 				<Item Name="Starparadies AT">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Starparadies A">
+				<Item Name="Starparadies D">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="StarParadies" />
@@ -13182,10 +13182,9 @@
 			<File>Vogtland Regional Fernsehen.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Volksmusik.TV - Der neue Sender!">
+				<Item Name="Volksmusik.TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Volksmusik.TV" />
 			<File>Volksmusik.TV.png</File>
 		</Channel>
 		<Channel>
