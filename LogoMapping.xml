@@ -1395,6 +1395,9 @@
 				<Item Name="Bild HD">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
+				<Item Name="Bild Live TV">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Bild" />
 			<File>Bild.png</File>
 		</Channel>
