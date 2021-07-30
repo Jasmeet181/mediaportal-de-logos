@@ -1393,10 +1393,8 @@
 		</Channel>
 		<Channel>
 				<Item Name="Bild HD">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
-				<Item Name="Bild Live TV">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 				<Item Name="Bild" />
 			<File>Bild.png</File>
@@ -6320,16 +6318,16 @@
 			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. Accion">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
 				<Item Name="M. Accion HD">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="M. Acción">
-					<Provider>Astra 19.2E</Provider>
+				<Item Name="M. Accion">
+					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="M. Acción HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M. Acción">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Movistar Accion" />
@@ -6343,22 +6341,22 @@
 			<File>Movistar Cine Espanol.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M.CineDoc&amp;Roll HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="M.CineDoc&amp;Roll">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="M.CineDoc&amp;Roll HD">
-					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Movistar CineDoc &amp; Roll" />
 			<File>Movistar CineDoc and Roll.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. Comedia">
-					<Provider>Astra 19.2E</Provider>
+				<Item Name="M. Comedia HD">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="M. Comedia HD">
+				<Item Name="M. Comedia">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="M.Comedia HD">
@@ -6385,10 +6383,10 @@
 			<File>Movistar Deportes.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. Deportes 1">
+				<Item Name="M. Deportes 1 HD">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="M. Deportes 1 HD">
+				<Item Name="M. Deportes 1">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="M. Deportes1">
@@ -6401,10 +6399,10 @@
 			<File>Movistar Deportes 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. Deportes 2">
+				<Item Name="M. Deportes 2 HD">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="M. Deportes 2 HD">
+				<Item Name="M. Deportes 2">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="M. Deportes2">
@@ -6475,11 +6473,21 @@
 			<File>Movistar Drama.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. Estrenos">
+				<Item Name="M. Estrenos 2 HD">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M. Estrenos 2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Estrenos 2" />
+			<File>Movistar Estrenos 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. Estrenos HD">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="M. Estrenos HD">
+				<Item Name="M. Estrenos">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="M.EstrenosHD">
@@ -6739,10 +6747,10 @@
 			<File>Movistar Oscars.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. Partidazo">
+				<Item Name="M. Partidazo HD">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="M. Partidazo HD">
+				<Item Name="M. Partidazo">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 				<Item Name="M.Partidazo">
@@ -6791,11 +6799,21 @@
 			<File>Movistar Seriesmania.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="M. Series">
+				<Item Name="M. Series 2 HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M. Series 2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Series 2" />
+			<File>Movistar Series.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. Series HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
-				<Item Name="M. Series HD">
+				<Item Name="M. Series">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
@@ -11279,10 +11297,10 @@
 			<File>Star TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Starparadies AT">
+				<Item Name="StarParadies AT">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Starparadies D">
+				<Item Name="StarParadies D">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="StarParadies" />
