@@ -2,12 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		01/08/2021 VH1 replaced by MTV 00s
 		02/08/2021 New MTV, MTV Live, MTV Hits, MTV Club, MTV Music, MTV Classic and MTV Base logos. Remove MTV Live HD logo.
 		22/08/2021 Bild/HD launches
+		01/09/2021 Movistar Clásicos launches
 		09/09/2021 Sky Documentaries and Sky Nature launch
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
+		00/09/2021 Doxx/HD replaced by Bergblick
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
@@ -1280,6 +1281,10 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Bel RTL.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Bergblick" />
+			<File>Bergblick.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BestMarket.TV" />
@@ -6134,9 +6139,6 @@
 				<Item Name="MB Sat - Test7">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="MB Sat - Test8">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Media Broadcast Satellite" />
 				<Item Name="Mobile Sex">
 					<Provider>Astra 19.2E</Provider>
@@ -6288,7 +6290,9 @@
 			<File>Mola TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="More Than Sports TV" />
+				<Item Name="More Than Sports TV">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>More Than Sports TV.png</File>
 		</Channel>
 		<Channel>
@@ -6350,6 +6354,11 @@
 				</Item>
 				<Item Name="Movistar CineDoc &amp; Roll" />
 			<File>Movistar CineDoc and Roll.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Movistar Clasicos" />
+				<Item Name="Movistar Clàsicos" />
+			<File>Movistar Clasicos.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M. Comedia HD">
@@ -6844,6 +6853,13 @@
 				</Item>
 				<Item Name="Movistar Wimbledon" />
 			<File>Movistar Wimbledon.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MTV 00s" />
+				<Item Name="VH1">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>MTV 00s.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTV 80s">
@@ -13069,13 +13085,6 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Veronica HD Disney XD HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="VH1">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-			<File>VH1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ViàAngers" />
