@@ -2,8 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		02/08/2021 New MTV, MTV Live, MTV Hits, MTV Club, MTV Music, MTV Classic and MTV Base logos. Remove MTV Live HD logo.
 		22/08/2021 Bild/HD launches
+		30/08/2021 Canal+ Family/HD closes
 		01/09/2021 Movistar Clásicos launches
 		09/09/2021 Sky Documentaries and Sky Nature launch
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
@@ -12,6 +12,7 @@
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
+		00/00/2021 Canal+ Docs and Canal+ Kids launch
 		00/00/2022 TVP World HD launches on Astra
 		DAZN 1 and DAZN 2 added to Vodafone
 		Super RTL renamed to Toggo
@@ -6855,8 +6856,7 @@
 			<File>Movistar Wimbledon.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV 00s" />
-				<Item Name="VH1">
+				<Item Name="MTV 00s">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>MTV 00s.png</File>
