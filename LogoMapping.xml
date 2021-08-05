@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		13/08/2021 ProSiebenSat.1 UHD launches
 		22/08/2021 Bild/HD launches
 		30/08/2021 Canal+ Family/HD closes
 		01/09/2021 Movistar Clásicos launches
@@ -8867,6 +8868,13 @@
 			<File>PowerTurk TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Prime Video Sportsbar">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Prime Video" />
+			<File>Prime Video.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Pro TV International/TVR International" />
 				<Item Name="Pro TV/TVR (rum)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -8977,6 +8985,13 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>ProSieben Schweiz.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Pro7Sat.1 UHD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="ProSiebenSat.1 UHD" />
+			<File>ProSiebenSat.1 UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ProSieben">
@@ -10793,9 +10808,7 @@
 			<File>Sky Sport Austria 1 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sport Austria 1">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Sky Sport Austria 1" />
 			<File>Sky Sport Austria 1.png</File>
 		</Channel>
 		<Channel>
@@ -10805,9 +10818,7 @@
 			<File>Sky Sport Austria 2 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sport Austria 2">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Sky Sport Austria 2" />
 			<File>Sky Sport Austria 2.png</File>
 		</Channel>
 		<Channel>
@@ -10817,9 +10828,7 @@
 			<File>Sky Sport Austria 3 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sport Austria 3">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Sky Sport Austria 3" />
 			<File>Sky Sport Austria 3.png</File>
 		</Channel>
 		<Channel>
@@ -10829,9 +10838,7 @@
 			<File>Sky Sport Austria 4 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sport Austria 4">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Sky Sport Austria 4" />
 			<File>Sky Sport Austria 4.png</File>
 		</Channel>
 		<Channel>
@@ -13949,9 +13956,11 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Antenne Brandenburg">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="Antenne Brbg.">
+					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Antenne Brandenburg.png</File>
 		</Channel>
@@ -14132,9 +14141,11 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="BR Heimat">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="BR-Heimat">
+					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>BR Heimat.png</File>
 		</Channel>
