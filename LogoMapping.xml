@@ -2,11 +2,10 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		13/08/2021 ProSiebenSat.1 UHD launches
 		22/08/2021 Bild/HD launches
 		30/08/2021 Canal+ Family/HD closes
 		01/09/2021 Movistar Clásicos launches
-		09/09/2021 Sky Documentaries and Sky Nature launch
+		09/09/2021 Sky Documentaries HD and Sky Nature HD launch
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
 		00/09/2021 Doxx/HD replaced by Bergblick
@@ -3515,16 +3514,8 @@
 			<File>ESPN 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ESPN 5">
-					<Provider>Ziggo</Provider>
-				</Item>
-			<File>ESPN 5.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ESPN 6">
-					<Provider>Ziggo</Provider>
-				</Item>
-			<File>ESPN 6.png</File>
+				<Item Name="ESPN UHD"/>
+			<File>ESPN UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ESPN">
@@ -8870,6 +8861,7 @@
 		<Channel>
 				<Item Name="Prime Video Sportsbar">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
 				<Item Name="Prime Video" />
 			<File>Prime Video.png</File>
@@ -13432,6 +13424,14 @@
 			<File>WDR Essen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="WDR Fernsehen" />
+				<Item Name="WDR">
+					<Provider>MagentaTV</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>WDR Fernsehen.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="alt_WDR HD Aachen">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -13495,6 +13495,16 @@
 			<File>WDR HD Essen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="WDR Fernsehen HD">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="WDR HD Fernsehen" />
+				<Item Name="WDR HD">
+					<Provider>MagentaTV</Provider>
+				</Item>
+			<File>WDR HD Fernsehen.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="alt_WDR HD Köln">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -13537,15 +13547,6 @@
 			<File>WDR HD Wuppertal.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="WDR Fernsehen HD">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="WDR HD">
-					<Provider>MagentaTV</Provider>
-				</Item>
-			<File>WDR HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="WDR Köln">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -13575,9 +13576,8 @@
 			<File>WDR Wuppertal.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="WDR">
-					<Provider>MagentaTV</Provider>
-					<Provider>Ziggo</Provider>
+				<Item Name="WDR Mediathek (Internet)">
+					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>WDR.png</File>
 		</Channel>
@@ -14175,6 +14175,7 @@
 				</Item>
 				<Item Name="BR24live">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
 			<File>BR24live.png</File>
 		</Channel>
@@ -14184,6 +14185,7 @@
 				</Item>
 				<Item Name="BR24">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
 			<File>BR24.png</File>
 		</Channel>
@@ -14495,12 +14497,6 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Dokumente und Debatten.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Domradio">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>Domradio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Donau 3 FM">
@@ -16222,6 +16218,12 @@
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>RBBKultur.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RDP International">
+					<Provider>Vodafone</Provider><!-- Alfeld -->
+				</Item>
+			<File>RDP International.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Regenbogen 2">
