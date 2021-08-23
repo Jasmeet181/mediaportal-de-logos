@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		22/08/2021 Bild/HD launches
 		30/08/2021 Canal+ Family/HD closes
 		01/09/2021 Movistar Clásicos launches
 		09/09/2021 Sky Documentaries HD and Sky Nature HD launch
@@ -14760,6 +14759,10 @@
 			<File>HRT HR1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Hrvatski Radio Frankfurt" />
+			<File>Hrvatski Radio Frankfurt.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="iCat" />
 				<Item Name="iCat.cat">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
@@ -14814,16 +14817,16 @@
 			<File>Joe 60s and 70s.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Joe 80s" />
+				<Item Name="Joe 80s &amp; 90s" />
 			<File>Joe 80s.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Joe 90s" />
-			<File>Joe 90s.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Joe Easy" />
 			<File>Joe Easy.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Joe Lage Landen" />
+			<File>Joe Lage Landen.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Joe" />
