@@ -2275,6 +2275,12 @@
 			<File>Cero.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="CGTN Documentary HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>CGTN Documentary HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="CGTN Documentary">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2287,11 +2293,24 @@
 			<File>CGTN Espanol.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="CGTN Francais HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>CGTN Francais HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="CGTN Francais" />
 				<Item Name="CGTN F">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>CGTN Francais.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="CGTN HD" />
+				<Item Name="CGTN News HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>CGTN HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="CGTN">
