@@ -2,12 +2,11 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		30/08/2021 Canal+ Family/HD closes
-		01/09/2021 Movistar Clásicos launches
 		09/09/2021 Sky Documentaries HD and Sky Nature HD launch
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
 		00/09/2021 Doxx/HD replaced by Bergblick
+		01/10/2021 Nickelodeon Austria to Nickelodeon Austria/Comedy Central Austria?
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
@@ -133,14 +132,14 @@
 				<Item Name="24Kitchen HD">
 					<Provider>Ziggo</Provider>
 				</Item>
-			<File>24Kitchen HD.png</File>
+			<File>24Kitchen HD NL.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="24Kitchen">
 					<Provider>Digitenne</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
-			<File>24Kitchen.png</File>
+			<File>24Kitchen NL.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="25 TV">
@@ -1892,13 +1891,6 @@
 			<File>Canal 32.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Canal 4K UHD" />
-				<Item Name="Evenement Sport 4K UHD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Canal 4K UHD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Canal 4" />
 			<File>Canal 4.png</File>
 		</Channel>
@@ -2083,6 +2075,13 @@
 			<File>Canalcosta.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Canal+ 4K UHD" />
+				<Item Name="Evenement Sport 4K UHD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>CanalPlus 4K UHD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Canal+ Cinéma HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -2118,18 +2117,6 @@
 		<Channel>
 				<Item Name="Canal+ En Clair" />
 			<File>CanalPlus En Clair.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Canal+ Family HD">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-			<File>CanalPlus Family HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Canal+ Family">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>CanalPlus Family.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ HD">
@@ -6367,6 +6354,12 @@
 			<File>Movistar CineDoc and Roll.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M. Clàsicos HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M. Clàsicos">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Movistar Clasicos" />
 				<Item Name="Movistar Clàsicos" />
 			<File>Movistar Clasicos.png</File>
@@ -7290,9 +7283,7 @@
 			<File>N1 Niederosterreich TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="N24 Doku HD">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
+				<Item Name="N24 Doku HD" />
 			<File>N24 Doku HD.png</File>
 		</Channel>
 		<Channel>
@@ -7663,8 +7654,8 @@
 				<Item Name="Nick/CC+1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Nickelodeon/Comedy Centrtal +1" />
-			<File>Nickelodeon Comedy Centrtal Plus 1.png</File>
+				<Item Name="Nickelodeon/Comedy Central +1" />
+			<File>Nickelodeon Comedy Central Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nickelodeon HD Austria" />
@@ -7672,8 +7663,8 @@
 		</Channel>
 		<Channel>
 				<Item Name="Nick/CC+1 HD" />
-				<Item Name="Nickelodeon HD/Comedy Centrtal +1 HD" />
-			<File>Nickelodeon HD Comedy Centrtal Plus 1 HD.png</File>
+				<Item Name="Nickelodeon HD/Comedy Central +1 HD" />
+			<File>Nickelodeon HD Comedy Central Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nickelodeon HD Schweiz" />
@@ -10638,6 +10629,10 @@
 			<File>Sky Crime HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Documentaries HD" />
+			<File>Sky Documentaries HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Krimi HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -10646,6 +10641,10 @@
 		<Channel>
 				<Item Name="Sky Krimi" />
 			<File>Sky Krimi.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Nature HD" />
+			<File>Sky Nature HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky News HD" />
