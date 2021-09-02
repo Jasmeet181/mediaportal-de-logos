@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		09/09/2021 Canal+ Docs and Canal+ Kids launch
 		09/09/2021 Sky Documentaries HD and Sky Nature HD launch
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
@@ -10,7 +11,6 @@
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
-		00/00/2021 Canal+ Docs and Canal+ Kids launch
 		00/00/2022 TVP World HD launches on Astra
 		DAZN 1 and DAZN 2 added to Vodafone
 		Super RTL renamed to Toggo
@@ -3865,6 +3865,12 @@
 			<File>Eurosport News.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Evenement A La Carte">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Evenement A La Carte.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Evil Angel HD" />
 			<File>Evil Angel HD.png</File>
 		</Channel>
@@ -6646,6 +6652,27 @@
 			<File>Movistar LaLiga.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M.LCampeon10">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Liga de Campeones 10" />
+			<File>Movistar Liga de Campeones 10.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M.LCampeon11">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Liga de Campeones 11" />
+			<File>Movistar Liga de Campeones 11.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M.LCampeon12">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Liga de Campeones 12" />
+			<File>Movistar Liga de Campeones 12.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="M. Liga de Campeones 1">
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
@@ -6724,6 +6751,13 @@
 				</Item>
 				<Item Name="Movistar Liga de Campeones 8" />
 			<File>Movistar Liga de Campeones 8.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M.LCampeon9">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Liga de Campeones 9" />
+			<File>Movistar Liga de Campeones 9.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M.LCampeonsUHD" />
