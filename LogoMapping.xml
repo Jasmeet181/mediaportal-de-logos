@@ -2109,6 +2109,14 @@
 			<File>CanalPlus Decale.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Canal+ Docs HD" />
+			<File>CanalPlus Docs HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Canal+ Docs" />
+			<File>CanalPlus Docs.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Canal+ En Clair HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -2123,6 +2131,14 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>CanalPlus HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Canal+ Kids HD" />
+			<File>CanalPlus Kids HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Canal+ Kids" />
+			<File>CanalPlus Kids.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Series HD">
