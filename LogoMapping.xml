@@ -3,11 +3,10 @@
 <!-- ******************************************************************** -->
 		<!--
 		09/09/2021 Canal+ Docs and Canal+ Kids launch
-		09/09/2021 Sky Documentaries HD and Sky Nature HD launch
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
-		00/09/2021 Doxx/HD replaced by Bergblick
-		01/10/2021 Nickelodeon Austria to Nickelodeon Austria/Comedy Central Austria?
+		01/10/2021 Nickelodeon Austria renamed to Nickelodeon Austria/Comedy Central Austria?
+		04/10/2021 Sky Serien and Shows HD renamed to Sky Replay HD
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
@@ -1282,7 +1281,16 @@
 			<File>Bel RTL.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Bergblick" />
+				<Item Name="Bergblick HD" />
+				<Item Name="Doxx">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+			<File>Bergblick HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Bergblick">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Bergblick.png</File>
 		</Channel>
 		<Channel>
@@ -2082,6 +2090,11 @@
 			<File>CanalPlus 4K UHD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Canal+ Bein Sports" />
+				<Item Name="Mosaique Ligue des Champions" />
+			<File>CanalPlus Bein Sports.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Canal+ Cinéma HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -2166,6 +2179,9 @@
 			<File>CanalPlus Sport.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="A Venir">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Canal+">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>TNT (FR)</Provider>
@@ -3204,16 +3220,6 @@
 		<Channel>
 				<Item Name="Dorf TV" />
 			<File>Dorf TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Doxx HD" />
-			<File>Doxx HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Doxx">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Doxx.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Dream Turk" />
@@ -10679,7 +10685,10 @@
 			<File>Sky Crime HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Documentaries HD" />
+				<Item Name="Sky Documentaries HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Bad Marienberg -->
+				</Item>
 			<File>Sky Documentaries HD.png</File>
 		</Channel>
 		<Channel>
@@ -10693,7 +10702,10 @@
 			<File>Sky Krimi.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Nature HD" />
+				<Item Name="Sky Nature HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Bad Marienberg -->
+				</Item>
 			<File>Sky Nature HD.png</File>
 		</Channel>
 		<Channel>
