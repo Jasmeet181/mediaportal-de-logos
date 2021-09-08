@@ -2091,7 +2091,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Bein Sports" />
-				<Item Name="Mosaique Ligue des Champions" />
+				<Item Name="Mosaique Ligue des Champions">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>CanalPlus Bein Sports.png</File>
 		</Channel>
 		<Channel>
@@ -2127,6 +2129,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Docs" />
+				<Item Name="Canal+Docs">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>CanalPlus Docs.png</File>
 		</Channel>
 		<Channel>
@@ -2151,6 +2156,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Kids" />
+				<Item Name="Canal+Kids">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>CanalPlus Kids.png</File>
 		</Channel>
 		<Channel>
