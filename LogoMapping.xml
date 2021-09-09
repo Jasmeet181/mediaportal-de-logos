@@ -16,6 +16,7 @@
 		TNT/HD renamed to WB TV/HD (ES)
 		-->
 		<!--
+		Boing/ES conflict
 		Hit FM BE/ES conflict 
 		DMAX DE/ES conflict
 		RTL Crime DE/NL conflict
@@ -1278,6 +1279,9 @@
 				<Item Name="Bel RTL - Télévision">
 					<Provider>Voo</Provider>
 				</Item>
+				<Item Name="Bel RTL">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Bel RTL.png</File>
 		</Channel>
 		<Channel>
@@ -1667,14 +1671,23 @@
 			<File>Bodensee TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Boing ES" />
+				<!-- 
+				<Item Name="Boing">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Movistar+ IPTV</Provider>
+					<Provider>TDT</Provider> Catalunya, Barcelona 
+					<Provider>TDT</Provider> Gran Canaria, Lanzarote 
+				</Item>
+				-->
+			<File>Boing ES.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Boing France HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="Boing">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Boing.png</File>
@@ -7635,6 +7648,12 @@
 			<File>NH Nieuws.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nieuws+">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>NieuwsPlus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="NHK World HD" />
 				<Item Name="NHK World-Japan (eng)">
 					<Provider>Vodafone</Provider><!-- München -->
@@ -12753,6 +12772,10 @@
 			<File>TV Sudostschweiz.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV Suisse Plus" />
+			<File>TV Suisse Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV Tours" />
 			<File>TV Tours.png</File>
 		</Channel>
@@ -14143,6 +14166,7 @@
 		<Channel>
 				<Item Name="BBC Radio 1">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Radio 1.png</File>
@@ -14150,6 +14174,7 @@
 		<Channel>
 				<Item Name="BBC Radio 2">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Radio 2.png</File>
@@ -14157,6 +14182,7 @@
 		<Channel>
 				<Item Name="BBC Radio 3">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Radio 3.png</File>
@@ -14173,6 +14199,7 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="BBC World Service">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -14184,6 +14211,12 @@
 		<Channel>
 				<Item Name="BDN Radio Ciutat de Badalona" />
 			<File>BDN Radio Ciutat de Badalona.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Be One">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Be One.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Bel RTL">
@@ -14213,7 +14246,9 @@
 			<File>Biosfera 10.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BNL" />
+				<Item Name="BNL">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>BNL.png</File>
 		</Channel>
 		<Channel>
@@ -14322,7 +14357,9 @@
 					<Provider>TNT (BE)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
-				<Item Name="BRF 1" />
+				<Item Name="BRF 1">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>BRF 1.png</File>
 		</Channel>
 		<Channel>
@@ -14411,6 +14448,7 @@
 					<Provider>TNT (BE)</Provider>
 				</Item>
 				<Item Name="Classic21">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Classic 21.png</File>
@@ -14493,7 +14531,9 @@
 			<File>Dasding.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="De Tijdloze" />
+				<Item Name="De Tijdloze">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>De Tijdloze.png</File>
 		</Channel>
 		<Channel>
@@ -14637,6 +14677,12 @@
 			<File>Europe 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Family Radio">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Family Radio.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Flamenco Radio" />
 			<File>Flamenco Radio.png</File>
 		</Channel>
@@ -14666,18 +14712,21 @@
 		<Channel>
 				<Item Name="France Culture">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>France Culture.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="France Inter">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>France Inter.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="France Musique">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>France Musique.png</File>
 		</Channel>
@@ -14902,10 +14951,15 @@
 		</Channel>
 		<Channel>
 				<Item Name="Joe 60s &amp; 70s" />
+				<Item Name="Joe 60s-70s">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Joe 60s and 70s.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Joe 80s &amp; 90s" />
+				<Item Name="Joe 80s &amp; 90s">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Joe 80s.png</File>
 		</Channel>
 		<Channel>
@@ -14913,10 +14967,15 @@
 			<File>Joe Easy.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Joe Lage Landen" />
+				<Item Name="Joe Lage Landen">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Joe Lage Landen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Joe FM">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Joe" />
 			<File>Joe.png</File>
 		</Channel>
@@ -14943,12 +15002,15 @@
 			<File>Kiss FM.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Klara Continuo" />
+				<Item Name="Klara Continuo">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Klara Continuo.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Klara">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Klara.png</File>
@@ -14980,6 +15042,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="La Première">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="La1ère">
@@ -15168,12 +15231,21 @@
 			<File>Metropol FM.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MNM Hits" />
+				<Item Name="Mint">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Mint.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MNM Hits">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>MNM Hits.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MNM">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>MNM.png</File>
@@ -15199,6 +15271,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Musiq3">
+					<Provider>Telenet</Provider>
 					<Provider>TNT (BE)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -15356,6 +15429,7 @@
 		<Channel>
 				<Item Name="Nostalgie">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>Nostalgie.png</File>
 		</Channel>
@@ -15370,6 +15444,7 @@
 		<Channel>
 				<Item Name="NPO 3FM">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO 3FM.png</File>
@@ -15380,6 +15455,7 @@
 				</Item>
 				<Item Name="NPO Radio 1">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 1.png</File>
@@ -15397,6 +15473,7 @@
 		<Channel>
 				<Item Name="NPO Radio 2">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 2.png</File>
@@ -15404,6 +15481,7 @@
 		<Channel>
 				<Item Name="NPO Radio 4">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 4.png</File>
@@ -15428,6 +15506,7 @@
 				</Item>
 				<Item Name="NRJ">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>NRJ.png</File>
 		</Channel>
@@ -15509,6 +15588,12 @@
 			<File>Onda Regional.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="One World Radio">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>One World Radio.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Orange 94.0" />
 			<File>Orange 94.0.png</File>
 		</Channel>
@@ -15559,7 +15644,9 @@
 			<File>Puls.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Q-Foute Radio" />
+				<Item Name="Q-Foute Radio">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Q-Foute Radio.png</File>
 		</Channel>
 		<Channel>
@@ -15567,12 +15654,18 @@
 			<File>Q-Maximum Hits.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Qmusic Non-Stop">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Qmusic Nonstop">
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Qmusic Nonstop.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Q-Music Radio">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Q-Music">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -15609,7 +15702,9 @@
 				<Item Name="Radio 1 (VRT)">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Radio 1" />
+				<Item Name="Radio 1">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="VRT Radio1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -15627,6 +15722,21 @@
 		<Channel>
 				<Item Name="Radio 2 (VRT)">
 					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Radio 2 Antw.">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Radio 2 Limb.">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Radio 2 O. Vl.">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Radio 2 Vl. Br.">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Radio 2 W. Vl.">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Radio 2" />
 				<Item Name="VRT Radio 2">
@@ -15763,6 +15873,9 @@
 			<File>Radio Classique.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Contact">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Radio Contact">
 					<Provider>Voo</Provider>
 				</Item>
@@ -15863,6 +15976,9 @@
 				<Item Name="RFI Internat">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="RFI">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Radio France Internationale.png</File>
 		</Channel>
 		<Channel>
@@ -15942,7 +16058,10 @@
 			<File>Radio Insular.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Radio Judaïca" />
+				<Item Name="Radio Judaica" />
+				<Item Name="Radio Judaïca">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Radio Judaica.png</File>
 		</Channel>
 		<Channel>
@@ -15994,6 +16113,7 @@
 					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>Radio Maria.png</File>
 		</Channel>
@@ -16360,6 +16480,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Roxx Radio" />
+				<Item Name="Roxx">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Roxx Radio.png</File>
 		</Channel>
 		<Channel>
@@ -16370,7 +16493,9 @@
 			<File>RPR1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTBF Mix" />
+				<Item Name="RTBF Mix">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>RTBF Mix.png</File>
 		</Channel>
 		<Channel>
@@ -16510,7 +16635,9 @@
 			<File>SR 3 Saarlandwelle.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Stadsradio Vlaanderen" />
+				<Item Name="Stadsradio Vlaanderen">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Stadsradio VL" />
 			<File>Stadsradio Vlaanderen.png</File>
 		</Channel>
@@ -16537,7 +16664,17 @@
 				<Item Name="90er">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="70s">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="80s">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="90s">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="All Day Party">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Arabisch">
@@ -16547,9 +16684,14 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="Bass Breaks &amp; Beats">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="Belpop">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Blues">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -16557,26 +16699,43 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Chansons">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Chillout">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="Classical Calm">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Classical Greats">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Classical Orchestral">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Classic Calm">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Classic Rock">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Cocktail Lounge">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Cool Jazz">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="Classic RnB &amp; Soul">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Country">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16585,36 +16744,51 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="Dancefloor Fillers">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Drive">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Easy Listening Charts">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="Freedom">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Groove (Disco &amp; Funk)">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="Groove (Disco&amp;Funk)">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Headbangers">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Heavy Metal">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Hip Hop">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Hits Aktuell">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="Hot Country">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Independent Classics">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="Indie Classics">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Jazz Classics">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -16651,6 +16825,9 @@
 				<Item Name="R'n'B &amp; Soul Classic">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="Reggae Vibra">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Reggae">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
@@ -16661,7 +16838,11 @@
 				<Item Name="Rewind - 80er &amp; 90er">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="Revival">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Rock Anthems">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="Rock Hymnen">
@@ -16669,6 +16850,9 @@
 				</Item>
 				<Item Name="Rock 'n' Roll">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="Rock n Roll">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Rock'n'Roll Oldies">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16680,15 +16864,25 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="Schlager">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="Silk">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Sommer Hits">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Stingray Music" />
+				<Item Name="Stingray Specials">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Stingray Special">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="Strictly 60s">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Summer Feelings">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16698,6 +16892,24 @@
 				</Item>
 				<Item Name="The Alternative">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="Total Hits - France">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Total Hits - German">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Total Hits - Italy">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Total Hits - Nordic">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Total Hits - Spain">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Total Hits - UK">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Total Hits Deutschland">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
@@ -16718,7 +16930,11 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Türk Müzigi">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
+				<Item Name="Ultimate Urban">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Urban">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -16728,12 +16944,18 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="World Carnival">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="World Music">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 			<File>Stingray Music.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="StuBru">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Studio Brussel">
 					<Provider>Digitenne</Provider>
 					<Provider>Ziggo</Provider>
@@ -16859,6 +17081,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Tipik Radio">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Tipik">
@@ -16877,7 +17100,9 @@
 			<File>Tomorrowland.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TopRadio" />
+				<Item Name="TopRadio">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>TopRadio.png</File>
 		</Channel>
 		<Channel>
@@ -16921,6 +17146,7 @@
 					<Provider>TNT (BE)</Provider>
 				</Item>
 				<Item Name="VivaCité">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>VivaCite.png</File>
@@ -16953,6 +17179,7 @@
 				</Item>
 				<Item Name="1Live">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
@@ -16978,7 +17205,9 @@
 				<Item Name="WDR 2 Ruhrgebiet">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-				<Item Name="WDR 2" />
+				<Item Name="WDR 2">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="WDR2">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -16990,6 +17219,7 @@
 				</Item>
 				<Item Name="WDR 3">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -17004,6 +17234,7 @@
 				</Item>
 				<Item Name="WDR 4">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -17018,6 +17249,7 @@
 				</Item>
 				<Item Name="WDR 5">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="WDR5">
@@ -17041,7 +17273,9 @@
 			<File>Welle 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Willy" />
+				<Item Name="Willy">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Willy.png</File>
 		</Channel>
 		<Channel>
@@ -17183,7 +17417,9 @@
 			<File>You FM.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Zen" />
+				<Item Name="Zen">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Zen.png</File>
 		</Channel>
 	</Radio>

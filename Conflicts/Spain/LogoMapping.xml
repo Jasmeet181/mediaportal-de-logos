@@ -17,6 +17,15 @@
 			<File>AXN.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Boing">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Movistar+ IPTV</Provider>
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
+				</Item>
+			<File>Boing ES.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="DMAX">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
