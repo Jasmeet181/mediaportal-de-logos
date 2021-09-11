@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		09/09/2021 Canal+ Docs and Canal+ Kids launch
+		15/09/2021 RTL new logos
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
 		01/10/2021 Nickelodeon Austria renamed to Nickelodeon Austria/Comedy Central Austria?
@@ -944,7 +944,7 @@
 		<Channel>
 				<Item Name="Automoto HD">
 					<Provider>Voo</Provider>
-				</Item>>
+				</Item>
 				<Item Name="Automoto La Chaîne" />
 				<Item Name="Automoto La Chaine">
 					<Provider>Astra 19.2E</Provider>
@@ -3407,7 +3407,7 @@
 				</Item>
 			<File>E4.png</File>
 		</Channel>
-		<Channel>>
+		<Channel>
 				<Item Name="Eclips TV">
 					<Provider>Telenet</Provider>
 				</Item>
@@ -5809,6 +5809,16 @@
 			<File>La Otra.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="La Première" />
+			<File>La Premiere.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="La Resistencia">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>La Resistencia.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="La Télé HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -6556,6 +6566,13 @@
 				</Item>
 				<Item Name="Movistar Accion" />
 			<File>Movistar Accion.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. Amenábar">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Amenabar" />
+			<File>Movistar Amenabar.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M. Cine Español">
@@ -12449,7 +12466,7 @@
 			<File>Television Canaria HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Television Canaria" />>
+				<Item Name="Television Canaria" />
 				<Item Name="TV Canaria">
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
