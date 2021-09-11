@@ -20,6 +20,13 @@
 				<Item Name="Hit FM" />
 			<File>Hit FM BE.png</File>
 		</Channel>
+		<Channel>
+				<Item Name="Nostalgie Belgique" />
+				<Item Name="Nostalgie">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Nostalgie Belgique.png</File>
+		</Channel>
 	</Radio>
 <!-- ******************************************************************** -->
 </Mappings>

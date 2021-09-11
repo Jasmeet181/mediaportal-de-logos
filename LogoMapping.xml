@@ -11,18 +11,20 @@
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
 		00/00/2022 TVP World HD launches on Astra
+		Canal+ Grand Écran
 		DAZN 1 and DAZN 2 added to Vodafone
 		Super RTL renamed to Toggo
 		TNT/HD renamed to WB TV/HD (ES)
 		-->
 		<!--
+		AXN/HD (ES)/Sony AXN/HD (DE) conflict
 		Boing/ES conflict
 		Hit FM BE/ES conflict 
 		DMAX DE/ES conflict
 		RTL Crime DE/NL conflict
 		National Geographic Wild conflicts
-		AXN/HD (ES) Sony AXN/HD (DE) conflict
-		RTV Oost (NL) TV Oost (BE) conflict
+		Nostalgie (FR)/Nostalgie Belgique conflict
+		RTV Oost (NL)/TV Oost (BE) conflict
 		-->
 	<TV>
 		<Channel>
@@ -151,7 +153,9 @@
 				<Item Name="2M Maroc">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="2M Monde" />
+				<Item Name="2M Monde">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="2M">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -339,6 +343,7 @@
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="AB3">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>AB3.png</File>
@@ -430,6 +435,9 @@
 			<File>Al Jazeera English HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Al Jazeera Eng.">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Al Jazeera English">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -616,7 +624,9 @@
 				<Item Name="Animal Planet (blue)">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Animal Planet" />
+				<Item Name="Animal Planet">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Animal Planet.png</File>
 		</Channel>
 		<Channel>
@@ -742,6 +752,7 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="ARD">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -769,6 +780,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Arte Belgique">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Arte Belgique HD">
@@ -989,9 +1001,13 @@
 				<Item Name="Baby TV">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="BabyTV" />
+				<Item Name="Baby">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>BabyTV.png</File>
 		</Channel>
 		<Channel>
@@ -1030,6 +1046,7 @@
 					<Provider>SalzburgAG</Provider>
 				</Item>
 				<Item Name="BBC Entertainment">
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC Entertainment.png</File>
@@ -1039,6 +1056,7 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="BBC First">
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC First.png</File>
@@ -1046,14 +1064,19 @@
 		<Channel>
 				<Item Name="BBC One HD">
 					<Provider>UPC (CH)</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>BBC One HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BBC 1">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="BBC One">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -1067,8 +1090,12 @@
 			<File>BBC Two HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BBC 2">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="BBC Two">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>BBC Two.png</File>
@@ -1085,11 +1112,13 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="BBC World News">
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="BBC World">
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="BBC-World">
 					<Provider>SalzburgAG</Provider>
@@ -1102,6 +1131,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Be 1">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Be 1.png</File>
@@ -1114,6 +1144,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Be 1+1h">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Be 1 Plus1h.png</File>
@@ -1132,6 +1163,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Be Ciné">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Be Cine.png</File>
@@ -1165,6 +1197,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Be Séries">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Be Series.png</File>
@@ -1446,6 +1479,7 @@
 				</Item>
 				<Item Name="Bloomberg">
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Bloomberg Television.png</File>
@@ -1458,6 +1492,10 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>Blue Action.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Blue City" />
+			<File>Blue City.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Blue Hustler">
@@ -1725,6 +1763,9 @@
 				<Item Name="Boomerang (eng)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
+				<Item Name="BoomerangTV">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Boomerang">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -1866,6 +1907,7 @@
 		<Channel>
 				<Item Name="C8">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 				</Item>
 				<Item Name="Canal8 HD">
@@ -2158,6 +2200,13 @@
 			<File>CanalPlus En Clair.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="A Venir">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Canal+ Grand Écran" />
+			<File>CanalPlus Grand Ecran.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Canal+ HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -2211,6 +2260,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canvas HD">
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Canvas HD.png</File>
@@ -2244,6 +2294,9 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Cartoon.Network">
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>Cartoon Network.png</File>
 		</Channel>
@@ -2355,6 +2408,7 @@
 		<Channel>
 				<Item Name="CGTN">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
@@ -2450,6 +2504,9 @@
 				<Item Name="Cine+ Classic">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="Ciné+ Classic">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>CinePlus Classic.png</File>
 		</Channel>
 		<Channel>
@@ -2492,6 +2549,7 @@
 		<Channel>
 				<Item Name="Ciné+ Frisson">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>CinePlus Frisson.png</File>
 		</Channel>
@@ -2505,6 +2563,7 @@
 		<Channel>
 				<Item Name="Ciné+ Premier">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>CinePlus Premier.png</File>
 		</Channel>
@@ -2551,6 +2610,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Club RTL HD">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Club RTL HD.png</File>
@@ -2591,6 +2651,7 @@
 				<Item Name="CNBC Europe">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="CNBC">
@@ -2649,6 +2710,7 @@
 				<Item Name="CNN">
 					<Provider>Digitenne</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
@@ -2712,6 +2774,7 @@
 					<Provider>Digitenne</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Ziggo</Provider>
@@ -2773,6 +2836,7 @@
 				<Item Name="Crime+Investigation" />
 				<Item Name="Crime + Investigation">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Crime and Investigation" />
 			<File>Crime and Investigation.png</File>
@@ -3029,6 +3093,9 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
 				</Item>
+				<Item Name="Discovery VL HD">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
@@ -3039,6 +3106,9 @@
 			<File>Discovery Science HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Disc Science">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Discovery Science" />
 			<File>Discovery Science.png</File>
 		</Channel>
@@ -3049,6 +3119,12 @@
 				<Item Name="Discovery Channel">
 					<Provider>Digitenne</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+				</Item>
+				<Item Name="Discovery FR">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Discovery VL">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Discovery">
 					<Provider>UPC (CH)</Provider>
@@ -3213,7 +3289,9 @@
 			<File>DMAX HD DE.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Dobbit TV" />
+				<Item Name="Dobbit TV">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Dobbit TV.png</File>
 		</Channel>
 		<Channel>
@@ -3227,6 +3305,7 @@
 		<Channel>
 				<Item Name="Dorcel TV">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Dorcel TV.png</File>
@@ -3304,6 +3383,9 @@
 				<Item Name="E! Entertainm. HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="E! Ent">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="E! France HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -3325,8 +3407,10 @@
 				</Item>
 			<File>E4.png</File>
 		</Channel>
-		<Channel>
-				<Item Name="Eclips TV" />
+		<Channel>>
+				<Item Name="Eclips TV">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Eclips TV.png</File>
 		</Channel>
 		<Channel>
@@ -3337,6 +3421,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Één HD">
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Een HD.png</File>
@@ -3394,10 +3479,14 @@
 			<File>Elbekanal.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Eleven Sports 1 FR">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Eleven Sports 1 HD">
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Eleven Sports 1">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="ElevenSports 1 FR">
@@ -3412,10 +3501,14 @@
 			<File>Eleven 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Eleven Sports 2 FR">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Eleven Sports 2 HD">
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Eleven Sports 2">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="ElevenSports2">
@@ -3427,21 +3520,30 @@
 			<File>Eleven 2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Eleven Sports 3 FR">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Eleven Sports 3 HD">
 					<Provider>Voo</Provider>
 				</Item>
-				<Item Name="Eleven Sports 3" />
+				<Item Name="Eleven Sports 3">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Eleven 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eleven Pro League 1 FR" />
+				<Item Name="Eleven Pro League 1 FR">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Eleven Sports Pro League 1 FR">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Eleven Pro League 1 FR.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eleven Pro League 1 NL" />
+				<Item Name="Eleven Pro League 1 NL">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Eleven Pro League 1 NL.png</File>
 		</Channel>
 		<Channel>
@@ -3451,10 +3553,34 @@
 			<File>Eleven Pro League 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Eleven Pro League 2 FR">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Eleven Pro League 2 FR.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eleven Pro League 2 NL">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Eleven Pro League 2 NL.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Eleven Pro League 2">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Eleven Pro League 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eleven Pro League 3 FR">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Eleven Pro League 3 FR.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eleven Pro League 3 NL">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Eleven Pro League 3 NL.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Eleven Pro League 3">
@@ -3678,6 +3804,9 @@
 				<Item Name="Euronews French SD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="Euronews FR">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Euronews F">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -3686,6 +3815,7 @@
 				</Item>
 				<Item Name="Euronews">
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (BE)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Voo</Provider>
@@ -3714,6 +3844,9 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="Eurosport HD">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Eurosport 1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -3727,10 +3860,14 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Eurosport.FR">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Eurosport">
 					<Provider>Digitenne</Provider>
@@ -3753,6 +3890,7 @@
 				<Item Name="Eurosport 2 HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Ziggo</Provider>
@@ -3977,6 +4115,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Fashion TV">
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -4175,6 +4314,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Digitenne</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -4190,6 +4330,7 @@
 				</Item>
 				<Item Name="France 2">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
@@ -4449,6 +4590,7 @@
 				</Item>
 				<Item Name="France 3">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 				</Item>
@@ -4461,6 +4603,7 @@
 				</Item>
 				<Item Name="France 4">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
@@ -4473,6 +4616,7 @@
 				</Item>
 				<Item Name="France 5">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
@@ -4865,6 +5009,9 @@
 			<File>History HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="History.TV">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="History">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -5004,6 +5151,13 @@
 			<File>Huelva TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Hustler HD">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Hustler TV HD" />
+			<File>Hustler TV HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Hustler TV">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
@@ -5063,6 +5217,9 @@
 			<File>ID HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Disc ID">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="ID">
 					<Provider>Digitenne</Provider>
 					<Provider>Ziggo</Provider>
@@ -5411,6 +5568,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Kanaal Z" />
+				<Item Name="KanaalZ">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Kanaal Z.png</File>
 		</Channel>
 		<Channel>
@@ -5434,6 +5594,7 @@
 		<Channel>
 				<Item Name="Ketnet">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -5671,6 +5832,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="La Trois">
+					<Provider>Telenet</Provider>
 					<Provider>TNT (BE)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -5678,12 +5840,14 @@
 		</Channel>
 		<Channel>
 				<Item Name="La Une HD">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>La Une HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="La Une">
+					<Provider>Telenet</Provider>
 					<Provider>TNT (BE)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -5817,6 +5981,7 @@
 				</Item>
 				<Item Name="LCI">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -5890,6 +6055,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="LN24">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>LN24.png</File>
@@ -6000,6 +6166,9 @@
 			<File>Maennersache TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Al Maghreb TV">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Maghreb TV" />
 			<File>Maghreb TV.png</File>
 		</Channel>
@@ -6200,6 +6369,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Mediaset Italia">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -6285,7 +6455,9 @@
 			<File>Mens Up TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Ment TV" />
+				<Item Name="Ment TV">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Ment TV.png</File>
 		</Channel>
 		<Channel>
@@ -6295,6 +6467,7 @@
 		<Channel>
 				<Item Name="Mezzo Live HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>Mezzo Live HD.png</File>
@@ -6938,6 +7111,7 @@
 		<Channel>
 				<Item Name="MTV 00s">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>MTV 00s.png</File>
 		</Channel>
@@ -6985,6 +7159,9 @@
 					<Provider>UPC (CH)</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
+				<Item Name="MTV Live">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>MTV Live HD.png</File>
 		</Channel>
 		<Channel>
@@ -6998,6 +7175,9 @@
 			<File>MTV Rocks.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MTV VL">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="MTV España">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
@@ -7348,6 +7528,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="NTV">
@@ -7405,6 +7586,7 @@
 				</Item>
 				<Item Name="Nat Geo HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="NatGeo HD (S)">
@@ -7438,6 +7620,7 @@
 				<Item Name="Nat Geo Wild">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="National Geographic Wild" />
 			<File>National Geographic Wild GB.png</File>
@@ -7477,6 +7660,9 @@
 		<Channel>
 				<Item Name="Nat Geo Channel">
 					<Provider>Voo</Provider>
+				</Item>
+				<Item Name="Nat Geo FR">
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Nat Geograph">
 					<Provider>Astra 19.2E</Provider>
@@ -7633,6 +7819,7 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Netflix">
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>Netflix.png</File>
@@ -7694,6 +7881,9 @@
 			<File>Nick Jr HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nick Jr. FR">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Nick Jr..">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -7705,6 +7895,7 @@
 				<Item Name="Nick Jr">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Nick Junior Global">
 					<Provider>Astra 19.2E</Provider>
@@ -7716,6 +7907,9 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Nick_Jr..">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Nick_Jr_">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Nickelodeon Jr. F">
@@ -7796,6 +7990,9 @@
 			<File>Nickelodeon Teen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nickelodeon FR">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Nickelodeon Iberia">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -7803,6 +8000,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -7812,6 +8010,9 @@
 			<File>Nickelodeon.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nick Music Global">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Nick Music">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -7824,6 +8025,7 @@
 				</Item>
 				<Item Name="Nicktoons">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Nicktoons.png</File>
@@ -7860,6 +8062,9 @@
 			<File>Nitro.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Njam!">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Njam" />
 			<File>Njam.png</File>
 		</Channel>
@@ -7936,6 +8141,7 @@
 		<Channel>
 				<Item Name="NPO 1">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -7965,6 +8171,7 @@
 				</Item>
 				<Item Name="NPO 2">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -7979,6 +8186,7 @@
 		<Channel>
 				<Item Name="NPO 3">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO 3.png</File>
@@ -8592,6 +8800,9 @@
 			<File>OTVA HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Out TV">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="OutTV HD">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -8677,12 +8888,15 @@
 		</Channel>
 		<Channel>
 				<Item Name="Penthouse Gold">
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Penthouse Gold.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Penthouse Passion" />
+				<Item Name="Penthouse Passion">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Penthouse">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -8823,65 +9037,108 @@
 		</Channel>
 		<Channel>
 				<Item Name="Plattelands TV" />
+				<Item Name="PlattelandsTV">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Plattelands TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Play More Black" />
+				<Item Name="Play More Black">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play More Black.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Play More Cinema" />
+				<Item Name="Play More Cinema">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play More Cinema.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Play More Kicks" />
+				<Item Name="Play More Kicks">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play More Kicks.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play Sports 1" />
+				<Item Name="Play Sports HD1">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play Sports 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play Sports 2" />
+				<Item Name="Play Sports HD2">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play Sports 2 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play Sports 3" />
+				<Item Name="Play Sports HD3">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play Sports 3.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play Sports 4" />
+				<Item Name="Play Sports HD4">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play Sports 4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play Sports 5" />
+				<Item Name="Play Sports HD5">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play Sports 5.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Play Sports Golf" />
+				<Item Name="Play Sports Golf">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play Sports Golf.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Play Sports Open" />
+				<Item Name="Play Sports Open">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play Sports Open.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Play Sports Info">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Play Sports" />
+			<File>Play Sports.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Play4 HD" />
-				<Item Name="Play4" />
+				<Item Name="Play4">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play5 HD" />
-				<Item Name="Play5" />
+				<Item Name="Play5">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play5.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play6 HD" />
-				<Item Name="Play6" />
+				<Item Name="Play6">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play6.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Play7" />
+				<Item Name="Play7">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Play7.png</File>
 		</Channel>
 		<Channel>
@@ -8889,6 +9146,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
+					<Provider>Telenet</Provider>
 				</Item>
 			<File>Playboy TV.png</File>
 		</Channel>
@@ -8900,6 +9158,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Plug RTL">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Plug RTL.png</File>
@@ -9153,6 +9412,12 @@
 			<File>Qazaq TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Q-Music">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>QMusic.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="QS24.TV HD" />
 				<Item Name="QS24" />
 			<File>QS24.TV HD.png</File>
@@ -9247,6 +9512,9 @@
 			<File>Radio Bremen TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="R. Contact Vision">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Radio Contact - Télévision">
 					<Provider>Voo</Provider>
 				</Item>
@@ -9286,6 +9554,7 @@
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Rai Uno">
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Rai 1.png</File>
@@ -9565,6 +9834,13 @@
 			<File>RIK Zollernalb1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Ring-TV">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="RingTV" />
+			<File>RingTV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RLP.TV">
 					<Provider>Vodafone</Provider><!-- Bad Marienberg -->
 				</Item>
@@ -9618,6 +9894,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Rob TV" />
+				<Item Name="Rob">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Rob TV.png</File>
 		</Channel>
 		<Channel>
@@ -9720,6 +9999,7 @@
 				</Item>
 				<Item Name="Russia Today">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -9906,6 +10186,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="RTL Tele Letzebuerg 23.5" />
+				<Item Name="RTL Tele">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="RTL Télé Lëtzebuerg" />
 			<File>RTL Tele Letzebuerg.png</File>
 		</Channel>
@@ -9924,12 +10207,18 @@
 			<File>RTL TV Bayern.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL TVI HD">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="RTL-TVI HD">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>RTL TVI HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL TVI">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="RTL-TVI">
 					<Provider>Voo</Provider>
 				</Item>
@@ -10506,6 +10795,13 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Shorts TV HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Shorts TV" />
+				<Item Name="ShortsTV">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Shorts TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Show TV">
@@ -11450,6 +11746,7 @@
 				</Item>
 				<Item Name="Stingray Classica">
 					<Provider>Movistar+ IPTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -12081,8 +12378,21 @@
 			<File>Telenantes.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Télésambre" />
-			<File>Telesambre.png</File>
+				<Item Name="Télénantes" />
+			<File>Telenantes.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Infokanaal">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Info">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="Telenet" />
+				<Item Name="Yelo TV-channel">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Telenet.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TeleSur HD">
@@ -12234,6 +12544,7 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="TF1 HD">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>TF1 HD.png</File>
@@ -12264,6 +12575,7 @@
 				</Item>
 				<Item Name="TF1">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -12275,6 +12587,7 @@
 				</Item>
 				<Item Name="TFX">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -12294,6 +12607,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="The Israeli Network" />
+				<Item Name="The Israëli Network">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>The Israeli Network.png</File>
 		</Channel>
 		<Channel>
@@ -12326,6 +12642,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Tipik">
+					<Provider>Telenet</Provider>
 					<Provider>TNT (BE)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -12371,6 +12688,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Digitenne</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
@@ -12396,6 +12714,7 @@
 				</Item>
 				<Item Name="TMC">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -12599,6 +12918,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="TRT 1" />
+				<Item Name="TRT">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>TRT 1.png</File>
 		</Channel>
 		<Channel>
@@ -12635,6 +12957,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="TRT Turk">
+					<Provider>Telenet</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="TRT Türk">
@@ -12669,6 +12992,7 @@
 				</Item>
 				<Item Name="TV Breizh">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>TV Breizh.png</File>
@@ -12736,6 +13060,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="TV Plus" />
+				<Item Name="TV.Plus">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>TV Plus.png</File>
 		</Channel>
 		<Channel>
@@ -12892,6 +13219,7 @@
 				</Item>
 				<Item Name="TV5 Monde">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -12963,6 +13291,7 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="TVE">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>TVE Internacional.png</File>
@@ -13015,7 +13344,9 @@
 				<Item Name="TVP Polonia (pol)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
-				<Item Name="TVP Polonia" />
+				<Item Name="TVP Polonia">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>TVP Polonia.png</File>
 		</Channel>
 		<Channel>
@@ -13292,6 +13623,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Vlaams Parlement.TV" />
+				<Item Name="Vlaamsparlement.tv">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Vlaams Parlement.TV.png</File>
 		</Channel>
 		<Channel>
@@ -13324,24 +13658,36 @@
 			<File>Volksmusik.TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Voo Sport World 1">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Voosport World 1">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Voosport World 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Voo Sport World 2">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Voosport World 2">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Voosport World 2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Voo Sport World 3">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Voosport World 3">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Voosport World 3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Voo Sport World 4">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="Voosport World 4">
 					<Provider>Voo</Provider>
 				</Item>
@@ -13379,6 +13725,7 @@
 				<Item Name="Vox">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
@@ -13412,23 +13759,33 @@
 			<File>VTM 2 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM 2" />
+				<Item Name="VTM 2">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>VTM 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM 3" />
+				<Item Name="VTM 3">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>VTM 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM 4" />
+				<Item Name="VTM 4">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>VTM 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM Gold" />
+				<Item Name="VTM Gold">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>VTM Gold.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM HD" />
+				<Item Name="VTM HD">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>VTM HD.png</File>
 		</Channel>
 		<Channel>
@@ -13436,11 +13793,21 @@
 			<File>VTM Kids Kanaal Z.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM Kids" />
+				<Item Name="VTM Kids/NatGeo">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>VTM Kids National Geographic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="VTM Kids">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>VTM Kids.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM" />
+				<Item Name="VTM">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>VTM.png</File>
 		</Channel>
 		<Channel>
@@ -13798,6 +14165,7 @@
 				</Item>
 				<Item Name="Xite">
 					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -13847,6 +14215,7 @@
 				<Item Name="ZDF">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
+					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
@@ -15429,12 +15798,16 @@
 		<Channel>
 				<Item Name="Nostalgie">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Telenet</Provider>
 				</Item>
 			<File>Nostalgie.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nostalgie Belgique" />
+				<!--
+				<Item Name="Nostalgie">
+					<Provider>Telenet</Provider>
+				</Item>
+				-->
 			<File>Nostalgie Belgique.png</File>
 		</Channel>
 		<Channel>
