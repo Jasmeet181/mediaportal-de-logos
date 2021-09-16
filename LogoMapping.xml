@@ -2,11 +2,11 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		15/09/2021 RTL new logos
 		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
 		01/10/2021 Nickelodeon Austria renamed to Nickelodeon Austria/Comedy Central Austria?
 		04/10/2021 Sky Serien and Shows HD renamed to Sky Replay HD
+		04/10/2021 Ahrtalradio closes
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
@@ -2356,6 +2356,16 @@
 			<File>CBS Reality.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="UHD-1">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+				<Item Name="UHD-2">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+				<Item Name="Cellnex" />
+			<File>Cellnex.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="#0 HD">
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Astra 19.2E</Provider>
@@ -3220,6 +3230,10 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>DisneyPlus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Distro TV" />
+			<File>Distro TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Divinity">
@@ -5809,6 +5823,7 @@
 			<File>La Otra.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="La Premiere" />
 				<Item Name="La Première" />
 			<File>La Premiere.png</File>
 		</Channel>
@@ -7186,10 +7201,6 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>MTV Music.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="MTV Rocks" />
-			<File>MTV Rocks.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTV VL">
@@ -10090,6 +10101,13 @@
 			<File>RTL 8.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTL Austria">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV</Provider><!-- Wien -->
+				</Item>
+			<File>RTL Austria.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTL Crime (blue)">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -10117,9 +10135,6 @@
 			<File>RTL Croatia World.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTL Austria">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="RTL Television">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
@@ -10135,13 +10150,16 @@
 		<Channel>
 				<Item Name="RTL HD Austria">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV</Provider><!-- Wien -->
 				</Item>
+			<File>RTL HD Austria.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTL HD Muenchen">
 					<Provider>Terrestrial</Provider><!-- München -->
 				</Item>
 				<Item Name="RTL HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -10220,8 +10238,8 @@
 				<Item Name="RTL Bayern">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="RTL TV Bayern" />
-			<File>RTL TV Bayern.png</File>
+				<Item Name="RTL TV Bayern Live" />
+			<File>RTL TV Bayern Live.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTL TVI HD">
@@ -10245,6 +10263,9 @@
 				<Item Name="RTL UHD Austria">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+			<File>RTL UHD Austria.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTL UHD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -10287,38 +10308,31 @@
 			<File>RTL9.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTLplus HD">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-			<File>RTLplus HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="RTLplus Austria">
+					<Provider>SimpliTV</Provider><!-- Wien -->
+				</Item>
+				<Item Name="RTLUp Austria">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="RTLplus Österreich" />
-			<File>RTLplus Osterreich.png</File>
+			<File>RTLUp Austria.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RTLUp HD">
+					<Provider>Vodafone</Provider><!-- Alfeld -->
+				</Item>
+			<File>RTLUp HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTL plus">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="RTLplus">
+				<Item Name="RTLup">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>MagentaTV</Provider>
-					<Provider>SimpliTV</Provider><!-- Wien -->
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
-			<File>RTLplus.png</File>
+			<File>RTLUp.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTL 2 HD">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="RTL II HD Austria">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="RTL II HD">
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
 					<Provider>Terrestrial</Provider><!-- München -->
@@ -10327,29 +10341,30 @@
 				<Item Name="RTL2 HD">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-				<Item Name="RTLII HD">
+				<Item Name="RTLZwei HD Austria">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="RTLZwei HD" />
+				<Item Name="RTLZwei HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>UPC (CH)</Provider>
+				</Item>
 			<File>RTLZwei HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTL 2">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="RTL II">
-					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
-				<Item Name="RTL2 Austria">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="RTL2">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<Item Name="RTLZwei Austria">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>SimpliTV</Provider><!-- Wien -->
+				</Item>
 				<Item Name="RTLZwei">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
+					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>RTLZwei.png</File>
 		</Channel>
@@ -13290,9 +13305,6 @@
 			<File>TVCG Sat.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Emision 4K Pruebas">
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-				</Item>
 				<Item Name="TVE 4K" />
 			<File>TVE 4K.png</File>
 		</Channel>
@@ -13621,6 +13633,10 @@
 				</Item>
 				<Item Name="Visit-X" />
 			<File>Visit-X.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vital TV" />
+			<File>Vital TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vivid CZ">
@@ -14389,6 +14405,10 @@
 			<File>Ziggo.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Zillertal TV" />
+			<File>Zillertal TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Zing">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -14425,6 +14445,12 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>80s80s.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Ahrtalradio">
+					<Provider>Vodafone</Provider><!-- Saffig -->
+				</Item>
+			<File>Ahrtalradio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="AlternativeFM" />
@@ -14603,6 +14629,12 @@
 					<Provider>Telenet</Provider>
 				</Item>
 			<File>Be One.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Beats Radio">
+					<Provider>Vodafone</Provider><!-- Berlin -->
+				</Item>
+			<File>Beats Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Bel RTL">
