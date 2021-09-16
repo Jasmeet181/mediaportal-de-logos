@@ -13873,10 +13873,22 @@
 			<File>Waidwerk.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Warner TV Comedy" />
+			<File>Warner TV Comedy.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Warner TV Film" />
+			<File>Warner TV Film.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Warner TV HD">
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Warner TV HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Warner TV Serie" />
+			<File>Warner TV Serie.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Warner TV">
