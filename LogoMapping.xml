@@ -7537,29 +7537,29 @@
 		</Channel>
 		<Channel>
 				<Item Name="N-TV HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
 					<Provider>Terrestrial</Provider><!-- München -->
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="NTV HD">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>N-TV HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="N-TV Austria">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="N-TV">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
+				<Item Name="NTV Austria">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="NTV">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>N-TV.png</File>
