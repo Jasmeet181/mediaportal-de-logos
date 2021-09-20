@@ -7,11 +7,13 @@
 		01/10/2021 Nickelodeon Austria renamed to Nickelodeon Austria/Comedy Central Austria?
 		04/10/2021 Sky Serien and Shows HD renamed to Sky Replay HD
 		04/10/2021 Ahrtalradio closes
+		12/10/2021 7NN launches
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
+		00/00/2021 La Séptima launches
 		00/00/2022 TVP World HD launches on Astra
-		Canal+ Grand Écran
+		Canal+ Grand Écran launches
 		DAZN 1 and DAZN 2 added to Vodafone
 		Super RTL renamed to Toggo
 		TNT/HD renamed to WB TV/HD (ES)
@@ -267,6 +269,10 @@
 		<Channel>
 				<Item Name="7A Limoges" />
 			<File>7A Limoges.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="7NN" />
+			<File>7NN.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="7TV Andalucía" />
@@ -3232,8 +3238,8 @@
 			<File>DisneyPlus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Distro TV" />
-			<File>Distro TV.png</File>
+				<Item Name="Distrito TV" />
+			<File>Distrito TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Divinity">
