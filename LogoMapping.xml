@@ -7061,6 +7061,13 @@
 			<File>Movistar Partidazo.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M. Platino">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Platino" />
+			<File>Movistar Platino.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Bajo Demanda">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
