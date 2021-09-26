@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		25/09/2021 TNT Comedy, TNT Film and TNT Serie renamed to Warner TV Comedy, Warner TV Film and Warner TV Serie
 		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
 		01/10/2021 Nickelodeon Austria renamed to Nickelodeon Austria/Comedy Central Austria?
 		04/10/2021 Sky Serien und Shows HD renamed to Sky Replay HD
@@ -1400,6 +1399,9 @@
 			<File>BFM Marseille Provence.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Azur TV">
+					<Provider>TNT (FR)</Provider>
+				</Item>
 				<Item Name="BFM Nice Côte d'Azur" />
 			<File>BFM Nice Cote dAzur.png</File>
 		</Channel>
@@ -12766,73 +12768,11 @@
 			<File>TMC.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TNT Comedy HD">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>TNT Comedy HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TNT Comedy">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>TNT Comedy.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TNT Film HD">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>TNT Film HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TNT Film (eng)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="TNT Film">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-			<File>TNT Film.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="TNT HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>TNT HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TNT Serie HD (S)">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="TNT Serie HD">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>UPC (CH)</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>TNT Serie HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TNT Serie (eng)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="TNT Serie (S)">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="TNT Serie (VF)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="TNT Serie">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>TNT Serie.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TNT">
@@ -13886,11 +13826,37 @@
 			<File>Waidwerk.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Warner TV Comedy" />
+				<Item Name="TNT Comedy HD (blue)">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="TNT Comedy HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="Warner TV Comedy HD" />
+			<File>Warner TV Comedy HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Warner TV Comedy">
+					<Provider>Vodafone</Provider><!-- Berlin -->
+				</Item>
 			<File>Warner TV Comedy.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Warner TV Film" />
+				<Item Name="TNT Film HD (blue)">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="TNT Film HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="Warner TV Film HD" />
+			<File>Warner TV Film HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Warner TV Film">
+					<Provider>Vodafone</Provider><!-- Berlin -->
+				</Item>
 			<File>Warner TV Film.png</File>
 		</Channel>
 		<Channel>
@@ -13900,7 +13866,20 @@
 			<File>Warner TV HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Warner TV Serie" />
+				<Item Name="TNT Serie HD (blue)">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="TNT Serie HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>UPC (CH)</Provider>
+				</Item>
+				<Item Name="Warner TV Serie HD" />
+			<File>Warner TV Serie HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Warner TV Serie">
+					<Provider>Vodafone</Provider><!-- Berlin -->
+				</Item>
 			<File>Warner TV Serie.png</File>
 		</Channel>
 		<Channel>
