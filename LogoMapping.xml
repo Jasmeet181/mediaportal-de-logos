@@ -7383,13 +7383,6 @@
 			<File>Munchen.tv.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="München 2">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
-				<Item Name="München2" />
-			<File>Munchen2.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Munde TV" />
 			<File>Munde TV.png</File>
 		</Channel>
@@ -11107,6 +11100,10 @@
 			<File>Sky One.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Replay HD" />
+			<File>Sky Replay HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Serien &amp; Shows HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- München -->
@@ -13557,10 +13554,6 @@
 			<File>ViaTelePaese.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="viàVosges" />
-			<File>ViaVosges.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Vice TV">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
@@ -13682,6 +13675,11 @@
 		<Channel>
 				<Item Name="Vorpommern TV" />
 			<File>Vorpommern TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vosges TV" />
+				<Item Name="Vosges Télévision" />
+			<File>Vosges Television.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="VOTV">
@@ -13830,10 +13828,11 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="TNT Comedy HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Warner TV Comedy HD" />
+				<Item Name="Warner TV Comedy HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Warner TV Comedy HD.png</File>
 		</Channel>
 		<Channel>
@@ -13847,10 +13846,11 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="TNT Film HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Warner TV Film HD" />
+				<Item Name="Warner TV Film HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Warner TV Film HD.png</File>
 		</Channel>
 		<Channel>
@@ -13870,10 +13870,11 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="TNT Serie HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Warner TV Serie HD" />
+				<Item Name="Warner TV Serie HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Warner TV Serie HD.png</File>
 		</Channel>
 		<Channel>
