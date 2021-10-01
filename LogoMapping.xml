@@ -2,14 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		30/09/2021 Disney Junior/HD and Fox/HD close in Austria, Germany and Switzerland
-		01/10/2021 Nickelodeon Austria renamed to Nickelodeon Austria/Comedy Central Austria?
 		04/10/2021 Sky Serien und Shows HD renamed to Sky Replay HD
 		04/10/2021 Ahrtalradio closes
 		12/10/2021 7NN launches
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
+		00/00/2021 CGTN, CGTN Documentary and CGTN Francais SD close
 		00/00/2021 La Séptima launches
 		00/00/2022 TVP World HD launches on Astra
 		Canal+ Grand Écran launches
@@ -3206,29 +3205,17 @@
 				<Item Name="Disney Junior HD F">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Disney Junior HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Disney Junior HD" />
 			<File>Disney Junior HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Disney Jr (blue)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
 				<Item Name="Disney Jr">
 					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Disney Junior (eng)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Disney Junior (S)">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="Disney Junior">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Disney Junior.png</File>
@@ -3823,6 +3810,12 @@
 				<Item Name="euronews D">
 					<Provider>UPC (CH)</Provider>
 				</Item>
+				<Item Name="Euronews German SD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Euronews Deutsch.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Euronews French SD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3832,9 +3825,9 @@
 				<Item Name="Euronews F">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Euronews German SD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+			<File>Euronews.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Euronews">
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Telenet</Provider>
@@ -4285,17 +4278,9 @@
 			<File>Fotohandy.TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Fox HD (S)">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="Fox HD (VF)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="Fox HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Movistar+ IPTV</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Fox HD.png</File>
@@ -4322,22 +4307,11 @@
 			<File>Fox News.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Fox (blue)">
-					<Provider>UPC (CH)</Provider>
-				</Item>
-				<Item Name="Fox Serie (S)">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="Fox Serie">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="Fox">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Digitenne</Provider>
 					<Provider>Movistar+ IPTV</Provider>
 					<Provider>Telenet</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Fox.png</File>
