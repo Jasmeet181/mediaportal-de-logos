@@ -8,7 +8,7 @@
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
-		00/00/2021 CGTN, CGTN Documentary and CGTN Francais SD close
+		00/00/2021 CGTN (SD) and CGTN Documentary (SD) removed from Astra
 		00/00/2021 La Séptima launches
 		00/00/2022 TVP World HD launches on Astra
 		Canal+ Grand Écran launches
@@ -2410,9 +2410,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="CGTN Francais" />
-				<Item Name="CGTN F">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="CGTN F" />
 			<File>CGTN Francais.png</File>
 		</Channel>
 		<Channel>
@@ -10790,6 +10788,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Shop LC">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="ShopLC HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Shop LC.png</File>
