@@ -2,14 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		04/10/2021 Sky Serien und Shows HD renamed to Sky Replay HD
-		04/10/2021 Ahrtalradio closes
 		12/10/2021 7NN launches
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
 		00/00/2021 CGTN (SD) and CGTN Documentary (SD) removed from Astra
 		00/00/2021 La Séptima launches
+		02/01/2022 Ahrtalradio closes
 		00/00/2022 TVP World HD launches on Astra
 		Canal+ Grand Écran launches
 		DAZN 1 and DAZN 2 added to Vodafone
@@ -11075,15 +11074,11 @@
 			<File>Sky One.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Replay HD" />
-			<File>Sky Replay HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky Serien &amp; Shows HD">
+				<Item Name="Sky Replay HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- München -->
+					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
-			<File>Sky Serien und Shows HD.png</File>
+			<File>Sky Replay HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sport 1 HD">
