@@ -5807,12 +5807,6 @@
 			<File>La Premiere.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="La Resistencia">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>La Resistencia.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="La Télé HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
@@ -6771,6 +6765,13 @@
 		<Channel>
 				<Item Name="Movistar James Bond" />
 			<File>Movistar James Bond.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="La Resistencia">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar La Resistencia" />
+			<File>Movistar La Resistencia.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M. LaLiga 1 UHD" />
@@ -7964,7 +7965,6 @@
 					<Provider>UPC (CH)</Provider>
 				</Item>
 				<Item Name="Nickelodeon HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="NickelodeonHD">
