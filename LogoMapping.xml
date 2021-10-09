@@ -9,9 +9,11 @@
 		00/00/2021 CGTN (SD) and CGTN Documentary (SD) removed from Astra
 		00/00/2021 La Séptima launches
 		02/01/2022 Ahrtalradio closes
+		00/00/2022 SSK Sächsische Satellitenkanal launches on Astra
 		00/00/2022 TVP World HD launches on Astra
 		Canal+ Grand Écran launches
 		DAZN 1 and DAZN 2 added to Vodafone
+		Pitchoun TV added to Canal 31
 		Super RTL renamed to Toggo
 		TNT/HD renamed to WB TV/HD (ES)
 		-->
@@ -5986,10 +5988,8 @@
 			<File>LCI.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Legenden TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Legenden TV.png</File>
+				<Item Name="LDV Media" />
+			<File>LDV Media.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Leipzig Fernsehen" />
@@ -6523,6 +6523,10 @@
 		<Channel>
 				<Item Name="Mosaïk Cristal" />
 			<File>Mosaïk Cristal.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MoselleTV" />
+			<File>MoselleTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Motorvision TV HD">
@@ -13507,10 +13511,6 @@
 		<Channel>
 				<Item Name="ViàMirabelle" />
 			<File>ViaMirabelle.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ViàMoselleTV" />
-			<File>ViaMoselleTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVSud Montpellier">
