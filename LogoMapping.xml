@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		12/10/2021 7NN launches
+		14/10/2021 Sol Música, Somos and Xtrm added to Astra
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
@@ -270,6 +270,7 @@
 			<File>7A Limoges.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="7NN TV" />
 				<Item Name="7NN" />
 			<File>7NN.png</File>
 		</Channel>
@@ -1960,10 +1961,6 @@
 		<Channel>
 				<Item Name="Canal 32" />
 			<File>Canal 32.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Canal 4" />
-			<File>Canal 4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canale 5 HD">
@@ -4153,6 +4150,10 @@
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 				</Item>
 			<File>Fibracat TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Fibwi 4" />
+			<File>Fibwi 4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Fight Channel World HD" />
@@ -9196,10 +9197,6 @@
 			<File>Popular TV Cantabria.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Popular TV La Rioja" />
-			<File>Popular TV La Rioja.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Popular TV Melilla" />
 			<File>Popular TV Melilla.png</File>
 		</Channel>
@@ -12475,7 +12472,13 @@
 			<File>Television Canaria.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Television de Galicia 2 HD" />
+				<Item Name="TVG2 HD" />
+			<File>Television de Galicia 2 HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Television de Galicia 2" />
+				<Item Name="TVG2" />
 			<File>Television de Galicia 2.png</File>
 		</Channel>
 		<Channel>
@@ -15163,6 +15166,10 @@
 			<File>FunX.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Gaztea" />
+			<File>Gaztea.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Groot Nieuws Radio">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -15442,6 +15449,10 @@
 					<Provider>TNT (BE)</Provider>
 				</Item>
 			<File>La Premiere.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="La Rioja 7" />
+			<File>La Rioja 7.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Lancelot Radio">
@@ -15818,6 +15829,11 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NH Radio.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nostalgia FM" />
+				<Item Name="Radio4G Nostalgia" />
+			<File>Nostalgia FM.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nostalgie">
@@ -17547,6 +17563,10 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>VivaCite.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vive Radio" />
+			<File>Vive Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="VRT Nws" />
