@@ -255,6 +255,16 @@
 			<File>6ter.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="7+ HD">
+					<Provider>UPC (CH)</Provider>
+				</Item>
+			<File>7 Plus HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="7+" />
+			<File>7 Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="7 Television Region de Murcia HD" />
 			<File>7 Television Region de Murcia HD.png</File>
 		</Channel>
@@ -6041,6 +6051,10 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Libido TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Liechtensteiner Landeskanal" />
+			<File>Liechtensteiner Landeskanal.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Lilo TV">
