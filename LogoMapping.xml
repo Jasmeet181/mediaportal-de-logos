@@ -6350,22 +6350,19 @@
 				<Item Name="Heiss und Sexy TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="MB Sat - Test1">
+				<Item Name="MBS - Test1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="MB Sat - Test3">
+				<Item Name="MBS - Test3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="MB Sat - Test4">
+				<Item Name="MBS - Test4">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="MB Sat - Test5">
+				<Item Name="MBS - Test5">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="MB Sat - Test6">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="MB Sat - Test7">
+				<Item Name="MBS - Test6">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Media Broadcast Satellite" />
@@ -9545,6 +9542,10 @@
 		<Channel>
 				<Item Name="Radio Television Vida" />
 			<File>Radio Television Vida.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Ticino Channel" />
+			<File>Radio Ticino Channel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio Weser.TV" />
@@ -14153,6 +14154,13 @@
 		<Channel>
 				<Item Name="WGLi TV" />
 			<File>WGLi TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Wir24TV HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Wir24TV" />
+			<File>Wir24TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Wismar TV" />
