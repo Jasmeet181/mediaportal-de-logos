@@ -7945,9 +7945,13 @@
 			<File>Nick Jr.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nickelodeon AT">
+				<Item Name="Nick/Comedy Central Austria">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="Nickelodeon Austria Comedy Central Austria" />
+			<File>Nickelodeon Austria Comedy Central Austria.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Nickelodeon Austria" />
 			<File>Nickelodeon Austria.png</File>
 		</Channel>
