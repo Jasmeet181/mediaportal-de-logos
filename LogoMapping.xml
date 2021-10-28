@@ -2,17 +2,17 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		14/10/2021 Sol Música, Somos and Xtrm added to Astra
+		22/11/2021 Vice TV (FR) closes
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
 		00/00/2021 CGTN (SD) and CGTN Documentary (SD) removed from Astra
 		00/00/2021 La Séptima launches
 		02/01/2022 Ahrtalradio closes
+		00/00/2022 Monte-Carlo Riviera launches
 		00/00/2022 SSK Sächsische Satellitenkanal launches on Astra
 		00/00/2022 TVP World HD launches on Astra
 		Canal+ Grand Écran launches
-		DAZN 1 and DAZN 2 added to Vodafone
 		Pitchoun TV added to Canal 31
 		Super RTL renamed to Toggo
 		TNT/HD renamed to WB TV/HD (ES)
@@ -737,11 +737,13 @@
 			<File>Arcadia World.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ARD alpha HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="ARD-alpha HD (Internet)">
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
 				</Item>
 				<Item Name="ARD-alpha HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
 					<Provider>UPC (CH)</Provider>
 					<Provider>Vodafone</Provider><!-- München -->
@@ -1078,17 +1080,14 @@
 			<File>BBC First.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BBC 1">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="BBC One HD">
 					<Provider>UPC (CH)</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
-				</Item>
-			<File>BBC One HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BBC 1">
-					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="BBC One">
 					<Provider>Digitenne</Provider>
@@ -1099,15 +1098,12 @@
 			<File>BBC One.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BBC 2">
+					<Provider>Telenet</Provider>
+				</Item>
 				<Item Name="BBC Two HD">
 					<Provider>UPC (CH)</Provider>
 					<Provider>Ziggo</Provider>
-				</Item>
-			<File>BBC Two HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BBC 2">
-					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="BBC Two">
 					<Provider>Digitenne</Provider>
@@ -2355,8 +2351,8 @@
 				<Item Name="BBC Four/Cbeebies HD">
 					<Provider>UPC (CH)</Provider>
 				</Item>
-				<Item Name="Cbeebies HD BBC Four HD" />
-			<File>Cbeebies HD BBC Four HD.png</File>
+				<Item Name="Cbeebies HD BBC Four" />
+			<File>Cbeebies HD BBC Four.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Cbeebies/BBC Four">
@@ -2964,6 +2960,9 @@
 			<File>Davos Klosters.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="DAZN 1 Bar HD">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
 				<Item Name="DAZN 1 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2973,6 +2972,9 @@
 			<File>Dazn 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="DAZN 2 Bar HD">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
 				<Item Name="DAZN 2 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -6067,6 +6069,10 @@
 			<File>Linz Land TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="LMtv Sarthe" />
+			<File>LMtv Sarthe.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="LN24">
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
@@ -6520,6 +6526,11 @@
 			<File>Mola TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Monaco Info HD" />
+				<Item Name="Monaco Info" />
+			<File>Monaco Info.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="More Than Sports TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -6577,6 +6588,13 @@
 				</Item>
 				<Item Name="Movistar Amenabar" />
 			<File>Movistar Amenabar.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M. Biografías">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Biografías" />
+			<File>Movistar Biografias.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M. Cine Español">
@@ -13520,19 +13538,11 @@
 			<File>Viajar.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ViàLMtv Sarthe" />
-			<File>ViaLMtv Sarthe.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Matele">
 					<Provider>TNT (FR)</Provider>
 				</Item>
 				<Item Name="ViàMatélé" />
 			<File>ViaMatele.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ViàMirabelle" />
-			<File>ViaMirabelle.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVSud Montpellier">
