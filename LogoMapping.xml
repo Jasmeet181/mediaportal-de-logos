@@ -7974,7 +7974,7 @@
 			<File>Nickelodeon Austria.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nick/CC+1">
+				<Item Name="Nick/Comedy Central+1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Nickelodeon/Comedy Central +1" />
@@ -7985,7 +7985,7 @@
 			<File>Nickelodeon HD Austria.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nick/CC+1 HD" />
+				<Item Name="Nick/Comedy Central+1 HD" />
 				<Item Name="Nickelodeon HD/Comedy Central +1 HD" />
 			<File>Nickelodeon HD Comedy Central Plus 1 HD.png</File>
 		</Channel>
