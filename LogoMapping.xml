@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		01/11/2021 NDR Plus renamed to NDR Schlager
 		22/11/2021 Vice TV (FR) closes
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
@@ -15859,6 +15860,10 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>NDR Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NDR Schlager" />
+			<File>NDR Schlager.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NH Radio">
