@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		01/11/2021 NDR Plus renamed to NDR Schlager
 		22/11/2021 Vice TV (FR) closes
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
@@ -10461,6 +10460,16 @@
 			<File>RTV Drenthe.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTV NOF" />
+				<Item Name="RTV NOF 1">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RTV NOF 2">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV NOF.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="RTV Noord" />
 				<Item Name="TV Noord">
 					<Provider>Digitenne</Provider>
@@ -15859,9 +15868,6 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-			<File>NDR Plus.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="NDR Schlager" />
 			<File>NDR Schlager.png</File>
 		</Channel>
@@ -15996,6 +16002,13 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Omroep Gelderland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Odrie Oosterwolde Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Omroep Odrie" />
+			<File>Omroep Odrie.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Omroep Súdwest FM">
@@ -16982,6 +16995,16 @@
 			<File>RTV Drenthe.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTV NOF" />
+				<Item Name="RTV NOF 1 Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RTV NOF 2 Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>RTV NOF.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Radio Noord">
 					<Provider>Digitenne</Provider>
 					<Provider>Ziggo</Provider>
@@ -17050,6 +17073,12 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Slow Turk.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Smelne FM">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Smelne FM.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sporza" />
