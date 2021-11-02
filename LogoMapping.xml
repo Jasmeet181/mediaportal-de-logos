@@ -15860,15 +15860,13 @@
 			<File>NDR Kultur.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="alt_NDR Plus">
+				<Item Name="alt_NDR Schlager">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="NDR Plus">
+				<Item Name="NDR Schlager">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
-				<Item Name="NDR Schlager" />
 			<File>NDR Schlager.png</File>
 		</Channel>
 		<Channel>
