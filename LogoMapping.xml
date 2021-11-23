@@ -2,11 +2,11 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		22/11/2021 Vice TV (FR) closes
 		14/12/2021 ARD-alpha bis 14.12.2021 zu HD wechseln and SR FS (bis 14.12.2021) close
 		00/12/2021 RT auf Deutsch launches
 		00/00/2021 ARD (BR, HR, MDR, NDR, RB, RBB, SR, SWR and WDR) alt_ radio stations close
 		02/01/2022 Ahrtalradio closes
+		02/01/2022 La Chaine du Pere Noel closes
 		00/00/2022 La Séptima launches
 		00/00/2022 Monte-Carlo Riviera launches
 		00/00/2022 SSK Sächsische Satellitenkanal launches on Astra
@@ -478,6 +478,9 @@
 			<File>Al Resalah.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Alex Berlin">
+					<Provider>Vodafone</Provider><!-- Berlin -->
+				</Item>
 				<Item Name="Alex Offener Kanal Berlin" />
 			<File>Alex Offener Kanal Berlin.png</File>
 		</Channel>
@@ -2156,7 +2159,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Bein Sports" />
-				<Item Name="Mosaique Ligue des Champions">
+				<Item Name="Mosaique UEFA Champions League">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>CanalPlus Bein Sports.png</File>
@@ -5763,6 +5766,13 @@
 			<File>La 8.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="La Chaine du Pere Noel" />
+				<Item Name="La Chaîne du Père Noël">
+					<Provider>Voo</Provider>
+				</Item>
+			<File>La Chaine du Pere Noel.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="La Chaîne Météo" />
 				<Item Name="La Chaine Meteo">
 					<Provider>Astra 19.2E</Provider>
@@ -6043,12 +6053,6 @@
 		<Channel>
 				<Item Name="L'Hospitalet TV" />
 			<File>LHospitalet TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Libido TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Libido TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Liechtensteiner Landeskanal" />
@@ -6795,6 +6799,13 @@
 		<Channel>
 				<Item Name="Movistar James Bond" />
 			<File>Movistar James Bond.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MLaCasadePapel'">
+					<Provider>Voo</Provider>
+				</Item>
+				<Item Name="Movistar La Casa de Papel" />
+			<File>Movistar La Casa de Papel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="La Resistencia">
@@ -8122,12 +8133,6 @@
 		<Channel>
 				<Item Name="Noa4" />
 			<File>Noa4.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Non Stop People">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Non Stop People.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Notélé" />
@@ -9903,7 +9908,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="RMC Sport 1">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>RMC Sport 1.png</File>
@@ -9913,7 +9917,6 @@
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="RMC Sport 2">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>UPC (CH)</Provider>
 				</Item>
 			<File>RMC Sport 2.png</File>
@@ -13563,13 +13566,6 @@
 			<File>ViaTelePaese.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Vice TV">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Voo</Provider>
-				</Item>
-			<File>Vice TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Videoland.">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -13608,6 +13604,12 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Vivolta.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vixen">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Vixen.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vlaams Parlement.TV" />
