@@ -3,6 +3,12 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+				<Item Name="Curiosity Channel">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Curiosity Channel.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Nat Geo Wild HD">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -23,6 +29,16 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>RTV Oost.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TLC HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>TLC HD NL.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TLC" />
+			<File>TLC NL.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->

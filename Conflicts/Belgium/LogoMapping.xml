@@ -3,6 +3,10 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+				<Item Name="Matélé" />
+			<File>Matele BE.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Nat Geo Wild HD">
 					<Provider>Voo</Provider>
 				</Item>

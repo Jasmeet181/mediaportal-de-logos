@@ -5,21 +5,18 @@
 		<Channel>
 				<Item Name="AXN HD">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>AXN HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="AXN">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>AXN.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Boing">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
 				</Item>
@@ -30,24 +27,16 @@
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
 				</Item>
-				<Item Name="Discovery Max">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
 			<File>DMAX ES.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nat Geo Wild">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Movistar+ IPTV</Provider>
 				</Item>
 			<File>National Geographic Wild GB.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nat Geo Wild HD">
-					<Provider>Movistar+ IPTV</Provider>
-				</Item>
-				<Item Name="NG Wild HD">
-					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>National Geographic Wild HD GB.png</File>
 		</Channel>

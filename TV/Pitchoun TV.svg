@@ -1,5 +1,5 @@
-<svg width="800" height="237.53" version="1.1" viewBox="0 0 800 237.53" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<g transform="matrix(.51151 0 0 .51151 0 .001136)">
+<svg width="800" height="238.79" version="1.1" viewBox="0 0 800 238.79" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<g transform="matrix(.51422 0 0 .51422 -4.2434 .0011466)">
 			<linearGradient id="SVGID_1_" x1="285.93" x2="484.12" y1="368.22" y2="368.22" gradientTransform="matrix(1,0,0,-1,0,466)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#62CE79" offset="0"/>
 			<stop stop-color="#299540" offset="1"/>
@@ -12,12 +12,8 @@
 			<stop stop-color="#BF0010" offset="1"/>
 		</linearGradient>
 		<path d="m433.5 64.4 120.2-12.5c7.8-0.8 14.7 4.8 15.6 12.6l12.5 120.2c0.8 7.8-4.8 14.7-12.6 15.6l-120.2 12.5c-7.8 0.8-14.7-4.8-15.6-12.6l-12.6-120.2c-0.8-7.8 4.9-14.8 12.7-15.6z" fill="url(#SVGID_2_)"/>
-			<linearGradient id="SVGID_3_" x1="5.7507" x2="4.7207" y1="340.06" y2="336.52" gradientTransform="matrix(1,0,0,-1,0,466)" gradientUnits="userSpaceOnUse">
-			<stop stop-color="#E6E6E6" offset="0"/>
-			<stop stop-color="#fff" offset=".5"/>
-			<stop stop-color="#E6E6E6" offset="1"/>
-		</linearGradient>
-		<path d="m9.5 128.1-2.7-5.5c-2.1 2.5-4.4 4.9-6.8 7.2l9.6-1.1z" fill="url(#SVGID_3_)"/>
+			
+		
 			<linearGradient id="SVGID_4_" x1="9.6212" x2="9.5512" y1="337.64" y2="337.42" gradientTransform="matrix(1,0,0,-1,0,466)" gradientUnits="userSpaceOnUse">
 			<stop stop-color="#E6E6E6" offset="0"/>
 			<stop stop-color="#fff" offset=".5"/>
@@ -29,14 +25,11 @@
 			<stop stop-color="#F2F2F2" stop-opacity="0" offset="1"/>
 		</linearGradient>
 		<path d="m9.8 128.7-0.3-0.6 0.1 0.6z" enable-background="new" fill="url(#SVGID_5_)" opacity=".2"/>
-			<linearGradient id="SVGID_6_" x1="5.7507" x2="4.7207" y1="340.06" y2="336.52" gradientTransform="matrix(1,0,0,-1,0,466)" gradientUnits="userSpaceOnUse">
-			<stop stop-opacity=".13" offset="0"/>
-			<stop stop-color="#F2F2F2" stop-opacity="0" offset="1"/>
-		</linearGradient>
-		<path d="m9.5 128.1-2.7-5.5c-2.1 2.5-4.4 4.9-6.8 7.2l9.6-1.1z" enable-background="new" fill="url(#SVGID_6_)" opacity=".2"/>
-		<path d="m8.3 122c0-0.5-0.1-0.8-0.1-0.8 0 0.3 0 0.5 0.1 0.8z" fill="#d9277b"/>
-		<path d="m10.6 128.6c-0.5-1.1-0.9-2.2-1.2-3.1l-0.4 0.3 0.6 2.9z" fill="#d9277b"/>
-		<path d="m9 125.8-0.4 0.3c0.1 0.8 0.2 1.7 0.3 2.6l0.6-0.1z" fill="#d9277b"/>
+			
+		
+		
+		
+		
 		<path d="m55.8 182.4s17.2-3.3 13.9-15.1c-2.9 6.4-7.7 11.7-13.9 15.1z" fill="#9e1d61"/>
 		<path d="m72.9 170.2s17.2-3.3 13.9-15.1c-2.8 6.4-7.7 11.7-13.9 15.1z" fill="#9e1d61"/>
 			<linearGradient id="SVGID_7_" x1="892.35" x2="1079.7" y1="111.88" y2="111.88" gradientTransform="matrix(1,0,0,-1,0,466)" gradientUnits="userSpaceOnUse">
