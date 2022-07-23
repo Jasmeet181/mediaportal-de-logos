@@ -2920,70 +2920,70 @@
 			<File>Davos Klosters.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 1 Bar" />
+				<Item Name="Dazn 1 Bar" />
 			<File>Dazn 1 Bar.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 1 HD">
+				<Item Name="Dazn 1 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="DAZN 1 (Sky)">
+				<Item Name="Dazn 1 (Sky)">
 					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
-				<Item Name="DAZN 1">
+				<Item Name="Dazn 1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Dazn 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 2 Bar" />
+				<Item Name="Dazn 2 Bar" />
 			<File>Dazn 2 Bar.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 2 HD">
+				<Item Name="Dazn 2 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="DAZN 2 (Sky)">
+				<Item Name="Dazn 2 (Sky)">
 					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
-				<Item Name="DAZN 2">
+				<Item Name="Dazn 2">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Dazn 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 3 HD">
+				<Item Name="Dazn 3 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="DAZN 3">
+				<Item Name="Dazn 3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Dazn 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN 4 HD">
+				<Item Name="Dazn 4 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="DAZN 4">
+				<Item Name="Dazn 4">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Dazn 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN F1 4K" />
+				<Item Name="Dazn F1 4K" />
 			<File>Dazn F1 4K.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN F1 HD">
+				<Item Name="Dazn F1 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="DAZN F1">
+				<Item Name="Dazn F1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Dazn F1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DAZN LaLiga" />
+				<Item Name="Dazn LaLiga" />
 			<File>Dazn LaLiga.png</File>
 		</Channel>
 		<Channel>
@@ -9533,7 +9533,7 @@
 			<File>RTL Living HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTL Living"
+				<Item Name="RTL Living" />
 			<File>RTL Living.png</File>
 		</Channel>
 		<Channel>
@@ -9917,6 +9917,7 @@
 		<Channel>
 				<Item Name="Sat.1 Emotions">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Sat.1 Emotions.png</File>
 		</Channel>
 		<Channel>
