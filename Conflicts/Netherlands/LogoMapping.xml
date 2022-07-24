@@ -37,7 +37,9 @@
 			<File>TLC HD NL.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TLC" />
+				<Item Name="TLC">
+					<Provider>Digitenne</Provider>
+				</Item>
 			<File>TLC NL.png</File>
 		</Channel>
 	</TV>

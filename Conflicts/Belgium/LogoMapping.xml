@@ -14,6 +14,16 @@
 			<File>National Geographic Wild HD FR.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TLC HD" />
+			<File>TLC HD NL.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TLC">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>TLC NL.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV Oost" />
 			<File>TV Oost.png</File>
 		</Channel>

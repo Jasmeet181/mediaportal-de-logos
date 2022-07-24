@@ -17,16 +17,18 @@
 		<!--
 		AXN/HD ES/Sony AXN/HD DE conflict
 		Boing/ES conflict
+		Cosmo ES TV/DE Radio
 		Curiosity Channel/Curiosity Channel powered by Spiegel conflict
 		Disney Channel/ES
 		DMAX DE/ES conflict
-		Hit FM BE/ES conflict 
+		Hit FM BE/ES conflict
+		La Premiere FR TV/BE Radio
 		Matele BE/FR conflict
 		National Geographic Wild conflicts
 		Nostalgie (FR)/Nostalgie Belgique conflict
 		RTL Crime DE/NL conflict
 		RTV Oost (NL)/TV Oost (BE) conflict
-		TLC/NL conflict
+		TLC DE/NL conflict
 		-->
 	<TV>
 		<Channel>
@@ -487,13 +489,6 @@
 			<File>Alacanti TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="All Elite Wrestling" />
-				<Item Name="WrestlingAEW PPV">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
-			<File>All Elite Wrestling.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="All Flamenco 4K" />
 			<File>All Flamenco 4K.png</File>
 		</Channel>
@@ -820,6 +815,9 @@
 				<Item Name="Asteroid Day 2022 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="Asteroid Day 2023 HD" />
+				<Item Name="Asteroid Day 2024 HD" />
+				<Item Name="Asteroid Day 2025 HD" />
 				<Item Name="Asteroid Day" />
 			<File>Asteroid Day.png</File>
 		</Channel>
@@ -1877,10 +1875,6 @@
 			<File>Buenacompra.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Business TV" />
-			<File>Business TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="BVN (dut)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
@@ -1931,8 +1925,8 @@
 			<File>Calle 13.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Canal 1 TV Mar Menor" />
-			<File>Canal 1 TV Mar Menor.png</File>
+				<Item Name="Canal 1 Mar Menor Torre Pacheco" />
+			<File>Canal 1 Mar Menor Torre Pacheco.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canal 13 Digital" />
@@ -2767,7 +2761,7 @@
 				<Item Name="Cosmo">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>Cosmo.png</File>
+			<File>Cosmo ES.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Coswiger Infokanal K3" />
@@ -3080,16 +3074,6 @@
 		<Channel>
 				<Item Name="Der Aktionar TV" />
 			<File>Der Aktionar TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Deutsche Eishockey Liga" />
-				<Item Name="Eishockey">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Live Eishockey">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-			<File>Deutsche Eishockey Liga.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Deutsche Welle" />
@@ -3484,13 +3468,6 @@
 		<Channel>
 				<Item Name="EFF 3" />
 			<File>EFF 3.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="EHF Champions League" />
-				<Item Name="Live Handball CL">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-			<File>EHF Champions League.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="EHS TV" />
@@ -4185,12 +4162,6 @@
 			<File>Food Network.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Foot+ 24/24">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>FootPlus 2424.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Forst TV" />
 			<File>Forst TV.png</File>
 		</Channel>
@@ -4690,13 +4661,6 @@
 			<File>Golf por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Golf" />
-				<Item Name="Live Golf">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-			<File>Golf.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Golf+ HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
@@ -4957,6 +4921,9 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Horse &amp; Country TV" />
+				<Item Name="Horse &amp; Country">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Horse and Country TV.png</File>
 		</Channel>
 		<Channel>
@@ -5714,7 +5681,7 @@
 		<Channel>
 				<Item Name="La Premiere" />
 				<Item Name="La Première" />
-			<File>La Premiere.png</File>
+			<File>La Premiere FR.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="La Resistencia por Movistar Plus" />
@@ -7435,6 +7402,9 @@
 				<Item Name="Nickelodeon Ukraine Pluto TV">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="Nickelodeon Ukraine">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Nickelodeon Ukraine Pluto TV.png</File>
 		</Channel>
 		<Channel>
@@ -8200,13 +8170,6 @@
 		<Channel>
 				<Item Name="Oscar am Freitag TV" />
 			<File>Oscar am Freitag TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Eishockey AUT">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Österreichischer Eishockeyverband" />
-			<File>Osterreichischer Eishockeyverband.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="OstWest (rus)">
@@ -12164,9 +12127,7 @@
 		<Channel>
 				<Item Name="TLC">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Digitenne</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
-					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -12184,7 +12145,6 @@
 					<Provider>Sunrise Cable</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-					<Provider>Ziggo</Provider>
 				</Item>
 			<File>TLC HD DE.png</File>
 		</Channel>
@@ -12196,7 +12156,10 @@
 			<File>TLC HD NL.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TLC" />
+				<Item Name="TLC">
+					<Provider>Digitenne</Provider>
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>TLC NL.png</File>
 		</Channel>
 		-->
@@ -13607,26 +13570,12 @@
 			<File>WNTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Live Golf WGC">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="World Golf Championships" />
-			<File>World Golf Championships.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="WT1" />
 			<File>WT1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="WTV" />
 			<File>WTV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="WWE PPV">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="WWE" />
-			<File>WWE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Xite HD">
@@ -14319,7 +14268,7 @@
 				<Item Name="WDRCosmo">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-			<File>Cosmo.png</File>
+			<File>Cosmo DE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Couleur 3" />
@@ -14847,7 +14796,7 @@
 				<Item Name="La1ère">
 					<Provider>TNT (BE)</Provider>
 				</Item>
-			<File>La Premiere.png</File>
+			<File>La Premiere BE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Lancelot Radio">
@@ -15192,6 +15141,12 @@
 			<File>Nostalgie Vlaanderen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nostalgie+">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>NostalgiePlus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="NPO 3FM">
 					<Provider>Digitenne</Provider>
 					<Provider>Telenet</Provider>
@@ -15396,6 +15351,12 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Puls.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Q-Downtown">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Q-Downtown.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Q-Foute Radio">
