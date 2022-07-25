@@ -8988,8 +8988,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
-				<Item Name="Rai News24" />
-			<File>Rai News24.png</File>
+			<File>Rai News 24.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Rai Storia">
