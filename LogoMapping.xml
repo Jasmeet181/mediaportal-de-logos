@@ -9250,25 +9250,21 @@
 			<File>RMC Sport 1 UHD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RMC Sport 1">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
+				<Item Name="RMC Sport 1" />
 			<File>RMC Sport 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RMC Sport 2 HD">
 					<Provider>Voo</Provider>
 				</Item>
-				<Item Name="RMC Sport 2">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
+				<Item Name="RMC Sport 2" />
 			<File>RMC Sport 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RMC Sport Access 1" />
-				<Item Name="TC RMC Sport Access 1">
+				<Item Name="RMC Sport Access 1 (blue)">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
+				<Item Name="RMC Sport Access 1" />
 			<File>RMC Sport Access 1.png</File>
 		</Channel>
 		<Channel>
