@@ -2986,6 +2986,14 @@
 			<File>Dazn F1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Dazn LaLiga 2" />
+			<File>Dazn LaLiga 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Dazn LaLiga 3" />
+			<File>Dazn LaLiga 3.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Dazn LaLiga" />
 			<File>Dazn LaLiga.png</File>
 		</Channel>
