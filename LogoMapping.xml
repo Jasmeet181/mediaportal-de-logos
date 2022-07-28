@@ -3,14 +3,16 @@
 <!-- ******************************************************************** -->
 		<!--
 		31/07/22 Eurosport 1 HD and Eurosport 2 HD removed from Sky DE - https://www.digitalfernsehen.de/top-news/eurosport-sender-bei-sky-vor-dem-aus-termine-und-alternativen-607765/
-		01/08/22 Dazn LaLiga 1 and 2 launch - https://www.mundoplus.tv/tv-digital/los-canales-dazn-laliga-ya-emiten-en-pruebas-en-movistar-plus/ 
+		01/08/22 Dazn LaLiga, Dazn LaLiga 2, Dazn LaLiga 3 launch - https://www.mundoplus.tv/tv-digital/los-canales-dazn-laliga-ya-emiten-en-pruebas-en-movistar-plus/ https://www.mundoplus.tv/comunidad/viewtopic.php?p=1653640&sid=d758fab9fae7ff33219f912cbd0946b6#p1653640 https://www.mundoplus.tv/tv-digital/dazn-lanzara-3-canales-para-seguir-laliga-a-traves-de-movistar-plus-y-orange-tv/
 		04/08/22 Sky Showcase launches - https://www.digitalfernsehen.de/news/medien-news/maerkte/sky-showcase-kommt-nach-deutschland-607622/
+		05/08/22 Cracks por Movistar Plus+ - https://www.mundoplus.tv/tv-digital/llega-el-canal-cracks-a-movistar-plus/ https://jungle-team.com/nuevo-canal-pop-up-cracks-por-movistar/
 		31/08/22 Canal+ Foot and Canal+ Sport 360 launch, Canal+ Décalé closes - https://www.broadbandtvnews.com/2022/07/22/canal-plus-plans-two-new-sports-channels/
 		00/09/22 La Chaîne Normande renamed to BFM Normandie - https://actu.fr/societe/bfm-normandie-remplacera-bientot-la-chaine-normande-sur-nos-teles_51168086.html
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
 		00/00/23 Arte UHD launches on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
+		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
 		TNT/HD renamed to Warner TV/HD (ES) - https://www.broadbandtvnews.com/2021/06/14/tnt-channels-to-become-warner-tv-in-germany/
 		-->
@@ -367,7 +369,7 @@
 			<File>Abu Dhabi TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Accion por Movistar Plus" />
+				<Item Name="Accion por Movistar Plus+" />
 				<Item Name="M+ Acción HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2322,7 +2324,7 @@
 			<File>Cellnex.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Cero por Movistar Plus" />
+				<Item Name="Cero por Movistar Plus+" />
 				<Item Name="M+ #0 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2441,7 +2443,7 @@
 			<File>CHTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Cine Español por Movistar Plus" />
+				<Item Name="Cine Español por Movistar Plus+" />
 				<Item Name="M+Cine Español">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2540,7 +2542,7 @@
 			<File>Clan.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Clasicos por Movistar Plus" />
+				<Item Name="Clasicos por Movistar Plus+" />
 				<Item Name="M+ Clásicos HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2682,7 +2684,7 @@
 			<File>Colmax TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Comedia por Movistar Plus" />
+				<Item Name="Comedia por Movistar Plus+" />
 				<Item Name="M+ Comedia">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2768,11 +2770,11 @@
 			<File>Coswiger Infokanal K3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Crimen por Movistar Plus" />
-				<Item Name="M+ Crimen">
+				<Item Name="Cracks por Movistar Plus+" />
+				<Item Name="M+ Cracks">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>Crimen por Movistar Plus.png</File>
+			<File>Cracks por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="C+I HD">
@@ -2802,6 +2804,13 @@
 				</Item>
 				<Item Name="Crime District" />
 			<File>Crime District.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Crimen por Movistar Plus+" />
+				<Item Name="M+ Crimen">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Crimen por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="CStar Hits France">
@@ -3017,7 +3026,7 @@
 			<File>Deluxe Music.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Deportes 2 por Movistar Plus" />
+				<Item Name="Deportes 2 por Movistar Plus+" />
 				<Item Name="M+Deportes2HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3027,42 +3036,42 @@
 			<File>Deportes 2 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Deportes 3 por Movistar Plus" />
+				<Item Name="Deportes 3 por Movistar Plus+" />
 				<Item Name="M+Deportes3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Deportes 3 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Deportes 4 por Movistar Plus" />
+				<Item Name="Deportes 4 por Movistar Plus+" />
 				<Item Name="M+Deportes4">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Deportes 4 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Deportes 5 por Movistar Plus" />
+				<Item Name="Deportes 5 por Movistar Plus+" />
 				<Item Name="M+Deportes5">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Deportes 5 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Deportes 6 por Movistar Plus" />
+				<Item Name="Deportes 6 por Movistar Plus+" />
 				<Item Name="M+Deportes6">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Deportes 6 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Deportes 7 por Movistar Plus" />
+				<Item Name="Deportes 7 por Movistar Plus+" />
 				<Item Name="M+Deportes7">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Deportes 7 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Deportes por Movistar Plus" />
+				<Item Name="Deportes por Movistar Plus+" />
 				<Item Name="M+ Deportes">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3341,7 +3350,7 @@
 			<File>DorfTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Drama por Movistar Plus" />
+				<Item Name="Drama por Movistar Plus+" />
 				<Item Name="M+ Drama HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3589,7 +3598,7 @@
 			<File>Elhiwar Ettounsi.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Ellas V por Movistar Plus" />
+				<Item Name="Ellas V por Movistar Plus+" />
 				<Item Name="M+ Ellas #V">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3737,7 +3746,7 @@
 			<File>ESportsOne.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Estrenos 2 por Movistar Plus" />
+				<Item Name="Estrenos 2 por Movistar Plus+" />
 				<Item Name="M+ Estrenos 2 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3747,7 +3756,7 @@
 			<File>Estrenos 2 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Estrenos por Movistar Plus" />
+				<Item Name="Estrenos por Movistar Plus+" />
 				<Item Name="M+ Estrenos">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -4037,7 +4046,7 @@
 			<File>Fernsehen in Schwerin.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Fest por Movistar Plus" />
+				<Item Name="Fest por Movistar Plus+" />
 				<Item Name="M+ Fest">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -4651,7 +4660,7 @@
 			<File>Golf Channel.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Golf por Movistar Plus" />
+				<Item Name="Golf por Movistar Plus+" />
 				<Item Name="M+ Golf HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -5684,7 +5693,7 @@
 			<File>La Premiere FR.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="La Resistencia por Movistar Plus" />
+				<Item Name="La Resistencia por Movistar Plus+" />
 				<Item Name="M+ La Resistencia">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -5752,7 +5761,7 @@
 			<File>Labor14 Thuringer Lernsender.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 2 por Movistar Plus" />
+				<Item Name="LaLiga 2 por Movistar Plus+" />
 				<Item Name="M+ LaLiga 2 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -5762,7 +5771,7 @@
 			<File>LaLiga 2 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 3 por Movistar Plus" />
+				<Item Name="LaLiga 3 por Movistar Plus+" />
 				<Item Name="M+ LaLiga 3 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -5772,27 +5781,27 @@
 			<File>LaLiga 3 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 4 por Movistar Plus" />
+				<Item Name="LaLiga 4 por Movistar Plus+" />
 			<File>LaLiga 4 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 5 por Movistar Plus" />
+				<Item Name="LaLiga 5 por Movistar Plus+" />
 			<File>LaLiga 5 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 6 por Movistar Plus" />
+				<Item Name="LaLiga 6 por Movistar Plus+" />
 			<File>LaLiga 6 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 7 por Movistar Plus" />
+				<Item Name="LaLiga 7 por Movistar Plus+" />
 			<File>LaLiga 7 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 8 por Movistar Plus" />
+				<Item Name="LaLiga 8 por Movistar Plus+" />
 			<File>LaLiga 8 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga por Movistar Plus" />
+				<Item Name="LaLiga por Movistar Plus+" />
 				<Item Name="M+ LaLiga HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -5837,7 +5846,7 @@
 			<File>LaLiga TV Bar.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga UHD por Movistar Plus" />
+				<Item Name="LaLiga UHD por Movistar Plus+" />
 			<File>LaLiga UHD por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
@@ -5954,98 +5963,98 @@
 			<File>Liechtensteiner Landeskanal.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 10 por Movistar Plus" />
+				<Item Name="Liga de Campeones 10 por Movistar Plus+" />
 				<Item Name="M+LCampeon10">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 10 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 11 por Movistar Plus" />
+				<Item Name="Liga de Campeones 11 por Movistar Plus+" />
 				<Item Name="M+LCampeon11">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 11 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 12 por Movistar Plus" />
+				<Item Name="Liga de Campeones 12 por Movistar Plus+" />
 				<Item Name="M+LCampeon12">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 12 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 13 por Movistar Plus" />
+				<Item Name="Liga de Campeones 13 por Movistar Plus+" />
 				<Item Name="M+LCampeon13">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 13 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 2 por Movistar Plus" />
+				<Item Name="Liga de Campeones 2 por Movistar Plus+" />
 				<Item Name="M+LCampeon2">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 2 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 3 por Movistar Plus" />
+				<Item Name="Liga de Campeones 3 por Movistar Plus+" />
 				<Item Name="M+LCampeon3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 3 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 4 por Movistar Plus" />
+				<Item Name="Liga de Campeones 4 por Movistar Plus+" />
 				<Item Name="M+LCampeon4">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 4 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 5 por Movistar Plus" />
+				<Item Name="Liga de Campeones 5 por Movistar Plus+" />
 				<Item Name="M+LCampeon5">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 5 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 6 por Movistar Plus" />
+				<Item Name="Liga de Campeones 6 por Movistar Plus+" />
 				<Item Name="M+LCampeon6">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 6 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 7 por Movistar Plus" />
+				<Item Name="Liga de Campeones 7 por Movistar Plus+" />
 				<Item Name="M+LCampeon7">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 7 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 8 por Movistar Plus" />
+				<Item Name="Liga de Campeones 8 por Movistar Plus+" />
 				<Item Name="M+LCampeon8">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 8 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones 9 por Movistar Plus" />
+				<Item Name="Liga de Campeones 9 por Movistar Plus+" />
 				<Item Name="M+LCampeon9">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones 9 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones por Movistar Plus" />
+				<Item Name="Liga de Campeones por Movistar Plus+" />
 				<Item Name="M+LCampeones">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Liga de Campeones por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones UHD por Movistar Plus" />
+				<Item Name="Liga de Campeones UHD por Movistar Plus+" />
 			<File>Liga de Campeones UHD por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
@@ -6081,7 +6090,7 @@
 			<File>Loly TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Los Goya por Movistar Plus" />
+				<Item Name="Los Goya por Movistar Plus+" />
 				<Item Name="M+ Los Goya">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -8431,7 +8440,7 @@
 				<Item Name="M+ Platino">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Platino por Movistar Plus" />
+				<Item Name="Platino por Movistar Plus+" />
 			<File>Platino por Movistar.png</File>
 		</Channel>
 		<Channel>
@@ -9851,7 +9860,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="M+ Sagas" />
-				<Item Name="Sagas por Movistar Plus" />
+				<Item Name="Sagas por Movistar Plus+" />
 			<File>Sagas por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
@@ -10084,7 +10093,7 @@
 				<Item Name="M+ Series 2">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Series 2 por Movistar Plus" />
+				<Item Name="Series 2 por Movistar Plus+" />
 			<File>Series 2 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
@@ -10094,7 +10103,7 @@
 				<Item Name="M+ Series">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Series por Movistar Plus" />
+				<Item Name="Series por Movistar Plus+" />
 			<File>Series por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
@@ -12898,7 +12907,7 @@
 				<Item Name="M+#VamosBar3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Vamos por Movistar Plus" />
+				<Item Name="Vamos por Movistar Plus+" />
 			<File>Vamos por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
@@ -12926,14 +12935,14 @@
 				<Item Name="M+ Very British">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Very British por Movistar Plus" />
+				<Item Name="Very British por Movistar Plus+" />
 			<File>Very British por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="M+ VHS">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="VHS por Movistar Plus" />
+				<Item Name="VHS por Movistar Plus+" />
 			<File>VHS por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
