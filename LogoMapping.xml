@@ -2,11 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		31/07/22 Eurosport 1 HD and Eurosport 2 HD removed from Sky DE - https://www.digitalfernsehen.de/top-news/eurosport-sender-bei-sky-vor-dem-aus-termine-und-alternativen-607765/
-		01/08/22 Dazn LaLiga, Dazn LaLiga 2, Dazn LaLiga 3 launch - https://www.mundoplus.tv/tv-digital/los-canales-dazn-laliga-ya-emiten-en-pruebas-en-movistar-plus/ https://www.mundoplus.tv/comunidad/viewtopic.php?p=1653640&sid=d758fab9fae7ff33219f912cbd0946b6#p1653640 https://www.mundoplus.tv/tv-digital/dazn-lanzara-3-canales-para-seguir-laliga-a-traves-de-movistar-plus-y-orange-tv/
-		04/08/22 Sky Showcase launches - https://www.digitalfernsehen.de/news/medien-news/maerkte/sky-showcase-kommt-nach-deutschland-607622/
-		05/08/22 Cracks por Movistar Plus+ - https://www.mundoplus.tv/tv-digital/llega-el-canal-cracks-a-movistar-plus/ https://jungle-team.com/nuevo-canal-pop-up-cracks-por-movistar/
-		31/08/22 Canal+ Foot and Canal+ Sport 360 launch, Canal+ Décalé closes - https://www.broadbandtvnews.com/2022/07/22/canal-plus-plans-two-new-sports-channels/
+		31/08/22 Canal+ Foot and Canal+ Sport 360 launch, Canal+ Décalé may close - https://www.broadbandtvnews.com/2022/07/22/canal-plus-plans-two-new-sports-channels/
 		00/09/22 La Chaîne Normande renamed to BFM Normandie - https://actu.fr/societe/bfm-normandie-remplacera-bientot-la-chaine-normande-sur-nos-teles_51168086.html
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
@@ -1368,7 +1364,9 @@
 		<Channel>
 				<Item Name="BFM Dici Alpes Du Sud" />
 				<Item Name="BFM Dici Haute Provence" />
-				<Item Name="BFM Dici" />
+				<Item Name="BFM Dici">
+					<Provider>TNT (FR)</Provider>
+				</Item>
 			<File>BFM Dici.png</File>
 		</Channel>
 		<Channel>
@@ -2964,9 +2962,6 @@
 			<File>Dazn 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Dazn 4 HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Dazn 4">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -2986,7 +2981,12 @@
 			<File>Dazn F1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Dazn LaLiga 2" />
+				<Item Name="Dazn LaLiga 2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Dazn LaLiga2 HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Dazn LaLiga 2.png</File>
 		</Channel>
 		<Channel>
@@ -2994,7 +2994,12 @@
 			<File>Dazn LaLiga 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Dazn LaLiga" />
+				<Item Name="Dazn LaLiga">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Dazn LaLigaHD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>Dazn LaLiga.png</File>
 		</Channel>
 		<Channel>
@@ -3127,6 +3132,11 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Die Neue Zeit TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Dieu TV" />
+				<Item Name="DieuTV" />
+			<File>DieuTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Discovery HD (S)">
@@ -3906,17 +3916,10 @@
 			<File>Eurosport 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eurosport 2 HD Xtra">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Eurosport 2 HD Xtra.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Eurosport 2 F HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="Eurosport 2 HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -3927,6 +3930,7 @@
 		<Channel>
 				<Item Name="Eurosport 2">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>Eurosport 2.png</File>
 		</Channel>
@@ -5213,6 +5217,10 @@
 		<Channel>
 				<Item Name="Inultra" />
 			<File>Inultra.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="IStuff" />
+			<File>IStuff.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Italia 1 HD">
@@ -8283,9 +8291,7 @@
 			<File>Pearl TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Penthouse Black">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Penthouse Black" />
 			<File>Penthouse Black.png</File>
 		</Channel>
 		<Channel>
@@ -8298,9 +8304,6 @@
 		<Channel>
 				<Item Name="Penthouse Passion">
 					<Provider>Telenet</Provider>
-				</Item>
-				<Item Name="Penthouse">
-					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Penthouse Passion.png</File>
 		</Channel>
@@ -8609,13 +8612,6 @@
 		<Channel>
 				<Item Name="Popular TV Region de Murcia" />
 			<File>Popular TV Region de Murcia.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Pornhub TV" />
-				<Item Name="Pornhub">
-					<Provider>Digitenne</Provider>
-				</Item>
-			<File>Pornhub TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="PowerTürk TV">
@@ -9991,6 +9987,18 @@
 			<File>Sat.1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SBN International">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Sonlife (eng)">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
+				<Item Name="Sonlife">
+					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+			<File>SBN International.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SBS6 HD">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -10478,6 +10486,13 @@
 			<File>Sky Replay HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Showcase HD">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Alfeld -->
+				</Item>
+			<File>Sky Showcase HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Sport 1 HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -10904,19 +10919,6 @@
 		<Channel>
 				<Item Name="Somos" />
 			<File>Somos.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="SBN">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Sonlife (eng)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Sonlife Broadcasting Network" />
-				<Item Name="Sonlife">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sonnenklar TV HD">
@@ -12279,12 +12281,6 @@
 			<File>TPA9 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Trace Latina">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Trace Latina.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Trace Urban">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
@@ -12388,6 +12384,12 @@
 			<File>TRT World HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="True Amateurs">
+					<Provider>Digitenne</Provider>
+				</Item>
+			<File>True Amateurs.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Turkshow" />
 			<File>Turkshow.png</File>
 		</Channel>
@@ -12417,11 +12419,6 @@
 		<Channel>
 				<Item Name="TV Com" />
 			<File>TV Com.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV Halle HD" />
-				<Item Name="TV Halle" />
-			<File>TV Halle.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV Limburg" />
@@ -12812,23 +12809,6 @@
 			<File>UHD1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Ukraine 24 HD">
-					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Ukraina 24" />
-				<Item Name="Ukraina24">
-					<Provider>Telenet</Provider>
-				</Item>
-			<File>Ukraina 24.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Ukraina 24 / 1+1 International (kaz/ukr)">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
-				<Item Name="Ukraina 24 1+1 International" />
-			<File>Ukraina 24 1 Plus 1 International.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Ultra Nature" />
 			<File>Ultra Nature.png</File>
 		</Channel>
@@ -12965,6 +12945,9 @@
 			<File>ViaOccitanie Montpellier.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV Sud PO">
+					<Provider>TNT (FR)</Provider>
+				</Item>
 				<Item Name="ViàOccitanie Pays Catalan" />
 			<File>ViaOccitanie Pays Catalan.png</File>
 		</Channel>
@@ -13626,6 +13609,10 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Yol TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Yu Planet" />
+			<File>Yu Planet.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Z1 Televizija" />
@@ -14712,7 +14699,9 @@
 			<File>Joe 80s.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Joe Easy" />
+				<Item Name="Joe Easy">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Joe Easy.png</File>
 		</Channel>
 		<Channel>
