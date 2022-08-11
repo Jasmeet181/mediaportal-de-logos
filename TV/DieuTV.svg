@@ -1,23 +1,18 @@
-<svg width="800" height="246.22" version="1.1" viewBox="0 0 211.67 65.147" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="222.44" version="1.1" viewBox="0 0 211.67 58.856" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient886" x1="1.9196e-7" x2="211.67" y1="-3.1466" y2="62.001" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient732" x1="1.9196e-7" x2="211.67" y1="-3.1466" y2="62.001" gradientTransform="matrix(.99998 0 0 .99998 -4.4168 -1.233)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#de2b0c" offset="0"/>
    <stop stop-color="#cc2a0a" offset=".28895"/>
    <stop stop-color="#8e240c" offset=".649"/>
    <stop stop-color="#6f2312" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="matrix(.99998 0 0 .99998 -1.9196e-7 3.1466)" opacity=".996">
-  <path d="m1.9196e-7 -3.1466 211.67-3.36e-5v65.148l-211.67 3.4e-5z" fill="url(#linearGradient886)" opacity=".989" stroke-width=".84236"/>
-  <g transform="matrix(.95823 0 0 .95823 -333.5 -235.96)" fill="#fff">
-   <g transform="matrix(1.0683,0,0,1.0501,288.54,400.7)" fill="#fff" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="DieuTV">
-    <path d="m60.008-145.86h10.746q10.405 0 14.055 0.95517 3.6842 0.95518 5.5946 3.1384 1.9103 2.1832 2.3879 4.8782 0.47759 2.6608 0.47759 10.507v19.342q0 7.4367-0.71638 9.9611-0.68226 2.4903-2.422 3.923-1.7398 1.3986-4.2983 1.9786-2.5585 0.54581-7.7096 0.54581h-18.114zm14.362 9.4494v36.331q3.1043 0 3.8207-1.2281 0.71638-1.2622 0.71638-6.7886v-21.457q0-3.7525-0.23879-4.81t-1.0916-1.5351q-0.85283-0.5117-3.2066-0.5117z"/>
-    <path d="m112.41-145.86v7.1979h-14.191v-7.1979zm0 9.9611v45.268h-14.191v-45.268z"/>
-    <path d="m148.53-112.47h-17.841v9.7905q0 3.0702 0.44348 3.9571 0.44347 0.88694 1.7057 0.88694 1.5692 0 2.0809-1.1599 0.54581-1.194 0.54581-4.5712v-5.9698h13.065v3.3431q0 4.1959-0.54581 6.4474-0.5117 2.2515-2.4562 4.81t-4.9464 3.8548q-2.9678 1.2622-7.4708 1.2622-4.3665 0-7.7096-1.2622t-5.2193-3.4454q-1.8421-2.2174-2.5585-4.8441-0.71638-2.6608-0.71638-7.7096v-13.202q0-5.9357 1.6033-9.347 1.6033-3.4454 5.2534-5.2534 3.6501-1.8421 8.3919-1.8421 5.7993 0 9.5517 2.2174 3.7866 2.1832 5.2876 5.8334 1.5351 3.616 1.5351 10.2zm-13.816-7.3685v-3.309q0-3.5137-0.37525-4.5371-0.37524-1.0234-1.5351-1.0234-1.4328 0-1.7739 0.88695-0.34114 0.85283-0.34114 4.6735v3.309z"/>
-    <path d="m184.62-135.9v45.268h-14.021l0.23879-3.7525q-1.4328 2.2856-3.5478 3.4454-2.0809 1.1257-4.81 1.1257-3.1043 0-5.1511-1.0916t-3.0361-2.8996q-0.95517-1.808-1.194-3.7525-0.2388-1.9786-0.2388-7.8119v-30.531h13.782v30.804q0 5.2876 0.30702 6.2768 0.34113 0.98928 1.7739 0.98928 1.5351 0 1.808-1.0234 0.30702-1.0234 0.30702-6.5839v-30.463z"/>
-    <path d="m218.98-145.86v11.053h-8.5283v44.177h-14.362v-44.177h-8.4942v-11.053z"/>
-    <path d="m258.14-145.86-7.3001 55.229h-21.798l-8.2895-55.229h15.146c1.7511 15.215 3.002 28.075 3.7525 38.582 0.75047-10.621 1.5351-20.059 2.3538-28.314l0.98928-10.268z"/>
-   </g>
-  </g>
+ <g transform="matrix(1.0436 0 0 1.0436 -.00033851 2.551e-6)" fill="url(#linearGradient732)" stroke-width=".84234">
+  <path d="m-4.312e-4 -1.5141e-6h11q10.651 0 14.387 0.96111 3.7714 0.96112 5.7269 3.1579 1.9555 2.1968 2.4444 4.9085 0.48889 2.6773 0.48889 10.572v19.462q0 7.4829-0.73333 10.023-0.6984 2.5058-2.4793 3.9474-1.781 1.4073-4.4 1.9909-2.619 0.5492-7.892 0.5492h-18.543zm14.702 9.5081v36.557q3.1777 0 3.9111-1.2357 0.73333-1.27 0.73333-6.8308v-21.59q0-3.7758-0.24444-4.8399t-1.1174-1.5446q-0.873-0.51488-3.2825-0.51488z" opacity=".98504" stop-color="#000000" style="-inkscape-stroke:none;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variation-settings:normal"/>
+  <path d="m53.641-1.5141e-6v7.2427h-14.527v-7.2427zm0 10.023v45.549h-14.527v-45.549z" opacity=".98504" stop-color="#000000" style="-inkscape-stroke:none;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variation-settings:normal"/>
+  <path d="m90.616 33.598h-18.263v9.8514q0 3.0893 0.45397 3.9817 0.45396 0.89245 1.7461 0.89245 1.6063 0 2.1301-1.1671 0.55872-1.2014 0.55872-4.5996v-6.0069h13.374v3.3639q0 4.222-0.55872 6.4875-0.5238 2.2655-2.5143 4.8399t-5.0634 3.8788q-3.038 1.27-7.6475 1.27-4.4698 0-7.892-1.27t-5.3428-3.4668q-1.8857-2.2312-2.619-4.8742-0.73333-2.6773-0.73333-7.7575v-13.284q0-5.9726 1.6412-9.4051 1.6412-3.4668 5.3777-5.2861 3.7364-1.8536 8.5904-1.8536 5.9365 0 9.7777 2.2312 3.8762 2.1968 5.4127 5.8697 1.5714 3.6385 1.5714 10.263zm-14.143-7.4143v-3.3296q0-3.5355-0.38413-4.5653-0.38412-1.0298-1.5714-1.0298-1.4667 0-1.8159 0.89246-0.34921 0.85813-0.34921 4.7026v3.3296z" opacity=".98504" stop-color="#000000" style="-inkscape-stroke:none;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variation-settings:normal"/>
+  <path d="m127.56 10.022v45.549h-14.353l0.24444-3.7758q-1.4667 2.2998-3.6317 3.4668-2.1301 1.1327-4.9238 1.1327-3.1777 0-5.273-1.0984-2.0952-1.0984-3.1079-2.9176-0.97777-1.8192-1.2222-3.7758-0.24445-1.9909-0.24445-7.8605v-30.721h14.108v30.996q0 5.3205 0.31428 6.3158 0.3492 0.99543 1.8159 0.99543 1.5714 0 1.8508-1.0298 0.31428-1.0298 0.31428-6.6248v-30.652z" opacity=".98504" stop-color="#000000" style="-inkscape-stroke:none;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variation-settings:normal"/>
+  <path d="m162.73-1.5141e-6v11.122h-8.73v44.452h-14.702v-44.452h-8.6951v-11.122z" opacity=".98504" stop-color="#000000" style="-inkscape-stroke:none;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variation-settings:normal"/>
+  <path d="m202.82-1.5141e-6 -7.4728 55.572h-22.314l-8.4856-55.572h15.504c1.7925 15.31 3.073 28.25 3.8413 38.822 0.76823-10.687 1.5714-20.184 2.4095-28.49l1.0127-10.332z" opacity=".98504" stop-color="#000000" style="-inkscape-stroke:none;font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variation-settings:normal"/>
  </g>
 </svg>

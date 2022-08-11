@@ -2953,9 +2953,6 @@
 			<File>Dazn 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Dazn 3 HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Dazn 3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -5827,6 +5824,30 @@
 			<File>LaLiga por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="LaLiga SmartBank TV 1" />
+				<Item Name="Liga SmartBank1">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="LigaSmartBank1HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>LaLiga SmartBank TV 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LaLiga SmartBank TV 2" />
+			<File>LaLiga SmartBank TV 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LaLiga SmartBank TV" />
+				<Item Name="Liga SmartBank">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="LigaSmartBankHD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>LaLiga SmartBank TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="LaLiga TV Bar M1" />
 				<Item Name="LaLigaTVBar1">
 					<Provider>Astra 19.2E</Provider>
@@ -5842,23 +5863,14 @@
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga TV Bar M3" />
-				<Item Name="LaLigaTVBar3">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 			<File>LaLiga TV Bar M3.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga TV Bar M4" />
-				<Item Name="LaLigaTVBar4">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 			<File>LaLiga TV Bar M4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga TV Bar" />
-				<Item Name="LaLigaTV Bar">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 			<File>LaLiga TV Bar.png</File>
 		</Channel>
 		<Channel>
@@ -6064,6 +6076,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Liga de Campeones por Movistar Plus+" />
+				<Item Name="M+LCampeones Bar">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="M+LCampeones">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -8892,6 +8907,13 @@
 				</Item>
 				<Item Name="R9 Österreich" />
 			<File>R9 Osterreich.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Rada eng">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Rada" />
+			<File>Rada.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio Bremen HD">
@@ -12167,14 +12189,14 @@
 				<Item Name="TLC HD">
 					<Provider>Ziggo</Provider>
 				</Item>
-			<File>TLC HD NL.png</File>
+			<File>TLC HD GB.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TLC">
 					<Provider>Digitenne</Provider>
 					<Provider>Telenet</Provider>
 				</Item>
-			<File>TLC NL.png</File>
+			<File>TLC GB.png</File>
 		</Channel>
 		-->
 		<Channel>
@@ -12777,8 +12799,8 @@
 			<File>TVS.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="UA|Pershyi">
-					<Provider>Astra 19.2E</Provider>
+				<Item Name="UA TV">
+					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="UATV" />
 			<File>UATV.png</File>
@@ -12786,6 +12808,11 @@
 		<Channel>
 				<Item Name="Ubeat" />
 			<File>Ubeat.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="UDTV" />
+				<Item Name="Unión Deportiva Las Palmas Televisión" />
+			<File>UDTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="UHD Spain HDR" />
@@ -12880,22 +12907,34 @@
 			<File>Valles Visio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M+#VamosBar2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="#Vamos 2 Bar por Movistar Plus+" />
+			<File>Vamos Bar 2 por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M+#VamosBar3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="#Vamos Bar 3 por Movistar Plus+" />
+			<File>Vamos Bar 3 por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="M+ #Vamos Bar">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<Item Name="#Vamos Bar por Movistar Plus+" />
+			<File>Vamos Bar por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="M+ #VamosHD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="M+ #Vamos">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="M+#VamosBar2">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="M+#VamosBar3">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Vamos por Movistar Plus+" />
+				<Item Name="#Vamos por Movistar Plus+" />
 			<File>Vamos por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
@@ -16763,6 +16802,9 @@
 			<File>SWR1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SWR2 5.1">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="SWR2">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->

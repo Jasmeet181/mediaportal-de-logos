@@ -34,13 +34,13 @@
 				<Item Name="TLC HD">
 					<Provider>Ziggo</Provider>
 				</Item>
-			<File>TLC HD NL.png</File>
+			<File>TLC HD GB.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TLC">
 					<Provider>Digitenne</Provider>
 				</Item>
-			<File>TLC NL.png</File>
+			<File>TLC GB.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
