@@ -4652,8 +4652,13 @@
 			<File>God TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Gol HD" />
-			<File>Gol HD.png</File>
+				<Item Name="Gol Play">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+				<Item Name="Gol">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Gol Play.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Goldstar TV">
@@ -4686,14 +4691,6 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>GolfPlus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Gol">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
-				</Item>
-			<File>Gol.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Gospel Music TV" />
