@@ -8,6 +8,8 @@
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
 		00/00/23 Arte UHD launches on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
+		14/02/24 All TDT channels must broadcast in HD - https://www.mundoplus.tv/tv-digital/el-gobierno-retrasa-el-apagon-sd-hasta-el-14-de-febrero-de-2024/
+		00/02/24 DMAX HD ES launches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
 		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
 		TNT/HD renamed to Warner TV/HD (ES) - https://www.broadbandtvnews.com/2021/06/14/tnt-channels-to-become-warner-tv-in-germany/
@@ -18,6 +20,7 @@
 		Cosmo ES TV/DE Radio
 		Curiosity Channel/Curiosity Channel powered by Spiegel conflict
 		Disney Channel/ES
+		DMAX/HD DE/ES conflict
 		DMAX DE/ES conflict
 		Hit FM BE/ES conflict
 		La Premiere FR TV/BE Radio
@@ -3306,6 +3309,14 @@
 				</Item>
 			<File>DMAX DE.png</File>
 		</Channel>
+		<!--
+		<Channel>
+				<Item Name="DMAX">
+					<Provider>TDT</Provider> Catalunya, Barcelona
+				</Item>
+			<File>DMAX ES.png</File>
+		</Channel>
+		-->
 		<Channel>
 				<Item Name="DMAX HD Austria">
 					<Provider>Astra 19.2E</Provider>
@@ -3324,9 +3335,7 @@
 		</Channel>
 		<!--
 		<Channel>
-				<Item Name="DMAX HD">
-					<Provider>TDT</Provider> Catalunya, Barcelona
-				</Item>
+				<Item Name="DMAX HD" />
 			<File>DMAX HD ES.png</File>
 		</Channel>
 		-->

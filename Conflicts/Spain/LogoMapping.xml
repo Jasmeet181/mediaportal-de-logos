@@ -23,9 +23,13 @@
 			<File>Boing ES.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DMAX HD">
+				<Item Name="DMAX">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 				</Item>
+			<File>DMAX ES.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="DMAX HD" />
 			<File>DMAX HD ES.png</File>
 		</Channel>
 		<Channel>
