@@ -3306,15 +3306,6 @@
 				</Item>
 			<File>DMAX DE.png</File>
 		</Channel>
-		<!--
-		<Channel>
-				<Item Name="DMAX">
-					<Provider>TDT</Provider> Catalunya, Barcelona
-					<Provider>TDT</Provider> Gran Canaria, Lanzarote
-				</Item>
-			<File>DMAX ES.png</File>
-		</Channel>
-		-->
 		<Channel>
 				<Item Name="DMAX HD Austria">
 					<Provider>Astra 19.2E</Provider>
@@ -3331,6 +3322,14 @@
 				</Item>
 			<File>DMAX HD DE.png</File>
 		</Channel>
+		<!--
+		<Channel>
+				<Item Name="DMAX HD">
+					<Provider>TDT</Provider> Catalunya, Barcelona
+				</Item>
+			<File>DMAX HD ES.png</File>
+		</Channel>
+		-->
 		<Channel>
 				<Item Name="Dobbit TV">
 					<Provider>Telenet</Provider>
@@ -4653,10 +4652,8 @@
 		</Channel>
 		<Channel>
 				<Item Name="Gol Play">
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-				</Item>
-				<Item Name="Gol">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 				</Item>
 			<File>Gol Play.png</File>
 		</Channel>
@@ -5064,6 +5061,10 @@
 			<File>Hustler TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="I24 News Arabic" />
+			<File>I24 News Arabic.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="I24 News English" />
 			<File>I24 News English.png</File>
 		</Channel>
@@ -5072,7 +5073,7 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="I24 News French" />
-			<File>I24 News French.png</File>
+			<File>I24 News Francais.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="IB3 HD" />
@@ -5822,17 +5823,26 @@
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga SmartBank TV 1" />
-				<Item Name="Liga SmartBank1">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="LigaSmartBank1HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Liga SmartBank1" />
+				<Item Name="LigaSmartBank1HD" />
 			<File>LaLiga SmartBank TV 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga SmartBank TV 2" />
+				<Item Name="Liga SmartBank 2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="LigaSmartBank2HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>LaLiga SmartBank TV 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LaLiga SmartBank TV 3" />
+				<Item Name="Liga SmartBank 3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>LaLiga SmartBank TV 3.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga SmartBank TV" />
@@ -5846,9 +5856,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga TV Bar M1" />
-				<Item Name="LaLigaTVBar1">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="LaLigaTVBar1" />
 			<File>LaLiga TV Bar M1.png</File>
 		</Channel>
 		<Channel>
@@ -5860,6 +5868,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga TV Bar M3" />
+				<Item Name="LaLigaTVBar3">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>LaLiga TV Bar M3.png</File>
 		</Channel>
 		<Channel>
@@ -6072,10 +6083,14 @@
 			<File>Liga de Campeones 9 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Liga de Campeones por Movistar Plus+" />
+				<Item Name="Liga de Campeones Bar por Movistar Plus+" />
 				<Item Name="M+LCampeones Bar">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+			<File>Liga de Campeones Bar por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Liga de Campeones por Movistar Plus+" />
 				<Item Name="M+LCampeones">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -13914,6 +13929,13 @@
 			<File>Antenne Karnten.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Antenne Niedersachsen H">
+					<Provider>Vodafone</Provider><!-- Hannover -->
+				</Item>
+				<Item Name="Antenne Niedersachsen" />
+			<File>Antenne Niedersachsen.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Antenne NRW">
 					<Provider>Vodafone</Provider><!-- Dortmund -->
 				</Item>
@@ -16802,6 +16824,9 @@
 				<Item Name="SWR2 5.1">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+			<File>SWR2 5.1.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SWR2">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->

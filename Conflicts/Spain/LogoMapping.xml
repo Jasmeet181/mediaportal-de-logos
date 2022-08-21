@@ -23,11 +23,10 @@
 			<File>Boing ES.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DMAX">
+				<Item Name="DMAX HD">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
 				</Item>
-			<File>DMAX ES.png</File>
+			<File>DMAX HD ES.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nat Geo Wild">
