@@ -2182,6 +2182,10 @@
 			<File>CanalPlus First.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Canal+ Foot" />
+			<File>CanalPlus Foot.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Canal+ Grand Écran" />
 				<Item Name="Canal+Grand Ecran">
 					<Provider>Astra 19.2E</Provider>
@@ -2216,6 +2220,10 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>CanalPlus Series.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Canal+ Sport 360" />
+			<File>CanalPlus Sport 360.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Sport HD">
