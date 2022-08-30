@@ -23,6 +23,13 @@
 			<File>Boing ES.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Disney Channel">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
+				</Item>
+			<File>Disney Channel ES.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="DMAX">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 				</Item>

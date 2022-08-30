@@ -9,6 +9,12 @@
 			<File>Curiosity Channel.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Disney Channel HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Disney Channel ES.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Nat Geo Wild HD">
 					<Provider>Ziggo</Provider>
 				</Item>

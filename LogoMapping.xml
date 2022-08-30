@@ -2,6 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		29/08/22 Disney Channel +1 (FR) new logo
+		
 		31/08/22 Canal+ Foot and Canal+ Sport 360 launch - https://www.broadbandtvnews.com/2022/07/22/canal-plus-plans-two-new-sports-channels/
 		28/09/22 La Chaîne Normande renamed to BFM Normandie - https://www.planetecsat.com/bfm-normandie-se-prepare/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
@@ -3204,6 +3206,22 @@
 				<Item Name="Disney Ch.">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
+				<!-- 
+				<Item Name="Disney Channel">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>TDT</Provider> Catalunya, Barcelona 
+					<Provider>TDT</Provider> Gran Canaria, Lanzarote 
+					<Provider>Voo</Provider>
+				</Item>
+				-->
+				<Item Name="Disney Channel HD F">
+					<Provider>Sunrise Cable</Provider>
+				</Item>
+				<!-- 
+				<Item Name="Disney Channel HD">
+					<Provider>Ziggo</Provider>
+				</Item>
+				-->
 			<File>Disney Channel ES.png</File>
 		</Channel>
 		<Channel>
@@ -3213,14 +3231,10 @@
 				<Item Name="Disney Channel HD Austria">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Disney Channel HD F">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
 				<Item Name="Disney Channel HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Terrestrial</Provider><!-- München -->
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Disney HD">
 					<Provider>Vodafone</Provider><!-- UM Köln -->
@@ -3239,10 +3253,7 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>Sunrise Cable</Provider>
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Disney SD">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->

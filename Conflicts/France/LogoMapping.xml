@@ -3,6 +3,12 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+				<Item Name="Disney Channel">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Disney Channel ES.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="National Geographic Wild">
 					<Provider>Astra 19.2E</Provider>
 				</Item>

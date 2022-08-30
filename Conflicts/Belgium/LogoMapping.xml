@@ -3,6 +3,12 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+				<Item Name="Disney Channel">
+					<Provider>Voo</Provider>
+				</Item>
+			<File>Disney Channel ES.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Matélé" />
 			<File>Matele BE.png</File>
 		</Channel>
