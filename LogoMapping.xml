@@ -2,9 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		29/08/22 Canal+ Décalé closes - https://www.freenews.fr/freenews-edition-nationale-299/freebox-tv-3/canal-sport-360-remplace-canal-decale
 		31/08/22 Canal+ Foot and Canal+ Sport 360 launch - https://www.broadbandtvnews.com/2022/07/22/canal-plus-plans-two-new-sports-channels/
-		00/09/22 La Chaîne Normande renamed to BFM Normandie - https://actu.fr/societe/bfm-normandie-remplacera-bientot-la-chaine-normande-sur-nos-teles_51168086.html
+		28/09/22 La Chaîne Normande renamed to BFM Normandie - https://www.planetecsat.com/bfm-normandie-se-prepare/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
@@ -1404,6 +1403,10 @@
 			<File>BFM Nice Cote dAzur.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BFM Normandie" />
+			<File>BFM Normandie.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="BFM Paris Ile-de-France">
 					<Provider>TNT (FR)</Provider>
 				</Item>
@@ -2138,19 +2141,6 @@
 			<File>CanalPlus Cinema.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Canal+ Décalé HD">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
-			<File>CanalPlus Decale HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Canal+ Décalé" />
-				<Item Name="Canal+ Decale">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>CanalPlus Decale.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Canal+ Docs HD" />
 			<File>CanalPlus Docs HD.png</File>
 		</Channel>
@@ -2183,6 +2173,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Foot" />
+				<Item Name="Canal+Foot">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>CanalPlus Foot.png</File>
 		</Channel>
 		<Channel>
@@ -2223,6 +2216,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canal+ Sport 360" />
+				<Item Name="Canal+Sport360">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>CanalPlus Sport 360.png</File>
 		</Channel>
 		<Channel>
