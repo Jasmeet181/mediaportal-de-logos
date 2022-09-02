@@ -2,9 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		29/08/22 Disney Channel +1 (FR) new logo
-		
-		31/08/22 Canal+ Foot and Canal+ Sport 360 launch - https://www.broadbandtvnews.com/2022/07/22/canal-plus-plans-two-new-sports-channels/
 		28/09/22 La Chaîne Normande renamed to BFM Normandie - https://www.planetecsat.com/bfm-normandie-se-prepare/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
@@ -43,7 +40,12 @@
 			<File>1 FL TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="1+1 International" />
+				<Item Name="1+1 Intenational">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
+				<Item Name="1+1 International">
+					<Provider>Vodafone</Provider><!-- Trier -->
+				</Item>
 			<File>1 Plus 1 International.png</File>
 		</Channel>
 		<Channel>
@@ -1823,7 +1825,6 @@
 				<Item Name="BR Fernsehen Süd HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="BR Fernsehen Sued HD">
@@ -1831,17 +1832,18 @@
 				</Item>
 				<Item Name="BR Süd HD">
 					<Provider>MagentaTV</Provider>
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 			<File>BR Fernsehen Sud HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BR Fernsehen Süd">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="BR Süd">
 					<Provider>MagentaTV</Provider>
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 			<File>BR Fernsehen Sud.png</File>
 		</Channel>
@@ -2048,6 +2050,10 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Canal J.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Canal Local Grosbliederstroff" />
+			<File>Canal Local Grosbliederstroff.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canal Luz" />
@@ -2348,7 +2354,9 @@
 			<File>CGTN Documentary HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="CGTN Documentary" />
+				<Item Name="CGTN Documentary">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
 			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
@@ -3200,9 +3208,6 @@
 			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Disney Ch HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Disney Ch.">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3214,6 +3219,12 @@
 					<Provider>Voo</Provider>
 				</Item>
 				-->
+			<File>Disney Channel ES.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Disney Ch HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="Disney Channel HD F">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
@@ -3222,7 +3233,7 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 				-->
-			<File>Disney Channel ES.png</File>
+			<File>Disney Channel HD ES.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Disney Ch. HD">
@@ -3246,7 +3257,7 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="Disney Channel +1" />
-			<File>Disney Channel Plus 1.png</File>
+			<File>Disney Channel Plus 1 ES.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Disney Channel">
@@ -4767,9 +4778,12 @@
 			<File>Haber Turk.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Halk TV (tur)">
+				<Item Name="Halk TV / Kanal Avrupa (tur)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
+			<File>Halk TV Kanal Avrupa.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Halk TV" />
 			<File>Halk TV.png</File>
 		</Channel>
@@ -6310,6 +6324,10 @@
 				</Item>
 				<Item Name="Matélé" />
 			<File>Matele FR.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Maurienne TV" />
+			<File>Maurienne TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Max TV">
@@ -13075,6 +13093,13 @@
 			<File>Visit-X.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Visjon Norge (nor)">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
+				<Item Name="Visjon Norge" />
+			<File>Visjon Norge.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Vital TV" />
 			<File>Vital TV.png</File>
 		</Channel>
@@ -13349,12 +13374,6 @@
 			<File>Warner TV Film.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Warner TV HD">
-					<Provider>Voo</Provider>
-				</Item>
-			<File>Warner TV HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="TNT Serie HD (blue)">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
@@ -13376,6 +13395,7 @@
 		<Channel>
 				<Item Name="Warner TV">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Voo</Provider>
 				</Item>
 			<File>Warner TV.png</File>
 		</Channel>
@@ -13943,6 +13963,9 @@
 			<File>Antenne Bayern.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Antenne Brandenburg">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				</Item>
 				<Item Name="Antenne Brbg.">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Alfeld -->
@@ -15165,6 +15188,7 @@
 				</Item>
 				<Item Name="NDR Info Spezial">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 			<File>NDR Info Spezial.png</File>
 		</Channel>
