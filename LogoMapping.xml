@@ -2,6 +2,9 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		31/08/22 LCI, TF1, TF1 Series Films, TFX and TMC ceased broadcasting on Astra - https://www.telesatellite.com/actu/60809-nouveau-bras-de-fer-entre-les-groupes-canal-et-tf1.html
+		
+		22/09/22 Canal+/TF1 decision - https://alloforfait.fr/tv/news/107539-conflit-tf1-canal-premiere-decision-22-septembre.html https://www.parabola.cz/zpravicky/36199/spor-mezi-canal-plus-a-tf1-se-presunul-k-soudu/
 		28/09/22 La Chaîne Normande renamed to BFM Normandie - https://www.planetecsat.com/bfm-normandie-se-prepare/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
@@ -40,8 +43,8 @@
 			<File>1 FL TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="1+1 Intenational">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				<Item Name="1+1 International (kaz)">
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 				<Item Name="1+1 International">
 					<Provider>Vodafone</Provider><!-- Trier -->
@@ -115,15 +118,9 @@
 				<Item Name="24 Horas">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="24H (spa)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="24h">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
-				</Item>
-				<Item Name="24Horas">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 				<Item Name="Canal 24 Horas">
 					<Provider>Voo</Provider>
@@ -421,7 +418,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Al Arabiya">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Al Arabiya.png</File>
@@ -666,13 +662,7 @@
 			<File>AnixePlus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ANT1 Europe (gre)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="ANT1 Europe" />
-				<Item Name="Antenna TV (Ant 1)">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 			<File>ANT1 Europe.png</File>
 		</Channel>
 		<Channel>
@@ -854,16 +844,6 @@
 			<File>AT5.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ATP" />
-				<Item Name="Live Tennis ATP">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Tennis ATP">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-			<File>ATP.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Atreseries HD">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -880,7 +860,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="ATV Avrupa">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ATV Avrupa.png</File>
@@ -1027,9 +1006,7 @@
 			<File>Baden TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Balkanika Music Television">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Balkanika Music Television" />
 			<File>Balkanika Music Television.png</File>
 		</Channel>
 		<Channel>
@@ -1237,9 +1214,6 @@
 			<File>Bein Movies Turk HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Bein Movies (tur)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="Bein Movies Turk" />
 			<File>Bein Movies Turk.png</File>
 		</Channel>
@@ -1709,9 +1683,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="BN Televizija" />
-				<Item Name="BN TV">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 			<File>BN Televizija.png</File>
 		</Channel>
 		<Channel>
@@ -2577,12 +2548,6 @@
 			<File>ClipMyHorse.TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Clique TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Clique TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Club MTV" />
 				<Item Name="MTV Dance">
 					<Provider>Sunrise Cable</Provider>
@@ -2610,9 +2575,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="CMC TV" />
-				<Item Name="CMC">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 			<File>CMC TV.png</File>
 		</Channel>
 		<Channel>
@@ -2622,13 +2584,9 @@
 			<File>CNBC HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="CNBC Europe/Sky News (eng)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				<Item Name="CNBC Europe (eng)">
+					<Provider>Vodafone</Provider><!-- Alfeld -->
 				</Item>
-				<Item Name="CNBC Sky News" />
-			<File>CNBC Sky News.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="CNBC Europe">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
@@ -3315,9 +3273,7 @@
 			<File>DKiss.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DM Sat">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="DM Sat" />
 			<File>DM Sat.png</File>
 		</Channel>
 		<Channel>
@@ -3712,9 +3668,7 @@
 			<File>Ere TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ERT World">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="ERT World" />
 			<File>ERT World.png</File>
 		</Channel>
 		<Channel>
@@ -3843,22 +3797,12 @@
 			<File>ETV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Euro D (tur)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="Euro D">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Euro D.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Euro Star (tur)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Euro Star">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="Eurostar">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -4097,6 +4041,13 @@
 			<File>Fest por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Festival de San Sebastián por Movistar Plus+" />
+				<Item Name="M+SanSebastián">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Festival de San Sebastian por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Fibracat TV" />
 				<Item Name="Fibracat.TV">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
@@ -4247,9 +4198,6 @@
 			<File>Fox.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 2 (fre)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="France 2 HD">
 					<Provider>Sunrise Cable</Provider>
 					<Provider>Voo</Provider>
@@ -4258,7 +4206,6 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 				</Item>
 			<File>France 2.png</File>
@@ -4510,9 +4457,6 @@
 			<File>France 3 Rhone-Alpes.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 3 (fre)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="France 3 HD">
 					<Provider>Sunrise Cable</Provider>
 					<Provider>Voo</Provider>
@@ -4520,7 +4464,6 @@
 				<Item Name="France 3">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 				</Item>
 			<File>France 3.png</File>
@@ -4534,7 +4477,6 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 				</Item>
 			<File>France 4.png</File>
@@ -4547,7 +4489,6 @@
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>TNT (FR)</Provider>
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Voo</Provider>
 				</Item>
 			<File>France 5.png</File>
@@ -4580,6 +4521,15 @@
 		<Channel>
 				<Item Name="Franken Sat" />
 			<File>Franken Sat.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Freedom">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="UA TV">
+					<Provider>Sunrise Cable</Provider>
+				</Item>
+			<File>Freedom.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Friesischer Rundfunk" />
@@ -4768,11 +4718,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Haber Turk" />
-				<Item Name="Habertürk (tur)">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
 				<Item Name="Habertürk">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Haber Turk.png</File>
@@ -4841,9 +4787,6 @@
 			<File>Hayat Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Hayat TV">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="Hayat" />
 			<File>Hayat.png</File>
 		</Channel>
@@ -5009,12 +4952,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="HRT 1" />
-				<Item Name="HRT TV 1">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="HRT1 (hrv)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 			<File>HRT 1.png</File>
 		</Channel>
 		<Channel>
@@ -5024,9 +4961,7 @@
 		<Channel>
 				<Item Name="HSE Extra HD">
 					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="HSE24 Extra HD">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 			<File>HSE Extra HD.png</File>
 		</Channel>
@@ -5034,33 +4969,28 @@
 				<Item Name="HSE Extra">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
-				</Item>
-				<Item Name="HSE24 Extra">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>HSE Extra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="HSE HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="HSE24 HD">
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
 					<Provider>Terrestrial</Provider><!-- München -->
-					<Provider>Vodafone</Provider><!-- München -->
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>HSE HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="HSE Trend SD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
-				<Item Name="HSE24 Trend">
-					<Provider>Vodafone</Provider><!-- München -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				<Item Name="HSE Trend">
+					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 			<File>HSE Trend.png</File>
 		</Channel>
@@ -5302,12 +5232,7 @@
 			<File>ITVN Extra.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ITVN (pol)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="ITVN">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="ITVN" />
 			<File>ITVN.png</File>
 		</Channel>
 		<Channel>
@@ -5336,9 +5261,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="JSTV 1" />
-				<Item Name="JSTV">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="JSTV" />
 			<File>JSTV 1.png</File>
 		</Channel>
 		<Channel>
@@ -5490,13 +5413,7 @@
 			<File>Kanal 12 Spremberg.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Kanal 7 (tur)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="Kanal 7 Avrupa" />
-				<Item Name="Kanal 7">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 			<File>Kanal 7 Avrupa.png</File>
 		</Channel>
 		<Channel>
@@ -5593,9 +5510,7 @@
 			<File>Klan Kosova HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Klan Kosova">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Klan Kosova" />
 			<File>Klan Kosova.png</File>
 		</Channel>
 		<Channel>
@@ -5603,9 +5518,7 @@
 			<File>Kohavision HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Kohavision TV">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Kohavision TV" />
 				<Item Name="Kohavision" />
 			<File>Kohavision.png</File>
 		</Channel>
@@ -5811,54 +5724,44 @@
 			<File>Labor14 Thuringer Lernsender.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 2 por Movistar Plus+" />
-				<Item Name="M+ LaLiga 2 HD">
+				<Item Name="LaLigaTV 2 por Movistar Plus+" />
+				<Item Name="M+ LaLigaTV 2">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="M+ LaLiga 2">
+				<Item Name="M+LaLigaTV2HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>LaLiga 2 por Movistar Plus.png</File>
+			<File>LaLigaTV 2 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 3 por Movistar Plus+" />
-				<Item Name="M+ LaLiga 3 HD">
+				<Item Name="LaLigaTV 3 por Movistar Plus+" />
+				<Item Name="M+ LaLigaTV 3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="M+ LaLiga 3">
+				<Item Name="M+LaLigaTV3HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>LaLiga 3 por Movistar Plus.png</File>
+			<File>LaLigaTV 3 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 4 por Movistar Plus+" />
-			<File>LaLiga 4 por Movistar Plus.png</File>
+				<Item Name="LaLigaTV 4 por Movistar Plus+" />
+			<File>LaLiga 4TV por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 5 por Movistar Plus+" />
-			<File>LaLiga 5 por Movistar Plus.png</File>
+				<Item Name="LaLigaTV 5 por Movistar Plus+" />
+			<File>LaLigaTV 5 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 6 por Movistar Plus+" />
-			<File>LaLiga 6 por Movistar Plus.png</File>
+				<Item Name="LaLigaTV 6 por Movistar Plus+" />
+			<File>LaLigaTV 6 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 7 por Movistar Plus+" />
-			<File>LaLiga 7 por Movistar Plus.png</File>
+				<Item Name="LaLigaTV 7 por Movistar Plus+" />
+			<File>LaLigaTV 7 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga 8 por Movistar Plus+" />
-			<File>LaLiga 8 por Movistar Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="LaLiga por Movistar Plus+" />
-				<Item Name="M+ LaLiga HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="M+ LaLiga">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>LaLiga por Movistar Plus.png</File>
+				<Item Name="LaLigaTV 8 por Movistar Plus+" />
+			<File>LaLigaTV 8 por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="LaLiga SmartBank TV 1" />
@@ -5894,35 +5797,45 @@
 			<File>LaLiga SmartBank TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga TV Bar M1" />
+				<Item Name="LaLigaTV Bar M1" />
 				<Item Name="LaLigaTVBar1" />
-			<File>LaLiga TV Bar M1.png</File>
+			<File>LaLigaTV Bar M1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga TV Bar M2" />
+				<Item Name="LaLigaTV Bar M2" />
 				<Item Name="LaLigaTVBar2">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>LaLiga TV Bar M2.png</File>
+			<File>LaLigaTV Bar M2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga TV Bar M3" />
+				<Item Name="LaLigaTV Bar M3" />
 				<Item Name="LaLigaTVBar3">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>LaLiga TV Bar M3.png</File>
+			<File>LaLigaTV Bar M3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga TV Bar M4" />
-			<File>LaLiga TV Bar M4.png</File>
+				<Item Name="LaLigaTV Bar M4" />
+			<File>LaLigaTV Bar M4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga TV Bar" />
-			<File>LaLiga TV Bar.png</File>
+				<Item Name="LaLigaTV Bar" />
+			<File>LaLigaTV Bar.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLiga UHD por Movistar Plus+" />
-			<File>LaLiga UHD por Movistar Plus.png</File>
+				<Item Name="LaLigaTV por Movistar Plus+" />
+				<Item Name="M+ LaLigaTV">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M+LaLigaTVHD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>LaLigaTV por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LaLigaTV UHD por Movistar Plus+" />
+			<File>LaLigaTV UHD por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Lancelot Television" />
@@ -6338,9 +6251,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="MBC 1" />
-				<Item Name="MBC Maghreb al Arabia">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="MBC">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -6489,9 +6399,6 @@
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="Mediaset">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Mediaset Italia.png</File>
 		</Channel>
@@ -7085,12 +6992,6 @@
 			<File>NaheTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Kinomir (rus)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Nasch Kinomir">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="Nash Kinomir" />
 			<File>Nash Kinomir.png</File>
 		</Channel>
@@ -7349,7 +7250,6 @@
 			<File>NieuwsPlus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NHK World HD" />
 				<Item Name="NHK World-Japan (eng)">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
@@ -7359,14 +7259,7 @@
 				<Item Name="NHK World-JPN">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-			<File>NHK World HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="NHK World TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="NHK World" />
-			<File>NHK World.png</File>
+			<File>NHK World-Japan.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nice">
@@ -7541,6 +7434,18 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Nicktoons.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Niederbayern TV Deggendorf-Straubing" />
+			<File>Niederbayern TV Deggendorf Straubing.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Niederbayern TV Landshut" />
+			<File>Niederbayern TV Landshut.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Niederbayern TV Passau" />
+			<File>Niederbayern TV Passau.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Niederbayern TV HD">
@@ -7749,9 +7654,7 @@
 			<File>NTV Avrupa.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NTV Mir">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="NTV Mir" />
 			<File>NTV Mir.png</File>
 		</Channel>
 		<Channel>
@@ -8267,12 +8170,7 @@
 			<File>Oscar am Freitag TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="OstWest (rus)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="OstWest">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="OstWest" />
 			<File>OstWest.png</File>
 		</Channel>
 		<Channel>
@@ -8418,22 +8316,15 @@
 			<File>Phoenix.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Pink Extra">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Pink Extra" />
 			<File>Pink Extra.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Pink Film">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Pink Film" />
 			<File>Pink Film.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Pink Folk 1" />
-				<Item Name="Pink Folk">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 			<File>Pink Folk 1.png</File>
 		</Channel>
 		<Channel>
@@ -8441,15 +8332,11 @@
 			<File>Pink Kids.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Pink Music">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Pink Music" />
 			<File>Pink Music.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Pink Plus">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Pink Plus" />
 			<File>Pink Plus.png</File>
 		</Channel>
 		<Channel>
@@ -8964,9 +8851,6 @@
 			<File>R9 Osterreich.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Rada eng">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="Rada" />
 			<File>Rada.png</File>
 		</Channel>
@@ -9027,15 +8911,11 @@
 			<File>Rai 1 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Rai 1 (ita)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="Rai 1">
 					<Provider>Voo</Provider>
 				</Item>
 				<Item Name="Rai Uno">
 					<Provider>Telenet</Provider>
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Rai 1.png</File>
 		</Channel>
@@ -9046,13 +8926,7 @@
 			<File>Rai 2 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Rai 2 (ita)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="Rai 2" />
-				<Item Name="Rai Due">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 			<File>Rai 2.png</File>
 		</Channel>
 		<Channel>
@@ -9062,28 +8936,19 @@
 			<File>Rai 3 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Rai 3 (ita)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="Rai 3">
 					<Provider>Voo</Provider>
-				</Item>
-				<Item Name="Rai Tre">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Rai 3.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Rai News 24">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Rai News 24.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Rai Storia">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="Rai Storia" />
 			<File>Rai Storia.png</File>
 		</Channel>
 		<Channel>
@@ -9445,9 +9310,7 @@
 			<File>RTF.1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTK1">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="RTK1" />
 			<File>RTK1.png</File>
 		</Channel>
 		<Channel>
@@ -9767,14 +9630,8 @@
 				<Item Name="RTP Int.">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
-				<Item Name="RTP Internacional (por)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="RTP Internacional">
 					<Provider>Voo</Provider>
-				</Item>
-				<Item Name="RTPi">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>RTP Internacional.png</File>
 		</Channel>
@@ -9876,9 +9733,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="RTV21 HD" />
-				<Item Name="RTV21">
-					<Provider>Vodafone</Provider><!-- UM Köln -->
-				</Item>
+				<Item Name="RTV21" />
 			<File>RTV21 HD.png</File>
 		</Channel>
 		<Channel>
@@ -10302,12 +10157,6 @@
 			<File>Show TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Show Turk (tur)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
-				<Item Name="Show Turk">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="ShowTurk" />
 			<File>ShowTurk.png</File>
 		</Channel>
@@ -10420,8 +10269,13 @@
 			<File>Sky Cinema Best Of.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Classics">
+				<Item Name="Sky Cinema Classics HD">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Sky Cinema Classics HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Classics">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>Sky Cinema Classics.png</File>
@@ -10441,8 +10295,13 @@
 			<File>Sky Cinema Family.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Fun">
+				<Item Name="Sky Cinema Fun HD">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Sky Cinema Fun HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Fun">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>Sky Cinema Fun.png</File>
@@ -11738,13 +11597,7 @@
 			<File>TeleBielingue.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TeleBom/TeleDom (rus)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="TeleBom/TeleDom" />
-				<Item Name="Telebom / Tele Dom">
-					<Provider>Vodafone</Provider><!-- UM Köln -->
-				</Item>
 			<File>TeleBom TeleDom.png</File>
 		</Channel>
 		<Channel>
@@ -12731,11 +12584,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="TV 8">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
-				</Item>
-				<Item Name="TV8 Int (tur)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="TV8 Int" />
 			<File>TV8 Int.png</File>
@@ -12751,11 +12600,9 @@
 			<File>TVA.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TV Crne Gore Sat">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="TVCG MNE" />
 				<Item Name="TVCG Sat" />
-			<File>TVCG Sat.png</File>
+			<File>TVCG MNE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVE 4K" />
@@ -12769,9 +12616,6 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="TVE Internacional Europa" />
-				<Item Name="TVE Internacional">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="TVE">
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
@@ -12799,9 +12643,6 @@
 			<File>TVN24 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TVN 24">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
 				<Item Name="TVN24" />
 			<File>TVN24.png</File>
 		</Channel>
@@ -12821,12 +12662,6 @@
 			<File>TVP Info.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TV Polonia">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-				<Item Name="TVP Polonia (pol)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
 				<Item Name="TVP Polonia">
 					<Provider>Telenet</Provider>
 				</Item>
@@ -12852,13 +12687,6 @@
 				</Item>
 				<Item Name="TVS" />
 			<File>TVS.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="UA TV">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
-				<Item Name="UATV" />
-			<File>UATV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Ubeat" />
@@ -13240,6 +13068,7 @@
 		<Channel>
 				<Item Name="VoxUp HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Terrestrial</Provider><!-- München -->
 				</Item>
 			<File>VoxUp HD.png</File>
 		</Channel>
@@ -16417,7 +16246,9 @@
 			<File>Schlager Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Schwarzwaldradio" />
+				<Item Name="Schwarzwaldradio">
+					<Provider>Vodafone</Provider><!-- Alfeld -->
+				</Item>
 			<File>Schwarzwaldradio.png</File>
 		</Channel>
 		<Channel>
