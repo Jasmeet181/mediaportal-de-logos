@@ -6,6 +6,7 @@
 		
 		22/09/22 Canal+/TF1 decision - https://alloforfait.fr/tv/news/107539-conflit-tf1-canal-premiere-decision-22-septembre.html https://www.parabola.cz/zpravicky/36199/spor-mezi-canal-plus-a-tf1-se-presunul-k-soudu/
 		28/09/22 La Chaîne Normande renamed to BFM Normandie - https://www.planetecsat.com/bfm-normandie-se-prepare/
+		25/10/22 SkyShowtime launches in the Netherlands  - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up https://www.broadbandtvnews.com/2022/09/20/skyshowtime-makes-european-debut/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
@@ -13,6 +14,7 @@
 		14/02/24 All TDT channels must broadcast in HD - https://www.mundoplus.tv/tv-digital/el-gobierno-retrasa-el-apagon-sd-hasta-el-14-de-febrero-de-2024/
 		00/02/24 DMAX HD ES launches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
 		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
+		SkyShowtime launches in Spain - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
 		TNT/HD renamed to Warner TV/HD (ES) - https://www.broadbandtvnews.com/2021/06/14/tnt-channels-to-become-warner-tv-in-germany/
 		-->
@@ -14326,6 +14328,12 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Donau 3 FM.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Dynamis Radio">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+			<File>Dynamis Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Efteling Kids Radio">
