@@ -2,11 +2,12 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		31/08/22 LCI, TF1, TF1 Series Films, TFX and TMC ceased broadcasting on Astra - https://www.telesatellite.com/actu/60809-nouveau-bras-de-fer-entre-les-groupes-canal-et-tf1.html
+		31/08/22 LCI, TF1, TF1 Series Films, TFX and TMC ceased broadcasting on Astra - https://www.telesatellite.com/actu/60809-nouveau-bras-de-fer-entre-les-groupes-canal-et-tf1.html https://advanced-television.com/2022/09/23/tf1-loses-initial-canal-court-case/
 		
-		22/09/22 Canal+/TF1 decision - https://alloforfait.fr/tv/news/107539-conflit-tf1-canal-premiere-decision-22-septembre.html https://www.parabola.cz/zpravicky/36199/spor-mezi-canal-plus-a-tf1-se-presunul-k-soudu/
 		28/09/22 La Chaîne Normande renamed to BFM Normandie - https://www.planetecsat.com/bfm-normandie-se-prepare/
+		04/10/22 NRW1 launches -  https://www.digitalfernsehen.de/news/empfang/radio/erwachsenen-sender-nrw1-startet-im-oktober-den-sendebetrieb-648160/
 		25/10/22 SkyShowtime launches in the Netherlands  - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up https://www.broadbandtvnews.com/2022/09/20/skyshowtime-makes-european-debut/
+		15/11/22 Arte, One, Phoenix and Taggeschau 24 close in SD on Astra - https://www.parabola.cz/clanky/7346/one-phoenix-arte-deutsch-a-tagesschau-24-upozornuji-na-vypnuti-sd/ 
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
@@ -13143,6 +13144,13 @@
 			<File>Vulkan TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="W Sport">
+					<Provider>Telenet</Provider>
+				</Item>
+				<Item Name="W-Sport" />
+			<File>W Sport.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="W24">
 					<Provider>SimpliTV</Provider><!-- Wien -->
 				</Item>
@@ -15159,6 +15167,10 @@
 					<Provider>Telenet</Provider>
 				</Item>
 			<File>NRJ.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NRW1" />
+			<File>NRW1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="O2 Radio" />
