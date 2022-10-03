@@ -4,9 +4,8 @@
 		<!--
 		31/08/22 LCI, TF1, TF1 Series Films, TFX and TMC ceased broadcasting on Astra - https://www.telesatellite.com/actu/60809-nouveau-bras-de-fer-entre-les-groupes-canal-et-tf1.html https://advanced-television.com/2022/09/23/tf1-loses-initial-canal-court-case/
 		
-		28/09/22 La Chaîne Normande renamed to BFM Normandie - https://www.planetecsat.com/bfm-normandie-se-prepare/
-		04/10/22 NRW1 launches -  https://www.digitalfernsehen.de/news/empfang/radio/erwachsenen-sender-nrw1-startet-im-oktober-den-sendebetrieb-648160/
-		25/10/22 SkyShowtime launches in the Netherlands  - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up https://www.broadbandtvnews.com/2022/09/20/skyshowtime-makes-european-debut/
+		04/10/22 NRW1 launches - https://www.digitalfernsehen.de/news/empfang/radio/erwachsenen-sender-nrw1-startet-im-oktober-den-sendebetrieb-648160/
+		25/10/22 SkyShowtime launches in the Netherlands - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up https://www.broadbandtvnews.com/2022/09/20/skyshowtime-makes-european-debut/
 		15/11/22 Arte, One, Phoenix and Taggeschau 24 close in SD on Astra - https://www.parabola.cz/clanky/7346/one-phoenix-arte-deutsch-a-tagesschau-24-upozornuji-na-vypnuti-sd/ 
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
@@ -1384,7 +1383,9 @@
 			<File>BFM Nice Cote dAzur.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BFM Normandie" />
+				<Item Name="BFM Normandie">
+					<Provider>TNT (FR)</Provider>
+				</Item>
 			<File>BFM Normandie.png</File>
 		</Channel>
 		<Channel>
@@ -2600,10 +2601,6 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>CNBC.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="CNC World" />
-			<File>CNC World.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="CanalNews HD">
@@ -5615,12 +5612,6 @@
 			<File>La Chaine Meteo.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="La Chaine Normande">
-					<Provider>TNT (FR)</Provider>
-				</Item>
-			<File>La Chaine Normande.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="LCP">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>TNT (FR)</Provider>
@@ -5820,6 +5811,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="LaLigaTV Bar M4" />
+				<Item Name="LaLigaTVBar4">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 			<File>LaLigaTV Bar M4.png</File>
 		</Channel>
 		<Channel>
@@ -8468,13 +8462,6 @@
 			<File>Play Sports 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Play Sports 5" />
-				<Item Name="Play Sports HD5">
-					<Provider>Telenet</Provider>
-				</Item>
-			<File>Play Sports 5.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Play Sports Golf">
 					<Provider>Telenet</Provider>
 				</Item>
@@ -8485,6 +8472,12 @@
 					<Provider>Telenet</Provider>
 				</Item>
 			<File>Play Sports Open.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Play Sports Premier League">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Play Sports Premier League.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Play Sports Info">
@@ -10940,7 +10933,9 @@
 			<File>Spiegel Geschichte.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sport 10" />
+				<Item Name="Sport 10">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Sport 10.png</File>
 		</Channel>
 		<Channel>
