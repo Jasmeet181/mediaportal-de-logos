@@ -48,6 +48,12 @@
 				</Item>
 			<File>TLC GB.png</File>
 		</Channel>
+		<Channel>
+				<Item Name="TV5 Monde">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>TV5Monde Europe.png</File>
+		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
 	<Radio>		

@@ -34,6 +34,7 @@
 		RTL Crime DE/NL conflict
 		RTV Oost (NL)/TV Oost (BE) conflict
 		TLC DE/NL conflict
+		TV5Monde Europe (NL)/TV5 FBSM conflict
 		-->
 	<TV>
 		<Channel>
@@ -12598,12 +12599,11 @@
 				<Item Name="TV 5 Monde (fre)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
+				<!--
 				<Item Name="TV5 Monde">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Telenet</Provider>
-					<Provider>Voo</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
+				-->
 				<Item Name="TV5Monde Europe HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -12614,11 +12614,16 @@
 			<File>TV5Monde Europe.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV5 Monde">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Telenet</Provider>
+					<Provider>Voo</Provider>
+				</Item>
 				<Item Name="TV5Monde FBS HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
-				<Item Name="TV5Monde France Belgique Suisse" />
-			<File>TV5Monde France Belgique Suisse.png</File>
+				<Item Name="TV5Monde France Belgique Suisse Monaco" />
+			<File>TV5Monde France Belgique Suisse Monaco.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV7 Bordeaux" />
@@ -13006,11 +13011,10 @@
 			<File>Vixen.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Vlaams Parlement.TV" />
-				<Item Name="Vlaamsparlement.tv">
+				<Item Name="Vlaams Parlement TV">
 					<Provider>Telenet</Provider>
 				</Item>
-			<File>Vlaams Parlement.TV.png</File>
+			<File>Vlaams Parlement TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vodafone TV">
