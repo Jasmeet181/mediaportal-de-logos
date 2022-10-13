@@ -1039,6 +1039,13 @@
 			<File>Barnsport.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BBC Earth por Movistar Plus+" />
+				<Item Name="M+ BBC Earth">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>BBC Earth por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="BBC Entertainment Europe">
 					<Provider>SalzburgAG</Provider>
 				</Item>
@@ -6476,6 +6483,12 @@
 			<File>Medienprojektzentrum Offener Kanal Rhein-Main.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MegaRadioMix">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>MegaRadioMix.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Mega">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -6844,12 +6857,6 @@
 		<Channel>
 				<Item Name="Musig24.TV" />
 			<File>Musig24.TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Muxx.TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Muxx.TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MV1">
@@ -14976,7 +14983,8 @@
 				<Item Name="Mega Radio">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
-			<File>Mega Radio Bavaria.png</File>
+				<Item Name="MegaRadioMix" />
+			<File>MegaRadioMix.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Melodia FM">
