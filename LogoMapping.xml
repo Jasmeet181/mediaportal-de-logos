@@ -5922,6 +5922,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="LCI HD">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="LCI">
@@ -11987,6 +11988,7 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="TF1 HD">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -12002,6 +12004,9 @@
 		<Channel>
 				<Item Name="TF1 Séries Films HD">
 					<Provider>Voo</Provider>
+				</Item>
+				<Item Name="TF1 Series Films HD">
+					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="TF1 Series Films">
 					<Provider>Astra 19.2E</Provider>
@@ -12026,6 +12031,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="TFX HD">
+					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="TFX">
@@ -12168,7 +12174,9 @@
 			<File>TMC Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TMC HD" />
+				<Item Name="TMC HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="TMC Monte Carlo HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
@@ -12530,6 +12538,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="TV1 Oberösterreich" />
+				<Item Name="TV1 Ooe Neu">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="TV1 Ooe">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -14812,7 +14823,9 @@
 			<File>Klassik Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Kronehit" />
+				<Item Name="Kronehit">
+					<Provider>Vodafone</Provider><!-- Passau -->
+				</Item>
 			<File>Kronehit.png</File>
 		</Channel>
 		<Channel>
@@ -15606,6 +15619,9 @@
 			<File>Radio Arabella.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Antenne Salzburg">
+					<Provider>Vodafone</Provider><!-- Passau -->
+				</Item>
 				<Item Name="Radio Austria" />
 			<File>Radio Austria.png</File>
 		</Channel>
@@ -15744,6 +15760,9 @@
 			<File>Radio FG.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="France Inter">
+					<Provider>Vodafone</Provider><!-- Berlin -->
+				</Item>
 				<Item Name="Radio France Internationale" />
 				<Item Name="Radio France International">
 					<Provider>Ziggo</Provider>
