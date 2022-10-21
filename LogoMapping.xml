@@ -4,8 +4,8 @@
 		<!--
 		31/08/22 LCI, TF1, TF1 Series Films, TFX and TMC ceased broadcasting on Astra - https://www.telesatellite.com/actu/60809-nouveau-bras-de-fer-entre-les-groupes-canal-et-tf1.html https://advanced-television.com/2022/09/23/tf1-loses-initial-canal-court-case/
 		
-		25/10/22 SkyShowtime launches in the Netherlands - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up https://www.broadbandtvnews.com/2022/09/20/skyshowtime-makes-european-debut/
 		15/11/22 Arte, One, Phoenix and Taggeschau 24 close in SD on Astra - https://www.parabola.cz/clanky/7346/one-phoenix-arte-deutsch-a-tagesschau-24-upozornuji-na-vypnuti-sd/
+		15/11/22 TV1 OOE Neu renamed TV1 OOE, old version closes
 		00/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
@@ -3430,8 +3430,8 @@
 			<File>Duna World.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Duna TV (hun)">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
+				<Item Name="Duna TV">
+					<Provider>Vodafone</Provider><!-- Trier -->
 				</Item>
 				<Item Name="Duna" />
 			<File>Duna.png</File>
@@ -4873,10 +4873,6 @@
 			<File>Histoire TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Historia HD" />
-			<File>Historia HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Historia">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -5473,9 +5469,7 @@
 			<File>Karnten TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Kaufbei.TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Kaufbei.TV" />
 			<File>Kaufbei.TV.png</File>
 		</Channel>
 		<Channel>
@@ -12538,10 +12532,10 @@
 		</Channel>
 		<Channel>
 				<Item Name="TV1 Oberösterreich" />
-				<Item Name="TV1 Ooe Neu">
+				<Item Name="TV1 OOE Neu">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="TV1 Ooe">
+				<Item Name="TV1 OOE">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>TV1 Oberosterreich.png</File>
@@ -12741,9 +12735,7 @@
 			<File>TVPI.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TVRus">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="TVRus" />
 			<File>TVRus.png</File>
 		</Channel>
 		<Channel>
