@@ -7304,6 +7304,9 @@
 			<File>NHK World-Japan.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NiceTV">
+					<Provider>Vodafone</Provider><!-- Berlin -->
+				</Item>
 				<Item Name="Nice">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
