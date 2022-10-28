@@ -1736,9 +1736,7 @@
 			<File>Boing.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Bom Cine">
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-				</Item>
+				<Item Name="Bom Cine" />
 			<File>Bom Cine.png</File>
 		</Channel>
 		<Channel>
@@ -12893,6 +12891,12 @@
 		<Channel>
 				<Item Name="Vedia" />
 			<File>Vedia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Verdi Classics">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+			<File>Verdi Classics.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vernier Visions" />
