@@ -14383,12 +14383,6 @@
 			<File>Deutschlandfunk.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="DH Radio">
-					<Provider>Voo</Provider>
-				</Item>
-			<File>DH Radio.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Die Neue 107.7">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -14878,6 +14872,12 @@
 		<Channel>
 				<Item Name="Life Radio" />
 			<File>Life Radio.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="LN Radio">
+					<Provider>Voo</Provider>
+				</Item>
+			<File>LN Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Lora München" />
