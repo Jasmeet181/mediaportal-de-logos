@@ -20,6 +20,12 @@
 			<File>National Geographic Wild HD FR.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Info">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Telenet.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TLC HD" />
 			<File>TLC HD NL.png</File>
 		</Channel>
@@ -46,6 +52,13 @@
 					<Provider>Telenet</Provider>
 				</Item>
 			<File>Nostalgie Belgique.png</File>
+		</Channel>
+		
+		<Channel>
+				<Item Name="Classic Rock">
+					<Provider>Telenet</Provider>
+				</Item>
+			<File>Stingray Music.png</File>
 		</Channel>
 	</Radio>
 <!-- ******************************************************************** -->

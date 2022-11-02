@@ -21,12 +21,14 @@
 		<!--
 		AXN/HD ES/Sony AXN/HD DE conflict
 		Boing/ES conflict
+		Classic Rock BE (Stingray Music)/Classic Rock NL (Xite) conflict
 		Cosmo ES TV/DE Radio
 		Curiosity Channel/Curiosity Channel powered by Spiegel conflict
 		Disney Channel/ES
 		DMAX/HD DE/ES conflict
 		DMAX DE/ES conflict
 		Hit FM BE/ES conflict
+		Info BE (Telenet)/Info CH (Sunrise) conflict
 		La Premiere FR TV/BE Radio
 		Matele BE/FR conflict
 		National Geographic Wild conflicts
@@ -3565,58 +3567,43 @@
 				<Item Name="Eleven Pro League 1 FR">
 					<Provider>Telenet</Provider>
 				</Item>
+				<Item Name="Eleven Pro League 1">
+					<Provider>Voo</Provider>
+				</Item>
 				<Item Name="Eleven Sports Pro League 1 FR">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Eleven Pro League 1 FR.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Eleven Pro League 1 NL">
-					<Provider>Telenet</Provider>
-				</Item>
+				<Item Name="Eleven Pro League 1 NL" />
 			<File>Eleven Pro League 1 NL.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Eleven Pro League 1">
-					<Provider>Voo</Provider>
-				</Item>
-			<File>Eleven Pro League 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Eleven Pro League 2 FR">
 					<Provider>Telenet</Provider>
 				</Item>
-			<File>Eleven Pro League 2 FR.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Eleven Pro League 2 NL">
-					<Provider>Telenet</Provider>
-				</Item>
-			<File>Eleven Pro League 2 NL.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Eleven Pro League 2">
 					<Provider>Voo</Provider>
 				</Item>
-			<File>Eleven Pro League 2.png</File>
+			<File>Eleven Pro League 2 FR.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eleven Pro League 2 NL" />
+			<File>Eleven Pro League 2 NL.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Eleven Pro League 3 FR">
 					<Provider>Telenet</Provider>
 				</Item>
-			<File>Eleven Pro League 3 FR.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Eleven Pro League 3 NL">
-					<Provider>Telenet</Provider>
-				</Item>
-			<File>Eleven Pro League 3 NL.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Eleven Pro League 3">
 					<Provider>Voo</Provider>
 				</Item>
-			<File>Eleven Pro League 3.png</File>
+			<File>Eleven Pro League 3 FR.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eleven Pro League 3 NL" />
+			<File>Eleven Pro League 3 NL.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Elhiwar Ettounsi" />
@@ -11812,16 +11799,14 @@
 			<File>Telenantes.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Télénantes" />
-			<File>Telenantes.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Infokanaal">
 					<Provider>Telenet</Provider>
 				</Item>
+				<!--
 				<Item Name="Info">
 					<Provider>Telenet</Provider>
 				</Item>
+				-->
 				<Item Name="Telenet" />
 				<Item Name="Yelo TV-channel">
 					<Provider>Telenet</Provider>
@@ -12304,9 +12289,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="TRT 1" />
-				<Item Name="TRT">
-					<Provider>Telenet</Provider>
-				</Item>
 			<File>TRT 1.png</File>
 		</Channel>
 		<Channel>
@@ -12354,6 +12336,7 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="TRT">
+					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>TRT Turk.png</File>
@@ -14517,6 +14500,7 @@
 				<Item Name="France Inter">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
+					<Provider>Vodafone</Provider><!-- Berlin -->
 				</Item>
 			<File>France Inter.png</File>
 		</Channel>
@@ -15759,9 +15743,6 @@
 			<File>Radio FG.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France Inter">
-					<Provider>Vodafone</Provider><!-- Berlin -->
-				</Item>
 				<Item Name="Radio France Internationale" />
 				<Item Name="Radio France International">
 					<Provider>Ziggo</Provider>
@@ -16545,9 +16526,11 @@
 				<Item Name="Classic Calm">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
+				<!--
 				<Item Name="Classic Rock">
 					<Provider>Telenet</Provider>
 				</Item>
+				-->
 				<Item Name="Cocktail Lounge">
 					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -17107,9 +17090,11 @@
 				<Item Name="Calm Piano">
 					<Provider>Ziggo</Provider>
 				</Item>
+				<!--
 				<Item Name="Classic Rock">
 					<Provider>Ziggo</Provider>
 				</Item>
+				-->
 				<Item Name="Club Techno">
 					<Provider>Ziggo</Provider>
 				</Item>
