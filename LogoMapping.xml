@@ -2,10 +2,10 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		31/08/22 LCI, TF1, TF1 Series Films, TFX and TMC ceased broadcasting on Astra - https://www.telesatellite.com/actu/60809-nouveau-bras-de-fer-entre-les-groupes-canal-et-tf1.html https://advanced-television.com/2022/09/23/tf1-loses-initial-canal-court-case/
-		
+		07/11/22 LCI, TF1, TF1 Series Films, TFX and TMC Canal+ streams resume on Astra - https://www.tf1info.fr/culture/accord-tf1-canal-plus-les-chaines-du-groupe-de-retour-quand-lundi-7-novembre-2022-tmc-tfx-tf1seriesfilms-lci-2237674.html
 		15/11/22 Arte, One, Phoenix and Taggeschau 24 close in SD on Astra - https://www.parabola.cz/clanky/7346/one-phoenix-arte-deutsch-a-tagesschau-24-upozornuji-na-vypnuti-sd/
 		15/11/22 TV1 OOE Neu renamed TV1 OOE, old version closes
+		00/11/22 FTA versions of LCI HD, TF1 HD, TF1 Series Films HD, TFX HD and TMC HD close on Astra - https://www.telesatellite.com/actu/61212-tf1-contre-canal-saison-episode-le-denouement.html
 		00/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
@@ -184,10 +184,6 @@
 		<Channel>
 				<Item Name="3+" />
 			<File>3 Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="33" />
-			<File>33.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3sat HD">
@@ -11285,16 +11281,6 @@
 			<File>Super RTL.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Super3/33">
-					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
-				</Item>
-			<File>Super3 33.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Super3" />
-			<File>Super3.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Swiss 1">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
@@ -11405,6 +11391,12 @@
 		<Channel>
 				<Item Name="SWR" />
 			<File>SWR.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SX3/33">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+			<File>SX3 33.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Syfy FR" />
@@ -14429,6 +14421,7 @@
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
 				<Item Name="ERF Plus">
+					<Provider>Sunrise Cable</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>ERF Plus.png</File>
