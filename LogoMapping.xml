@@ -2,9 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		07/11/22 LCI, TF1, TF1 Series Films, TFX and TMC Canal+ streams resume on Astra - https://www.tf1info.fr/culture/accord-tf1-canal-plus-les-chaines-du-groupe-de-retour-quand-lundi-7-novembre-2022-tmc-tfx-tf1seriesfilms-lci-2237674.html
-		15/11/22 Arte, One, Phoenix and Taggeschau 24 close in SD on Astra - https://www.parabola.cz/clanky/7346/one-phoenix-arte-deutsch-a-tagesschau-24-upozornuji-na-vypnuti-sd/
-		15/11/22 TV1 OOE Neu renamed TV1 OOE, old version closes
 		00/11/22 FTA versions of LCI HD, TF1 HD, TF1 Series Films HD, TFX HD and TMC HD close on Astra - https://www.telesatellite.com/actu/61212-tf1-contre-canal-saison-episode-le-denouement.html
 		00/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
@@ -27,6 +24,7 @@
 		Disney Channel/ES
 		DMAX/HD DE/ES conflict
 		DMAX DE/ES conflict
+		Freedom BE (Stingray Music)/Freedom UA conflict
 		Hit FM BE/ES conflict
 		Info BE (Telenet)/Info CH (Sunrise) conflict
 		La Premiere FR TV/BE Radio
@@ -814,7 +812,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Arte">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -841,6 +838,9 @@
 				<Item Name="Astro TV">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+				</Item>
+				<Item Name="AstroTV HD">
+					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="AstroTV">
 					<Provider>Astra 19.2E</Provider>
@@ -893,10 +893,16 @@
 			<File>ATV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ATV2">
+				<Item Name="ATV2 HD">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>ATV2 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ATV 2">
 					<Provider>SimpliTV</Provider><!-- Wien -->
 				</Item>
+				<Item Name="ATV2" />
 				<Item Name="ATV II">
 					<Provider>Magenta Tirol</Provider>
 				</Item>
@@ -4526,9 +4532,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Freedom">
-					<Provider>Telenet</Provider>
-				</Item>
-				<Item Name="UA TV">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 			<File>Freedom.png</File>
@@ -4637,6 +4640,33 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>God TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Gol Mundial 2 HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Gol Mundial 2.">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Gol Mundial 2">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Gol Mundial 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Gol Mundial HD.">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Gol Mundial HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Gol Mundial.">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Gol Mundial">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Gol Mundial.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Gol Play">
@@ -4910,7 +4940,6 @@
 		<Channel>
 				<Item Name="HopeTV">
 					<Provider>Astra 19.2E</Provider>
-					<Provider>SimpliTV</Provider><!-- Wien -->
 				</Item>
 				<Item Name="Hope Channel">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
@@ -5214,7 +5243,8 @@
 				<Item Name="ITV HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
-			<File>ITV HD.png</File>
+				<Item Name="ITV1 HD" />
+			<File>ITV1 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ITV 2">
@@ -5448,10 +5478,6 @@
 		<Channel>
 				<Item Name="Karnten TV" />
 			<File>Karnten TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Kaufbei.TV" />
-			<File>Kaufbei.TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="KBS World HD" />
@@ -7431,7 +7457,6 @@
 				<Item Name="Nickelodeon">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Digitenne</Provider>
-					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -7966,7 +7991,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="One">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
@@ -8333,7 +8357,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Phoenix">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>MagentaTV</Provider>
 					<Provider>SimpliTV</Provider><!-- Wien -->
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -11443,7 +11466,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Tagesschau24">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -12508,9 +12530,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="TV1 Oberösterreich" />
-				<Item Name="TV1 OOE Neu">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="TV1 OOE">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -12705,6 +12724,12 @@
 					<Provider>Telenet</Provider>
 				</Item>
 			<File>TVP Polonia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TVP World">
+					<Provider>SimpliTV</Provider><!-- Wien -->
+				</Item>
+			<File>TVP World.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVPI" />
@@ -13745,7 +13770,7 @@
 				<Item Name="Testbeeld">
 					<Provider>Ziggo</Provider>
 				</Item>
-				<Item Name="Ziggo Live Event ESPN">
+				<Item Name="Ziggo Evenementenkanaal">
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Ziggo Live Events ESPN">
@@ -13895,11 +13920,9 @@
 			<File>Antenne NRW.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Antenne Saar">
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-				</Item>
+				<Item Name="Antenne Saar" />
 				<Item Name="AntenneSaar">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>Antenne Saar.png</File>
 		</Channel>
@@ -16556,9 +16579,11 @@
 				<Item Name="Easy Listening Deutschland">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
+				<!--
 				<Item Name="Freedom">
 					<Provider>Telenet</Provider>
 				</Item>
+				-->
 				<Item Name="Groove (Disco &amp; Funk)">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>

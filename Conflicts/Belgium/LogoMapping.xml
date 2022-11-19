@@ -58,6 +58,9 @@
 				<Item Name="Classic Rock">
 					<Provider>Telenet</Provider>
 				</Item>
+				<Item Name="Freedom">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Stingray Music.png</File>
 		</Channel>
 	</Radio>
