@@ -12663,10 +12663,6 @@
 			<File>TVCG MNE.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TVE 4K" />
-			<File>TVE 4K.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="TVE (spa)">
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
 				</Item>
@@ -12680,6 +12676,12 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>TVE Internacional.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TVE UHD">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+			<File>TVE UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVI Internacional" />
