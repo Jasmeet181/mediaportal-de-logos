@@ -4,6 +4,7 @@
 		<!--
 		00/11/22 FTA versions of LCI HD, TF1 HD, TF1 Series Films HD, TFX HD and TMC HD close on Astra - https://www.telesatellite.com/actu/61212-tf1-contre-canal-saison-episode-le-denouement.html
 		00/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
+		01/01/23 ESPN 1 and ESPN 3 added to Digitenne, ESPN and Xite removed - https://www.digitaltveurope.com/2022/11/21/kpn-adds-espn-channels-to-dtt-platform-digitenne/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
@@ -2681,6 +2682,13 @@
 			<File>Colmax TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Comarcal TV" />
+				<Item Name="Comarques Centrals TV">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
+			<File>Comarcal TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Comedia por Movistar Plus+" />
 				<Item Name="M+ Comedia">
 					<Provider>Astra 19.2E</Provider>
@@ -3095,7 +3103,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Deutsche Welle" />
-				<Item Name="DW English">
+				<Item Name="DW English HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 				<Item Name="DW-TV Europa">
@@ -7594,7 +7602,9 @@
 			<File>NPO 1 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NPO 1 UHD" />
+				<Item Name="NPO 1 UHD">
+					<Provider>Ziggo</Provider>
+				</Item>
 				<Item Name="NPO1 4K" />
 			<File>NPO 1 UHD.png</File>
 		</Channel>
@@ -11828,6 +11838,23 @@
 			<File>Telenet.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Teleonuba" />
+			<File>Teleonuba.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Telesafor HD">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
+				<Item Name="Telesafor">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
+			<File>Telesafor.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Telesambre" />
+			<File>Telesambre.png</File>
+		</Channel>	
+		<Channel>
 				<Item Name="Telesur English">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -13534,8 +13561,8 @@
 			<File>Weo.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Westerwald TV" />
-			<File>Westerwald TV.png</File>
+				<Item Name="Westerwald-Wied TV" />
+			<File>Westerwald-Wied TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Wetter.com">
@@ -14188,6 +14215,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Cadena Dial" />
+				<Item Name="Dial Gandia">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
 				<Item Name="Dial">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -14196,6 +14226,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Cadena SER" />
+				<Item Name="SER Gandia">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
 				<Item Name="SER">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -14889,10 +14922,20 @@
 			<File>Lora Munchen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Los40 Classic Gandia">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
 				<Item Name="Los40 Classic">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 				</Item>
 			<File>Los40 Classic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Los40 Dance Gandia">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
+				<Item Name="Los40 Dance" />
+			<File>Los40 Dance.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Los40 Urban">
@@ -14901,6 +14944,9 @@
 			<File>Los40 Urban.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Los40 Gandia">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
 				<Item Name="Los40">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
@@ -16398,6 +16444,13 @@
 			<File>Schwarzwaldradio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SER+ Gandia">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+				</Item>
+				<Item Name="SER+" />
+			<File>SERPlus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Radio">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -17080,6 +17133,10 @@
 		<Channel>
 				<Item Name="Welle 1" />
 			<File>Welle 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Willy Class X" />
+			<File>Willy Class X.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Willy">
