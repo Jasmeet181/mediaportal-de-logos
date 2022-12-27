@@ -1,0 +1,21 @@
+<svg width="779.33" height="800" version="1.1" viewBox="0 0 206.2 211.67" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath1177">
+   <path d="m-868.14-963.89h1710v2418.4h-1710z" stroke-width="2.8726"/>
+  </clipPath>
+ </defs>
+ <path d="m78.499 150.68 50.494-122.12h-35.413v22.986h-31.654v-51.549h103.56v26.74l-51.241 123.94z" clip-path="url(#clipPath1177)" color="#000000" fill="#fff" stop-color="#000000" stroke-width="2.8726" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <link rel="stylesheet" type="text/css"/>
+ <link rel="stylesheet" type="text/css"/>
+ <style lang="en" type="text/css"/>
+ <style lang="en" type="text/css"/>
+ <style lang="en" type="text/css"/>
+ <linearGradient id="a" x2="1" gradientTransform="matrix(206.2 0 0 206.2 .00060859 184.12)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#c81e25" offset="0"/>
+  <stop stop-color="#c81e25" offset=".064783"/>
+  <stop stop-color="#ed1c24" offset=".5925"/>
+  <stop stop-color="#ed1c24" offset=".60174"/>
+  <stop stop-color="#ed1c24" offset="1"/>
+ </linearGradient>
+ <path d="m3.0658 166.41c72.966 63.843 139.24 57.012 201.33-0.88476 4.0561-3.7774 0.60612-10.459-3.9699-7.4601-63.852 41.782-127.55 42.144-192.37 0.62335-2.3555-1.511-4.1164-2.12-5.3832-2.12-4.2744 0-2.8869 6.9746 0.39067 9.8414" fill="url(#a)" stroke-width="2.8726"/>
+</svg>

@@ -2,17 +2,21 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		00/11/22 FTA versions of LCI HD, TF1 HD, TF1 Series Films HD, TFX HD and TMC HD close on Astra - https://www.telesatellite.com/actu/61212-tf1-contre-canal-saison-episode-le-denouement.html
-		00/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
+		31/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
+		31/12/22 Junior removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
+		31/12/22 Ultra Nature closes - https://www.universfreebox.com/article/537257/freebox-tv-la-chaine-ultra-nature-4k-disparaitra-le-31-decembre
+		01/01/23 Comedy Central Extra closes - https://www.ziggo.nl/televisie/zenderoverzicht/zenderwijzigingen
 		01/01/23 ESPN 1 and ESPN 3 added to Digitenne, ESPN and Xite removed - https://www.digitaltveurope.com/2022/11/21/kpn-adds-espn-channels-to-dtt-platform-digitenne/
+		31/01/23 National Geographic and National Geographic Wild removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
+		19/03/23 IDF1/HD renamed to 20 Minutes TV - https://alloforfait.fr/tv/news/112062-tnt-20-minutes-tv-prendre-place-idf1.html 
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
 		00/00/23 Arte UHD launches on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
+		00/00/23 SkyShowtime launches in Spain - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up
 		14/02/24 All TDT channels must broadcast in HD - https://www.mundoplus.tv/tv-digital/el-gobierno-retrasa-el-apagon-sd-hasta-el-14-de-febrero-de-2024/
 		00/02/24 DMAX HD ES launches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
 		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
-		SkyShowtime launches in Spain - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
 		TNT/HD renamed to Warner TV/HD (ES) - https://www.broadbandtvnews.com/2021/06/14/tnt-channels-to-become-warner-tv-in-germany/
 		-->
@@ -125,6 +129,10 @@
 			<File>1Twente TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="20 Minutes TV" />
+			<File>20 Minutes TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="24 Horas">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -181,6 +189,10 @@
 			<File>3 Plus HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="3+ UHD" />
+			<File>3 Plus UHD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="3+" />
 			<File>3 Plus.png</File>
 		</Channel>
@@ -211,6 +223,10 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 			<File>4 Plus HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="4+ UHD" />
+			<File>4 Plus UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="4+" />
@@ -262,16 +278,12 @@
 			<File>7 Plus HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="7+ Nick Schweiz" />
+			<File>7 Plus Nick Schweiz.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="7+" />
 			<File>7 Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="7 Television Region de Murcia HD" />
-			<File>7 Television Region de Murcia HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="7 Television Region de Murcia" />
-			<File>7 Television Region de Murcia.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="7A Limoges" />
@@ -284,6 +296,12 @@
 		</Channel>
 		<Channel>
 				<Item Name="7TV Andalucía" />
+				<Item Name="7TV Jaen HD">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
+				<Item Name="7TV Jaen">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 			<File>7TV Andalucia.png</File>
 		</Channel>
 		<Channel>
@@ -306,6 +324,13 @@
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
 				</Item>
 			<File>8TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="9laLoma HD">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
+				<Item Name="9laLoma" />
+			<File>9laLoma.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="A La Une">
@@ -591,6 +616,12 @@
 			<File>Alpenland TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Alternativa TV">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
+			<File>Alternativa RTV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Alternativna TV" />
 			<File>Alternativna TV.png</File>
 		</Channel>
@@ -628,6 +659,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Andalucía TV" />
+				<Item Name="AndaluciaTV">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 			<File>Andalucia TV.png</File>
 		</Channel>
 		<Channel>
@@ -936,9 +970,6 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="Auto Motor und Sport HD" />
-				<Item Name="AutoMotorSport HD temp">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 			<File>Auto Motor und Sport HD.png</File>
 		</Channel>
 		<Channel>
@@ -1742,6 +1773,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Bom Cine" />
+				<Item Name="Bom">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 			<File>Bom Cine.png</File>
 		</Channel>
 		<Channel>
@@ -1821,6 +1855,9 @@
 			<File>BR Fernsehen Nord.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BR Fernsehen Süd HD*">
+					<Provider>Terrestrial</Provider><!-- Lingen -->
+				</Item>
 				<Item Name="BR Fernsehen Süd HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
@@ -1976,6 +2013,12 @@
 			<File>Canal 9.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Canal 45 TV">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
+			<File>Canal 45 TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Canal Alpha HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
@@ -2059,12 +2102,6 @@
 			<File>Canal Luz.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Canal Panda">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Canal Panda.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Canal Parlamento" />
 			<File>Canal Parlamento.png</File>
 		</Channel>
@@ -2074,14 +2111,23 @@
 		</Channel>
 		<Channel>
 				<Item Name="Canal Sur 1 HD" />
+				<Item Name="CanalSurHD">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 			<File>Canal Sur 1 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canal Sur 1" />
+				<Item Name="CanalSur2">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 			<File>Canal Sur 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Canal Sur 2" />
+				<Item Name="CanalSur">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 			<File>Canal Sur 2.png</File>
 		</Channel>
 		<Channel>
@@ -2684,7 +2730,7 @@
 		<Channel>
 				<Item Name="Comarcal TV" />
 				<Item Name="Comarques Centrals TV">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 			<File>Comarcal TV.png</File>
 		</Channel>
@@ -3143,6 +3189,27 @@
 			<File>DieuTV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Diez TV Andujar" />
+			<File>Diez TV Andujar.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Diez TV Cazorla" />
+			<File>Diez TV Cazorla.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Diez TV Las Villas" />
+			<File>Diez TV Las Villas.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Diez TV Ubeda HD">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
+				<Item Name="Diez TV Ubeda">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
+			<File>Diez TV Ubeda.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Discovery HD (S)">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -3281,6 +3348,9 @@
 		<Channel>
 				<Item Name="Disney+">
 					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Disney Plus">
+					<Provider>Ziggo</Provider>
 				</Item>
 			<File>DisneyPlus.png</File>
 		</Channel>
@@ -3653,6 +3723,12 @@
 			<File>Energy.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Enfamilia">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Enfamilia.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Enjoy The Alps TV HD" />
 				<Item Name="EnjoyTheAlpsTV HD">
 					<Provider>Magenta Tirol</Provider>
@@ -3764,6 +3840,12 @@
 		<Channel>
 				<Item Name="ESportsOne" />
 			<File>ESportsOne.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Estrella del Pilar">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
+			<File>Estrella del Pilar.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Estrenos 2 por Movistar Plus+" />
@@ -4650,6 +4732,10 @@
 			<File>God TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Gol Mundial 2 UHD" />
+			<File>Gol Mundial 2 UHD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Gol Mundial 2 HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -4660,6 +4746,10 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Gol Mundial 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Gol Mundial UHD" />
+			<File>Gol Mundial UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Gol Mundial HD.">
@@ -4843,9 +4933,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Health TV" />
-				<Item Name="Health.TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Health.TV" />
 			<File>Health TV.png</File>
 		</Channel>
 		<Channel>
@@ -4972,6 +5060,9 @@
 			<File>Horse TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="HR-Fernsehen HD*">
+					<Provider>Terrestrial</Provider><!-- Lingen -->
+				</Item>
 				<Item Name="HR-Fernsehen HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
@@ -5632,10 +5723,21 @@
 			<File>La 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="La 7" />
-			<File>La 7.png</File>
+				<Item Name="La 7 Castilla y León" />
+				<Item Name="La 7 CyL" />
+			<File>La 7 Castilla y Leon.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="La 7 de La Rioja" />
+			<File>La 7 de La Rioja.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="La 7 Murcia" />
+			<File>La 7 Murcia.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="La 8 Castilla y León" />
+				<Item Name="La 8 CyL" />
 				<Item Name="La 8" />
 			<File>La 8.png</File>
 		</Channel>
@@ -5675,6 +5777,9 @@
 			<File>La Deux.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="La 8 Mediterráneo HD">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
+				</Item>
 				<Item Name="La Ocho Mediterraneo" />
 			<File>La Ocho Mediterraneo.png</File>
 		</Channel>
@@ -6344,8 +6449,12 @@
 			<File>MDR HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MDR S-Anhalt HD*">
+					<Provider>Terrestrial</Provider><!-- Lingen -->
+				</Item>
 				<Item Name="MDR S-Anhalt HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Terrestrial</Provider><!-- Münster -->
 				</Item>
 				<Item Name="MDR Sachsen-Anhalt HD" />
 			<File>MDR Sachsen-Anhalt HD.png</File>
@@ -7170,6 +7279,9 @@
 			<File>Navarra Television.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NDR FS HH HD*">
+					<Provider>Terrestrial</Provider><!-- Lingen -->
+				</Item>
 				<Item Name="NDR FS HH HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- Nürnberg -->
@@ -7194,6 +7306,9 @@
 			<File>NDR HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NDR FS MV HD*">
+					<Provider>Terrestrial</Provider><!-- Lingen -->
+				</Item>
 				<Item Name="NDR FS MV HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -7212,6 +7327,9 @@
 			<File>NDR Mecklenburg-Vorpommern.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NDR FS NDS HD*">
+					<Provider>Terrestrial</Provider><!-- Lingen -->
+				</Item>
 				<Item Name="NDR FS NDS HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
@@ -7231,6 +7349,9 @@
 			<File>NDR Niedersachsen.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NDR FS SH HD*">
+					<Provider>Terrestrial</Provider><!-- Lingen -->
+				</Item>
 				<Item Name="NDR FS SH HD">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -7546,12 +7667,6 @@
 			<File>Njam.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Lokale Omroep">
-					<Provider>Ziggo</Provider>
-				</Item>
-			<File>NLPO.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Noa4 HD" />
 			<File>Noa4 HD.png</File>
 		</Channel>
@@ -7666,6 +7781,12 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Politiek en Nieuws.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NPO Start">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO Start.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NPO Zappelin Extra">
@@ -7843,8 +7964,8 @@
 			<File>OK Kaiserslautern.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="OK Kirchheimboladen" />
-			<File>OK Kirchheimboladen.png</File>
+				<Item Name="OK Kirchheimbolanden" />
+			<File>OK Kirchheimbolanden.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="OK TV Ludwigshafen" />
@@ -9135,6 +9256,13 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 			<File>Regio TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Lokale Omroep">
+					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="Regionale Publieke Omroep" />
+			<File>Regionale Publieke Omroep.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Regionalfernsehen Harz" />
@@ -11843,10 +11971,10 @@
 		</Channel>
 		<Channel>
 				<Item Name="Telesafor HD">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 				<Item Name="Telesafor">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 			<File>Telesafor.png</File>
 		</Channel>
@@ -12875,6 +13003,13 @@
 		<Channel>
 				<Item Name="V Television" />
 			<File>V Television.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="M+ Vacaciones">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Vacaciones por Movistar Plus" />
+			<File>Vacaciones por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Val TV" />
@@ -14069,6 +14204,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="BDN Radio Ciutat de Badalona" />
+				<Item Name="Radio Ciutat Badalona">
+					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
+				</Item>
 			<File>BDN Radio Ciutat de Badalona.png</File>
 		</Channel>
 		<Channel>
@@ -14216,7 +14354,7 @@
 		<Channel>
 				<Item Name="Cadena Dial" />
 				<Item Name="Dial Gandia">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 				<Item Name="Dial">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
@@ -14227,7 +14365,7 @@
 		<Channel>
 				<Item Name="Cadena SER" />
 				<Item Name="SER Gandia">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 				<Item Name="SER">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
@@ -14236,10 +14374,16 @@
 			<File>Cadena SER.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Canal Fiesta R.">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 				<Item Name="Canal Fiesta Radio" />
 			<File>Canal Fiesta Radio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="C.S.R. Jaén">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 				<Item Name="Canal Sur Radio" />
 			<File>Canal Sur Radio.png</File>
 		</Channel>
@@ -14305,12 +14449,6 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Concertzender.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Contact FM">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Contact FM.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Cooltura FM">
@@ -14514,7 +14652,9 @@
 			<File>Family Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Flamenco Radio" />
+				<Item Name="Flamenco Radio">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 			<File>Flamenco Radio.png</File>
 		</Channel>
 		<Channel>
@@ -14603,15 +14743,19 @@
 			<File>Gaztea.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Grand Prix Radio">
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>Grand Prix Radio.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Groot Nieuws Radio">
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>Groot Nieuws Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Harmony.FM">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Harmony.FM" />
 			<File>Harmony.FM.png</File>
 		</Channel>
 		<!--
@@ -14633,9 +14777,7 @@
 				<Item Name="Hit Radio FFH - Mittelhessen">
 					<Provider>Vodafone</Provider><!-- Bad Marienberg -->
 				</Item>
-				<Item Name="Hit Radio FFH">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Hit Radio FFH" />
 			<File>Hit Radio FFH.png</File>
 		</Channel>
 		<Channel>
@@ -14871,10 +15013,6 @@
 			<File>L1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="La 7 de La Rioja" />
-			<File>La 7 de La Rioja.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="La Première">
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
@@ -14923,7 +15061,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Los40 Classic Gandia">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 				<Item Name="Los40 Classic">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
@@ -14932,7 +15070,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Los40 Dance Gandia">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 				<Item Name="Los40 Dance" />
 			<File>Los40 Dance.png</File>
@@ -14945,7 +15083,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Los40 Gandia">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 				<Item Name="Los40">
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
@@ -15452,7 +15590,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Planet Radio">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Planet Radio.png</File>
@@ -15649,6 +15786,9 @@
 			<File>Radio Agora.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="R.A.I. Jaén">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
 				<Item Name="Radio Andalucía Información" />
 			<File>Radio Andalucia Informacion.png</File>
 		</Channel>
@@ -15720,7 +15860,16 @@
 				<Item Name="Radio Contact">
 					<Provider>Voo</Provider>
 				</Item>
-			<File>Radio Contact.png</File>
+			<File>Radio Contact BE.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Contact FM">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<!--
+				<Item Name="Radio Contact">
+				-->
+			<File>Radio Contact FR.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio Continu">
@@ -15982,6 +16131,12 @@
 		</Channel>
 		<Channel>
 				<Item Name="Radio Nacional de España" />
+				<Item Name="RNE Andalucía">
+					<Provider>TDT</Provider><!-- Andalusia, Baeza -->
+				</Item>
+				<Item Name="RNE Aragón">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
+				</Item>
 				<Item Name="RNE Canarias">
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
 				</Item>
@@ -15993,6 +16148,9 @@
 				</Item>
 				<Item Name="RNE Radio Uno">
 					<Provider>Ziggo</Provider>
+				</Item>
+				<Item Name="RNE Valencia">
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 			<File>Radio Nacional de Espana.png</File>
 		</Channel>
@@ -16445,7 +16603,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="SER+ Gandia">
-					<Provider>TDT</Provider><!-- Comunidad Valenciana, Valencia -->
+					<Provider>TDT</Provider><!-- Comunidad Valenciana, Gandia -->
 				</Item>
 				<Item Name="SER+" />
 			<File>SERPlus.png</File>
@@ -17135,7 +17293,9 @@
 			<File>Welle 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Willy Class X" />
+				<Item Name="Willy Class X">
+					<Provider>Telenet</Provider>
+				</Item>
 			<File>Willy Class X.png</File>
 		</Channel>
 		<Channel>
