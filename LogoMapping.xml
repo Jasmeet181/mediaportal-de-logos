@@ -3,10 +3,12 @@
 <!-- ******************************************************************** -->
 		<!--
 		31/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
+		31/12/22 Gol Mundial/UHD and Gol Mundial 2/UHD close - https://www.mundoplus.tv/tv-digital/gol-mundial-cierra-la-copa-del-mundo-como-lider-destacado-de-la-tv-de-pago/
 		31/12/22 Junior removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
 		31/12/22 Ultra Nature closes - https://www.universfreebox.com/article/537257/freebox-tv-la-chaine-ultra-nature-4k-disparaitra-le-31-decembre
 		01/01/23 Comedy Central Extra closes - https://www.ziggo.nl/televisie/zenderoverzicht/zenderwijzigingen
 		01/01/23 ESPN 1 and ESPN 3 added to Digitenne, ESPN and Xite removed - https://www.digitaltveurope.com/2022/11/21/kpn-adds-espn-channels-to-dtt-platform-digitenne/
+		01/01/23 NPO Radio 4 renamed to NPO Klassiek - https://pers.npo.nl/persberichten/npo-radio-4-wordt-npo-klassiek-nieuwe-naam-sluit-aan-bij-ambitieuze-plannen#content https://www.nporadio4.nl/klassiek/actueel/42a6c042-58e7-46fb-8f51-81ee02568029/npo-radio-4-wordt-npo-klassiek
 		31/01/23 National Geographic and National Geographic Wild removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
 		19/03/23 IDF1/HD renamed to 20 Minutes TV - https://alloforfait.fr/tv/news/112062-tnt-20-minutes-tv-prendre-place-idf1.html 
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
@@ -286,8 +288,8 @@
 			<File>7 Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="7A Limoges" />
-			<File>7A Limoges.png</File>
+				<Item Name="7ALimoges" />
+			<File>7ALimoges.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="7NN TV" />
