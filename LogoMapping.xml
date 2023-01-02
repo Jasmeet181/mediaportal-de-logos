@@ -2,23 +2,20 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		31/12/22 E/HD closes in Austria, Germany and Switzerland - https://www.broadbandtvnews.com/2022/10/05/exclusive-nbc-universal-to-close-e-entertainment-in-dach/
-		31/12/22 Gol Mundial/UHD and Gol Mundial 2/UHD close - https://www.mundoplus.tv/tv-digital/gol-mundial-cierra-la-copa-del-mundo-como-lider-destacado-de-la-tv-de-pago/
-		31/12/22 Junior removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
-		31/12/22 Ultra Nature closes - https://www.universfreebox.com/article/537257/freebox-tv-la-chaine-ultra-nature-4k-disparaitra-le-31-decembre
-		01/01/23 Comedy Central Extra closes - https://www.ziggo.nl/televisie/zenderoverzicht/zenderwijzigingen
-		01/01/23 ESPN 1 and ESPN 3 added to Digitenne, ESPN and Xite removed - https://www.digitaltveurope.com/2022/11/21/kpn-adds-espn-channels-to-dtt-platform-digitenne/
-		01/01/23 NPO Radio 4 renamed to NPO Klassiek - https://pers.npo.nl/persberichten/npo-radio-4-wordt-npo-klassiek-nieuwe-naam-sluit-aan-bij-ambitieuze-plannen#content https://www.nporadio4.nl/klassiek/actueel/42a6c042-58e7-46fb-8f51-81ee02568029/npo-radio-4-wordt-npo-klassiek
+		24/01/23 BBC Three and CBeebies in SD close in the Netherlands - https://www.totaaltv.nl/nieuws/bbc-met-betere-beeldkwaliteit-door-bij-nederlandse-providers/
 		31/01/23 National Geographic and National Geographic Wild removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
-		19/03/23 IDF1/HD renamed to 20 Minutes TV - https://alloforfait.fr/tv/news/112062-tnt-20-minutes-tv-prendre-place-idf1.html 
+		13/02/23 BBC One, BBC Two and BBC Four in SD close in the Netherlands - https://www.totaaltv.nl/nieuws/bbc-met-betere-beeldkwaliteit-door-bij-nederlandse-providers/
+		19/03/23 IDF1/HD renamed to 20 Minutes TV - https://alloforfait.fr/tv/news/112062-tnt-20-minutes-tv-prendre-place-idf1.html
+		00/03/23 SkyShowtime launches in Spain - https://www.mundoplus.tv/tv-digital/llega-a-espana-paramount-y-skyshowtime-sera-finalmente-un-canal/
 		00/04/23 BBC World News renamed to BBC News - https://www.bbc.com/mediacentre/2022/bbc-sets-out-plans-for-new-tv-news-channel-to-launch-in-2023
 		00/09/23 Monte-Carlo Riviera TV launches - https://escxtra.com/2022/04/25/launch-of-monacos-monte-carlo-riviera-tv-delayed-until-2023/
 		00/00/23 Arte SD closes on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
 		00/00/23 Arte UHD launches on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
-		00/00/23 SkyShowtime launches in Spain - https://www.skygroup.sky/article/-skyshowtime-announces-official-launch-date-and-content-line-up
 		14/02/24 All TDT channels must broadcast in HD - https://www.mundoplus.tv/tv-digital/el-gobierno-retrasa-el-apagon-sd-hasta-el-14-de-febrero-de-2024/
-		00/02/24 DMAX HD ES launches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
+		00/02/24 DMAX HD ES relaunches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
+		(13315) - https://www.digitalbitrate.com/dtv.php?mux=11273&pid=13315&live=61&sec=0&lang=en
 		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
+		Eurosport 4K relaunches on Movistar Plus+ - https://www.mundoplus.tv/tv-digital/eurosport-4k-volvera-al-dial-de-movistar-plus-en-breve/
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
 		TNT/HD renamed to Warner TV/HD (ES) - https://www.broadbandtvnews.com/2021/06/14/tnt-channels-to-become-warner-tv-in-germany/
 		-->
@@ -2762,12 +2759,6 @@
 			<File>Comedy Central Austria.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Comedy Central Extra">
-					<Provider>Ziggo</Provider>
-				</Item>
-			<File>Comedy Central Extra NL.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Comedy Central HD AT">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3525,13 +3516,13 @@
 			<File>Dusk.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="E! Entertainm. HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
 				<Item Name="E! Ent">
 					<Provider>Telenet</Provider>
 				</Item>
 				<Item Name="E! France HD">
+					<Provider>Sunrise Cable</Provider>
+				</Item>
+				<Item Name="E! Europe">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="E! HD">
@@ -3787,6 +3778,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="ESPN 3">
+					<Provider>Digitenne</Provider>
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>ESPN 3.png</File>
@@ -4019,6 +4011,10 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Eurosport 3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 4K" />
+			<File>Eurosport 4K.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Eurosport 4">
@@ -4734,41 +4730,6 @@
 			<File>God TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Gol Mundial 2 UHD" />
-			<File>Gol Mundial 2 UHD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Gol Mundial 2 HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Gol Mundial 2.">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Gol Mundial 2">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Gol Mundial 2.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Gol Mundial UHD" />
-			<File>Gol Mundial UHD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Gol Mundial HD.">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Gol Mundial HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Gol Mundial.">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-				<Item Name="Gol Mundial">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Gol Mundial.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Gol Play">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>TDT</Provider><!-- Catalunya, Barcelona -->
@@ -5414,15 +5375,6 @@
 					<Provider>Astra 19.2E</Provider>
 				</Item>
 			<File>Jukebox.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Junior">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>Sunrise Cable</Provider>
-					<Provider>Vodafone</Provider><!-- Nürnberg -->
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
-			<File>Junior.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Juwelo HD">
@@ -7445,9 +7397,7 @@
 				<Item Name="NiceTV">
 					<Provider>Vodafone</Provider><!-- Berlin -->
 				</Item>
-				<Item Name="Nice">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="Nice" />
 			<File>Nice.png</File>
 		</Channel>
 		<Channel>
@@ -11027,6 +10977,10 @@
 			<File>Sky Sport UHD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SkyShowtime" />
+			<File>SkyShowtime.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Slam!">
 					<Provider>Ziggo</Provider>
 				</Item>
@@ -12946,10 +12900,6 @@
 			<File>UHD1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Ultra Nature" />
-			<File>Ultra Nature.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="UM.tv" />
 			<File>UM.tv.png</File>
 		</Channel>
@@ -13748,7 +13698,6 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="Xite">
-					<Provider>Digitenne</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 					<Provider>Ziggo</Provider>
@@ -15402,6 +15351,16 @@
 			<File>NPO 3FM.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NPO Klassiek">
+					<Provider>Digitenne</Provider>
+				</Item>
+				<Item Name="NPO Radio 4">
+					<Provider>Telenet</Provider>
+					<Provider>Ziggo</Provider>
+				</Item>
+			<File>NPO Klassiek.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="NL-Radio 1">
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
@@ -15429,14 +15388,6 @@
 					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Radio 2.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="NPO Radio 4">
-					<Provider>Digitenne</Provider>
-					<Provider>Telenet</Provider>
-					<Provider>Ziggo</Provider>
-				</Item>
-			<File>NPO Radio 4.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NL-Radio 5">
