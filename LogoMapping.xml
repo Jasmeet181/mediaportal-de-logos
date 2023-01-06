@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		09/01/23 VTM Kids renamed VTM Non-Stop Dokters - https://www2.telenet.be/nl/klantenservice/zenderaanpassingen https://images1.persgroep.net/rcs/OCRNlLnCzv7-XKcHO44bTdA0FJU/diocontent/225657954/_fitwidth/500?appId=da11c75db9b73ea0f41f0cd0da631c71
 		24/01/23 BBC Three and CBeebies in SD close in the Netherlands - https://www.totaaltv.nl/nieuws/bbc-met-betere-beeldkwaliteit-door-bij-nederlandse-providers/
 		31/01/23 National Geographic and National Geographic Wild removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
 		13/02/23 BBC One, BBC Two and BBC Four in SD close in the Netherlands - https://www.totaaltv.nl/nieuws/bbc-met-betere-beeldkwaliteit-door-bij-nederlandse-providers/
@@ -7108,6 +7109,10 @@
 			<File>N24 Doku.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NA TV" />
+			<File>NA TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="NaheTV" />
 			<File>NaheTV.png</File>
 		</Channel>
@@ -8484,12 +8489,6 @@
 		<Channel>
 				<Item Name="Pirna TV" />
 			<File>Pirna TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Pitchoun TV" />
-				<Item Name="PitchounTV" />
-				<Item Name="TV Pitchoun" />
-			<File>Pitchoun TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Piwi+">
@@ -12561,6 +12560,14 @@
 			<File>TV Oranje.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV Pitchoun +1" />
+			<File>TV Pitchoun Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV Pitchoun" />
+			<File>TV Pitchoun.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV Plus" />
 				<Item Name="TV.Plus">
 					<Provider>Telenet</Provider>
@@ -13318,6 +13325,10 @@
 					<Provider>Telenet</Provider>
 				</Item>
 			<File>VTM Kids.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="VTM Non-Stop Dokters" />
+			<File>VTM Non-Stop Dokters.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="VTM">
