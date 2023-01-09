@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		09/01/23 VTM Kids renamed VTM Non-Stop Dokters - https://www2.telenet.be/nl/klantenservice/zenderaanpassingen https://images1.persgroep.net/rcs/OCRNlLnCzv7-XKcHO44bTdA0FJU/diocontent/225657954/_fitwidth/500?appId=da11c75db9b73ea0f41f0cd0da631c71
 		12/01/23 OCS Choc and OCS City merged into OCS Pulp - https://www.ocs.fr/presse/dossier/les-chaines-ocs-evoluent
 		24/01/23 BBC Three and CBeebies in SD close in the Netherlands - https://www.totaaltv.nl/nieuws/bbc-met-betere-beeldkwaliteit-door-bij-nederlandse-providers/
 		31/01/23 National Geographic and National Geographic Wild removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
@@ -10094,9 +10093,9 @@
 			<File>SBS9.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Schaffhauser Fernsehen" />
-				<Item Name="SHF" />
-			<File>Schaffhauser Fernsehen.png</File>
+				<Item Name="Schaffhauser Fernsehen HD" />
+				<Item Name="SHF HD" />
+			<File>Schaffhauser Fernsehen HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Schau TV HD">
@@ -11700,8 +11699,7 @@
 				<Item Name="Tele Top HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
-				<Item Name="Tele Top" />
-			<File>Tele Top.png</File>
+			<File>Tele Top HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Tele Z HD">
@@ -13318,23 +13316,17 @@
 			<File>VTM HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM Kids Kanaal Z" />
-			<File>VTM Kids Kanaal Z.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="VTM Kids/NatGeo">
 					<Provider>Telenet</Provider>
 				</Item>
-			<File>VTM Kids National Geographic.png</File>
+				<Item Name="VTM Non-Stop Dokters/Nat Geo" />
+				<Item Name="VTM Non-Stop Dokters/National Geographic" />
+			<File>VTM Non-Stop Dokters National Geographic.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="VTM Kids">
+				<Item Name="VTM Non-Stop Dokters">
 					<Provider>Telenet</Provider>
 				</Item>
-			<File>VTM Kids.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="VTM Non-Stop Dokters" />
 			<File>VTM Non-Stop Dokters.png</File>
 		</Channel>
 		<Channel>
