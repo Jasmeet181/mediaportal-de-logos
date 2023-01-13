@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		12/01/23 OCS Choc and OCS City merged into OCS Pulp - https://www.ocs.fr/presse/dossier/les-chaines-ocs-evoluent
 		24/01/23 BBC Three and CBeebies in SD close in the Netherlands - https://www.totaaltv.nl/nieuws/bbc-met-betere-beeldkwaliteit-door-bij-nederlandse-providers/
 		31/01/23 National Geographic and National Geographic Wild removed from Sky - https://www.broadbandtvnews.com/2022/12/01/sky-deutschland-drops-natgeo-natgeo-wild-and-junior/ https://www.dwdl.de/nachrichten/90756/sky_beendet_verbreitung_von_natgeo_natgeo_wild_und_junior/
 		13/02/23 BBC One, BBC Two and BBC Four in SD close in the Netherlands - https://www.totaaltv.nl/nieuws/bbc-met-betere-beeldkwaliteit-door-bij-nederlandse-providers/
@@ -14,7 +13,6 @@
 		00/00/23 Arte UHD launches on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
 		14/02/24 All TDT channels must broadcast in HD - https://www.mundoplus.tv/tv-digital/el-gobierno-retrasa-el-apagon-sd-hasta-el-14-de-febrero-de-2024/
 		00/02/24 DMAX HD ES relaunches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
-		(13315) - https://www.digitalbitrate.com/dtv.php?mux=11273&pid=13315&live=61&sec=0&lang=en
 		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
 		Eurosport 4K relaunches on Movistar Plus+ - https://www.mundoplus.tv/tv-digital/eurosport-4k-volvera-al-dial-de-movistar-plus-en-breve/
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
@@ -1766,7 +1764,6 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="Boing">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Boing.png</File>
@@ -5339,12 +5336,6 @@
 			<File>ITVN.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Jacquie &amp; Michel TV">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>Jacquie et Michel TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Jena TV" />
 			<File>Jena TV.png</File>
 		</Channel>
@@ -6705,6 +6696,22 @@
 			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M+ Supercopa HD.">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M+ Supercopa HD">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M+ Supercopa.">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="M+ Supercopa">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Movistar Supercopa de España" />
+			<File>Movistar Supercopa de Espana.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="MTV 00s">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
@@ -7825,18 +7832,6 @@
 			<File>Ocko.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="OCS Choc">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>OCS Choc.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="OCS City">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
-			<File>OCS City.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="OCS Geants">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -7849,6 +7844,9 @@
 			<File>OCS Max.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="OCS Choc">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
 				<Item Name="OCS Pulp" />
 			<File>OCS Pulp.png</File>
 		</Channel>
@@ -11598,7 +11596,6 @@
 		<Channel>
 				<Item Name="TCM Cinéma" />
 				<Item Name="TCM Cinema">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>TCM Cinema.png</File>
@@ -12331,7 +12328,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Toonami">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Toonami.png</File>
@@ -13429,7 +13425,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Warner TV">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Voo</Provider>
 				</Item>
 			<File>Warner TV.png</File>
@@ -15369,10 +15364,10 @@
 		<Channel>
 				<Item Name="NPO Klassiek">
 					<Provider>Digitenne</Provider>
+					<Provider>Ziggo</Provider>
 				</Item>
 				<Item Name="NPO Radio 4">
 					<Provider>Telenet</Provider>
-					<Provider>Ziggo</Provider>
 				</Item>
 			<File>NPO Klassiek.png</File>
 		</Channel>
