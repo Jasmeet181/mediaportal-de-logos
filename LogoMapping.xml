@@ -14,7 +14,6 @@
 		14/02/24 All TDT channels must broadcast in HD - https://www.mundoplus.tv/tv-digital/el-gobierno-retrasa-el-apagon-sd-hasta-el-14-de-febrero-de-2024/
 		00/02/24 DMAX HD ES relaunches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
 		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
-		Eurosport 4K relaunches on Movistar Plus+ - https://www.mundoplus.tv/tv-digital/eurosport-4k-volvera-al-dial-de-movistar-plus-en-breve/
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
 		TNT/HD renamed to Warner TV/HD (ES) - https://www.broadbandtvnews.com/2021/06/14/tnt-channels-to-become-warner-tv-in-germany/
 		-->
@@ -5939,14 +5938,10 @@
 			<File>Landle TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Laola1.tv HD" />
-			<File>Laola1.tv HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Laola1.tv">
 					<Provider>SimpliTV</Provider><!-- Wien -->
 				</Item>
-			<File>Laola1.tv.png</File>
+			<File>Laola1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Las Estrellas" />
