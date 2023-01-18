@@ -4074,6 +4074,10 @@
 			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Exxpress" />
+			<File>Exxpress.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Factoria de Ficcion" />
 				<Item Name="FDF">
 					<Provider>Astra 19.2E</Provider>
@@ -4119,8 +4123,9 @@
 			<File>FC Bayern.TV Live.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Federalna Televizija" />
 				<Item Name="Federalna TV" />
-			<File>Federalna TV.png</File>
+			<File>Federalna Televizija.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Fernsehen in Schwerin" />
@@ -5977,7 +5982,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="LCI HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="LCI">
@@ -7092,10 +7096,6 @@
 			<File>N-TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="N1 Niederösterreich TV" />
-			<File>N1 Niederosterreich TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="N24 Doku HD" />
 			<File>N24 Doku HD.png</File>
 		</Channel>
@@ -7636,6 +7636,11 @@
 			<File>Noa4.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NON-N1-TV" />
+				<Item Name="NÖN-N1-TV" />
+			<File>NON-N1-TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Notélé" />
 			<File>Notele.png</File>
 		</Channel>
@@ -7882,6 +7887,10 @@
 					<Provider>SimpliTV</Provider><!-- Wien -->
 				</Item>
 			<File>Oe24.TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Oe24Plus" />
+			<File>Oe24Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Offener Kanal Dessau" />
@@ -8671,6 +8680,10 @@
 			<File>Plug RTL.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="PlusPlus" />
+			<File>PlusPlus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Podium 19" />
 			<File>Podium 19.png</File>
 		</Channel>
@@ -8926,7 +8939,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="QVC Style">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>QVC Style.png</File>
@@ -11318,6 +11330,10 @@
 			<File>Stralsund TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Streamster" />
+			<File>Streamster.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Studio 100 TV" />
 			<File>Studio 100 TV.png</File>
 		</Channel>
@@ -12089,7 +12105,6 @@
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="TF1 HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Telenet</Provider>
 					<Provider>Voo</Provider>
 				</Item>
@@ -12106,9 +12121,7 @@
 				<Item Name="TF1 Séries Films HD">
 					<Provider>Voo</Provider>
 				</Item>
-				<Item Name="TF1 Series Films HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="TF1 Series Films HD" />
 				<Item Name="TF1 Series Films">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -12132,7 +12145,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="TFX HD">
-					<Provider>Astra 19.2E</Provider>
 					<Provider>Sunrise Cable</Provider>
 				</Item>
 				<Item Name="TFX">
@@ -12275,9 +12287,7 @@
 			<File>TMC Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TMC HD">
-					<Provider>Astra 19.2E</Provider>
-				</Item>
+				<Item Name="TMC HD" />
 				<Item Name="TMC Monte Carlo HD">
 					<Provider>Sunrise Cable</Provider>
 				</Item>
@@ -12925,6 +12935,13 @@
 			<File>Universal TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="M+ U. Tarantino">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Universo Tarantino por Movistar Plus+" />
+			<File>Universo Tarantino por Movistar Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Usedom TV" />
 			<File>Usedom TV.png</File>
 		</Channel>
@@ -12963,7 +12980,7 @@
 				<Item Name="M+ Vacaciones">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="Vacaciones por Movistar Plus" />
+				<Item Name="Vacaciones por Movistar Plus+" />
 			<File>Vacaciones por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
