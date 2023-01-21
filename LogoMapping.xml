@@ -10215,6 +10215,10 @@
 			<File>ServusTV Deutschland.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ServusTV Motorsport" />
+			<File>ServusTV Motorsport.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="ServusTV HD Oesterreich">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -15577,12 +15581,6 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Puls.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Q-Downtown">
-					<Provider>Telenet</Provider>
-				</Item>
-			<File>Q-Downtown.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Q-Foute Radio">
