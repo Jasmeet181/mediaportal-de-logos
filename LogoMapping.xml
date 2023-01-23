@@ -13387,15 +13387,15 @@
 			<File>Waidwerk.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TNT Comedy HD (blue)">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
-				<Item Name="TNT Comedy HD">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
 				<Item Name="Warner TV Comedy HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
+				<Item Name="WB TV Comedy HD (blue)">
+					<Provider>Sunrise Cable</Provider>
+				</Item>
+				<Item Name="WB TV Comedy HD">
+					<Provider>Sunrise Cable</Provider>
 				</Item>
 			<File>Warner TV Comedy HD.png</File>
 		</Channel>
@@ -13404,15 +13404,15 @@
 			<File>Warner TV Comedy.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TNT Film HD (blue)">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
-				<Item Name="TNT Film HD">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
 				<Item Name="Warner TV Film HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
+				<Item Name="WB TV Film HD (blue)">
+					<Provider>Sunrise Cable</Provider>
+				</Item>
+				<Item Name="WB TV Film HD">
+					<Provider>Sunrise Cable</Provider>
 				</Item>
 			<File>Warner TV Film HD.png</File>
 		</Channel>
@@ -13421,15 +13421,15 @@
 			<File>Warner TV Film.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TNT Serie HD (blue)">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
-				<Item Name="TNT Serie HD">
-					<Provider>Sunrise Cable</Provider>
-				</Item>
 				<Item Name="Warner TV Serie HD">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
+				<Item Name="WB TV Serie HD (blue)">
+					<Provider>Sunrise Cable</Provider>
+				</Item>
+				<Item Name="WB TV Serie HD">
+					<Provider>Sunrise Cable</Provider>
 				</Item>
 			<File>Warner TV Serie HD.png</File>
 		</Channel>
