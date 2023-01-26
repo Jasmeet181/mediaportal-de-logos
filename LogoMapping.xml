@@ -13,6 +13,7 @@
 		00/00/23 Arte UHD launches on Astra - https://www.digitalfernsehen.de/news/empfang/satellit/arte-wechsel-von-sd-zu-uhd-satellitenverbreitung-zum-jahresende-589957/
 		14/02/24 All TDT channels must broadcast in HD - https://www.mundoplus.tv/tv-digital/el-gobierno-retrasa-el-apagon-sd-hasta-el-14-de-febrero-de-2024/
 		00/02/24 DMAX HD ES relaunches - https://www.mundoplus.tv/tv-digital/dmax-deja-de-emitir-en-hd-a-traves-de-la-tdt/
+		Animals-TV, Costumes Only, Crime Mania, Hip Trips, History-TV, One Terra, R-Adventure Channel, Rediscover, Series Non Stop and Xplore launch  - https://www.blm.de/infothek/pressemitteilungen/2022.cfm?object_ID=18468
 		Dazn LaLiga 4K launches - https://www.mundoplus.tv/tv-digital/habra-canal-dazn-laliga-4k-en-movistar-plus/
 		Super RTL renamed to Toggo - https://www.dwdl.de/nachrichten/82976/neuer_name_aus_super_rtl_soll_toggo_werden/
 		TNT/HD renamed to Warner TV/HD (ES) - https://www.broadbandtvnews.com/2021/06/14/tnt-channels-to-become-warner-tv-in-germany/
@@ -759,6 +760,7 @@
 		<Channel>
 				<Item Name="ARD alpha HD">
 					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 				<Item Name="ARD-alpha HD (Internet)">
 					<Provider>Terrestrial</Provider><!-- Freiburg -->
@@ -766,7 +768,6 @@
 				<Item Name="ARD-alpha HD">
 					<Provider>MagentaTV</Provider>
 					<Provider>Sunrise Cable</Provider>
-					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>ARD-alpha HD.png</File>
 		</Channel>
@@ -3058,6 +3059,18 @@
 			<File>Dejate de Historias TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Deluxe Dance by Kontor">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Deluxe Dance by Kontor.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Deluxe Flashback">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Deluxe Flashback.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Deluxe Music HD Austria">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -3077,6 +3090,18 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>Deluxe Music.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Deluxe Rap">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Deluxe Rap.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Deluxe Rock">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+			<File>Deluxe Rock.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Deportes 2 por Movistar Plus+" />
@@ -5636,6 +5661,15 @@
 			<File>Kulturmd.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Kurier TV">
+					<Provider>Astra 19.2E</Provider>
+				</Item>
+				<Item Name="Schau TV HD">
+					<Provider>SimpliTV</Provider><!-- Wien -->
+				</Item>
+			<File>Kurier TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="KW-TV">
 					<Provider>Vodafone</Provider><!-- Königs Wusterhausen -->
 				</Item>
@@ -7844,10 +7878,9 @@
 			<File>OCS Max.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="OCS Choc">
+				<Item Name="OCS Pulp">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
-				<Item Name="OCS Pulp" />
 			<File>OCS Pulp.png</File>
 		</Channel>
 		<Channel>
@@ -8938,9 +8971,7 @@
 			<File>QVC Style HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="QVC Style">
-					<Provider>Vodafone</Provider><!-- UM Lörrach -->
-				</Item>
+				<Item Name="QVC Style" />
 			<File>QVC Style.png</File>
 		</Channel>
 		<Channel>
@@ -9948,10 +9979,6 @@
 			<File>Sagas por Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Salto" />
-			<File>Salto.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Salve TV" />
 			<File>Salve TV.png</File>
 		</Channel>
@@ -10101,17 +10128,6 @@
 				<Item Name="Schaffhauser Fernsehen HD" />
 				<Item Name="SHF HD" />
 			<File>Schaffhauser Fernsehen HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Schau TV HD">
-					<Provider>Astra 19.2E</Provider>
-					<Provider>SimpliTV</Provider><!-- Wien -->
-				</Item>
-			<File>Schau TV HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Schau TV" />
-			<File>Schau TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Schlager Deluxe">
@@ -13963,7 +13979,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="106.4 Top FM" />
-				<Item Name="106">
+				<Item Name="106,4 Top FM">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
 			<File>106.4 Top FM.png</File>
@@ -13987,6 +14003,13 @@
 					<Provider>Vodafone</Provider><!-- UM Lörrach -->
 				</Item>
 			<File>80s80s.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="95.5 Charivari" />
+				<Item Name="Radio Charivari München">
+					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
+			<File>95.5 Charivari.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="98.6 Charivari" />
@@ -14646,6 +14669,10 @@
 			<File>FM4.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Feierwerk Radio" />
+			<File>Feierwerk Radio.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Fip">
 					<Provider>Astra 19.2E</Provider>
 					<Provider>Ziggo</Provider>
@@ -15029,13 +15056,6 @@
 					<Provider>Voo</Provider>
 				</Item>
 			<File>LN Radio.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Lora München" />
-				<Item Name="Lora">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
-			<File>Lora Munchen.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Los40 Classic Gandia">
@@ -15749,13 +15769,6 @@
 			<File>Radio 90vier.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Radio 95.5 Charivari Munchen" />
-				<Item Name="Radio Charivari München">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
-			<File>Radio 95.5 Charivari Munchen.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Radio Agora" />
 			<File>Radio Agora.png</File>
 		</Channel>
@@ -15767,16 +15780,17 @@
 			<File>Radio Andalucia Informacion.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Arabella Kult">
+				<Item Name="Radio Arabella Bayern" />
+				<Item Name="Arabella Bayern">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
-				<Item Name="Radio Arabella Kult" />
-			<File>Radio Arabella Kult.png</File>
+			<File>Radio Arabella Bayern.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Radio Arabella">
+				<Item Name="Arabella München">
 					<Provider>Vodafone</Provider><!-- München -->
 				</Item>
+				<Item Name="Radio Arabella" />
 			<File>Radio Arabella.png</File>
 		</Channel>
 		<Channel>
@@ -15910,13 +15924,6 @@
 			<File>Radio F.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Feierwerk">
-					<Provider>Vodafone</Provider><!-- München -->
-				</Item>
-				<Item Name="Radio Feierwerk" />
-			<File>Radio Feierwerk.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Ffn">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
@@ -16009,6 +16016,13 @@
 			<File>Radio Horeb.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Radio Horeb / Feierwerk / Lora">
+					<Provider>Astra 19.2E</Provider>
+					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
+			<File>Radio Horeb Feierwerk Radio Radio Lora.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Onda Insular Cab">
 					<Provider>TDT</Provider><!-- Gran Canaria, Lanzarote -->
 				</Item>
@@ -16054,6 +16068,10 @@
 		<Channel>
 				<Item Name="Radio L'Hospitalet" />
 			<File>Radio LHospitalet.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Radio Lora" />
+			<File>Radio Lora.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Radio M Utrecht">
@@ -16217,6 +16235,9 @@
 			<File>Radio Z.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Ö2 - Radio Salzburg">
+					<Provider>Vodafone</Provider><!-- München -->
+				</Item>
 				<Item Name="OE2 S">
 					<Provider>Astra 19.2E</Provider>
 				</Item>
